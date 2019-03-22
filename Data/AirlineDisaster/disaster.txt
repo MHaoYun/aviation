@@ -1,0 +1,1482 @@
+Type:Boeing 737-8LJ (WL) FlightNumber:SU1515 Date:Tuesday 22 January 2019 Casualties:0  Reason:Unknown
+Type:Airbus A321-211 (WL) FlightNumber:SU1008 Date:Tuesday 3 January 2017 Casualties:0  Reason:Runway excursion
+Type:Ilyushin 96-300 FlightNumber:Unknown Date:Tuesday 3 June 2014 Casualties:0  Reason:Unknown
+Type:Boeing 737-59D FlightNumber:Unknown Date:Wednesday 3 June 2009 Casualties:0  Reason:Unknown
+Type:Boeing 737-505 FlightNumber: 821 Date:Sunday 14 September 2008 Casualties:88  Reason:Loss of control
+Type:Tupolev 154M FlightNumber:Unknown Date:Monday 30 June 2008 Casualties:0  Reason:Unknown
+Type:Airbus A321-211 FlightNumber: 271 Date:Thursday 28 December 2006 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Ilyushin 86 FlightNumber: 521 Date:Friday 21 September 2001 Casualties:0  Reason:Wheel(s) up landing
+Type:Ilyushin 62M FlightNumber:Unknown Date:Wednesday 11 November 1998 Casualties:0  Reason:Runway incursion
+Type:Tupolev 154 FlightNumber: 417 Date:Thursday 17 October 1996 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Antonov 124-100 FlightNumber:9981 Date:Tuesday 8 October 1996 Casualties:2  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 28 November 1995 Casualties:-1 Reason:Unknown
+Type:Antonov 2P FlightNumber:Unknown Date:Friday 16 June 1995 Casualties:13  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 13 April 1995 Casualties:-1 Reason:Unknown
+Type:Tupolev 134A-3 FlightNumber:Unknown Date:Sunday 11 December 1994 Casualties:0  Reason:Unknown
+Type:Tupolev 134 FlightNumber:Unknown Date:Thursday 24 November 1994 Casualties:0  Reason:Hijack
+Type:Antonov 24B FlightNumber:Unknown Date:Sunday 17 July 1994 Casualties:0  Reason:Unknown
+Type:Let L-410UVP FlightNumber:Unknown Date:Thursday 14 July 1994 Casualties:0  Reason:Unknown
+Type:Antonov 2P FlightNumber:Unknown Date:Saturday 25 June 1994 Casualties:0  Reason:Unknown
+Type:Tupolev 134A-3 FlightNumber:Unknown Date:Saturday 7 May 1994 Casualties:0  Reason:Unknown
+Type:Airbus A310-304 FlightNumber: 593 Date:Wednesday 23 March 1994 Casualties:75  Reason:Distraction in cockpitLoss of control
+Type:Ilyushin 86 FlightNumber:Unknown Date:Tuesday 8 March 1994 Casualties:4  Reason:Unknown
+Type:Antonov 12BP FlightNumber:Unknown Date:Thursday 24 February 1994 Casualties:13  Reason:IcingLoss of control
+Type:Antonov 12B FlightNumber:Unknown Date:Tuesday 8 February 1994 Casualties:0  Reason:Runway excursion
+Type:Antonov 2TP FlightNumber:Unknown Date:Wednesday 22 December 1993 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 26 September 1993 Casualties:-1 Reason:Unknown
+Type:Tupolev 134 FlightNumber:3100 Date:Wednesday 15 September 1993 Casualties:0  Reason:Hijack
+Type:Tupolev 154 FlightNumber:Unknown Date:Wednesday 1 September 1993 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Tupolev 154 FlightNumber:2422 Date:Saturday 14 August 1993 Casualties:0  Reason:Hijack
+Type:Antonov 26 FlightNumber:Unknown Date:Thursday 24 June 1993 Casualties:0  Reason:Runway excursion
+Type:Tupolev 134 FlightNumber:2134 Date:Saturday 20 February 1993 Casualties:0  Reason:Hijack
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 30 January 1993 Casualties:-1 Reason:Unknown
+Type:Tupolev 154A FlightNumber:Unknown Date:Saturday 5 December 1992 Casualties:0  Reason:Unknown
+Type:Antonov 28 FlightNumber: 302 Date:Monday 19 October 1992 Casualties:15  Reason:Loss of control
+Type:Antonov 2R FlightNumber:Unknown Date:Wednesday 14 October 1992 Casualties:0  Reason:Unknown
+Type:Ilyushin 62M FlightNumber:Unknown Date:Thursday 1 October 1992 Casualties:0  Reason:Fire during refuelling
+Type:Antonov 2PF FlightNumber:Unknown Date:Monday 21 September 1992 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Wednesday 2 September 1992 Casualties:0  Reason:Unknown
+Type:Tupolev 134A-3 FlightNumber:Unknown Date:Saturday 29 August 1992 Casualties:-1 Reason:Runway excursion
+Type:Tupolev 134A FlightNumber:Unknown Date:Thursday 27 August 1992 Casualties:84  Reason:Unknown
+Type:Tupolev 154M FlightNumber:2267 Date:Sunday 23 August 1992 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Wednesday 8 July 1992 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 21 June 1992 Casualties:-1 Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Sunday 7 June 1992 Casualties:1  Reason:HijackPlane stormed
+Type:Tupolev 154B-1 FlightNumber:Unknown Date:xx JUN 1992 Casualties:0  Reason:Fire during refuelling
+Type:Tupolev 154B-1 FlightNumber:Unknown Date:xx JUN 1992 Casualties:0  Reason:Fire during refuelling
+Type:Antonov 26 FlightNumber:Unknown Date:Monday 30 March 1992 Casualties:0  Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Friday 24 January 1992 Casualties:0  Reason:Runway excursion
+Type:Antonov 28 FlightNumber:Unknown Date:Friday 3 January 1992 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Monday 30 December 1991 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Sunday 8 December 1991 Casualties:-1 Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Wednesday 13 November 1991 Casualties:0  Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Saturday 9 November 1991 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 8 November 1991 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Thursday 7 November 1991 Casualties:51  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 28 FlightNumber:Unknown Date:Wednesday 23 October 1991 Casualties:0  Reason:Unknown
+Type:Antonov 12BP FlightNumber:Unknown Date:Thursday 3 October 1991 Casualties:0  Reason:Unknown
+Type:Let L-410UVP FlightNumber:Unknown Date:Friday 27 September 1991 Casualties:0  Reason:Unknown
+Type:Antonov 74 FlightNumber:Unknown Date:Monday 16 September 1991 Casualties:13  Reason:Unknown
+Type:Let L-410UVP FlightNumber:Unknown Date:Tuesday 27 August 1991 Casualties:0  Reason:Unknown
+Type:Let L-410UVP FlightNumber:Unknown Date:Wednesday 21 August 1991 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Monday 15 July 1991 Casualties:1  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Sunday 30 June 1991 Casualties:2  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 25 June 1991 Casualties:3  Reason:Loss of control
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 25 June 1991 Casualties:3  Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Thursday 13 June 1991 Casualties:0  Reason:Unknown
+Type:Tupolev 154B-1 FlightNumber:Unknown Date:Thursday 23 May 1991 Casualties:13  Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Monday 29 April 1991 Casualties:0  Reason:HijackPlane stormed
+Type:Tupolev 134 FlightNumber:Unknown Date:Thursday 28 March 1991 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Antonov 24RV FlightNumber:Unknown Date:Saturday 23 March 1991 Casualties:34  Reason:Runway excursion
+Type:Ilyushin 86 FlightNumber:Unknown Date:Monday 18 March 1991 Casualties:0  Reason:Unknown
+Type:Yakovlev 42 FlightNumber:Unknown Date:Thursday 14 March 1991 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Tupolev 134 FlightNumber: 930 Date:Wednesday 13 February 1991 Casualties:0  Reason:Hijack
+Type:Tupolev 154 FlightNumber:Unknown Date:Monday 21 January 1991 Casualties:0  Reason:Hijack
+Type:Ilyushin 86 FlightNumber:Unknown Date:Monday 24 December 1990 Casualties:-1 Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Friday 21 December 1990 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Friday 14 December 1990 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Tuesday 11 December 1990 Casualties:-1 Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Sunday 2 December 1990 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40K FlightNumber:Unknown Date:Friday 30 November 1990 Casualties:0  Reason:Runway excursion
+Type:Tupolev 134 FlightNumber:Unknown Date:Thursday 29 November 1990 Casualties:-1 Reason:Unknown
+Type:Ilyushin 62 FlightNumber:Unknown Date:Wednesday 21 November 1990 Casualties:0  Reason:Runway excursion
+Type:Tupolev 154B-1 FlightNumber:Unknown Date:Tuesday 20 November 1990 Casualties:0  Reason:Runway excursion
+Type:Tupolev 154M FlightNumber:Unknown Date:Saturday 17 November 1990 Casualties:0  Reason:Forced landing outside airport
+Type:Tupolev 134 FlightNumber:Unknown Date:Friday 16 November 1990 Casualties:-1 Reason:Unknown
+Type:Tupolev 134 FlightNumber:Unknown Date:Thursday 15 November 1990 Casualties:0  Reason:Hijack
+Type:Tupolev 154 FlightNumber:Unknown Date:Monday 12 November 1990 Casualties:-1 Reason:Unknown
+Type:Antonov 26B FlightNumber:Unknown Date:Friday 2 November 1990 Casualties:-1 Reason:Unknown
+Type:Let L-410UVP FlightNumber:Unknown Date:Friday 12 October 1990 Casualties:0  Reason:Unknown
+Type:Antonov 24 FlightNumber:Unknown Date:Sunday 7 October 1990 Casualties:-1 Reason:Unknown
+Type:unknown FlightNumber:Unknown Date:Tuesday 25 September 1990 Casualties:-1 Reason:Unknown
+Type:Yakovlev 42 FlightNumber:8175 Date:Friday 14 September 1990 Casualties:4  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Ilyushin 14P FlightNumber:Unknown Date:Wednesday 12 September 1990 Casualties:0  Reason:Forced landing outside airport
+Type:Yakovlev 40 FlightNumber:Unknown Date:Sunday 9 September 1990 Casualties:0  Reason:Unknown
+Type:Yakovlev 40K FlightNumber:Unknown Date:Sunday 9 September 1990 Casualties:0  Reason:Runway excursion
+Type:unknown FlightNumber:Unknown Date:Sunday 2 September 1990 Casualties:-1 Reason:Unknown
+Type:Yakovlev 42 FlightNumber:Unknown Date:Thursday 30 August 1990 Casualties:-1 Reason:Unknown
+Type:Tupolev 154 FlightNumber:Unknown Date:Sunday 19 August 1990 Casualties:-1 Reason:Unknown
+Type:Antonov 28 FlightNumber:Unknown Date:Saturday 18 August 1990 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Sunday 12 August 1990 Casualties:-1 Reason:Unknown
+Type:Tupolev 134 FlightNumber:Unknown Date:Monday 23 July 1990 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Thursday 19 July 1990 Casualties:-1 Reason:Unknown
+Type:Tupolev 134 FlightNumber:Unknown Date:Wednesday 18 July 1990 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Tupolev 154 FlightNumber:Unknown Date:Thursday 12 July 1990 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Tupolev 154 FlightNumber:Unknown Date:Tuesday 10 July 1990 Casualties:0  Reason:Hijack
+Type:Tupolev 154 FlightNumber:Unknown Date:Thursday 5 July 1990 Casualties:0  Reason:Hijack
+Type:Tupolev 134 FlightNumber:Unknown Date:Wednesday 4 July 1990 Casualties:0  Reason:Hijack
+Type:Ilyushin 62M FlightNumber:Unknown Date:Sunday 1 July 1990 Casualties:0  Reason:Runway excursion
+Type:Tupolev 154 FlightNumber:Unknown Date:Saturday 30 June 1990 Casualties:0  Reason:Hijack
+Type:Tupolev 154 FlightNumber:Unknown Date:Thursday 28 June 1990 Casualties:0  Reason:Hijack
+Type:Tupolev 134 FlightNumber:Unknown Date:Sunday 24 June 1990 Casualties:0  Reason:Hijack
+Type:Tupolev 134 FlightNumber:Unknown Date:Tuesday 19 June 1990 Casualties:0  Reason:Hijack
+Type:Ilyushin 76MD FlightNumber:Unknown Date:Tuesday 12 June 1990 Casualties:0  Reason:Shot down from the groundForced landing outside airport
+Type:Tupolev 154 FlightNumber:Unknown Date:Friday 8 June 1990 Casualties:0  Reason:Hijack
+Type:Antonov 24B FlightNumber:Unknown Date:Saturday 2 June 1990 Casualties:0  Reason:Runway excursion
+Type:Tupolev 134 FlightNumber:Unknown Date:Wednesday 18 April 1990 Casualties:0  Reason:Hijack
+Type:Antonov 28 FlightNumber:Unknown Date:Friday 16 March 1990 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 20 February 1990 Casualties:-1 Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Saturday 13 January 1990 Casualties:27  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Thursday 14 December 1989 Casualties:1  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Tuesday 21 November 1989 Casualties:34  Reason:Unknown
+Type:Ilyushin 76TD FlightNumber:Unknown Date:Friday 20 October 1989 Casualties:25  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Antonov 24RV FlightNumber:Unknown Date:Wednesday 4 October 1989 Casualties:0  Reason:Runway excursion
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 15 September 1989 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Saturday 2 September 1989 Casualties:0  Reason:Unknown
+Type:Let L-410UVP FlightNumber:Unknown Date:Monday 28 August 1989 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40 FlightNumber: 432 Date:Monday 14 August 1989 Casualties:0  Reason:Unknown
+Type:Antonov 26 FlightNumber:Unknown Date:Wednesday 19 July 1989 Casualties:10  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Thursday 6 July 1989 Casualties:0  Reason:Ditching
+Type:Ilyushin 62 FlightNumber:Unknown Date:Thursday 18 May 1989 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 11 May 1989 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Monday 1 May 1989 Casualties:5  Reason:Loss of control
+Type:Tupolev 134 FlightNumber:Unknown Date:Friday 31 March 1989 Casualties:0  Reason:HijackPlane stormed
+Type:Antonov 24 FlightNumber:Unknown Date:Saturday 21 January 1989 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Tupolev 134 FlightNumber:Unknown Date:Friday 20 January 1989 Casualties:0  Reason:Hijack
+Type:Tupolev 154S FlightNumber:Unknown Date:Friday 13 January 1989 Casualties:0  Reason:Centre of Gravity outside limitsRunway excursion
+Type:Antonov 12B FlightNumber:Unknown Date:Friday 13 January 1989 Casualties:0  Reason:Unknown
+Type:Let L-410UVP FlightNumber:Unknown Date:Wednesday 7 December 1988 Casualties:6  Reason:Unknown
+Type:Ilyushin 76T FlightNumber:Unknown Date:Friday 2 December 1988 Casualties:0  Reason:Hijack
+Type:Antonov 2TP FlightNumber:Unknown Date:Monday 31 October 1988 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Friday 14 October 1988 Casualties:-1 Reason:Unknown
+Type:Antonov 12BP FlightNumber:Unknown Date:Tuesday 4 October 1988 Casualties:6  Reason:Unknown
+Type:Tupolev 154B-2 FlightNumber:Unknown Date:Saturday 24 September 1988 Casualties:0  Reason:Centre of Gravity outside limitsRunway excursion
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 24 September 1988 Casualties:-1 Reason:Unknown
+Type:Antonov 2P FlightNumber:Unknown Date:Friday 26 August 1988 Casualties:1  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Friday 12 August 1988 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 22 July 1988 Casualties:0  Reason:Unknown
+Type:Antonov 2P FlightNumber:Unknown Date:Saturday 9 July 1988 Casualties:0  Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Friday 8 July 1988 Casualties:-1 Reason:Runway excursion
+Type:Antonov 2TP FlightNumber:Unknown Date:Sunday 12 June 1988 Casualties:0  Reason:Precipitation-induced flame-outForced landing outside airport
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 9 June 1988 Casualties:2  Reason:Loss of control
+Type:Let L-410UVP FlightNumber:Unknown Date:Tuesday 19 April 1988 Casualties:17  Reason:Unknown
+Type:Tupolev 154B-2 FlightNumber:3739 Date:Tuesday 8 March 1988 Casualties:9  Reason:HijackPlane stormed
+Type:Tupolev 134AK FlightNumber:Unknown Date:Saturday 27 February 1988 Casualties:20  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Friday 26 February 1988 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Sunday 24 January 1988 Casualties:27  Reason:Loss of control
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 15 December 1987 Casualties:-1 Reason:Unknown
+Type:Let L-410MU FlightNumber:Unknown Date:Thursday 24 September 1987 Casualties:0  Reason:Unknown
+Type:Antonov 12TB FlightNumber:Unknown Date:Monday 7 September 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 28 August 1987 Casualties:0  Reason:Unknown
+Type:Antonov 28 FlightNumber:Unknown Date:Friday 14 August 1987 Casualties:0  Reason:Unknown
+Type:Tupolev 134A-3 FlightNumber:Unknown Date:Thursday 23 July 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Tuesday 21 July 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Monday 20 July 1987 Casualties:-1 Reason:Unknown
+Type:Let L-410M FlightNumber:Unknown Date:Saturday 13 June 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 13 June 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Wednesday 27 May 1987 Casualties:0  Reason:Ditching
+Type:Antonov 26 FlightNumber:Unknown Date:Saturday 23 May 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 24 April 1987 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:XX APR 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 26 FlightNumber:Unknown Date:Friday 6 March 1987 Casualties:9  Reason:Unknown
+Type:Antonov 12TB FlightNumber:Unknown Date:Saturday 7 February 1987 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Sunday 25 January 1987 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber: 505 Date:Friday 16 January 1987 Casualties:9  Reason:Loss of control
+Type:Let L-410UVP FlightNumber:Unknown Date:Wednesday 31 December 1986 Casualties:0  Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Friday 12 December 1986 Casualties:72  Reason:Language/communication problemsControlled Flight Into Terrain (CFIT) - Ground
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 9 October 1986 Casualties:-1 Reason:Unknown
+Type:Tupolev 134 FlightNumber:Unknown Date:Saturday 20 September 1986 Casualties:4  Reason:HijackPlane stormed
+Type:Antonov 2R FlightNumber:Unknown Date:Monday 11 August 1986 Casualties:2  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Friday 11 July 1986 Casualties:-1 Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Sunday 22 June 1986 Casualties:1  Reason:Runway excursion
+Type:Antonov 2TP FlightNumber:Unknown Date:Friday 6 June 1986 Casualties:-1 Reason:Unknown
+Type:Antonov 12TB FlightNumber:Unknown Date:Saturday 3 May 1986 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 18 April 1986 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 18 April 1986 Casualties:0  Reason:Runway excursion
+Type:Ilyushin 14 FlightNumber:Unknown Date:Sunday 30 March 1986 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Sunday 2 March 1986 Casualties:38  Reason:Loss of control
+Type:Ilyushin 14M FlightNumber:Unknown Date:Monday 17 February 1986 Casualties:6  Reason:Low visibilityControlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 24 FlightNumber:Unknown Date:Thursday 19 December 1985 Casualties:0  Reason:HijackPlane stormed
+Type:Let L-410M FlightNumber:Unknown Date:Monday 14 October 1985 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 11 October 1985 Casualties:14  Reason:Unknown
+Type:Antonov 2P FlightNumber:Unknown Date:Sunday 1 September 1985 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 4 July 1985 Casualties:0  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Thursday 20 June 1985 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Monday 10 June 1985 Casualties:2  Reason:Loss of control
+Type:Antonov 2R FlightNumber:Unknown Date:Wednesday 29 May 1985 Casualties:4  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 21 May 1985 Casualties:0  Reason:Unknown
+Type:Antonov 2T FlightNumber:Unknown Date:Monday 25 March 1985 Casualties:-1 Reason:Unknown
+Type:Tupolev 134AK FlightNumber:7841 Date:Friday 1 February 1985 Casualties:58  Reason:IcingAll engine powerlossForced landing outside airport
+Type:Let L-410UVP FlightNumber:Unknown Date:Saturday 29 December 1984 Casualties:-1 Reason:Unknown
+Type:Let L-410MA FlightNumber:Unknown Date:Tuesday 4 December 1984 Casualties:17  Reason:Unknown
+Type:Tupolev 154B-1 FlightNumber:3352 Date:Thursday 11 October 1984 Casualties:174  Reason:Unknown
+Type:Ilyushin 86 FlightNumber:Unknown Date:Sunday 19 August 1984 Casualties:0  Reason:Unknown
+Type:Antonov 26B FlightNumber:Unknown Date:Tuesday 24 July 1984 Casualties:0  Reason:Runway excursion
+Type:Antonov 2T FlightNumber:Unknown Date:Tuesday 24 July 1984 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 14 July 1984 Casualties:2  Reason:Unknown
+Type:Let L-410M FlightNumber:Unknown Date:Wednesday 4 July 1984 Casualties:0  Reason:Unknown
+Type:Antonov 2M FlightNumber:Unknown Date:Sunday 6 May 1984 Casualties:-1 Reason:Loss of control
+Type:Antonov 2T FlightNumber:Unknown Date:Thursday 23 February 1984 Casualties:0  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Thursday 16 February 1984 Casualties:-1 Reason:Ditching
+Type:Antonov 24RV FlightNumber: 601 Date:Saturday 24 December 1983 Casualties:44  Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Friday 18 November 1983 Casualties:8  Reason:HijackPlane stormed
+Type:Tupolev 134A FlightNumber:Unknown Date:Tuesday 30 August 1983 Casualties:90  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 134 ? FlightNumber:Unknown Date:Tuesday 5 July 1983 Casualties:1  Reason:HijackPlane stormed
+Type:Tupolev 134A FlightNumber:Unknown Date:Friday 17 June 1983 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Tuesday 19 April 1983 Casualties:21  Reason:Unknown
+Type:Antonov 26 FlightNumber:Unknown Date:Thursday 14 April 1983 Casualties:0  Reason:Runway excursion
+Type:Let L-410M FlightNumber:Unknown Date:Tuesday 29 March 1983 Casualties:6  Reason:Unknown
+Type:Antonov 26 FlightNumber:Unknown Date:Thursday 23 December 1982 Casualties:16  Reason:OverloadedLoss of control
+Type:Antonov 24B FlightNumber:Unknown Date:Thursday 16 December 1982 Casualties:0  Reason:Unknown
+Type:Antonov 24 FlightNumber:Unknown Date:Sunday 7 November 1982 Casualties:0  Reason:Hijack
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 9 September 1982 Casualties:0  Reason:Forced landing outside airport
+Type:Let L-410M FlightNumber:Unknown Date:Saturday 14 August 1982 Casualties:11  Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Saturday 14 August 1982 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 16 July 1982 Casualties:-1 Reason:Unknown
+Type:Ilyushin 62M FlightNumber: 411 Date:Tuesday 6 July 1982 Casualties:90  Reason:Loss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Monday 31 May 1982 Casualties:0  Reason:Runway excursion
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 11 May 1982 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:6758 Date:Friday 7 May 1982 Casualties:5  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Saturday 24 April 1982 Casualties:0  Reason:Unknown
+Type:Antonov 2T FlightNumber:Unknown Date:Sunday 11 April 1982 Casualties:-1 Reason:Unknown
+Type:Let L-410M FlightNumber:Unknown Date:Wednesday 10 February 1982 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Saturday 16 January 1982 Casualties:0  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Let L-410M FlightNumber:Unknown Date:Thursday 7 January 1982 Casualties:18  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 26 FlightNumber:Unknown Date:Wednesday 23 December 1981 Casualties:2  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Thursday 26 November 1981 Casualties:0  Reason:Unknown
+Type:Antonov 2P FlightNumber:Unknown Date:Thursday 26 November 1981 Casualties:15  Reason:Mid air collisionLoss of control
+Type:Tupolev 154B-2 FlightNumber:Unknown Date:Monday 16 November 1981 Casualties:99  Reason:Loss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 18 September 1981 Casualties:33  Reason:Mid air collisionLoss of control
+Type:Antonov 2TP FlightNumber:Unknown Date:Wednesday 16 September 1981 Casualties:-1 Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Monday 24 August 1981 Casualties:31  Reason:Mid air collisionLoss of control
+Type:Ilyushin 14M FlightNumber:Unknown Date:Saturday 1 August 1981 Casualties:11  Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Sunday 28 June 1981 Casualties:0  Reason:Unknown
+Type:Ilyushin 14M FlightNumber: 498 Date:Sunday 14 June 1981 Casualties:48  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 154 FlightNumber:Unknown Date:Saturday 13 June 1981 Casualties:0  Reason:Runway excursion
+Type:Antonov 2 FlightNumber:Unknown Date:Thursday 21 May 1981 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 3 May 1981 Casualties:2  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Tuesday 28 April 1981 Casualties:12  Reason:IcingControlled Flight Into Terrain (CFIT) - Mountain
+Type:Let L-410M FlightNumber:Unknown Date:Wednesday 18 February 1981 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14P FlightNumber:Unknown Date:Monday 15 September 1980 Casualties:-1 Reason:Unknown
+Type:Tupolev 154B-2 FlightNumber:4225 Date:Tuesday 8 July 1980 Casualties:166  Reason:Windshear/downdraftLoss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Thursday 12 June 1980 Casualties:29  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 24B FlightNumber: 151 Date:Monday 14 April 1980 Casualties:2  Reason:Unknown
+Type:Antonov 2T FlightNumber:Unknown Date:Sunday 13 April 1980 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Thursday 3 April 1980 Casualties:-1 Reason:Unknown
+Type:Tupolev 134 FlightNumber:Unknown Date:Thursday 20 March 1980 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Tupolev 154A FlightNumber:Unknown Date:Saturday 1 March 1980 Casualties:0  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Tuesday 30 October 1979 Casualties:0  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Saturday 27 October 1979 Casualties:3  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 13 October 1979 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 20 September 1979 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:A-513 Date:Monday 3 September 1979 Casualties:40  Reason:Unknown
+Type:Tupolev 124V FlightNumber:Unknown Date:Wednesday 29 August 1979 Casualties:63  Reason:Loss of control
+Type:Antonov 12TB FlightNumber:Unknown Date:Friday 24 August 1979 Casualties:11  Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Saturday 11 August 1979 Casualties:94  Reason:Mid air collisionLoss of control
+Type:Tupolev 134AK FlightNumber:Unknown Date:Saturday 11 August 1979 Casualties:84  Reason:Mid air collisionLoss of control
+Type:Let L-410M FlightNumber:Unknown Date:Friday 3 August 1979 Casualties:11  Reason:Loss of control
+Type:Antonov 2M FlightNumber:Unknown Date:Tuesday 3 July 1979 Casualties:-1 Reason:Unknown
+Type:Antonov 2T FlightNumber:Unknown Date:Saturday 16 June 1979 Casualties:0  Reason:Flightcrew member's alcohol, drug usageLoss of control
+Type:Ilyushin 18D FlightNumber:Unknown Date:Thursday 10 May 1979 Casualties:0  Reason:Unknown
+Type:Antonov 26 FlightNumber:Unknown Date:Monday 26 March 1979 Casualties:4  Reason:Unknown
+Type:Tupolev 134A FlightNumber:Unknown Date:Thursday 22 March 1979 Casualties:4  Reason:Unknown
+Type:Yakovlev 40K FlightNumber:Unknown Date:Tuesday 20 March 1979 Casualties:0  Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Saturday 17 March 1979 Casualties:58  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Antonov 2TP FlightNumber:Unknown Date:Monday 12 March 1979 Casualties:-1 Reason:Unknown
+Type:Tupolev 154 FlightNumber: 212 Date:Tuesday 27 February 1979 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Let L-410M FlightNumber:Unknown Date:Thursday 18 January 1979 Casualties:3  Reason:Unknown
+Type:Ilyushin 14FKM FlightNumber:Unknown Date:Tuesday 2 January 1979 Casualties:3  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Tuesday 19 December 1978 Casualties:5  Reason:Loss of control
+Type:Antonov 26 FlightNumber:Unknown Date:Saturday 9 December 1978 Casualties:7  Reason:Unknown
+Type:unknown FlightNumber:Unknown Date:Thursday 30 November 1978 Casualties:1  Reason:Unknown
+Type:Antonov 24B FlightNumber:6515 Date:Monday 23 October 1978 Casualties:26  Reason:IcingLoss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Saturday 7 October 1978 Casualties:38  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Monday 2 October 1978 Casualties:0  Reason:Runway excursion
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 18 June 1978 Casualties:-1 Reason:Unknown
+Type:unknown FlightNumber:Unknown Date:Saturday 6 May 1978 Casualties:1  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Saturday 8 April 1978 Casualties:0  Reason:Unknown
+Type:Tupolev 154A FlightNumber:Unknown Date:Saturday 18 February 1978 Casualties:0  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Wednesday 1 February 1978 Casualties:-1 Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Friday 9 December 1977 Casualties:17  Reason:Loss of control
+Type:Ilyushin 14M FlightNumber:Unknown Date:Thursday 27 October 1977 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 18 October 1977 Casualties:-1 Reason:Unknown
+Type:Antonov 26 FlightNumber:Unknown Date:Thursday 18 August 1977 Casualties:0  Reason:Unknown
+Type:Avia 14M FlightNumber: B-2 Date:Wednesday 20 July 1977 Casualties:39  Reason:Unknown
+Type:Tupolev 134 FlightNumber:Unknown Date:Sunday 10 July 1977 Casualties:0  Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Friday 8 July 1977 Casualties:6  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Ilyushin 62M FlightNumber:Unknown Date:Friday 27 May 1977 Casualties:68  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Thursday 26 May 1977 Casualties:0  Reason:Hijack
+Type:Antonov 2 FlightNumber:Unknown Date:Saturday 7 May 1977 Casualties:-1 Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Saturday 7 May 1977 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14FKM FlightNumber:Unknown Date:Tuesday 5 April 1977 Casualties:6  Reason:Loss of control
+Type:Antonov 2TP FlightNumber:Unknown Date:Sunday 6 March 1977 Casualties:-1 Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Tuesday 15 February 1977 Casualties:77  Reason:Loss of control
+Type:Tupolev 104A FlightNumber:Unknown Date:Thursday 13 January 1977 Casualties:96  Reason:Loss of control
+Type:Ilyushin 14RR FlightNumber:Unknown Date:Saturday 18 December 1976 Casualties:8  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 17 December 1976 Casualties:7  Reason:Unknown
+Type:Antonov 24 FlightNumber:Unknown Date:Friday 17 December 1976 Casualties:48  Reason:Low visibilityControlled Flight Into Terrain (CFIT) - Ground
+Type:Yakovlev 40 FlightNumber: 929 Date:Tuesday 7 December 1976 Casualties:0  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Saturday 30 October 1976 Casualties:0  Reason:Runway excursion
+Type:Antonov 2 FlightNumber:Unknown Date:Sunday 26 September 1976 Casualties:1  Reason:Unknown
+Type:Antonov 24RV FlightNumber:7957 Date:Thursday 9 September 1976 Casualties:46  Reason:Mid air collisionLoss of control
+Type:Yakovlev 40 FlightNumber:  31 Date:Thursday 9 September 1976 Casualties:18  Reason:Mid air collisionLoss of control
+Type:Antonov 24B FlightNumber:Unknown Date:Friday 13 August 1976 Casualties:0  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 3 August 1976 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Friday 23 July 1976 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Wednesday 30 June 1976 Casualties:2  Reason:Prop/turbine blade separationLoss of control
+Type:Antonov 2 FlightNumber:Unknown Date:Saturday 26 June 1976 Casualties:1  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 20 June 1976 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 12 June 1976 Casualties:-1 Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 2SX FlightNumber:Unknown Date:Sunday 16 May 1976 Casualties:1  Reason:Unknown
+Type:Antonov 24RV FlightNumber:1802 Date:Saturday 15 May 1976 Casualties:52  Reason:Loss of control
+Type:Antonov 2SX FlightNumber:Unknown Date:Saturday 17 April 1976 Casualties:-1 Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Sunday 11 April 1976 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14LIK FlightNumber:Unknown Date:Wednesday 24 March 1976 Casualties:6  Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Wednesday 10 March 1976 Casualties:0  Reason:Runway excursion
+Type:Ilyushin 18E FlightNumber: 909 Date:Saturday 6 March 1976 Casualties:111  Reason:Loss of control
+Type:Tupolev 104A FlightNumber:3739 Date:Monday 9 February 1976 Casualties:24  Reason:Loss of control
+Type:Ilyushin 18V FlightNumber:Unknown Date:Friday 30 January 1976 Casualties:6  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Tuesday 13 January 1976 Casualties:0  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Monday 15 December 1975 Casualties:0  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Friday 12 December 1975 Casualties:0  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Thursday 20 November 1975 Casualties:19  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 24RV FlightNumber:6274 Date:Monday 17 November 1975 Casualties:38  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Yakovlev 40 FlightNumber:Unknown Date:Monday 6 October 1975 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 30 August 1975 Casualties:-1 Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Saturday 30 August 1975 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 15 August 1975 Casualties:23  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Saturday 9 August 1975 Casualties:11  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 20 May 1975 Casualties:-1 Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Monday 28 April 1975 Casualties:0  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Tuesday 28 January 1975 Casualties:0  Reason:IcingLoss of control
+Type:Antonov 2P FlightNumber:Unknown Date:Thursday 16 January 1975 Casualties:12  Reason:VFR flight in IMCControlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 24 December 1974 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Saturday 14 December 1974 Casualties:7  Reason:Runway excursion
+Type:Antonov 12B FlightNumber:Unknown Date:Wednesday 4 December 1974 Casualties:0  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Wednesday 4 December 1974 Casualties:0  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Thursday 14 November 1974 Casualties:6  Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Tuesday 5 November 1974 Casualties:0  Reason:Runway excursion
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 1 November 1974 Casualties:6  Reason:Mid air collisionLoss of control
+Type:Antonov 12B FlightNumber:Unknown Date:Friday 18 October 1974 Casualties:1  Reason:Unknown
+Type:Antonov 2V FlightNumber:Unknown Date:Wednesday 28 August 1974 Casualties:0  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Saturday 27 July 1974 Casualties:3  Reason:Loss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Thursday 2 May 1974 Casualties:1  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Wednesday 1 May 1974 Casualties:1  Reason:Unknown
+Type:Ilyushin 18E FlightNumber:Unknown Date:Wednesday 24 April 1974 Casualties:1  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Tuesday 9 April 1974 Casualties:-1 Reason:Unknown
+Type:Avia 14P FlightNumber:Unknown Date:Saturday 6 April 1974 Casualties:0  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Friday 25 January 1974 Casualties:4  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Sunday 6 January 1974 Casualties:24  Reason:IcingLoss of control
+Type:Tupolev 124V FlightNumber:Unknown Date:Sunday 23 December 1973 Casualties:17  Reason:Loss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 21 December 1973 Casualties:0  Reason:Unknown
+Type:Tupolev 104B FlightNumber: 964 Date:Friday 7 December 1973 Casualties:16  Reason:Unknown
+Type:Tupolev 124V FlightNumber:Unknown Date:Tuesday 20 November 1973 Casualties:0  Reason:Runway excursion
+Type:Yakovlev 40 FlightNumber:Unknown Date:Friday 2 November 1973 Casualties:2  Reason:HijackPlane stormed
+Type:Tupolev 104B FlightNumber: 964 Date:Saturday 13 October 1973 Casualties:122  Reason:Loss of control
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Wednesday 10 October 1973 Casualties:5  Reason:Loss of control
+Type:Antonov 12TB FlightNumber:Unknown Date:Tuesday 2 October 1973 Casualties:10  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Saturday 18 August 1973 Casualties:56  Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Wednesday 8 August 1973 Casualties:1  Reason:Unknown
+Type:Ilyushin 14 FlightNumber:Unknown Date:Wednesday 4 July 1973 Casualties:18  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 134A FlightNumber: 512 Date:Saturday 30 June 1973 Casualties:2  Reason:Unknown
+Type:Tupolev 104 FlightNumber:Unknown Date:Friday 25 May 1973 Casualties:-1 Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Friday 18 May 1973 Casualties:82  Reason:HijackLoss of control
+Type:Ilyushin 18B FlightNumber:6551 Date:Friday 11 May 1973 Casualties:63  Reason:Loss of control
+Type:Lisunov Li-2T FlightNumber:Unknown Date:Monday 30 April 1973 Casualties:0  Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Tuesday 24 April 1973 Casualties:2  Reason:Unknown
+Type:Antonov 12 FlightNumber:Unknown Date:Tuesday 6 March 1973 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Wednesday 28 February 1973 Casualties:32  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Saturday 24 February 1973 Casualties:79  Reason:Loss of control
+Type:Antonov 12BP FlightNumber:Unknown Date:Saturday 17 February 1973 Casualties:0  Reason:Unknown
+Type:Antonov 24B FlightNumber:6263 Date:Sunday 21 January 1973 Casualties:39  Reason:Loss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Wednesday 22 November 1972 Casualties:0  Reason:IcingLoss of control
+Type:Antonov 12TB FlightNumber:Unknown Date:Tuesday 21 November 1972 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Saturday 4 November 1972 Casualties:0  Reason:Unknown
+Type:Ilyushin 62 FlightNumber: 217 Date:Friday 13 October 1972 Casualties:174  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Ilyushin 18V FlightNumber:1036 Date:Sunday 1 October 1972 Casualties:109  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Thursday 31 August 1972 Casualties:101  Reason:Loss of control
+Type:Ilyushin 18B FlightNumber:Unknown Date:Saturday 26 August 1972 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Friday 4 August 1972 Casualties:0  Reason:Unknown
+Type:Antonov 10A FlightNumber:1491 Date:Thursday 18 May 1972 Casualties:122  Reason:Wing failureLoss of control
+Type:Yakovlev 40 FlightNumber: 608 Date:Thursday 4 May 1972 Casualties:18  Reason:Windshear/downdraftLoss of control
+Type:Antonov 2T FlightNumber:Unknown Date:Tuesday 11 April 1972 Casualties:1  Reason:Loss of control
+Type:Tupolev 104B FlightNumber:Unknown Date:Sunday 19 March 1972 Casualties:0  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Sunday 27 February 1972 Casualties:0  Reason:Unknown
+Type:Antonov 24 FlightNumber:  25 Date:Tuesday 22 February 1972 Casualties:0  Reason:Unknown
+Type:Antonov 10 FlightNumber:Unknown Date:xx FEB 1972 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Thursday 30 December 1971 Casualties:-1 Reason:Runway excursion
+Type:Antonov 24B FlightNumber:2174 Date:Wednesday 1 December 1971 Casualties:57  Reason:IcingLoss of control
+Type:Antonov 24B FlightNumber: 639 Date:Saturday 13 November 1971 Casualties:6  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Friday 12 November 1971 Casualties:52  Reason:Unknown
+Type:Antonov 10A FlightNumber:Unknown Date:Tuesday 12 October 1971 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Monday 11 October 1971 Casualties:6  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 104B FlightNumber: 773 Date:Sunday 10 October 1971 Casualties:25  Reason:SabotageLoss of control
+Type:Yakovlev 40 FlightNumber:Unknown Date:Wednesday 28 July 1971 Casualties:0  Reason:Runway excursion
+Type:Tupolev 104B FlightNumber:Unknown Date:Sunday 25 July 1971 Casualties:97  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Tuesday 25 May 1971 Casualties:-1 Reason:Unknown
+Type:Antonov 10 FlightNumber:1969 Date:Wednesday 31 March 1971 Casualties:65  Reason:Wing failureLoss of control
+Type:Antonov 24 FlightNumber:Unknown Date:Wednesday 31 March 1971 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Sunday 7 February 1971 Casualties:-1 Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Sunday 31 January 1971 Casualties:7  Reason:IcingLoss of control
+Type:Antonov 12B FlightNumber:Unknown Date:Friday 22 January 1971 Casualties:13  Reason:IcingLoss of control
+Type:Ilyushin 18V FlightNumber:3012 Date:Thursday 31 December 1970 Casualties:6  Reason:Loss of control
+Type:Ilyushin 14M FlightNumber:Unknown Date:Friday 13 November 1970 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Ilyushin 14 FlightNumber:Unknown Date:Tuesday 27 October 1970 Casualties:0  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Friday 16 October 1970 Casualties:-1 Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Friday 16 October 1970 Casualties:0  Reason:Centre of Gravity outside limitsLoss of control
+Type:Antonov 24B FlightNumber:Unknown Date:Thursday 15 October 1970 Casualties:1  Reason:Hijack
+Type:Antonov 12B FlightNumber:Unknown Date:Thursday 1 October 1970 Casualties:8  Reason:Unknown
+Type:Antonov 2P FlightNumber:Unknown Date:Monday 21 September 1970 Casualties:-1 Reason:Unknown
+Type:Yakovlev 40 FlightNumber:Unknown Date:Thursday 3 September 1970 Casualties:21  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 124 FlightNumber:3630 Date:Wednesday 2 September 1970 Casualties:37  Reason:Loss of control
+Type:Antonov 10A FlightNumber: 888 Date:Saturday 8 August 1970 Casualties:1  Reason:Uncontained engine failureForced landing outside airport
+Type:Ilyushin 18V FlightNumber:Unknown Date:Friday 5 June 1970 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 28 April 1970 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Monday 20 April 1970 Casualties:2  Reason:Loss of control
+Type:Ilyushin 14P FlightNumber:2903 Date:Saturday 4 April 1970 Casualties:7  Reason:Unknown
+Type:Antonov 24B FlightNumber:1661 Date:Wednesday 1 April 1970 Casualties:45  Reason:Mid air collisionLoss of control
+Type:Antonov 2R FlightNumber:Unknown Date:Thursday 19 March 1970 Casualties:-1 Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Thursday 5 March 1970 Casualties:-1 Reason:Unknown
+Type:Antonov 12TB FlightNumber:Unknown Date:Thursday 26 February 1970 Casualties:0  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Wednesday 25 February 1970 Casualties:5  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Friday 6 February 1970 Casualties:92  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 2TP FlightNumber:Unknown Date:Saturday 31 January 1970 Casualties:-1 Reason:Unknown
+Type:Tupolev 124V FlightNumber: 145 Date:Thursday 29 January 1970 Casualties:11  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 24B FlightNumber:Unknown Date:Wednesday 28 January 1970 Casualties:34  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Ilyushin 12 FlightNumber:Unknown Date:Tuesday 12 October 1948 Casualties:10  Reason:Unknown
+Type:Ilyushin 12B FlightNumber:Unknown Date:Thursday 23 December 1948 Casualties:4  Reason:Mid air collisionLoss of control
+Type:Douglas TS-62 (DC-3) FlightNumber:Unknown Date:Thursday 23 December 1948 Casualties:8  Reason:Mid air collisionLoss of control
+Type:Ilyushin 12 FlightNumber: 229 Date:Sunday 14 June 1953 Casualties:18  Reason:LightningstrikeLoss of control
+Type:Ilyushin 14P FlightNumber: 103 Date:Thursday 15 August 1957 Casualties:23  Reason:Unknown
+Type:Ilyushin 14P FlightNumber: 411 Date:Saturday 8 July 1961 Casualties:9  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Friday 22 September 1961 Casualties:6  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:  93 Date:Wednesday 10 September 1969 Casualties:0  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Friday 22 March 1974 Casualties:3  Reason:Unknown
+Type:Tupolev 154B-1 FlightNumber: 212 Date:Tuesday 14 November 1978 Casualties:0  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Friday 18 December 1981 Casualties:0  Reason:Unknown
+Type:Tupolev 154B-2 FlightNumber:7425 Date:Wednesday 10 July 1985 Casualties:200  Reason:Loss of control
+Type:Tupolev 134A FlightNumber:Unknown Date:Friday 3 May 1985 Casualties:79  Reason:Mid air collisionLoss of control
+Type:Ilyushin 18B FlightNumber:Unknown Date:Thursday 11 December 1969 Casualties:0  Reason:Unknown
+Type:Ilyushin 18B FlightNumber:Unknown Date:Thursday 11 December 1969 Casualties:-1 Reason:Unknown
+Type:Antonov 12PL FlightNumber:Unknown Date:Saturday 6 December 1969 Casualties:8  Reason:Unknown
+Type:Antonov 12TB FlightNumber:Unknown Date:Thursday 13 November 1969 Casualties:9  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Saturday 1 November 1969 Casualties:4  Reason:Unknown
+Type:Antonov 24B FlightNumber: 227 Date:Monday 13 October 1969 Casualties:24  Reason:Unknown
+Type:Antonov 10 FlightNumber:Unknown Date:Sunday 12 October 1969 Casualties:0  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Monday 8 September 1969 Casualties:5  Reason:Unknown
+Type:Ilyushin 14P FlightNumber:  55 Date:Monday 1 September 1969 Casualties:22  Reason:Unknown
+Type:Ilyushin 18B FlightNumber:Unknown Date:Tuesday 26 August 1969 Casualties:16  Reason:Wheel(s) up landing
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 19 August 1969 Casualties:5  Reason:Unknown
+Type:Antonov 24B FlightNumber:H-826 Date:Sunday 3 August 1969 Casualties:55  Reason:Prop/turbine blade separationLoss of control
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 5 July 1969 Casualties:4  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Ilyushin 14 FlightNumber:Unknown Date:Saturday 28 June 1969 Casualties:40  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Thursday 26 June 1969 Casualties:3  Reason:Unknown
+Type:Antonov 12TB FlightNumber:Unknown Date:Wednesday 25 June 1969 Casualties:0  Reason:Unknown
+Type:Ilyushin 14M FlightNumber: 831 Date:Monday 23 June 1969 Casualties:24  Reason:Mid air collisionLoss of control
+Type:Antonov 2 FlightNumber:Unknown Date:Thursday 15 May 1969 Casualties:2  Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Monday 28 April 1969 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Friday 18 April 1969 Casualties:7  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Monday 7 April 1969 Casualties:3  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 30 March 1969 Casualties:4  Reason:Unknown
+Type:Antonov 24 FlightNumber:2305 Date:Monday 24 March 1969 Casualties:4  Reason:Unknown
+Type:Antonov 2M FlightNumber:Unknown Date:Monday 3 March 1969 Casualties:2  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 10 January 1969 Casualties:2  Reason:Unknown
+Type:Lisunov Li-2T FlightNumber:Unknown Date:xx DEC 1968 Casualties:0  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Saturday 2 November 1968 Casualties:6  Reason:Unknown
+Type:Ilyushin 18D FlightNumber:Unknown Date:Sunday 20 October 1968 Casualties:0  Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Sunday 6 October 1968 Casualties:-1 Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Sunday 22 September 1968 Casualties:5  Reason:Unknown
+Type:Antonov 10A FlightNumber:Unknown Date:Thursday 8 August 1968 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber: 961 Date:Saturday 3 August 1968 Casualties:14  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 21 July 1968 Casualties:14  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 2M FlightNumber:Unknown Date:Monday 1 July 1968 Casualties:2  Reason:Flightcrew member's alcohol, drug usageFuel contamination
+Type:Antonov 2M FlightNumber:Unknown Date:Thursday 30 May 1968 Casualties:1  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 28 May 1968 Casualties:2  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Sunday 19 May 1968 Casualties:2  Reason:Unknown
+Type:Antonov 2M FlightNumber:Unknown Date:Thursday 16 May 1968 Casualties:1  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Monday 22 April 1968 Casualties:5  Reason:Unknown
+Type:Ilyushin 14 FlightNumber:Unknown Date:Saturday 9 March 1968 Casualties:5  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 124 FlightNumber:3153 Date:Thursday 7 March 1968 Casualties:1  Reason:Unknown
+Type:Ilyushin 18D FlightNumber:  15 Date:Thursday 29 February 1968 Casualties:83  Reason:Loss of control
+Type:unknown FlightNumber:Unknown Date:Monday 19 February 1968 Casualties:2  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Monday 12 February 1968 Casualties:0  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Monday 29 January 1968 Casualties:0  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Tuesday 9 January 1968 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Saturday 6 January 1968 Casualties:45  Reason:Loss of control
+Type:Antonov 24B FlightNumber:Unknown Date:Sunday 31 December 1967 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Saturday 30 December 1967 Casualties:44  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:2230 Date:Thursday 16 November 1967 Casualties:107  Reason:Loss of control
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Thursday 12 October 1967 Casualties:4  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 29 August 1967 Casualties:0  Reason:Unknown
+Type:Antonov 12TP-2 FlightNumber:Unknown Date:Sunday 4 June 1967 Casualties:0  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Thursday 6 April 1967 Casualties:8  Reason:Loss of control
+Type:Ilyushin 14P FlightNumber:Unknown Date:Sunday 12 March 1967 Casualties:15  Reason:Unknown
+Type:Antonov 12B FlightNumber:Unknown Date:Monday 6 March 1967 Casualties:5  Reason:Loss of control
+Type:Antonov 12B FlightNumber:5003 Date:Saturday 14 January 1967 Casualties:6  Reason:Unknown
+Type:Ilyushin 18B FlightNumber: X-19 Date:Tuesday 22 November 1966 Casualties:2  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:3772 Date:Saturday 27 August 1966 Casualties:0  Reason:Runway excursion
+Type:unknown FlightNumber:Unknown Date:xx AUG 1966 Casualties:0  Reason:HijackPlane stormed
+Type:Ilyushin 14 FlightNumber:2723 Date:Saturday 23 April 1966 Casualties:33  Reason:MissingDitching
+Type:Tupolev 114D FlightNumber:Unknown Date:Thursday 17 February 1966 Casualties:21  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Wednesday 16 February 1966 Casualties:35  Reason:Loss of control
+Type:Ilyushin 14P FlightNumber:Unknown Date:Saturday 1 January 1966 Casualties:23  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Ilyushin 18B FlightNumber:Unknown Date:Thursday 23 December 1965 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Tuesday 16 November 1965 Casualties:-1 Reason:Unknown
+Type:Tupolev 124V FlightNumber:  99 Date:Thursday 11 November 1965 Casualties:32  Reason:Unknown
+Type:Antonov 24 FlightNumber:Unknown Date:Saturday 20 March 1965 Casualties:43  Reason:Unknown
+Type:Tupolev 124V FlightNumber: 513 Date:Monday 8 March 1965 Casualties:30  Reason:Loss of control
+Type:Antonov 2R FlightNumber:Unknown Date:Tuesday 2 February 1965 Casualties:-1 Reason:Unknown
+Type:Ilyushin 18B FlightNumber: 101 Date:Monday 4 January 1965 Casualties:64  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Ilyushin 14P FlightNumber: F-51 Date:Saturday 28 November 1964 Casualties:7  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 2V FlightNumber:Unknown Date:Wednesday 18 November 1964 Casualties:1  Reason:Unknown
+Type:Ilyushin 18V FlightNumber: 721 Date:Wednesday 2 September 1964 Casualties:87  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Ilyushin 18V FlightNumber:Unknown Date:Monday 3 August 1964 Casualties:-1 Reason:Unknown
+Type:Ilyushin 18B FlightNumber:Unknown Date:Thursday 2 July 1964 Casualties:-1 Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Tuesday 9 June 1964 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 3 January 1964 Casualties:2  Reason:Unknown
+Type:Antonov 12B FlightNumber:1076 Date:Saturday 7 December 1963 Casualties:6  Reason:Loss of control
+Type:Ilyushin 18B FlightNumber:Unknown Date:Sunday 10 November 1963 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Sunday 20 October 1963 Casualties:7  Reason:Unknown
+Type:Avia 14P FlightNumber: 663 Date:Saturday 24 August 1963 Casualties:32  Reason:Low visibilityVFR flight in IMCControlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 104B FlightNumber: 012 Date:Saturday 13 July 1963 Casualties:33  Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Saturday 18 May 1963 Casualties:0  Reason:Unknown
+Type:Ilyushin 18 FlightNumber:  25 Date:Thursday 4 April 1963 Casualties:67  Reason:Loss of control
+Type:Antonov 12 FlightNumber:Unknown Date:Tuesday 2 April 1963 Casualties:0  Reason:Unknown
+Type:Ilyushin 18V FlightNumber: 191 Date:Tuesday 5 March 1963 Casualties:16  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Tuesday 26 February 1963 Casualties:10  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Thursday 29 November 1962 Casualties:-1 Reason:Unknown
+Type:Tupolev 104B FlightNumber:Unknown Date:Thursday 25 October 1962 Casualties:11  Reason:Wrong installation of partsLoss of control
+Type:Ilyushin 14 FlightNumber: 213 Date:Tuesday 18 September 1962 Casualties:32  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Tupolev 104A FlightNumber:  03 Date:Monday 3 September 1962 Casualties:86  Reason:Loss of control
+Type:Antonov 10A FlightNumber: 415 Date:Saturday 28 July 1962 Casualties:81  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Ilyushin 14 FlightNumber:  40 Date:Friday 6 July 1962 Casualties:11  Reason:Unknown
+Type:Tupolev 104A FlightNumber:Unknown Date:Saturday 30 June 1962 Casualties:84  Reason:Shot down from the groundLoss of control
+Type:Tupolev 104B FlightNumber:Unknown Date:Monday 4 June 1962 Casualties:5  Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Friday 11 May 1962 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Sunday 15 April 1962 Casualties:0  Reason:Unknown
+Type:Ilyushin 14P FlightNumber:Unknown Date:Wednesday 4 April 1962 Casualties:0  Reason:Unknown
+Type:Antonov 10A FlightNumber:Unknown Date:Saturday 27 January 1962 Casualties:13  Reason:Unknown
+Type:Ilyushin 18V FlightNumber:Unknown Date:Sunday 31 December 1961 Casualties:32  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Monday 18 December 1961 Casualties:4  Reason:Unknown
+Type:Ilyushin 18B FlightNumber: 245 Date:Sunday 17 December 1961 Casualties:59  Reason:Loss of control
+Type:Tupolev 104B FlightNumber:Unknown Date:Thursday 2 November 1961 Casualties:0  Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Tuesday 31 October 1961 Casualties:5  Reason:Unknown
+Type:Tupolev 104A FlightNumber:Unknown Date:Sunday 17 September 1961 Casualties:0  Reason:Unknown
+Type:Ilyushin 18B FlightNumber:Unknown Date:Sunday 13 August 1961 Casualties:0  Reason:Runway excursion
+Type:Ilyushin 18V FlightNumber:Unknown Date:Friday 28 July 1961 Casualties:0  Reason:Unknown
+Type:Ilyushin 18B FlightNumber:Unknown Date:Thursday 22 June 1961 Casualties:0  Reason:Forced landing outside airport
+Type:Tupolev 104B FlightNumber: 068 Date:Thursday 16 March 1961 Casualties:5  Reason:Unknown
+Type:Tupolev 104A FlightNumber:Unknown Date:Wednesday 1 February 1961 Casualties:0  Reason:Unknown
+Type:Ilyushin 18A FlightNumber:Unknown Date:Monday 26 December 1960 Casualties:17  Reason:IcingLoss of control
+Type:Ilyushin 14M FlightNumber:Unknown Date:Sunday 4 December 1960 Casualties:14  Reason:Loss of control
+Type:Tupolev 104A FlightNumber:  05 Date:Thursday 20 October 1960 Casualties:3  Reason:Unknown
+Type:Ilyushin 14 FlightNumber:Unknown Date:Friday 2 September 1960 Casualties:18  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:unknown FlightNumber:Unknown Date:Sunday 21 August 1960 Casualties:1  Reason:HijackHijacker(s) overpowered by occupants
+Type:Ilyushin 18B FlightNumber:Unknown Date:Wednesday 17 August 1960 Casualties:34  Reason:Loss of control
+Type:Ilyushin 14M FlightNumber:Unknown Date:Wednesday 20 July 1960 Casualties:23  Reason:ThunderstormLoss of control
+Type:Ilyushin 18A FlightNumber:Unknown Date:Wednesday 27 April 1960 Casualties:1  Reason:Unknown
+Type:Antonov 10A FlightNumber: 315 Date:Friday 26 February 1960 Casualties:32  Reason:IcingLoss of control
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 19 February 1960 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14P FlightNumber: 120 Date:Sunday 13 December 1959 Casualties:30  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 10 FlightNumber:Unknown Date:Monday 16 November 1959 Casualties:40  Reason:IcingLoss of control
+Type:Ilyushin 14P FlightNumber: 200 Date:Friday 23 October 1959 Casualties:28  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Ilyushin 18B FlightNumber:Unknown Date:Wednesday 2 September 1959 Casualties:0  Reason:Windshear/downdraftForced landing on runway
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Monday 10 August 1959 Casualties:9  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:xx APR 1959 Casualties:-1 Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Monday 19 January 1959 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14P FlightNumber: 205 Date:Sunday 18 January 1959 Casualties:25  Reason:Loss of control
+Type:Antonov 2 FlightNumber:Unknown Date:Monday 24 November 1958 Casualties:0  Reason:Loss of control
+Type:Tupolev 104A FlightNumber:Unknown Date:Friday 17 October 1958 Casualties:80  Reason:Loss of control
+Type:Ilyushin 12 FlightNumber:Unknown Date:Friday 19 September 1958 Casualties:28  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Antonov 2 FlightNumber:Unknown Date:Wednesday 2 July 1958 Casualties:4  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Friday 27 June 1958 Casualties:2  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:xx MAY 1958 Casualties:-1 Reason:Unknown
+Type:Tupolev 104 FlightNumber:Unknown Date:Wednesday 19 February 1958 Casualties:0  Reason:Unknown
+Type:Lisunov Li-2V FlightNumber:Unknown Date:Sunday 16 February 1958 Casualties:-1 Reason:Unknown
+Type:Lisunov Li-2V FlightNumber:Unknown Date:xx FEB 1958 Casualties:-1 Reason:Unknown
+Type:Ilyushin 14M FlightNumber:Unknown Date:Tuesday 3 December 1957 Casualties:0  Reason:Unknown
+Type:Ilyushin 12P FlightNumber:Unknown Date:Sunday 27 October 1957 Casualties:1  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Sunday 5 May 1957 Casualties:0  Reason:Unknown
+Type:Antonov 2 FlightNumber:Unknown Date:Monday 20 August 1956 Casualties:3  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Ilyushin 12 ? FlightNumber:Unknown Date:Thursday 26 April 1956 Casualties:3  Reason:Unknown
+Type:Ilyushin 14 FlightNumber: 227 Date:Sunday 22 April 1956 Casualties:6  Reason:Unknown
+Type:Ilyushin 14 FlightNumber: 214 Date:Saturday 6 August 1955 Casualties:25  Reason:Unknown
+Type:Ilyushin 14 ? FlightNumber:Unknown Date:Friday 31 December 1954 Casualties:17  Reason:Unknown
+Type:unknown FlightNumber:Unknown Date:Wednesday 29 December 1954 Casualties:45  Reason:Unknown
+Type:Ilyushin 12 FlightNumber: 136 Date:Thursday 28 October 1954 Casualties:19  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Ilyushin 12 FlightNumber: 376 Date:Sunday 5 October 1952 Casualties:24  Reason:Mid air collisionLoss of control
+Type:Douglas TS-62 (DC-3) FlightNumber: 381 Date:Sunday 5 October 1952 Casualties:7  Reason:Mid air collisionLoss of control
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Saturday 3 May 1952 Casualties:4  Reason:Unknown
+Type:unknown FlightNumber:Unknown Date:Wednesday 26 March 1952 Casualties:36  Reason:Runway excursion
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Thursday 27 December 1951 Casualties:20  Reason:Forced landing outside airport
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Sunday 12 August 1951 Casualties:2  Reason:Unknown
+Type:Ilyushin 12 FlightNumber:Unknown Date:Sunday 30 July 1950 Casualties:25  Reason:Loss of control
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Friday 29 April 1949 Casualties:14  Reason:Navigational errorControlled Flight Into Terrain (CFIT) - Mountain
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Monday 22 November 1948 Casualties:23  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Monday 25 October 1948 Casualties:18  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Tuesday 12 October 1948 Casualties:4  Reason:Unknown
+Type:Ilyushin 12 FlightNumber:Unknown Date:Thursday 9 September 1948 Casualties:5  Reason:Unknown
+Type:Ilyushin 12 FlightNumber:Unknown Date:Wednesday 1 September 1948 Casualties:1  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Saturday 24 April 1948 Casualties:28  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Friday 23 April 1948 Casualties:1  Reason:Runway excursion
+Type:Douglas C-47 FlightNumber:Unknown Date:Wednesday 21 April 1948 Casualties:3  Reason:Unknown
+Type:Ilyushin 12 FlightNumber:Unknown Date:Tuesday 1 July 1947 Casualties:-1 Reason:Unknown
+Type:Douglas C-47-DL (DC-3) FlightNumber:Unknown Date:Sunday 13 April 1947 Casualties:9  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Wednesday 4 December 1946 Casualties:24  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Tuesday 5 November 1946 Casualties:1  Reason:Unknown
+Type:Douglas C-47 FlightNumber:Unknown Date:Tuesday 5 November 1946 Casualties:13  Reason:Unknown
+Type:Lisunov Li-2 FlightNumber:Unknown Date:Tuesday 5 November 1946 Casualties:5  Reason:Unknown
+Type:Douglas C-47A-25-DK (DC-3) FlightNumber:Unknown Date:Sunday 4 March 1945 Casualties:5  Reason:Unknown
+Type:Douglas DC-3-196A FlightNumber:Unknown Date:Friday 25 April 1941 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-152 FlightNumber:Unknown Date:Saturday 6 August 1938 Casualties:-1 Reason:Unknown
+Type:Airbus A330-203 FlightNumber: 470 Date:Wednesday 13 April 2011 Casualties:0  Reason:Unknown
+Type:Airbus A330-203 FlightNumber:AF447 Date:Monday 1 June 2009 Casualties:228  Reason:Loss of control
+Type:Airbus A340-313X FlightNumber: 358 Date:Tuesday 2 August 2005 Casualties:0  Reason:Runway excursion
+Type:A�rospatiale / BAC Concorde 101 FlightNumber:Unknown Date:Thursday 27 February 2003 Casualties:0  Reason:Unknown
+Type:A�rospatiale / BAC Concorde 101 FlightNumber:4590 Date:Tuesday 25 July 2000 Casualties:109  Reason:Loss of control
+Type:Boeing 747-2B3F (SCD) FlightNumber:6745 Date:Friday 5 March 1999 Casualties:0  Reason:Unknown
+Type:Boeing 737-228 FlightNumber:7638 Date:Thursday 4 March 1999 Casualties:0  Reason:Unknown
+Type:Airbus A320 FlightNumber:5029 Date:Tuesday 2 March 1999 Casualties:0  Reason:Hijack
+Type:Airbus A320-211 FlightNumber:AF550 Date:Friday 12 February 1999 Casualties:0  Reason:Unknown
+Type:Airbus A340-211 FlightNumber:Unknown Date:Thursday 20 January 1994 Casualties:0  Reason:Unknown
+Type:Airbus A320-211 FlightNumber:2306 Date:Friday 10 December 1993 Casualties:0  Reason:Hijack
+Type:Airbus A300B4-203 FlightNumber:Unknown Date:Wednesday 23 August 1989 Casualties:0  Reason:Hijack
+Type:Boeing 747-228B (SCD) FlightNumber: 187 Date:Sunday 24 July 1988 Casualties:0  Reason:Runway excursion
+Type:Airbus A320-111 FlightNumber: 296Q Date:Sunday 26 June 1988 Casualties:3  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Boeing 747-228B FlightNumber: 091 Date:Monday 2 December 1985 Casualties:0  Reason:Unknown
+Type:Boeing 737-228 FlightNumber:Unknown Date:Tuesday 31 July 1984 Casualties:0  Reason:Unknown
+Type:Boeing 737-228 FlightNumber:Unknown Date:Wednesday 7 March 1984 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 747 FlightNumber: 171 Date:Wednesday 18 January 1984 Casualties:0  Reason:Unknown
+Type:Boeing 727-228 FlightNumber:Unknown Date:Saturday 27 August 1983 Casualties:0  Reason:Hijack
+Type:Airbus A300B4-203 FlightNumber: 125 Date:Wednesday 17 March 1982 Casualties:0  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:Unknown Date:Monday 12 March 1979 Casualties:0  Reason:Unknown
+Type:Airbus A300 FlightNumber:Unknown Date:Friday 12 August 1977 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 707-328 FlightNumber:Unknown Date:Tuesday 7 September 1976 Casualties:0  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:Unknown Date:Saturday 28 August 1976 Casualties:1  Reason:Hijack
+Type:Boeing 747-128 FlightNumber: 193 Date:Thursday 12 June 1975 Casualties:0  Reason:Unknown
+Type:Boeing 727-228 FlightNumber:Unknown Date:Thursday 18 October 1973 Casualties:1  Reason:HijackPlane stormed
+Type:Fokker F-27 Friendship 500 FlightNumber:Unknown Date:Saturday 11 August 1973 Casualties:0  Reason:Unknown
+Type:Dewoitine D.332 FlightNumber:Unknown Date:Monday 15 January 1934 Casualties:10  Reason:Unknown
+Type:Lat�co�re 631 FlightNumber:Unknown Date:Wednesday 31 October 1945 Casualties:2  Reason:Prop/turbine blade separationForced landing outside airport
+Type:Douglas C-47A-30-DK (DC-3C) FlightNumber:Unknown Date:Saturday 1 February 1947 Casualties:15  Reason:Unknown
+Type:Douglas C-47A-90-DL (DC-3) FlightNumber:Unknown Date:Friday 14 March 1947 Casualties:23  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Wednesday 14 June 1950 Casualties:40  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Vickers 708 Viscount FlightNumber:Unknown Date:Wednesday 12 December 1956 Casualties:5  Reason:Loss of control
+Type:Lockheed L-1649A Starliner FlightNumber: 406 Date:Wednesday 10 May 1961 Casualties:78  Reason:SabotageFuselage failureLoss of control
+Type:Fokker F-27 Friendship 500 FlightNumber:Unknown Date:Wednesday 24 July 1974 Casualties:3  Reason:Unknown
+Type:Airbus A300B4-203 FlightNumber: 139 Date:Sunday 27 June 1976 Casualties:0  Reason:Unknown
+Type:Airbus A300B2-1C FlightNumber:8969 Date:Monday 26 December 1994 Casualties:7  Reason:Hijack
+Type:Airbus A320-214 FlightNumber:AF1084 Date:Wednesday 11 May 2016 Casualties:0  Reason:Ground collision
+Type:Boeing 777-328ER FlightNumber:Unknown Date:Wednesday 11 May 2016 Casualties:0  Reason:Ground collision
+Type:Boeing 707-328B FlightNumber:AF212 Date:Wednesday 3 December 1969 Casualties:62  Reason:Loss of control
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:Unknown Date:Tuesday 9 September 1969 Casualties:0  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:1611 Date:Wednesday 11 September 1968 Casualties:95  Reason:Loss of control
+Type:Boeing 707-328C FlightNumber:AF212 Date:Tuesday 5 March 1968 Casualties:63  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas C-47A-30-DK Dakota III FlightNumber:Unknown Date:Thursday 26 September 1963 Casualties:-1 Reason:Unknown
+Type:Douglas DC-3A FlightNumber:Unknown Date:Monday 30 July 1962 Casualties:5  Reason:Unknown
+Type:Boeing 707-328 FlightNumber:AF117 Date:Friday 22 June 1962 Casualties:113  Reason:LightningstrikeControlled Flight Into Terrain (CFIT) - Mountain
+Type:Boeing 707-328 FlightNumber:AF117 Date:Friday 22 June 1962 Casualties:113  Reason:LightningstrikeControlled Flight Into Terrain (CFIT) - Mountain
+Type:Boeing 707-328 FlightNumber:AF007 Date:Sunday 3 June 1962 Casualties:130  Reason:Runway excursion
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:2005 Date:Tuesday 12 September 1961 Casualties:77  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Boeing 707-328 FlightNumber:AF272 Date:Thursday 27 July 1961 Casualties:0  Reason:Cause undeterminedRunway excursion
+Type:Lockheed L-1049G Super Constellation FlightNumber: 343 Date:Monday 29 August 1960 Casualties:63  Reason:Unknown
+Type:Douglas C-47B-1-DK (DC-3) FlightNumber:Unknown Date:Thursday 30 April 1959 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-85-DL (DC-3) FlightNumber:Unknown Date:Saturday 31 May 1958 Casualties:15  Reason:Unknown
+Type:Douglas C-54A-1-DO (DC-4) FlightNumber:Unknown Date:Sunday 20 April 1958 Casualties:0  Reason:Unknown
+Type:Douglas DC-3A FlightNumber:Unknown Date:Wednesday 8 January 1958 Casualties:0  Reason:Unknown
+Type:Lockheed L-1049G Super Constellation FlightNumber:Unknown Date:Friday 6 December 1957 Casualties:0  Reason:Unknown
+Type:Douglas C-54-DO (DC-4) FlightNumber:Unknown Date:Saturday 2 November 1957 Casualties:0  Reason:Unknown
+Type:Douglas C-47B-5-DK (DC-3) FlightNumber:Unknown Date:Monday 8 April 1957 Casualties:32  Reason:Unknown
+Type:Douglas C-47-DL (DC-3) FlightNumber:Unknown Date:Saturday 28 January 1956 Casualties:3  Reason:Unknown
+Type:Douglas C-47A-15-DL (DC-3) FlightNumber:Unknown Date:Tuesday 24 January 1956 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-50-DL (DC-3) FlightNumber:Unknown Date:Wednesday 21 September 1955 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-85-DL (DC-3) FlightNumber:Unknown Date:Friday 18 March 1955 Casualties:9  Reason:Unknown
+Type:Lockheed L-749 Constellation FlightNumber:Unknown Date:Wednesday 25 August 1954 Casualties:0  Reason:Runway excursion
+Type:Lockheed L-1049C Super Constellation FlightNumber:Unknown Date:Tuesday 3 August 1954 Casualties:0  Reason:Fuel starvationForced landing outside airport
+Type:Lockheed L-749A Constellation FlightNumber:Unknown Date:Tuesday 1 September 1953 Casualties:42  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Lockheed L-749A Constellation FlightNumber: 152 Date:Monday 3 August 1953 Casualties:4  Reason:Engine separationDitching
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Friday 10 April 1953 Casualties:4  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Friday 5 December 1952 Casualties:0  Reason:Unknown
+Type:Douglas C-54A-DO (DC-4) FlightNumber:Unknown Date:Tuesday 29 April 1952 Casualties:0  Reason:Shot down by aircraftForced landing on runway
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Monday 7 April 1952 Casualties:0  Reason:Unknown
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Monday 3 March 1952 Casualties:38  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Wednesday 2 January 1952 Casualties:6  Reason:Unknown
+Type:Douglas DC-3D FlightNumber:Unknown Date:Saturday 11 August 1951 Casualties:5  Reason:Tail failureLoss of control
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Saturday 3 February 1951 Casualties:29  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Sunday 30 July 1950 Casualties:0  Reason:Unknown
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Monday 12 June 1950 Casualties:46  Reason:Insufficient rest / fatigueFlightcrew's failure to monitor instrumentsControlled Flight Into Terrain (CFIT) - Water
+Type:Douglas DC-3A FlightNumber:Unknown Date:Thursday 16 February 1950 Casualties:0  Reason:Unknown
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Sunday 22 January 1950 Casualties:0  Reason:Unknown
+Type:Douglas C-54A-15-DC (DC-4) FlightNumber:Unknown Date:Monday 28 November 1949 Casualties:5  Reason:Low visibilityControlled Flight Into Terrain (CFIT) - Ground
+Type:Lockheed L-749-79-46 Constellation FlightNumber:Unknown Date:Friday 28 October 1949 Casualties:48  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas C-54A-15-DC (DC-4) FlightNumber:Unknown Date:Thursday 20 October 1949 Casualties:0  Reason:Unknown
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Saturday 9 April 1949 Casualties:0  Reason:Runway excursion
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Tuesday 23 November 1948 Casualties:1  Reason:Unknown
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Sunday 29 August 1948 Casualties:-1 Reason:Unknown
+Type:Lat�co�re 631 FlightNumber:Unknown Date:Sunday 1 August 1948 Casualties:52  Reason:Unknown
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Monday 12 July 1948 Casualties:0  Reason:Unknown
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Monday 14 June 1948 Casualties:-1 Reason:Unknown
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Saturday 10 April 1948 Casualties:1  Reason:Unknown
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Tuesday 10 February 1948 Casualties:-1 Reason:Unknown
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Wednesday 4 February 1948 Casualties:-1 Reason:Unknown
+Type:SNCASE SE.161/P7 Languedoc FlightNumber:Unknown Date:Monday 26 January 1948 Casualties:9  Reason:Unknown
+Type:Douglas DC-3D FlightNumber:Unknown Date:Tuesday 6 January 1948 Casualties:16  Reason:Unknown
+Type:SNCASE SE.161 Languedoc FlightNumber:Unknown Date:Tuesday 7 October 1947 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Saturday 4 October 1947 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber: 612 Date:Tuesday 1 July 1947 Casualties:13  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Saturday 7 June 1947 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Wednesday 4 June 1947 Casualties:3  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Wednesday 30 April 1947 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Thursday 20 March 1947 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Wednesday 5 March 1947 Casualties:-1 Reason:Unknown
+Type:Douglas DC-3D FlightNumber:Unknown Date:Wednesday 4 September 1946 Casualties:19  Reason:Unknown
+Type:Douglas DC-3A FlightNumber:Unknown Date:Tuesday 3 September 1946 Casualties:22  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Thursday 8 August 1946 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Saturday 29 June 1946 Casualties:2  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Monday 4 February 1946 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Saturday 2 February 1946 Casualties:0  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Sunday 13 January 1946 Casualties:2  Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Friday 23 November 1945 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Saturday 10 November 1945 Casualties:-1 Reason:Unknown
+Type:Amiot AAC.1 (Junkers Ju-52) FlightNumber:Unknown Date:Monday 10 September 1945 Casualties:-1 Reason:Unknown
+Type:Lockheed 14-H2 Super Electra FlightNumber:Unknown Date:Wednesday 13 January 1943 Casualties:3  Reason:Unknown
+Type:Lior�-et-Olivier H.246.1 FlightNumber:Unknown Date:Thursday 13 August 1942 Casualties:4  Reason:Unknown
+Type:Lockheed 18-07-01 Lodestar FlightNumber:Unknown Date:Thursday 2 July 1942 Casualties:0  Reason:Unknown
+Type:Bloch 220 FlightNumber:Unknown Date:Monday 1 September 1941 Casualties:15  Reason:Unknown
+Type:SNCAC (Farman) NC.223.4 FlightNumber:Unknown Date:Wednesday 27 November 1940 Casualties:6  Reason:Unknown
+Type:Dewoitine D.338 FlightNumber:Unknown Date:Thursday 10 October 1940 Casualties:3  Reason:Unknown
+Type:Dewoitine D-338 FlightNumber:Unknown Date:Sunday 7 July 1940 Casualties:4  Reason:Unknown
+Type:Dewoitine D.338 FlightNumber:Unknown Date:Thursday 20 June 1940 Casualties:1  Reason:Unknown
+Type:Bloch 220 FlightNumber:Unknown Date:Sunday 3 March 1940 Casualties:3  Reason:Unknown
+Type:Dewoitine D.338 FlightNumber:Unknown Date:Tuesday 2 May 1939 Casualties:9  Reason:Unknown
+Type:Potez 62 FlightNumber:Unknown Date:Friday 27 January 1939 Casualties:4  Reason:Unknown
+Type:Dewoitine D.338 FlightNumber:Unknown Date:Wednesday 23 March 1938 Casualties:8  Reason:Unknown
+Type:Potez 62 FlightNumber:Unknown Date:Monday 7 March 1938 Casualties:7  Reason:Unknown
+Type:Lior�-et-Olivier H.242/1 FlightNumber:Unknown Date:Wednesday 9 February 1938 Casualties:7  Reason:Unknown
+Type:Potez 621 FlightNumber:Unknown Date:Wednesday 8 December 1937 Casualties:2  Reason:Unknown
+Type:Lior�-et-Olivier H.242/1 FlightNumber:Unknown Date:Friday 8 May 1936 Casualties:0  Reason:Unknown
+Type:Potez 62 FlightNumber:Unknown Date:Tuesday 10 December 1935 Casualties:0  Reason:Unknown
+Type:Airbus A321-231 (WL) FlightNumber:AA2393 Date:Friday 15 September 2017 Casualties:0  Reason:Unknown
+Type:Boeing 737-823 (WL) FlightNumber:AA2444 Date:Saturday 19 November 2016 Casualties:0  Reason:Bird strikeForced landing on runway
+Type:Boeing 767-323ER (WL) FlightNumber:AA383 Date:Friday 28 October 2016 Casualties:0  Reason:Uncontained engine failure
+Type:Airbus A321-211 FlightNumber:AA423 Date:Tuesday 10 May 2016 Casualties:0  Reason:Bird strikeForced landing on runway
+Type:Airbus A321-231 FlightNumber:AA1851 Date:Saturday 15 August 2015 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-82 FlightNumber:Unknown Date:Wednesday 1 May 2013 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-83 FlightNumber:Unknown Date:Sunday 15 July 2012 Casualties:0  Reason:Unknown
+Type:Boeing 737-823 (WL) FlightNumber: 331 Date:Tuesday 22 December 2009 Casualties:0  Reason:Runway excursion
+Type:McDonnell Douglas DC-9-82 FlightNumber:1400 Date:Friday 28 September 2007 Casualties:0  Reason:Forced landing on runway
+Type:McDonnell Douglas MD-83 FlightNumber:1740 Date:Tuesday 20 June 2006 Casualties:0  Reason:Forced landing on runway
+Type:Boeing 767-223ER FlightNumber:Unknown Date:Friday 2 June 2006 Casualties:0  Reason:Uncontained engine failure
+Type:Boeing 767-323 FlightNumber:  63 Date:Saturday 22 December 2001 Casualties:0  Reason:SabotageHijacker(s) overpowered by occupants
+Type:Airbus A300B4-605R FlightNumber: 587 Date:Monday 12 November 2001 Casualties:260  Reason:Wing failureLoss of control
+Type:Boeing 757-223 FlightNumber:  77 Date:Tuesday 11 September 2001 Casualties:64  Reason:Hijack
+Type:Boeing 767-223ER FlightNumber:  11 Date:Tuesday 11 September 2001 Casualties:92  Reason:Hijack
+Type:Fokker 100 FlightNumber:1107 Date:Wednesday 23 May 2001 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-82 FlightNumber:1420 Date:Tuesday 1 June 1999 Casualties:11  Reason:TurbulenceRunway excursion
+Type:Boeing 727-223 FlightNumber:1340 Date:Monday 9 February 1998 Casualties:0  Reason:Unknown
+Type:Swearingen SA226-TC Metro II FlightNumber:Unknown Date:Friday 13 June 1997 Casualties:0  Reason:Unknown
+Type:Airbus A300B4-605R FlightNumber: 903 Date:Monday 12 May 1997 Casualties:0  Reason:Unknown
+Type:Boeing 757-223 FlightNumber: 965 Date:Wednesday 20 December 1995 Casualties:159  Reason:Navigational errorControlled Flight Into Terrain (CFIT) - Mountain
+Type:McDonnell Douglas MD-83 FlightNumber:1572 Date:Sunday 12 November 1995 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-10-30 FlightNumber: 102 Date:Wednesday 14 April 1993 Casualties:0  Reason:Unknown
+Type:Boeing 767-323ER FlightNumber: 958 Date:Tuesday 27 October 1992 Casualties:0  Reason:Unknown
+Type:Airbus A300 FlightNumber: 658 Date:Monday 2 April 1990 Casualties:0  Reason:HijackHijacker(s) escaped
+Type:Boeing 727 FlightNumber:Unknown Date:Saturday 27 May 1989 Casualties:0  Reason:Hijack
+Type:Airbus A300 FlightNumber: 658 Date:Saturday 1 October 1988 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-10-30 FlightNumber:  70 Date:Saturday 21 May 1988 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber: 203 Date:Wednesday 30 October 1985 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-10 FlightNumber: 626 Date:Monday 31 December 1984 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 658 Date:Saturday 11 February 1984 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 625 Date:Thursday 22 September 1983 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-10 FlightNumber: 676 Date:Friday 23 October 1981 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 348 Date:Wednesday 9 April 1980 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 395 Date:Saturday 24 November 1979 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 727 FlightNumber: 293 Date:Wednesday 20 June 1979 Casualties:0  Reason:Hijack
+Type:Boeing 727-95 FlightNumber: 625 Date:Tuesday 27 April 1976 Casualties:37  Reason:Unknown
+Type:Boeing 727 FlightNumber: 633 Date:Wednesday 12 July 1972 Casualties:0  Reason:Hijack
+Type:Boeing 707 FlightNumber:Unknown Date:Wednesday 5 July 1972 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 119 Date:Friday 23 June 1972 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-10-10 FlightNumber:  96 Date:Monday 12 June 1972 Casualties:0  Reason:Cargo door failureForced landing on runway
+Type:Boeing 707 FlightNumber:AA47 Date:Sunday 26 December 1971 Casualties:0  Reason:Unknown
+Type:Boeing 747 FlightNumber:  98 Date:Monday 25 October 1971 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber: 124 Date:Friday 24 September 1971 Casualties:0  Reason:Unknown
+Type:Boeing 707-323C FlightNumber:AA30 Date:Saturday 9 January 1971 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber: 206 Date:Monday 25 May 1970 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-277B FlightNumber:6001 Date:Wednesday 10 January 1945 Casualties:24  Reason:Unknown
+Type:McDonnell Douglas DC-10-10 FlightNumber: 633 Date:Thursday 27 June 1985 Casualties:0  Reason:Runway excursion
+Type:McDonnell Douglas DC-10-10 FlightNumber: 633 Date:Thursday 27 June 1985 Casualties:0  Reason:Runway excursion
+Type:Boeing 707-323C FlightNumber:Unknown Date:Sunday 3 August 1969 Casualties:0  Reason:Unknown
+Type:Boeing 727-23 FlightNumber:Unknown Date:Monday 11 December 1967 Casualties:0  Reason:Unknown
+Type:Boeing 727-23 FlightNumber:Unknown Date:Sunday 12 November 1967 Casualties:0  Reason:Unknown
+Type:Convair CV-990-30A-5 Coronado FlightNumber:Unknown Date:Thursday 30 May 1963 Casualties:0  Reason:Unknown
+Type:Boeing 707-123B FlightNumber:  AA1 Date:Thursday 1 March 1962 Casualties:95  Reason:Loss of control
+Type:Boeing 720-023B FlightNumber:  44 Date:Sunday 24 September 1961 Casualties:0  Reason:Runway excursion
+Type:Boeing 707-123 FlightNumber:AA514 Date:Saturday 15 August 1959 Casualties:5  Reason:Loss of control
+Type:Convair CV-240-0 FlightNumber: 327 Date:Sunday 6 January 1957 Casualties:1  Reason:Unknown
+Type:Convair CV-240-0 FlightNumber: 476 Date:Thursday 4 August 1955 Casualties:30  Reason:Wing failureLoss of control
+Type:Douglas DC-6B FlightNumber: 163 Date:Tuesday 6 July 1954 Casualties:1  Reason:HijackHijacker(s) overpowered by occupants
+Type:Convair CV-240-0 FlightNumber:Unknown Date:Sunday 27 June 1954 Casualties:0  Reason:Unknown
+Type:Convair CV-240-0 FlightNumber: 767 Date:Wednesday 20 January 1954 Casualties:0  Reason:Unknown
+Type:Convair CV-240-0 FlightNumber: 723 Date:Wednesday 16 September 1953 Casualties:28  Reason:Unknown
+Type:Convair CV-240-0 FlightNumber:Unknown Date:Wednesday 26 August 1953 Casualties:0  Reason:Unknown
+Type:Douglas DC-6 FlightNumber: 910 Date:Saturday 28 June 1952 Casualties:0  Reason:Unknown
+Type:Convair CV-240-0 FlightNumber:6780 Date:Tuesday 22 January 1952 Casualties:23  Reason:Unknown
+Type:Douglas DC-6 FlightNumber:  14 Date:Tuesday 22 August 1950 Casualties:1  Reason:Unknown
+Type:Douglas DC-6 FlightNumber: 157 Date:Tuesday 29 November 1949 Casualties:28  Reason:Unknown
+Type:Convair CV-240-0 FlightNumber: 402 Date:Wednesday 22 June 1949 Casualties:0  Reason:Unknown
+Type:Douglas DC-6 FlightNumber: 183 Date:Friday 3 December 1948 Casualties:0  Reason:Unknown
+Type:Douglas C-54B-1-DC (DC-4) FlightNumber:Unknown Date:Wednesday 10 March 1948 Casualties:0  Reason:Unknown
+Type:Douglas DC-3C (C-47A-80-DL) FlightNumber:Unknown Date:Friday 8 August 1947 Casualties:3  Reason:Unknown
+Type:Douglas DC-3-208A FlightNumber: 203 Date:Sunday 5 January 1947 Casualties:0  Reason:Unknown
+Type:Douglas C-50A-DO (DC-3) FlightNumber:2207 Date:Saturday 28 December 1946 Casualties:2  Reason:Unknown
+Type:Douglas C-47A-80-DL (DC-3) FlightNumber:  26 Date:Sunday 25 August 1946 Casualties:2  Reason:Loss of control
+Type:Douglas DC-3-227B FlightNumber:6-103 Date:Sunday 3 March 1946 Casualties:25  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-3-277 FlightNumber:   9 Date:Friday 23 February 1945 Casualties:17  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-3DST-217A FlightNumber:  21 Date:Sunday 24 December 1944 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-277A FlightNumber:   2 Date:Thursday 10 February 1944 Casualties:24  Reason:Unknown
+Type:Douglas DC-3-178 FlightNumber:  63 Date:Friday 15 October 1943 Casualties:11  Reason:Unknown
+Type:Douglas DC-3-277D FlightNumber:Unknown Date:Wednesday 15 September 1943 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-178 FlightNumber:  63 Date:Wednesday 28 July 1943 Casualties:20  Reason:Windshear/downdraftLoss of control
+Type:Douglas DC-3-277B FlightNumber:Unknown Date:Thursday 30 October 1941 Casualties:20  Reason:Unknown
+Type:Douglas DC-3-277C FlightNumber:  20 Date:Monday 10 March 1941 Casualties:0  Reason:Unknown
+Type:Curtiss AT-32B Condor II FlightNumber:- Date:Monday 27 September 1937 Casualties:0  Reason:Unknown
+Type:Curtiss AT-32D Condor II FlightNumber:Unknown Date:Monday 27 September 1937 Casualties:0  Reason:Unknown
+Type:Curtiss AT-32A Condor II FlightNumber:Unknown Date:Thursday 13 August 1936 Casualties:-1 Reason:Unknown
+Type:Douglas DC-2-120 FlightNumber:Unknown Date:Tuesday 14 January 1936 Casualties:17  Reason:Unknown
+Type:McDonnell Douglas MD-11F FlightNumber:LH8273 Date:Thursday 10 November 2016 Casualties:0  Reason:Unknown
+Type:Boeing 737-330 FlightNumber:LH2403 Date:Saturday 2 May 2015 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-11F FlightNumber:8258 Date:Sunday 24 November 2013 Casualties:0  Reason:Unknown
+Type:Airbus A330-343X FlightNumber:Unknown Date:Friday 10 August 2012 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-11F FlightNumber:8460 Date:Tuesday 27 July 2010 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-11F FlightNumber:8240 Date:Sunday 13 September 2009 Casualties:0  Reason:Unknown
+Type:Boeing 747-430 FlightNumber:Unknown Date:Monday 15 May 2006 Casualties:0  Reason:Unknown
+Type:Canadair CL-600-2B19 Regional Jet CRJ-100LR FlightNumber:5293 Date:Tuesday 28 December 1999 Casualties:0  Reason:Hijack
+Type:Boeing 727-243F FlightNumber:8533 Date:Wednesday 7 July 1999 Casualties:5  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Airbus A320-211 FlightNumber:2904 Date:Tuesday 14 September 1993 Casualties:2  Reason:Unknown
+Type:Airbus A310-304 FlightNumber: 592 Date:Thursday 11 February 1993 Casualties:0  Reason:Hijack
+Type:Boeing 737-230 FlightNumber: 040 Date:Friday 29 March 1985 Casualties:0  Reason:Hijack
+Type:Boeing 727-230 FlightNumber: 316 Date:Wednesday 27 March 1985 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 727-230 FlightNumber: 612 Date:Wednesday 27 February 1985 Casualties:0  Reason:Hijack
+Type:Boeing 747-230F FlightNumber:Unknown Date:Tuesday 18 October 1983 Casualties:0  Reason:Runway excursion
+Type:Boeing 727-230 FlightNumber:Unknown Date:Wednesday 12 September 1979 Casualties:0  Reason:Hijack
+Type:Boeing 737-230C FlightNumber: 181 Date:Thursday 13 October 1977 Casualties:4  Reason:HijackPlane stormed
+Type:Boeing 727 FlightNumber:Unknown Date:Tuesday 28 June 1977 Casualties:0  Reason:Unknown
+Type:Boeing 747-130 FlightNumber: 540 Date:Wednesday 20 November 1974 Casualties:59  Reason:Wrong takeoff configuration (flaps/trim)Runway excursion
+Type:Boeing 707-330B FlightNumber:Unknown Date:Thursday 20 December 1973 Casualties:0  Reason:Unknown
+Type:Boeing 737-130 FlightNumber:Unknown Date:Monday 17 December 1973 Casualties:1  Reason:Hijack
+Type:Boeing 727-30 FlightNumber:Unknown Date:Sunday 29 October 1972 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber:Unknown Date:Wednesday 11 October 1972 Casualties:0  Reason:Unknown
+Type:Boeing 737 FlightNumber:Unknown Date:Monday 10 July 1972 Casualties:0  Reason:Unknown
+Type:Boeing 747-230B FlightNumber:Unknown Date:Tuesday 22 February 1972 Casualties:0  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Monday 21 February 1944 Casualties:16  Reason:Unknown
+Type:Junkers Ju-90V3 FlightNumber:Unknown Date:Wednesday 9 August 1944 Casualties:0  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Friday 20 April 1945 Casualties:18  Reason:Unknown
+Type:Lockheed L-1049G Super Constellation FlightNumber: 502 Date:Sunday 11 January 1959 Casualties:36  Reason:Insufficient rest / fatigueControlled Flight Into Terrain (CFIT) - Water
+Type:Airbus A321-231 FlightNumber:1667 Date:Tuesday 1 April 2014 Casualties:0  Reason:Unknown
+Type:Convair CV-440-0 FlightNumber: 005 Date:Friday 28 January 1966 Casualties:46  Reason:Loss of control
+Type:Boeing 720-030B FlightNumber:Unknown Date:Wednesday 15 July 1964 Casualties:3  Reason:Wing failureLoss of control
+Type:Boeing 720-030B FlightNumber:Unknown Date:Tuesday 14 August 1962 Casualties:0  Reason:Unknown
+Type:Boeing 720-030B FlightNumber:Unknown Date:Monday 4 December 1961 Casualties:3  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Wednesday 10 January 1945 Casualties:7  Reason:Unknown
+Type:Focke-Wulf Fw 200 FlightNumber:Unknown Date:Wednesday 29 November 1944 Casualties:10  Reason:Unknown
+Type:Focke-Wulf Fw 200 FlightNumber:Unknown Date:Wednesday 29 November 1944 Casualties:10  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Tuesday 17 October 1944 Casualties:1  Reason:Unknown
+Type:Junkers Ju-52/3mg8e FlightNumber:   7 Date:Monday 16 October 1944 Casualties:15  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Monday 16 October 1944 Casualties:15  Reason:Unknown
+Type:Focke-Wulf Fw 200 FlightNumber:Unknown Date:Wednesday 27 September 1944 Casualties:9  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Saturday 2 September 1944 Casualties:5  Reason:Unknown
+Type:Douglas DC-3-220A FlightNumber:Unknown Date:Monday 14 August 1944 Casualties:0  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Monday 17 April 1944 Casualties:5  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Friday 11 February 1944 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-211 FlightNumber:Unknown Date:Wednesday 26 January 1944 Casualties:0  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Saturday 15 January 1944 Casualties:5  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-3-194F FlightNumber:Unknown Date:Wednesday 9 December 1942 Casualties:0  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Monday 20 October 1941 Casualties:13  Reason:Unknown
+Type:Junkers Ju-52/3mte FlightNumber:Unknown Date:Saturday 1 March 1941 Casualties:3  Reason:Unknown
+Type:Junkers Ju-90A FlightNumber:Unknown Date:Friday 8 November 1940 Casualties:29  Reason:Unknown
+Type:Douglas DC-3-220 FlightNumber:Unknown Date:Tuesday 29 October 1940 Casualties:2  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Friday 9 August 1940 Casualties:2  Reason:Unknown
+Type:Junkers Ju-52/3mte FlightNumber:Unknown Date:Wednesday 30 August 1939 Casualties:7  Reason:Unknown
+Type:Junkers F.24kay (G.24) FlightNumber:Unknown Date:Thursday 24 August 1939 Casualties:2  Reason:Unknown
+Type:Junkers Ju-52/3mte FlightNumber:Unknown Date:Friday 4 August 1939 Casualties:7  Reason:Unknown
+Type:Junkers Ju-52/3mte FlightNumber:Unknown Date:Thursday 3 August 1939 Casualties:0  Reason:Unknown
+Type:Junkers Ju-52/3mte FlightNumber:Unknown Date:Friday 2 December 1938 Casualties:0  Reason:Unknown
+Type:Junkers Ju-90V2 FlightNumber:Unknown Date:Saturday 26 November 1938 Casualties:12  Reason:Unknown
+Type:Junkers Ju-52/3mte FlightNumber:Unknown Date:Saturday 1 October 1938 Casualties:13  Reason:Unknown
+Type:Junkers Ju-52/3mge FlightNumber:Unknown Date:Sunday 26 June 1938 Casualties:7  Reason:Unknown
+Type:Junkers Ju-52/3mge FlightNumber:Unknown Date:Tuesday 22 February 1938 Casualties:3  Reason:Unknown
+Type:Junkers Ju-52/3mte FlightNumber:Unknown Date:Tuesday 4 January 1938 Casualties:6  Reason:Unknown
+Type:Junkers Ju-52/3mfe FlightNumber:Unknown Date:Friday 26 November 1937 Casualties:3  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Friday 4 December 1936 Casualties:6  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Saturday 28 November 1936 Casualties:-1 Reason:Unknown
+Type:Junkers Ju-52/3mge FlightNumber:Unknown Date:Tuesday 17 November 1936 Casualties:4  Reason:Unknown
+Type:Junkers Ju-52/3mge FlightNumber:Unknown Date:Sunday 1 November 1936 Casualties:11  Reason:Unknown
+Type:Junkers Ju-52/3mfe FlightNumber:Unknown Date:Saturday 19 September 1936 Casualties:-1 Reason:Unknown
+Type:Junkers G.38di FlightNumber:Unknown Date:Sunday 26 July 1936 Casualties:0  Reason:Unknown
+Type:Junkers Ju-52/3m FlightNumber:Unknown Date:Friday 17 April 1936 Casualties:3  Reason:Unknown
+Type:Junkers Ju-52/3mho FlightNumber:Unknown Date:Thursday 25 April 1935 Casualties:-1 Reason:Unknown
+Type:Junkers F.24k2ay (G.24) FlightNumber:Unknown Date:Saturday 10 March 1934 Casualties:-1 Reason:Unknown
+Type:Junkers Ju-52/3mce FlightNumber:Unknown Date:Friday 29 July 1932 Casualties:-1 Reason:Unknown
+Type:Junkers G.24ko FlightNumber:Unknown Date:Saturday 18 April 1931 Casualties:0  Reason:Unknown
+Type:Rohrbach Ro X Romar I FlightNumber:Unknown Date:Monday 18 November 1929 Casualties:0  Reason:Unknown
+Type:Junkers G.24bi FlightNumber:Unknown Date:Wednesday 6 November 1929 Casualties:7  Reason:Unknown
+Type:Rohrbach Ro X Romar I FlightNumber:Unknown Date:Tuesday 10 September 1929 Casualties:0  Reason:Unknown
+Type:Junkers G.24 FlightNumber:Unknown Date:xx FEB 1929 Casualties:-1 Reason:Unknown
+Type:Junkers G.31fi FlightNumber:Unknown Date:Saturday 1 December 1928 Casualties:3  Reason:Unknown
+Type:Junkers G.31ce FlightNumber:Unknown Date:xx DEC 1928 Casualties:-1 Reason:Unknown
+Type:Junkers G.31de FlightNumber:Unknown Date:Tuesday 25 September 1928 Casualties:-1 Reason:Unknown
+Type:Junkers G.24 FlightNumber:Unknown Date:xx SEP 1928 Casualties:-1 Reason:Unknown
+Type:Junkers G.24 FlightNumber:Unknown Date:Saturday 20 November 1926 Casualties:-1 Reason:Unknown
+Type:Airbus A320-214 FlightNumber: 475 Date:Friday 26 October 2007 Casualties:0  Reason:Runway excursion
+Type:Airbus A330-301 FlightNumber: 812 Date:Thursday 25 May 2000 Casualties:1  Reason:HijackHijacker(s) escaped
+Type:Airbus A320-214 FlightNumber: 137 Date:Sunday 22 March 1998 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-3Y0 FlightNumber:1370 Date:Tuesday 2 April 1996 Casualties:0  Reason:Runway incursion
+Type:Boeing 737-3Y0 FlightNumber: 143 Date:Friday 11 May 1990 Casualties:8  Reason:Unknown
+Type:BAC One-Eleven 516FP FlightNumber: 124 Date:Friday 21 July 1989 Casualties:0  Reason:Runway excursion
+Type:Hawker Siddeley HS-748-209 Srs. 2 FlightNumber: 206 Date:Friday 26 June 1987 Casualties:50  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:BAC One-Eleven 527FK FlightNumber:Unknown Date:Saturday 4 August 1984 Casualties:0  Reason:Runway excursion
+Type:Hawker Siddeley HS-748-209 Srs. 2 FlightNumber: 480 Date:Sunday 11 July 1982 Casualties:1  Reason:Runway excursion
+Type:BAC One-Eleven FlightNumber:Unknown Date:Friday 21 May 1982 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 727 FlightNumber:Unknown Date:Saturday 12 July 1980 Casualties:0  Reason:HijackPlane stormed
+Type:BAC One-Eleven 524FF FlightNumber:Unknown Date:Thursday 17 August 1978 Casualties:1  Reason:SabotageForced landing on runway
+Type:NAMC YS-11A-301 FlightNumber:Unknown Date:Sunday 17 July 1977 Casualties:0  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:McDonnell Douglas DC-8-53 FlightNumber: 421 Date:Monday 18 April 1977 Casualties:0  Reason:Unknown
+Type:BAC One-Eleven 527FK FlightNumber: 116 Date:Sunday 23 May 1976 Casualties:13  Reason:Hijack
+Type:BAC One-Eleven FlightNumber:Unknown Date:Wednesday 7 April 1976 Casualties:0  Reason:Unknown
+Type:BAC One-Eleven FlightNumber:Unknown Date:Tuesday 7 October 1975 Casualties:0  Reason:Hijack
+Type:BAC One-Eleven 524FF FlightNumber:Unknown Date:Tuesday 3 June 1975 Casualties:1  Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Tuesday 25 February 1975 Casualties:0  Reason:Hijack
+Type:Hawker Siddeley HS-748-226 Srs. 2 FlightNumber:Unknown Date:Monday 3 February 1975 Casualties:33  Reason:Unknown
+Type:BAC One-Eleven FlightNumber:Unknown Date:Thursday 11 October 1973 Casualties:0  Reason:Hijack
+Type:Hawker Siddeley HS-748-232 Srs. 2 FlightNumber: 463 Date:Tuesday 28 November 1972 Casualties:0  Reason:Unknown
+Type:BAC One-Eleven FlightNumber:Unknown Date:Tuesday 30 March 1971 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-15-DK (DC-3) FlightNumber:Unknown Date:Thursday 19 November 1970 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-30-DK (DC-3) FlightNumber:Unknown Date:Thursday 19 November 1970 Casualties:0  Reason:Unknown
+Type:Fokker F-27 Friendship 200 FlightNumber:Unknown Date:Wednesday 1 July 1970 Casualties:0  Reason:Runway excursion
+Type:Fokker F-27 Friendship 100 FlightNumber:Unknown Date:Tuesday 2 June 1970 Casualties:1  Reason:Unknown
+Type:Fokker F-27 Friendship 100 FlightNumber:Unknown Date:Saturday 9 May 1970 Casualties:1  Reason:Unknown
+Type:Hawker Siddeley HS-748-209 Srs. 2 FlightNumber:Unknown Date:Tuesday 21 April 1970 Casualties:36  Reason:Unknown
+Type:Douglas DC-3C FlightNumber: S26 Date:Wednesday 23 November 1960 Casualties:33  Reason:Unknown
+Type:Douglas C-47B-10-DK (DC-3) FlightNumber: 946 Date:Friday 21 February 1964 Casualties:31  Reason:Unknown
+Type:de Havilland Canada DHC-3 Otter FlightNumber:26/25 Date:Wednesday 20 May 1964 Casualties:11  Reason:Unknown
+Type:Boeing 747-283B FlightNumber: 434 Date:Sunday 11 December 1994 Casualties:1  Reason:SabotageForced landing on runway
+Type:BAC One-Eleven 402AP FlightNumber: 158 Date:Friday 12 September 1969 Casualties:45  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Hawker Siddeley HS-748-209 Srs. 2 FlightNumber:Unknown Date:Tuesday 5 August 1969 Casualties:1  Reason:Unknown
+Type:Fokker F-27 Friendship FlightNumber: 158A Date:Wednesday 6 November 1968 Casualties:1  Reason:HijackHijacker(s) escaped
+Type:Fokker F-27 Friendship 100 FlightNumber: 385 Date:Thursday 6 July 1967 Casualties:21  Reason:VFR flight in IMCControlled Flight Into Terrain (CFIT) - Mountain
+Type:Fokker F-27 Friendship 100 FlightNumber: 345 Date:Tuesday 28 February 1967 Casualties:12  Reason:Centre of Gravity outside limitsLoss of control
+Type:Douglas C-47A-25-DK (DC-3) FlightNumber: 741 Date:Wednesday 20 October 1965 Casualties:1  Reason:OverloadedLoss of control
+Type:Douglas C-47B-30-DK (DC-3) FlightNumber: 984 Date:Saturday 2 March 1963 Casualties:27  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-3 FlightNumber:Unknown Date:Tuesday 23 October 1962 Casualties:0  Reason:Unknown
+Type:Fokker F-27 Friendship 100 FlightNumber:Unknown Date:Friday 12 October 1962 Casualties:3  Reason:Unknown
+Type:de Havilland Canada DHC-3 Otter FlightNumber:Unknown Date:Friday 27 July 1962 Casualties:2  Reason:Unknown
+Type:Douglas C-47A-90-DL (DC-3C) FlightNumber: S85 Date:Thursday 22 December 1960 Casualties:28  Reason:Unknown
+Type:Douglas C-47A-DL (DC-3) FlightNumber:Unknown Date:Thursday 14 July 1960 Casualties:0  Reason:Fuel starvationDitching
+Type:Scottish Aviation Twin Pioneer 2 FlightNumber:Unknown Date:Tuesday 12 January 1960 Casualties:0  Reason:Unknown
+Type:de Havilland Canada DHC-3 Otter FlightNumber:Unknown Date:Wednesday 11 December 1957 Casualties:2  Reason:Unknown
+Type:de Havilland Canada DHC-3 Otter FlightNumber:Unknown Date:Friday 21 June 1957 Casualties:-1 Reason:Unknown
+Type:Douglas DC-6 FlightNumber:Unknown Date:Thursday 14 January 1954 Casualties:16  Reason:Loss of control
+Type:Douglas C-47A-25-DK (DC-3C) FlightNumber:Unknown Date:Thursday 15 October 1953 Casualties:0  Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Tuesday 30 December 1952 Casualties:2  Reason:HijackShot down by aircraftForced landing on runway
+Type:Douglas C-47A-DL (DC-3) FlightNumber:Unknown Date:Sunday 30 March 1952 Casualties:10  Reason:Unknown
+Type:Douglas C-47A-35-DL (DC-3) FlightNumber:Unknown Date:Monday 10 March 1952 Casualties:3  Reason:Unknown
+Type:Douglas C-47A-15-DK (DC-3) FlightNumber:Unknown Date:Tuesday 24 January 1950 Casualties:4  Reason:MissingMissing
+Type:Douglas C-47B-35-DK (DC-3) FlightNumber:Unknown Date:Saturday 7 May 1949 Casualties:13  Reason:Unknown
+Type:Douglas DC-6 FlightNumber:Unknown Date:Monday 15 November 1948 Casualties:0  Reason:Runway excursion
+Type:Douglas DC-3 FlightNumber:Unknown Date:Monday 17 May 1948 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-25-DK (DC-3) FlightNumber:Unknown Date:Tuesday 20 April 1948 Casualties:0  Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Wednesday 21 January 1948 Casualties:0  Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Friday 26 December 1947 Casualties:-1 Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Friday 26 December 1947 Casualties:-1 Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Friday 26 December 1947 Casualties:-1 Reason:Unknown
+Type:Douglas C-47A-DL (DC-3) FlightNumber:Unknown Date:Friday 26 December 1947 Casualties:-1 Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Saturday 13 September 1947 Casualties:-1 Reason:Unknown
+Type:Douglas C-47A-70-DL (DC-3) FlightNumber:Unknown Date:Monday 16 June 1947 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-25-DK (DC-3) FlightNumber:Unknown Date:Saturday 25 January 1947 Casualties:4  Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Tuesday 1 October 1946 Casualties:0  Reason:Unknown
+Type:Boeing 777-222ER FlightNumber:Unknown Date:Monday 26 February 2007 Casualties:0  Reason:Unknown
+Type:Boeing 747-422 FlightNumber:Unknown Date:Monday 27 August 1990 Casualties:0  Reason:Forced landing on runway
+Type:Boeing 747-122 FlightNumber: 811 Date:Friday 24 February 1989 Casualties:9  Reason:Fuselage failureForced landing on runway
+Type:Boeing 727 FlightNumber: 702 Date:Thursday 30 December 1982 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 674 Date:Monday 1 March 1982 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 727 FlightNumber:Unknown Date:Tuesday 9 September 1980 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber: 739 Date:Wednesday 22 August 1979 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 320 Date:Friday 20 July 1979 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 747 FlightNumber:   8 Date:Saturday 27 January 1979 Casualties:0  Reason:HijackPlane stormed
+Type:McDonnell Douglas DC-8 FlightNumber: 179 Date:Sunday 27 August 1978 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 696 Date:Monday 13 March 1978 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-8 FlightNumber:Unknown Date:Tuesday 21 December 1976 Casualties:0  Reason:Hijack
+Type:Boeing 737-200 FlightNumber: 509 Date:Thursday 15 May 1975 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 727 FlightNumber: 344 Date:Friday 25 April 1975 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 737-222 FlightNumber: 553 Date:Friday 8 December 1972 Casualties:43  Reason:Loss of control
+Type:Boeing 727 FlightNumber: 877 Date:Friday 18 August 1972 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber: 239 Date:Friday 2 June 1972 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber: 885 Date:Friday 7 April 1972 Casualties:0  Reason:Unknown
+Type:Boeing 737-200 FlightNumber: 796 Date:Friday 4 June 1971 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 727 FlightNumber: 598 Date:Sunday 1 November 1970 Casualties:0  Reason:Unknown
+Type:Boeing 727 FlightNumber:Unknown Date:Wednesday 11 March 1970 Casualties:0  Reason:Unknown
+Type:Douglas DC-3A-197 FlightNumber:    1 Date:Sunday 17 October 1937 Casualties:19  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-6 FlightNumber: 610 Date:Saturday 30 June 1951 Casualties:50  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-6 FlightNumber:Unknown Date:Monday 4 April 1955 Casualties:3  Reason:Unknown
+Type:Boeing 727 FlightNumber: 929 Date:Friday 26 December 1969 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-8 FlightNumber:  14 Date:Wednesday 25 June 1969 Casualties:0  Reason:Unknown
+Type:Boeing 727-22C FlightNumber: 266 Date:Saturday 18 January 1969 Casualties:38  Reason:Unknown
+Type:Boeing 727 FlightNumber: 459 Date:Saturday 11 January 1969 Casualties:0  Reason:Unknown
+Type:Boeing 727-22 FlightNumber:Unknown Date:Wednesday 12 June 1968 Casualties:0  Reason:Mid air collisionForced landing on runway
+Type:Boeing 727-22C FlightNumber:9963 Date:Thursday 21 March 1968 Casualties:0  Reason:Unknown
+Type:Vickers 745D Viscount FlightNumber:Unknown Date:Monday 11 December 1967 Casualties:0  Reason:Runway excursion
+Type:Vickers 745D Viscount FlightNumber:Unknown Date:Tuesday 28 November 1967 Casualties:0  Reason:Unknown
+Type:Vickers 745D Viscount FlightNumber:Unknown Date:Thursday 19 January 1967 Casualties:0  Reason:Unknown
+Type:Douglas DC-7 FlightNumber:Unknown Date:Wednesday 18 May 1966 Casualties:0  Reason:Unknown
+Type:Boeing 727-22 FlightNumber: 227 Date:Thursday 11 November 1965 Casualties:43  Reason:Unknown
+Type:Boeing 727-22 FlightNumber: 389 Date:Monday 16 August 1965 Casualties:30  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Vickers 745D Viscount FlightNumber: 823 Date:Thursday 9 July 1964 Casualties:39  Reason:Loss of control
+Type:Vickers 745D Viscount FlightNumber: 297 Date:Friday 23 November 1962 Casualties:17  Reason:Bird strikeWing failureLoss of control
+Type:Douglas DC-8-11 FlightNumber: 826 Date:Friday 16 December 1960 Casualties:84  Reason:Mid air collisionLoss of control
+Type:Douglas DC-7 FlightNumber: 736 Date:Monday 21 April 1958 Casualties:47  Reason:Mid air collisionLoss of control
+Type:Douglas DC-7 FlightNumber: 718 Date:Saturday 30 June 1956 Casualties:58  Reason:Mid air collisionLoss of control
+Type:Douglas DC-6B FlightNumber: 629 Date:Tuesday 1 November 1955 Casualties:44  Reason:Unknown
+Type:Douglas DC-4 FlightNumber: 409 Date:Thursday 6 October 1955 Casualties:66  Reason:Cause undeterminedControlled Flight Into Terrain (CFIT) - Mountain
+Type:Convair CV-340-31 FlightNumber:Unknown Date:Wednesday 26 August 1953 Casualties:0  Reason:Unknown
+Type:Douglas DC-3A FlightNumber:  16 Date:Tuesday 4 December 1951 Casualties:3  Reason:Loss of control
+Type:Boeing 377 Stratocruiser 10-34 FlightNumber:7030 Date:Wednesday 12 September 1951 Casualties:3  Reason:Loss of control
+Type:Douglas DC-6B FlightNumber: 615 Date:Friday 24 August 1951 Casualties:50  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-3A-197 FlightNumber: 129 Date:Saturday 28 April 1951 Casualties:11  Reason:Unknown
+Type:Douglas C-47-DL (DC-3) FlightNumber:Unknown Date:Thursday 27 January 1949 Casualties:0  Reason:Unknown
+Type:Douglas DC-6 FlightNumber: 624 Date:Thursday 17 June 1948 Casualties:43  Reason:Unknown
+Type:Douglas DC-6 FlightNumber: 608 Date:Friday 24 October 1947 Casualties:52  Reason:Loss of control
+Type:Douglas DC-4 FlightNumber: 521 Date:Thursday 29 May 1947 Casualties:43  Reason:Locked rudders/ailerons/gustlock
+Type:Douglas DC-3A-197E FlightNumber:Unknown Date:Monday 24 February 1947 Casualties:-1 Reason:Unknown
+Type:Douglas DC-4 FlightNumber:Unknown Date:Tuesday 24 December 1946 Casualties:0  Reason:Runway excursion
+Type:Douglas C-53D-DO (DC-3) FlightNumber: 404 Date:Monday 11 November 1946 Casualties:2  Reason:Unknown
+Type:Douglas DC-4 FlightNumber:  28 Date:Tuesday 8 October 1946 Casualties:2  Reason:Unknown
+Type:Douglas C-54A-15-DC (DC-4) FlightNumber:Unknown Date:Wednesday 29 May 1946 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-194H FlightNumber:  14 Date:Thursday 31 January 1946 Casualties:21  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-3A-197 FlightNumber:Unknown Date:Sunday 12 January 1941 Casualties:0  Reason:Unknown
+Type:Douglas DC-3A-197C FlightNumber:  21 Date:Wednesday 4 December 1940 Casualties:10  Reason:IcingLoss of control
+Type:Douglas DC-3-197 FlightNumber:Unknown Date:Monday 4 November 1940 Casualties:10  Reason:Unknown
+Type:Douglas DC-3A-191 FlightNumber:  6 Date:Tuesday 29 November 1938 Casualties:5  Reason:Fuel starvationDitching
+Type:Douglas DST-A-207A (DC-3) FlightNumber:   9 Date:Tuesday 24 May 1938 Casualties:10  Reason:Unknown
+Type:Douglas DC-3A-197 FlightNumber:Unknown Date:Tuesday 9 February 1937 Casualties:11  Reason:Unknown
+Type:Boeing 737-8K2 (WL) FlightNumber:Unknown Date:Friday 13 December 2013 Casualties:0  Reason:Ground collision
+Type:Boeing 737-406 FlightNumber:1673 Date:Sunday 28 November 2004 Casualties:0  Reason:Bird strikeRunway excursion
+Type:Fokker 50 FlightNumber: 483 Date:Sunday 8 December 1996 Casualties:0  Reason:Forced landing on runway
+Type:Saab 340B FlightNumber: 433 Date:Monday 4 April 1994 Casualties:3  Reason:Loss of control
+Type:Fokker 100 FlightNumber: 136 Date:Friday 28 January 1994 Casualties:0  Reason:Unknown
+Type:Boeing 737-406 FlightNumber: 110 Date:Sunday 15 August 1993 Casualties:0  Reason:HijackPlane stormed
+Type:Fokker 100 FlightNumber: 321 Date:Sunday 5 March 1989 Casualties:0  Reason:Unknown
+Type:Boeing 737-306 FlightNumber: 343 Date:Wednesday 23 December 1987 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-10-30 FlightNumber:Unknown Date:Friday 3 June 1983 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9-32 FlightNumber:Unknown Date:Sunday 6 August 1978 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 747-206B FlightNumber:4805 Date:Sunday 27 March 1977 Casualties:248  Reason:Low visibilityRunway incursion
+Type:McDonnell Douglas DC-9-33RC FlightNumber: 366 Date:Saturday 4 September 1976 Casualties:0  Reason:Hijack
+Type:Boeing 747-206B FlightNumber: 861 Date:Sunday 25 November 1973 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-9 FlightNumber:Unknown Date:Tuesday 2 October 1973 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:McDonnell Douglas DC-8 FlightNumber:Unknown Date:Friday 19 March 1971 Casualties:0  Reason:Hijack
+Type:Fokker F.VIII FlightNumber:Unknown Date:Wednesday 11 April 1928 Casualties:0  Reason:Unknown
+Type:Fokker F.VIII FlightNumber:Unknown Date:Monday 22 August 1927 Casualties:1  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Saturday 20 July 1935 Casualties:13  Reason:Unknown
+Type:Douglas DC-3-194B FlightNumber:Unknown Date:Wednesday 6 October 1937 Casualties:4  Reason:Unknown
+Type:Lockheed 14-WF62 Super Electra FlightNumber:Unknown Date:Friday 9 December 1938 Casualties:4  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Tuesday 6 June 1939 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-115L FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-5-DK (DC-3) FlightNumber:Unknown Date:Saturday 27 December 1947 Casualties:0  Reason:Unknown
+Type:Convair CV-240-4 FlightNumber:Unknown Date:Monday 25 May 1953 Casualties:0  Reason:Unknown
+Type:Douglas DC-6B FlightNumber:Unknown Date:Monday 23 August 1954 Casualties:21  Reason:Unknown
+Type:Douglas C-47A-1-DK (DC-3) FlightNumber:Unknown Date:Friday 25 October 1968 Casualties:3  Reason:Unknown
+Type:Douglas DC-7C FlightNumber:Unknown Date:Monday 16 April 1962 Casualties:0  Reason:Unknown
+Type:Lockheed L-188C Electra FlightNumber: 823 Date:Monday 12 June 1961 Casualties:20  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Douglas DC-7C FlightNumber:Unknown Date:Sunday 11 June 1961 Casualties:0  Reason:Engine separationForced landing on runway
+Type:Lockheed L-1049H-01-06-162 Super Constellation FlightNumber: 607E Date:Thursday 14 August 1958 Casualties:99  Reason:Loss of control (presumed)
+Type:Lockheed L-1049C-55-81 Super Constellation FlightNumber: 844 Date:Tuesday 16 July 1957 Casualties:58  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Lockheed L-1049C-55-81 Super Constellation FlightNumber: 633 Date:Sunday 5 September 1954 Casualties:28  Reason:Ditching
+Type:Douglas C-54B-1-DC (DC-4) FlightNumber:Unknown Date:Thursday 1 January 1953 Casualties:0  Reason:Low visibilityFuel starvationForced landing outside airport
+Type:Lockheed L-749A-79-33 Constellation FlightNumber:Unknown Date:Sunday 23 March 1952 Casualties:0  Reason:Unknown
+Type:Douglas DC-6 FlightNumber:Unknown Date:Saturday 22 March 1952 Casualties:45  Reason:Unknown
+Type:Douglas C-47A-25-DK (DC-3) FlightNumber:Unknown Date:Thursday 2 February 1950 Casualties:7  Reason:Unknown
+Type:Lockheed L-749-79-33 Constellation FlightNumber:Unknown Date:Tuesday 12 July 1949 Casualties:45  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Lockheed L-749-79-33 Constellation FlightNumber:Unknown Date:Thursday 23 June 1949 Casualties:33  Reason:Loss of control
+Type:Lockheed L-049-46-25 Constellation FlightNumber:Unknown Date:Wednesday 20 October 1948 Casualties:40  Reason:Unknown
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Wednesday 16 June 1948 Casualties:0  Reason:Unknown
+Type:Douglas DC-6 FlightNumber:Unknown Date:Saturday 1 May 1948 Casualties:0  Reason:Loss of control
+Type:Boeing-Canada PB2B-1 Canso A (PBY-5A) FlightNumber:Unknown Date:Monday 8 March 1948 Casualties:0  Reason:Unknown
+Type:Douglas C-47B-30-DK (DC-3) FlightNumber:Unknown Date:Tuesday 10 February 1948 Casualties:19  Reason:Unknown
+Type:Douglas DC-3C (C-47A-30-DK) FlightNumber:Unknown Date:Sunday 26 January 1947 Casualties:22  Reason:Locked rudders/ailerons/gustlockLoss of control
+Type:Douglas C-47A-90-DL (DC-3) FlightNumber:Unknown Date:Thursday 14 November 1946 Casualties:26  Reason:Unknown
+Type:Douglas C-47A-25-DK (DC-3) FlightNumber:Unknown Date:Wednesday 6 November 1946 Casualties:0  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-3-194F FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-194F FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-194B FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-194D FlightNumber:Unknown Date:Friday 10 May 1940 Casualties:0  Reason:Unknown
+Type:Douglas DC-3-194D FlightNumber:Unknown Date:Monday 14 November 1938 Casualties:6  Reason:Unknown
+Type:Douglas DC-2-115L FlightNumber:Unknown Date:Wednesday 28 July 1937 Casualties:15  Reason:Unknown
+Type:Douglas DC-3-194B FlightNumber:Unknown Date:Saturday 3 April 1937 Casualties:8  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Wednesday 9 December 1936 Casualties:15  Reason:Unknown
+Type:Douglas DC-2-115E FlightNumber:Unknown Date:Wednesday 17 July 1935 Casualties:0  Reason:Unknown
+Type:Fokker F.XXII FlightNumber:Unknown Date:Sunday 14 July 1935 Casualties:6  Reason:Unknown
+Type:Douglas DC-2-115A FlightNumber:Unknown Date:Thursday 20 December 1934 Casualties:7  Reason:Unknown
+Type:Fokker F.IX FlightNumber:Unknown Date:Tuesday 4 August 1931 Casualties:0  Reason:Unknown
+Type:Embraer ERJ 170-100 SE (ERJ-170SE) FlightNumber:6448 Date:Sunday 18 February 2007 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-88 FlightNumber: 554 Date:Saturday 19 October 1996 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-88 FlightNumber:1288 Date:Saturday 6 July 1996 Casualties:2  Reason:Uncontained engine failure
+Type:Boeing 767-332ER FlightNumber:DL069 Date:Saturday 16 September 1995 Casualties:0  Reason:Unknown
+Type:Lockheed L-1011 TriStar 1 FlightNumber: 157 Date:Wednesday 23 August 1995 Casualties:0  Reason:Unknown
+Type:Embraer 120RT Brasilia FlightNumber: 100 Date:Saturday 2 June 1990 Casualties:0  Reason:Mid air collisionForced landing on runway
+Type:Boeing 727-232 FlightNumber:1141 Date:Wednesday 31 August 1988 Casualties:14  Reason:Unknown
+Type:Boeing 737-2T2 FlightNumber:1490 Date:Sunday 17 January 1988 Casualties:0  Reason:Unknown
+Type:Lockheed L-1011 TriStar FlightNumber: 139 Date:Wednesday 5 February 1986 Casualties:0  Reason:Hijack
+Type:Swearingen SA226-TC Metro II FlightNumber:Unknown Date:Wednesday 4 December 1985 Casualties:0  Reason:Unknown
+Type:Lockheed L-1011 TriStar 1 FlightNumber: 191 Date:Friday 2 August 1985 Casualties:134  Reason:Windshear/downdraftLoss of control
+Type:Boeing 727 FlightNumber: 357 Date:Wednesday 28 March 1984 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 784 Date:Thursday 18 August 1983 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 722 Date:Sunday 17 July 1983 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 177 Date:Friday 7 January 1983 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 727 FlightNumber: 591 Date:Monday 5 April 1982 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 470 Date:Wednesday 17 September 1980 Casualties:0  Reason:Hijack
+Type:Boeing 727 FlightNumber: 334 Date:Saturday 13 September 1980 Casualties:0  Reason:Hijack
+Type:Lockheed L-1011 TriStar FlightNumber:1065 Date:Saturday 16 August 1980 Casualties:0  Reason:Hijack
+Type:Lockheed L-1011 TriStar FlightNumber:1135 Date:Tuesday 22 July 1980 Casualties:0  Reason:Hijack
+Type:Lockheed L-1011 TriStar FlightNumber:1116 Date:Friday 25 January 1980 Casualties:0  Reason:Hijack
+Type:Lockheed L-1011 TriStar FlightNumber:1061 Date:Monday 11 June 1979 Casualties:0  Reason:Hijack
+Type:Douglas DC-3 FlightNumber:Unknown Date:Sunday 5 November 1978 Casualties:17  Reason:Unknown
+Type:Douglas DC-6B FlightNumber:Unknown Date:Friday 4 October 1974 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9 FlightNumber: 523 Date:Friday 22 February 1974 Casualties:2  Reason:Unknown
+Type:McDonnell Douglas DC-9-32 FlightNumber: 516 Date:Tuesday 27 November 1973 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9-31 FlightNumber:DL723 Date:Tuesday 31 July 1973 Casualties:88  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Convair CV-880-22-2 FlightNumber: 954 Date:Wednesday 20 December 1972 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-8 FlightNumber: 841 Date:Monday 31 July 1972 Casualties:0  Reason:Unknown
+Type:Douglas DC-9-14 FlightNumber:9570 Date:Tuesday 30 May 1972 Casualties:4  Reason:Unknown
+Type:Convair CV-880-22-2 FlightNumber:DL952 Date:Monday 17 April 1972 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-9 FlightNumber: 379 Date:Thursday 4 February 1971 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9-32 FlightNumber: 439 Date:Tuesday 8 September 1970 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9 FlightNumber: 435 Date:Thursday 20 August 1970 Casualties:0  Reason:Hijack
+Type:Convair CV-880 FlightNumber: 199 Date:Monday 25 May 1970 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9 FlightNumber: 274 Date:Tuesday 6 January 1970 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Douglas C-47A-25-DK (DC-3) FlightNumber:Unknown Date:Tuesday 15 June 1954 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9 FlightNumber: 655 Date:Friday 14 March 1986 Casualties:0  Reason:Hijack
+Type:Boeing 737-732 (WL) FlightNumber:Unknown Date:Tuesday 13 March 2012 Casualties:0  Reason:Unknown
+Type:Boeing 767-332ER (WL) FlightNumber: 415 Date:Thursday 5 December 2013 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-88 FlightNumber:DL1086 Date:Thursday 5 March 2015 Casualties:0  Reason:Runway excursion
+Type:Boeing 747-451 FlightNumber:DL159 Date:Wednesday 17 June 2015 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9 FlightNumber:DL670 Date:Monday 10 November 1969 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-8 FlightNumber: 821 Date:Tuesday 25 March 1969 Casualties:0  Reason:Unknown
+Type:Convair CV-880 FlightNumber: 918 Date:Wednesday 19 March 1969 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9 FlightNumber: 518 Date:Monday 17 March 1969 Casualties:0  Reason:Unknown
+Type:Convair CV-880 FlightNumber: 297 Date:Monday 13 January 1969 Casualties:0  Reason:Unknown
+Type:Convair CV-880 FlightNumber: 977 Date:Friday 12 July 1968 Casualties:0  Reason:Unknown
+Type:Convair CV-340-38 FlightNumber:Unknown Date:Wednesday 20 March 1968 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-8 FlightNumber: 843 Date:Wednesday 21 February 1968 Casualties:0  Reason:Hijack
+Type:Douglas DC-8-51 FlightNumber:9877 Date:Thursday 30 March 1967 Casualties:6  Reason:Simulated engine failureLoss of control
+Type:Curtiss C-46R Commando FlightNumber:  29 Date:Tuesday 24 November 1964 Casualties:0  Reason:Unknown
+Type:Douglas DC-7 FlightNumber:Unknown Date:Saturday 16 December 1961 Casualties:0  Reason:Unknown
+Type:Convair CV-880-22-1 FlightNumber:1903 Date:Monday 23 May 1960 Casualties:4  Reason:Loss of control
+Type:Douglas DC-3DST-318 FlightNumber: 318 Date:Sunday 17 May 1953 Casualties:19  Reason:ThunderstormLoss of control
+Type:Douglas DC-4 FlightNumber: 705 Date:Wednesday 10 March 1948 Casualties:12  Reason:Unknown
+Type:Douglas DC-3C (C-47-DL) FlightNumber:Unknown Date:Tuesday 22 April 1947 Casualties:8  Reason:Mid air collisionLoss of control
+Type:Douglas C-49J-DO (DC-3-454) FlightNumber:  10 Date:Sunday 10 November 1946 Casualties:0  Reason:Unknown
+Type:Canadair CL-600-2D24 Regional Jet CRJ-900ER FlightNumber:Unknown Date:Thursday 4 February 2016 Casualties:0  Reason:Unknown
+Type:ATR 72-600 (72-212A) FlightNumber:GE235 Date:Wednesday 4 February 2015 Casualties:43  Reason:Shutdown of wrong engineLoss of control
+Type:ATR 72-500 (72-212A) FlightNumber: 222 Date:Wednesday 23 July 2014 Casualties:48  Reason:ThunderstormControlled Flight Into Terrain (CFIT) - Ground
+Type:Airbus A330-343X FlightNumber: 908 Date:Wednesday 1 May 2013 Casualties:0  Reason:Unknown
+Type:Beechcraft B200 King Air FlightNumber:   3M Date:Monday 3 January 2011 Casualties:0  Reason:Unknown
+Type:British Aerospace 3103 Jetstream 31 FlightNumber:Unknown Date:Wednesday 13 February 2008 Casualties:0  Reason:Unknown
+Type:de Havilland Canada DHC-8-402 Q400 FlightNumber:2867 Date:Saturday 27 October 2007 Casualties:0  Reason:Forced landing on runway
+Type:de Havilland Canada DHC-8-402 Q400 FlightNumber:2748 Date:Wednesday 12 September 2007 Casualties:0  Reason:Forced landing on runway
+Type:de Havilland Canada DHC-8-402 Q400 FlightNumber:1209 Date:Sunday 9 September 2007 Casualties:0  Reason:Forced landing on runway
+Type:Convair CV-580 FlightNumber: 472 Date:Sunday 14 May 2006 Casualties:1  Reason:Loss of control
+Type:Fokker 50 FlightNumber:Unknown Date:Tuesday 14 February 2006 Casualties:0  Reason:Unknown
+Type:Airbus A320-232 FlightNumber: 536 Date:Monday 18 October 2004 Casualties:0  Reason:Unknown
+Type:Cessna 208B Grand Caravan FlightNumber:Unknown Date:Friday 8 August 2003 Casualties:1  Reason:Forced landing outside airport
+Type:Airbus A321-131 FlightNumber: 543 Date:Friday 21 March 2003 Casualties:0  Reason:Unknown
+Type:ATR-72-202 FlightNumber: 791 Date:Saturday 21 December 2002 Casualties:2  Reason:IcingLoss of control
+Type:McDonnell Douglas MD-87 FlightNumber: 686 Date:Monday 8 October 2001 Casualties:110  Reason:Low visibilityRunway incursionLoss of control
+Type:Saab 2000 FlightNumber:Unknown Date:Friday 8 October 1999 Casualties:0  Reason:Unknown
+Type:Airbus A321-131 FlightNumber: 529 Date:Saturday 6 January 1996 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas MD-80 FlightNumber:Unknown Date:Thursday 3 November 1994 Casualties:0  Reason:Unknown
+Type:Convair CV-440 FlightNumber:Unknown Date:Tuesday 14 September 1993 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-81 FlightNumber: 751 Date:Friday 27 December 1991 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9-41 FlightNumber: 355 Date:Monday 23 February 1987 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-10-30 FlightNumber: 901 Date:Tuesday 28 February 1984 Casualties:0  Reason:Runway excursion
+Type:McDonnell Douglas DC-10-30 FlightNumber:Unknown Date:Thursday 1 January 1976 Casualties:0  Reason:Unknown
+Type:Antonov 2TP FlightNumber:Unknown Date:Saturday 27 July 1974 Casualties:3  Reason:Loss of control
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:Unknown Date:Friday 25 January 1974 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas DC-9-21 FlightNumber:Unknown Date:Friday 15 September 1972 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-9 FlightNumber:Unknown Date:Monday 17 May 1971 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-8-62 FlightNumber: 986 Date:Sunday 19 April 1970 Casualties:0  Reason:Unknown
+Type:ATR-72-202 FlightNumber:Unknown Date:Monday 30 January 1995 Casualties:4  Reason:Unknown
+Type:Cessna 208B Grand Caravan FlightNumber:Unknown Date:Sunday 5 March 2006 Casualties:0  Reason:Forced landing outside airport
+Type:McDonnell Douglas DC-8-62 FlightNumber: 933 Date:Monday 13 January 1969 Casualties:15  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Rockwell 1121 Jet Commander FlightNumber:Unknown Date:Monday 1 July 1968 Casualties:1  Reason:IcingAll engine powerlossForced landing outside airport
+Type:Douglas DC-7C FlightNumber:Unknown Date:Monday 8 February 1965 Casualties:0  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle I FlightNumber: 871 Date:Tuesday 19 January 1960 Casualties:42  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas DC-6B FlightNumber:Unknown Date:Thursday 28 November 1957 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-90-DL (DC-3) FlightNumber:Unknown Date:Sunday 1 April 1951 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-20-DK (DC-3) FlightNumber:Unknown Date:Saturday 22 January 1949 Casualties:-1 Reason:Unknown
+Type:Douglas DC-6 FlightNumber:Unknown Date:Sunday 4 July 1948 Casualties:32  Reason:Mid air collisionLoss of control
+Type:Douglas C-47A-20-DL (DC-3) FlightNumber:Unknown Date:Saturday 28 December 1946 Casualties:2  Reason:Unknown
+Type:Boeing 767-381ER FlightNumber: 956 Date:Wednesday 20 June 2012 Casualties:0  Reason:Unknown
+Type:Airbus A320-211 FlightNumber: 731 Date:Sunday 5 February 2012 Casualties:0  Reason:Tailstrike
+Type:Boeing 737-881 (WL) FlightNumber: Th Date:Monday 10 August 2009 Casualties:0  Reason:Unknown
+Type:Boeing 747-481D FlightNumber:Unknown Date:Sunday 3 August 2008 Casualties:0  Reason:Unknown
+Type:Boeing 767-281 FlightNumber:8254 Date:Wednesday 26 June 2002 Casualties:0  Reason:TailstrikeRunway excursion
+Type:Airbus A321-131 FlightNumber: 391 Date:Monday 21 January 2002 Casualties:0  Reason:Windshear/downdraft
+Type:Boeing 747-481D FlightNumber:  61 Date:Friday 23 July 1999 Casualties:1  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 777-281 FlightNumber:Unknown Date:Monday 20 January 1997 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 747SR-81 FlightNumber:Unknown Date:Wednesday 21 June 1995 Casualties:0  Reason:HijackPlane stormed
+Type:Boeing 727-281 FlightNumber:Unknown Date:Thursday 17 March 1977 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Airbus A330-302 FlightNumber:CI704 Date:Saturday 1 October 2016 Casualties:0  Reason:Tailstrike
+Type:Boeing 737-809 FlightNumber: 120 Date:Monday 20 August 2007 Casualties:0  Reason:Unknown
+Type:Boeing 747-209B FlightNumber: 611 Date:Saturday 25 May 2002 Casualties:225  Reason:Fuselage failureLoss of control
+Type:McDonnell Douglas MD-11 FlightNumber: 642 Date:Sunday 22 August 1999 Casualties:3  Reason:TurbulenceRunway excursion
+Type:Airbus A300-622R FlightNumber: 676 Date:Monday 16 February 1998 Casualties:196  Reason:Loss of control
+Type:Airbus A300B4-622R FlightNumber: 140 Date:Tuesday 26 April 1994 Casualties:264  Reason:Failure to follow AD and SB'sLoss of control
+Type:Boeing 747-409 FlightNumber: 605 Date:Thursday 4 November 1993 Casualties:0  Reason:Runway excursion
+Type:McDonnell Douglas MD-11 FlightNumber: 012 Date:Monday 7 December 1992 Casualties:0  Reason:Unknown
+Type:Boeing 737-209 FlightNumber: 204 Date:Thursday 26 October 1989 Casualties:54  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Boeing 737 FlightNumber:Unknown Date:Monday 22 February 1988 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 747-2R7F FlightNumber:Unknown Date:Saturday 3 May 1986 Casualties:0  Reason:Hijack
+Type:Boeing 737-281 FlightNumber:Unknown Date:Sunday 16 February 1986 Casualties:13  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Boeing 737-281 FlightNumber:Unknown Date:Friday 26 April 1985 Casualties:0  Reason:Hijack
+Type:Boeing 747SP-09 FlightNumber: 006 Date:Tuesday 19 February 1985 Casualties:0  Reason:Forced landing on runway
+Type:Boeing 707-309C FlightNumber:Unknown Date:Wednesday 27 February 1980 Casualties:2  Reason:Unknown
+Type:Boeing 707-324C FlightNumber:Unknown Date:Tuesday 11 September 1979 Casualties:6  Reason:Unknown
+Type:Boeing 737-281 FlightNumber:Unknown Date:Thursday 9 March 1978 Casualties:1  Reason:HijackHijacker(s) overpowered by occupants
+Type:Douglas C-47A-90-DL (DC-3) FlightNumber:Unknown Date:Wednesday 26 March 1975 Casualties:-1 Reason:Unknown
+Type:Douglas C-54A-5-DC (DC-4) FlightNumber:Unknown Date:Monday 15 July 1974 Casualties:-1 Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:Unknown Date:Sunday 21 November 1971 Casualties:25  Reason:Unknown
+Type:Boeing 747-2R7F FlightNumber: 358 Date:Sunday 29 December 1991 Casualties:5  Reason:Engine separationLoss of control
+Type:Douglas C-47A-10-DK (DC-3D) FlightNumber: 227 Date:Thursday 2 January 1969 Casualties:24  Reason:Windshear/downdraftLoss of control
+Type:Douglas C-47 FlightNumber:Unknown Date:Tuesday 24 October 1967 Casualties:16  Reason:Unknown
+Type:Douglas DC-3 FlightNumber:Unknown Date:Wednesday 23 August 1967 Casualties:6  Reason:Unknown
+Type:Consolidated PBY-5A Catalina FlightNumber:Unknown Date:Saturday 14 January 1967 Casualties:-1 Reason:Unknown
+Type:Airbus A320-214 FlightNumber:Unknown Date:Tuesday 3 December 2013 Casualties:0  Reason:Tailstrike
+Type:Cessna 525 Citation CJ1+ FlightNumber:Unknown Date:Wednesday 16 February 2011 Casualties:0  Reason:Unknown
+Type:Avro RJ.100 FlightNumber: 444 Date:Saturday 18 August 2007 Casualties:0  Reason:Unknown
+Type:Saab 2000 FlightNumber: 850 Date:Wednesday 10 July 2002 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-11 FlightNumber: 111 Date:Wednesday 2 September 1998 Casualties:229  Reason:Loss of control
+Type:McDonnell Douglas DC-10-30 FlightNumber: 125 Date:Friday 23 May 1986 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-8-62 FlightNumber: 316 Date:Sunday 7 October 1979 Casualties:14  Reason:Runway excursion
+Type:McDonnell Douglas DC-8 FlightNumber:Unknown Date:Sunday 1 December 1974 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:McDonnell Douglas DC-8 FlightNumber:Unknown Date:Saturday 1 December 1973 Casualties:0  Reason:HijackPlane stormed
+Type:McDonnell Douglas DC-9-32 FlightNumber:Unknown Date:Monday 17 April 1972 Casualties:0  Reason:Unknown
+Type:Douglas DC-8-53 FlightNumber: 100 Date:Sunday 13 September 1970 Casualties:0  Reason:HijackDestroyed on ground
+Type:Convair CV-990-30A-6 Coronado FlightNumber: 330 Date:Saturday 21 February 1970 Casualties:47  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle III FlightNumber: 306 Date:Wednesday 4 September 1963 Casualties:80  Reason:Loss of control
+Type:Douglas C-47B-1-DL (DC-3) FlightNumber:Unknown Date:Tuesday 18 June 1957 Casualties:9  Reason:Loss of control
+Type:Convair CV-240-4 FlightNumber:Unknown Date:Saturday 19 June 1954 Casualties:3  Reason:Fuel starvationDitching
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Friday 14 December 1951 Casualties:0  Reason:Unknown
+Type:Douglas DC-4-1009 FlightNumber:Unknown Date:Wednesday 13 December 1950 Casualties:0  Reason:Unknown
+Type:Douglas DC-2-115B FlightNumber:Unknown Date:Saturday 7 January 1939 Casualties:5  Reason:Unknown
+Type:Douglas DC-2-115B FlightNumber:Unknown Date:Thursday 27 February 1936 Casualties:0  Reason:Unknown
+Type:Curtiss AT-32C Condor II FlightNumber:Unknown Date:Friday 27 July 1934 Casualties:12  Reason:Unknown
+Type:Boeing 777-236ER FlightNumber:BA2276 Date:Tuesday 8 September 2015 Casualties:0  Reason:Uncontained engine failure
+Type:Boeing 747-436 FlightNumber:  34 Date:Sunday 22 December 2013 Casualties:0  Reason:Unknown
+Type:Airbus A319-131 FlightNumber:Unknown Date:Friday 24 May 2013 Casualties:0  Reason:Forced landing on runway
+Type:Boeing 777-236ER FlightNumber:  38 Date:Thursday 17 January 2008 Casualties:0  Reason:Forced landing outside airport
+Type:Boeing 777-236ER FlightNumber:2019 Date:Wednesday 5 September 2001 Casualties:0  Reason:Unknown
+Type:Boeing 747-436 FlightNumber:Unknown Date:Friday 29 December 2000 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:A�rospatiale / BAC Concorde 102 FlightNumber:   1 Date:Saturday 21 March 1992 Casualties:0  Reason:Unknown
+Type:Boeing 747-136 FlightNumber:Unknown Date:Monday 18 February 1991 Casualties:0  Reason:Destroyed on ground
+Type:Boeing 747 FlightNumber:Unknown Date:Thursday 22 March 1984 Casualties:0  Reason:Hijack
+Type:Boeing 747-236B FlightNumber: 009 Date:Thursday 24 June 1982 Casualties:0  Reason:Unknown
+Type:Hawker Siddeley HS-121 Trident 3B FlightNumber: 475 Date:Friday 10 September 1976 Casualties:63  Reason:Mid air collisionLoss of control
+Type:Hawker Siddeley HS-121 Trident 1E FlightNumber: 552 Date:Monday 15 September 1975 Casualties:0  Reason:Runway excursion
+Type:Boeing 747-136 FlightNumber:Unknown Date:Friday 16 May 1975 Casualties:0  Reason:Forced landing on runway
+Type:BAC One-Eleven FlightNumber:Unknown Date:Tuesday 7 January 1975 Casualties:0  Reason:Unknown
+Type:Vickers VC-10-1151 FlightNumber:Unknown Date:Friday 22 November 1974 Casualties:1  Reason:Unknown
+Type:Lockheed 14-WF62 Super Electra FlightNumber:Unknown Date:Monday 15 January 1940 Casualties:0  Reason:Unknown
+Type:Lockheed 14-WF62 Super Electra FlightNumber:Unknown Date:Tuesday 22 November 1938 Casualties:2  Reason:Unknown
+Type:de Havilland DH.86A Express FlightNumber:Unknown Date:Tuesday 15 September 1936 Casualties:3  Reason:Unknown
+Type:de Havilland DH.86 Express FlightNumber:Unknown Date:Wednesday 12 August 1936 Casualties:2  Reason:Unknown
+Type:Airbus A330-321 FlightNumber: 679 Date:Sunday 8 September 2013 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-4D7 FlightNumber: 114 Date:Saturday 3 March 2001 Casualties:1  Reason:Unknown
+Type:Airbus A310-204 FlightNumber: 261 Date:Friday 11 December 1998 Casualties:101  Reason:Loss of situational awarenessLoss of control
+Type:Airbus A300B4-103 FlightNumber:Unknown Date:Saturday 22 October 1994 Casualties:0  Reason:Unknown
+Type:Airbus A310-304 FlightNumber: 311 Date:Friday 31 July 1992 Casualties:113  Reason:Navigational errorControlled Flight Into Terrain (CFIT) - Mountain
+Type:Airbus A300 FlightNumber:Unknown Date:Saturday 10 November 1990 Casualties:0  Reason:Hijack
+Type:Boeing 737-2P5 FlightNumber: 365 Date:Monday 31 August 1987 Casualties:83  Reason:Loss of control
+Type:Hawker Siddeley HS-748-243 Srs. 2 FlightNumber:Unknown Date:Tuesday 28 April 1987 Casualties:0  Reason:Unknown
+Type:Airbus A300B4-601 FlightNumber: 620 Date:Sunday 26 October 1986 Casualties:0  Reason:Unknown
+Type:Shorts 330-200 FlightNumber:Unknown Date:Tuesday 18 January 1983 Casualties:0  Reason:Unknown
+Type:Hawker Siddeley HS-748-243 Srs. 2 FlightNumber:Unknown Date:Saturday 21 June 1980 Casualties:0  Reason:Runway excursion
+Type:Hawker Siddeley HS-748-207 Srs. 2 FlightNumber: 231 Date:Sunday 27 April 1980 Casualties:44  Reason:Unknown
+Type:Douglas DC-8-33 FlightNumber:Unknown Date:Thursday 10 May 1973 Casualties:0  Reason:Runway excursion
+Type:Douglas C-47A-DL (DC-3) FlightNumber:Unknown Date:Friday 7 May 1971 Casualties:0  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle III FlightNumber:Unknown Date:Wednesday 9 July 1969 Casualties:0  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle IA FlightNumber:Unknown Date:Sunday 21 January 1968 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-DL (DC-3) FlightNumber: 002 Date:Monday 25 December 1967 Casualties:4  Reason:Unknown
+Type:Sud Aviation SE-210 Caravelle III FlightNumber: 601 Date:Friday 30 June 1967 Casualties:24  Reason:Unknown
+Type:Airbus A320-232 FlightNumber:TK1878 Date:Saturday 25 April 2015 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-8F2 (WL) FlightNumber:1754 Date:Wednesday 5 January 2011 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Airbus A310-304F FlightNumber:6417 Date:Sunday 31 October 2010 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-8F2 FlightNumber:1951 Date:Wednesday 25 February 2009 Casualties:9  Reason:Loss of control
+Type:Boeing 737-4Y0 FlightNumber:1476 Date:Tuesday 3 October 2006 Casualties:0  Reason:Hijack
+Type:Airbus A310-304 FlightNumber: 160 Date:Friday 28 March 2003 Casualties:0  Reason:Hijack
+Type:Airbus A310-304 FlightNumber: 143 Date:Friday 7 February 2003 Casualties:0  Reason:HijackPlane stormed
+Type:Avro RJ.100 FlightNumber:634 Date:Wednesday 8 January 2003 Casualties:75  Reason:Controlled Flight Into Terrain (CFIT) - Ground
+Type:Boeing 737-4Q8 FlightNumber:5904 Date:Wednesday 7 April 1999 Casualties:6  Reason:IcingLoss of control
+Type:Boeing 737-4Y0 FlightNumber: 487 Date:Thursday 29 October 1998 Casualties:1  Reason:HijackHijacker(s) overpowered by occupants
+Type:Airbus A310-203 FlightNumber: 145 Date:Monday 14 September 1998 Casualties:0  Reason:Hijack
+Type:Avro RJ.100 FlightNumber:Unknown Date:Monday 23 February 1998 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Avro RJ.100 FlightNumber:  74 Date:Sunday 11 January 1998 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-4Q8 FlightNumber: 413 Date:Saturday 27 August 1994 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-4Y0 FlightNumber: 278 Date:Thursday 29 December 1994 Casualties:57  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Avro RJ.70 FlightNumber: 774 Date:Saturday 22 April 2000 Casualties:0  Reason:Runway excursion
+Type:Airbus A330-303 FlightNumber:TK726 Date:Wednesday 4 March 2015 Casualties:0  Reason:Runway excursion
+Type:Airbus A380-842 FlightNumber:  32 Date:Thursday 4 November 2010 Casualties:0  Reason:Uncontained engine failureForced landing on runway
+Type:Airbus A330-303 FlightNumber:  72 Date:Tuesday 7 October 2008 Casualties:0  Reason:Unknown
+Type:Boeing 747-438 FlightNumber:  30 Date:Friday 25 July 2008 Casualties:0  Reason:Forced landing on runway
+Type:Boeing 747-438 FlightNumber:   1 Date:Thursday 23 September 1999 Casualties:0  Reason:Runway excursion
+Type:Lockheed C-56B-LO Lodestar FlightNumber:Unknown Date:Friday 26 November 1943 Casualties:15  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Lockheed L-1049G Super Constellation FlightNumber:Unknown Date:Wednesday 24 August 1960 Casualties:0  Reason:Runway excursion
+Type:Avro 691 Lancastrian 1 FlightNumber:Unknown Date:Thursday 7 April 1949 Casualties:0  Reason:Unknown
+Type:Lockheed 14-H2 Super Electra FlightNumber:Unknown Date:Wednesday 22 January 1947 Casualties:0  Reason:Unknown
+Type:Short S.23 Empire Flying Boat FlightNumber:Unknown Date:Wednesday 11 October 1944 Casualties:1  Reason:Unknown
+Type:de Havilland DH.86 Express FlightNumber:Unknown Date:Monday 9 October 1944 Casualties:0  Reason:Unknown
+Type:Short S.33 Empire Flying Boat FlightNumber:Unknown Date:Tuesday 18 January 1944 Casualties:0  Reason:Unknown
+Type:de Havilland DH.86 Express FlightNumber:Unknown Date:Friday 20 February 1942 Casualties:9  Reason:Unknown
+Type:de Havilland DH.86 Express FlightNumber:Unknown Date:Thursday 15 November 1934 Casualties:4  Reason:Unknown
+Type:Harbin Yunshuji Y-12 II FlightNumber:Unknown Date:Tuesday 26 May 1998 Casualties:28  Reason:Unknown
+Type:Harbin Yunshuji Y-12 II FlightNumber:Unknown Date:Tuesday 10 June 1997 Casualties:7  Reason:Windshear/downdraftLoss of control
+Type:Antonov 26 FlightNumber:Unknown Date:Friday 23 April 1993 Casualties:32  Reason:Unknown
+Type:Harbin Yunshuji Y-12 II FlightNumber:Unknown Date:Saturday 5 December 1992 Casualties:-1 Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Friday 26 January 1990 Casualties:30  Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Friday 23 January 1987 Casualties:-1 Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Saturday 25 June 1983 Casualties:-1 Reason:Unknown
+Type:Antonov 2R FlightNumber:Unknown Date:Saturday 31 October 1981 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Tuesday 1 May 1979 Casualties:-1 Reason:Unknown
+Type:Antonov 24B FlightNumber:Unknown Date:Monday 17 September 1973 Casualties:-1 Reason:Unknown
+Type:Antonov 24RV FlightNumber:Unknown Date:Thursday 21 September 1995 Casualties:42  Reason:Unknown
+Type:Ilyushin 14 FlightNumber:Unknown Date:Sunday 4 August 1963 Casualties:-1 Reason:Unknown
+Type:Boeing 777-312ER FlightNumber:Unknown Date:Monday 27 June 2016 Casualties:0  Reason:Unknown
+Type:Boeing 747-412 FlightNumber: 286 Date:Wednesday 12 March 2003 Casualties:0  Reason:TailstrikeForced landing on runway
+Type:Boeing 747-412 FlightNumber: 006 Date:Tuesday 31 October 2000 Casualties:83  Reason:Landing or takeoff on wrong runway
+Type:Learjet 31 FlightNumber:Unknown Date:Monday 21 July 1997 Casualties:2  Reason:Navigational errorControlled Flight Into Terrain (CFIT) - Mountain
+Type:Airbus A310 FlightNumber: 117 Date:Monday 25 March 1991 Casualties:4  Reason:HijackPlane stormed
+Type:Boeing 707 FlightNumber:Unknown Date:Tuesday 22 March 1977 Casualties:0  Reason:Unknown
+Type:Fokker F-27 Friendship 500 FlightNumber:Unknown Date:Tuesday 23 November 1971 Casualties:0  Reason:Unknown
+Type:Britten-Norman BN-2A Islander FlightNumber:Unknown Date:Friday 5 December 1969 Casualties:0  Reason:Unknown
+Type:Scottish Aviation Twin Pioneer 1 FlightNumber:Unknown Date:Wednesday 17 May 1967 Casualties:-1 Reason:Unknown
+Type:Scottish Aviation Twin Pioneer 1 FlightNumber:Unknown Date:Sunday 5 March 1967 Casualties:-1 Reason:Unknown
+Type:Douglas C-47A-1-DK (DC-3) FlightNumber:Unknown Date:Monday 30 January 1967 Casualties:-1 Reason:Unknown
+Type:Boeing 737-9GPER (WL) FlightNumber: 361 Date:Saturday 1 February 2014 Casualties:0  Reason:Unknown
+Type:Boeing 737-8GP (WL) FlightNumber: 904 Date:Saturday 13 April 2013 Casualties:0  Reason:Unknown
+Type:Boeing 737-4Y0 FlightNumber: 712 Date:Tuesday 2 November 2010 Casualties:0  Reason:Runway excursion
+Type:McDonnell Douglas MD-90-30 FlightNumber: 793 Date:Monday 9 March 2009 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-82 FlightNumber:8987 Date:Saturday 4 March 2006 Casualties:0  Reason:Runway excursion
+Type:Learjet 35A FlightNumber:Unknown Date:Friday 28 January 2005 Casualties:0  Reason:Runway excursion
+Type:McDonnell Douglas MD-82 FlightNumber: 583 Date:Tuesday 30 November 2004 Casualties:25  Reason:Runway excursion
+Type:Boeing 737-291 FlightNumber: 386 Date:Monday 14 January 2002 Casualties:0  Reason:Wrong takeoff configuration (flaps/trim)Runway excursion
+Type:Hawker Siddeley HS-125-700A FlightNumber:Unknown Date:Wednesday 20 December 2000 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-4Y0 FlightNumber: 792 Date:Sunday 24 December 2006 Casualties:0  Reason:Unknown
+Type:Embraer EMB-145LI (ERJ-145LI) FlightNumber:2947 Date:Friday 7 June 2013 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-11 FlightNumber: 586 Date:Friday 11 September 1998 Casualties:0  Reason:Forced landing on runway
+Type:Airbus A300? FlightNumber:5915 Date:Monday 22 December 1997 Casualties:1  Reason:HijackHijacker(s) overpowered by occupants
+Type:Airbus A300B4-605R FlightNumber:Unknown Date:Thursday 3 August 1995 Casualties:-1 Reason:Unknown
+Type:unknown FlightNumber:Unknown Date:Saturday 29 January 1994 Casualties:-1 Reason:Unknown
+Type:Fokker 100 FlightNumber:Unknown Date:Saturday 27 November 1993 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Xian Yunshuji Y-7 FlightNumber:Unknown Date:Monday 24 April 1989 Casualties:1  Reason:HijackHijacker(s) overpowered by occupants
+Type:McDonnell Douglas MD-11 FlightNumber: 583 Date:Tuesday 6 April 1993 Casualties:2  Reason:Unknown
+Type:McDonnell Douglas MD-82 FlightNumber:5398 Date:Tuesday 26 October 1993 Casualties:2  Reason:Runway excursion
+Type:Boeing 737-2T4 FlightNumber:Unknown Date:Wednesday 12 March 2003 Casualties:0  Reason:Unknown
+Type:Boeing 737 FlightNumber:8336 Date:Friday 10 May 2002 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 737 FlightNumber:8502 Date:Saturday 12 June 1999 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 757-25C FlightNumber:8306 Date:Friday 15 November 1996 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 737 FlightNumber:Unknown Date:Tuesday 28 December 1993 Casualties:0  Reason:Hijack
+Type:Boeing 737 FlightNumber:Unknown Date:Friday 5 November 1993 Casualties:0  Reason:Hijack
+Type:Boeing 737-2T4 FlightNumber:Unknown Date:Thursday 24 June 1993 Casualties:0  Reason:Hijack
+Type:Boeing 737 FlightNumber:Unknown Date:Monday 29 October 1990 Casualties:-1 Reason:Unknown
+Type:Boeing 737-247 FlightNumber:Unknown Date:Thursday 12 May 1988 Casualties:0  Reason:Hijack
+Type:de Havilland Canada DHC-6 Twin Otter 300 FlightNumber:Unknown Date:Sunday 9 June 1991 Casualties:0  Reason:Unknown
+Type:de Havilland Canada DHC-6 Twin Otter 300 FlightNumber:Unknown Date:Saturday 22 December 1984 Casualties:15  Reason:Unknown
+Type:de Havilland Canada DHC-6 Twin Otter 300 FlightNumber:Unknown Date:Monday 15 October 1973 Casualties:0  Reason:Unknown
+Type:de Havilland Canada DHC-6 Twin Otter FlightNumber:Unknown Date:Sunday 10 June 1973 Casualties:0  Reason:HijackHijacker(s) escaped
+Type:Fokker F-27 Friendship 200 FlightNumber:Unknown Date:Sunday 25 January 1970 Casualties:1  Reason:Unknown
+Type:de Havilland Canada DHC-6 Twin Otter 300 FlightNumber:Unknown Date:Thursday 27 July 2000 Casualties:25  Reason:Unknown
+Type:de Havilland Canada DHC-6 Twin Otter 300 FlightNumber:Unknown Date:Monday 19 April 2010 Casualties:0  Reason:Unknown
+Type:Douglas C-47-DL (DC-3) FlightNumber:Unknown Date:Wednesday 1 August 1962 Casualties:10  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Douglas C-47A-80-DL (DC-3) FlightNumber:Unknown Date:Saturday 5 November 1960 Casualties:4  Reason:Unknown
+Type:Airbus A330-323 FlightNumber:Unknown Date:Sunday 28 August 2016 Casualties:0  Reason:Unknown
+Type:Airbus A320-232 FlightNumber:OZ162 Date:Tuesday 14 April 2015 Casualties:0  Reason:Unknown
+Type:Boeing 777-28EER FlightNumber: 214 Date:Saturday 6 July 2013 Casualties:3  Reason:Unknown
+Type:Airbus A321-231 FlightNumber:OZ340 Date:Tuesday 16 April 2013 Casualties:0  Reason:Tailstrike
+Type:Boeing 747-48EF FlightNumber: 991 Date:Thursday 28 July 2011 Casualties:2  Reason:Loss of control
+Type:Airbus A321-231 FlightNumber:1125 Date:Wednesday 28 October 2009 Casualties:0  Reason:Tailstrike
+Type:Boeing 737-5L9 FlightNumber: 733 Date:Monday 26 July 1993 Casualties:68  Reason:Controlled Flight Into Terrain (CFIT) - Mountain
+Type:Boeing 767-38E FlightNumber: 833 Date:Thursday 16 January 1992 Casualties:0  Reason:Unknown
+Type:Airbus A330-342 FlightNumber: 780 Date:Tuesday 13 April 2010 Casualties:0  Reason:Forced landing on runway
+Type:Airbus FlightNumber:Unknown Date:Monday 31 July 2000 Casualties:0  Reason:Hijack
+Type:Convair CV-880-22M-21 FlightNumber: 700Z Date:Thursday 15 June 1972 Casualties:81  Reason:SabotageLoss of control
+Type:Douglas C-54A-10-DC (DC-4) FlightNumber:Unknown Date:Friday 23 July 1954 Casualties:10  Reason:Shot down by aircraftDitching
+Type:Convair CV-880-22M-3 FlightNumber: 033 Date:Sunday 5 November 1967 Casualties:1  Reason:Runway excursion
+Type:Douglas C-47A-30-DK (DC-3) FlightNumber:Unknown Date:Tuesday 13 September 1949 Casualties:0  Reason:Unknown
+Type:Douglas C-47A-90-DL (DC-3) FlightNumber:Unknown Date:Thursday 24 February 1949 Casualties:23  Reason:Unknown
+Type:Consolidated PBY-5A Catalina FlightNumber:Unknown Date:Saturday 17 July 1948 Casualties:25  Reason:HijackLoss of control
+Type:Boeing 737-8H6 (WL) FlightNumber:MH2718 Date:Saturday 8 April 2017 Casualties:0  Reason:Unknown
+Type:Airbus A330-343 FlightNumber:MH147 Date:Saturday 14 March 2015 Casualties:0  Reason:Unknown
+Type:Boeing 777-2H6ER FlightNumber:MH17 Date:Thursday 17 July 2014 Casualties:298  Reason:Shot down from the groundLoss of control (presumed)
+Type:Fokker 50 FlightNumber:2133 Date:Friday 15 September 1995 Casualties:34  Reason:Unknown
+Type:Fokker 50 FlightNumber:Unknown Date:Wednesday 2 September 1992 Casualties:0  Reason:Unknown
+Type:Airbus A330-322 FlightNumber: 085 Date:Wednesday 15 March 2000 Casualties:0  Reason:Unknown
+Type:Boeing 777-2H6ER FlightNumber:MH370 Date:Saturday 8 March 2014 Casualties:239  Reason:Unknown
+Type:McDonnell Douglas MD-11F FlightNumber:5X61 Date:Monday 6 June 2016 Casualties:0  Reason:Runway excursion
+Type:Airbus A300F4-622R FlightNumber:1354 Date:Wednesday 14 August 2013 Casualties:2  Reason:Insufficient rest / fatigueControlled Flight Into Terrain (CFIT) - Ground
+Type:Boeing 747-44AF (SCD) FlightNumber:   6 Date:Friday 3 September 2010 Casualties:2  Reason:Loss of control
+Type:McDonnell Douglas DC-8-71F FlightNumber:1307 Date:Wednesday 8 February 2006 Casualties:0  Reason:Cargo fire/smokeForced landing on runway
+Type:McDonnell Douglas MD-11F FlightNumber:6971 Date:Tuesday 7 June 2005 Casualties:0  Reason:Unknown
+Type:Boeing 767-34AF FlightNumber: 774 Date:Friday 11 September 1998 Casualties:0  Reason:Runway excursion
+Type:Swearingen SA227-AT Expeditor IV FlightNumber:Unknown Date:Thursday 31 January 1985 Casualties:0  Reason:Unknown
+Type:Boeing 757-200 FlightNumber:6901 Date:Friday 7 March 2008 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 737-3Y0 FlightNumber:8877 Date:Wednesday 9 June 1999 Casualties:0  Reason:Runway excursion
+Type:Boeing 737-31B FlightNumber:3456 Date:Thursday 8 May 1997 Casualties:35  Reason:Runway excursion
+Type:Boeing 737 FlightNumber:Unknown Date:Tuesday 7 June 1994 Casualties:-1 Reason:Unknown
+Type:Boeing 757-21B FlightNumber:Unknown Date:Tuesday 6 April 1993 Casualties:0  Reason:Hijack
+Type:Boeing 737-3Y0 FlightNumber:3943 Date:Tuesday 24 November 1992 Casualties:141  Reason:Loss of control
+Type:Boeing 767-219ER FlightNumber:Unknown Date:Sunday 8 December 2002 Casualties:0  Reason:Unknown
+Type:Boeing 767-219ER FlightNumber:Unknown Date:Saturday 9 March 1991 Casualties:0  Reason:TurbulenceRunway excursion
+Type:Boeing 747-219B FlightNumber:  24 Date:Tuesday 19 May 1987 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:McDonnell Douglas DC-10-30 FlightNumber: 901 Date:Wednesday 28 November 1979 Casualties:257  Reason:Low visibilityControlled Flight Into Terrain (CFIT) - Mountain
+Type:Fokker F-27 Friendship 500 FlightNumber:4374 Date:Saturday 17 February 1979 Casualties:2  Reason:Controlled Flight Into Terrain (CFIT) - Water
+Type:Douglas DC-8-52 FlightNumber:Unknown Date:Monday 4 July 1966 Casualties:2  Reason:Simulated engine failureLoss of control
+Type:Boeing 777-31H FlightNumber:EK521 Date:Wednesday 3 August 2016 Casualties:0  Reason:Unknown
+Type:Airbus A340-541 FlightNumber: 407 Date:Friday 20 March 2009 Casualties:0  Reason:Wrong takeoff configuration (flaps/trim)Forced landing on runway
+Type:Lockheed C-130H Hercules FlightNumber:Unknown Date:Tuesday 5 August 2008 Casualties:0  Reason:Unknown
+Type:Airbus A300C4-620 FlightNumber:Unknown Date:Wednesday 24 March 1999 Casualties:0  Reason:Runway excursion
+Type:Douglas DC-7CF FlightNumber:Unknown Date:Monday 4 October 1976 Casualties:4  Reason:Unknown
+Type:Airbus A330-243 FlightNumber:Unknown Date:Tuesday 24 July 2001 Casualties:0  Reason:Destroyed on ground
+Type:Airbus A330-243 FlightNumber:Unknown Date:Tuesday 24 July 2001 Casualties:0  Reason:Destroyed on ground
+Type:Airbus A330-243 FlightNumber:Unknown Date:Tuesday 24 July 2001 Casualties:0  Reason:Destroyed on ground
+Type:Airbus A340-312 FlightNumber:Unknown Date:Tuesday 24 July 2001 Casualties:0  Reason:Destroyed on ground
+Type:Airbus A320-231 FlightNumber:Unknown Date:Tuesday 24 July 2001 Casualties:0  Reason:Destroyed on ground
+Type:ATR-42-320F FlightNumber:2900 Date:Saturday 19 October 2013 Casualties:0  Reason:Runway excursion
+Type:Fokker F-28 Fellowship 4000 FlightNumber:PX162 Date:Tuesday 30 March 1999 Casualties:0  Reason:Runway excursion
+Type:Fokker F-28 Fellowship 1000 FlightNumber:Unknown Date:Sunday 16 November 1997 Casualties:0  Reason:Unknown
+Type:Fokker F-28 Fellowship 1000 FlightNumber: 128 Date:Wednesday 31 May 1995 Casualties:0  Reason:Unknown
+Type:Airbus A300B4-203 FlightNumber:   3 Date:Thursday 4 July 1985 Casualties:0  Reason:Hijack
+Type:Boeing 767-324ER FlightNumber:Unknown Date:Tuesday 19 September 2000 Casualties:0  Reason:Unknown
+Type:Tupolev 134B-3 FlightNumber: 815 Date:Wednesday 3 September 1997 Casualties:65  Reason:Loss of control
+Type:Tupolev 134B-3 FlightNumber:Unknown Date:Saturday 16 November 1996 Casualties:0  Reason:Unknown
+Type:Airbus A310-300 FlightNumber: 850 Date:Friday 4 September 1992 Casualties:0  Reason:Unknown
+Type:Tupolev 134AK-1 FlightNumber:Unknown Date:Saturday 12 January 1991 Casualties:0  Reason:Unknown
+Type:Boeing 737-8HG (WL) FlightNumber: 812 Date:Saturday 22 May 2010 Casualties:158  Reason:Runway excursion
+Type:Fokker 70 FlightNumber: 111 Date:Monday 5 January 2004 Casualties:0  Reason:IcingPrecipitation-induced flame-outForced landing outside airport
+Type:McDonnell Douglas MD-87 FlightNumber: 104 Date:Tuesday 7 January 1997 Casualties:0  Reason:HijackPlane stormed
+Type:Sud Aviation SE-210 Caravelle VIR FlightNumber:Unknown Date:Saturday 21 February 1970 Casualties:0  Reason:SabotageForced landing on runway
+Type:Vickers 837 Viscount FlightNumber: 901 Date:Monday 26 September 1960 Casualties:31  Reason:Unknown
+Type:McDonnell Douglas DC-9 FlightNumber: 509 Date:Tuesday 20 May 1986 Casualties:0  Reason:HijackPlane stormed
+Type:Sud Aviation SE-210 Caravelle 10B3 FlightNumber: 405 Date:Saturday 30 September 1978 Casualties:0  Reason:Hijack
+Type:McDonnell Douglas DC-9-14 FlightNumber:Unknown Date:Tuesday 29 June 1971 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Boeing 737-95R FlightNumber:9W354 Date:Thursday 3 March 2016 Casualties:0  Reason:Unknown
+Type:Boeing 727-225F FlightNumber: 620 Date:Wednesday 24 March 2010 Casualties:0  Reason:Runway excursion
+Type:ATR-72-212A (ATR-72-500) FlightNumber:3307 Date:Sunday 1 July 2007 Casualties:0  Reason:Unknown
+Type:Dornier 328Jet FlightNumber:Unknown Date:Monday 7 November 2005 Casualties:0  Reason:Unknown
+Type:Boeing 737-4Q8 FlightNumber:Unknown Date:Sunday 10 March 1996 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Tupolev 154M FlightNumber:Unknown Date:Thursday 30 September 1993 Casualties:0  Reason:Hijack
+Type:Embraer EMB-145LR (ERJ-145LR) FlightNumber: 434 Date:Friday 24 January 2003 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:McDonnell Douglas MD-11 FlightNumber: 316 Date:Tuesday 20 November 2001 Casualties:0  Reason:Unknown
+Type:McDonnell Douglas MD-11 FlightNumber:Unknown Date:Monday 22 May 2000 Casualties:0  Reason:Unknown
+Type:Xian MA60 FlightNumber:JR1529 Date:Sunday 10 May 2015 Casualties:0  Reason:Unknown
+Type:Xian MA60 FlightNumber:1533 Date:Tuesday 4 February 2014 Casualties:0  Reason:Unknown
+Type:NAMC YS-11A-213 FlightNumber: 354 Date:Wednesday 16 February 2000 Casualties:0  Reason:Runway excursion
+Type:Airbus A320-216 FlightNumber:QZ8501 Date:Sunday 28 December 2014 Casualties:162  Reason:Unknown
+Type:Boeing 737 or 757 FlightNumber:Unknown Date:Monday 28 October 2002 Casualties:0  Reason:HijackHijacker(s) overpowered by occupants
+Type:Embraer ERJ 190-100 LR  (ERJ-190LR) FlightNumber:7554 Date:Friday 29 June 2012 Casualties:2  Reason:HijackHijacker(s) overpowered by occupants
+Type:Learjet 23 FlightNumber:Unknown Date:Thursday 6 May 1982 Casualties:4  Reason:Loss of control
+Type:de Havilland Canada DHC-8-402 Q400 FlightNumber: 502 Date:Sunday 12 August 2007 Casualties:0  Reason:Runway excursion
+Type:Tupolev 154B-2 FlightNumber:Unknown Date:Tuesday 15 August 2006 Casualties:0  Reason:Unknown
+Type:Embraer ERJ 190-100 IGW (ERJ-190AR) FlightNumber: 369 Date:Friday 17 August 2012 Casualties:0  Reason:Runway excursion
+Type:Boeing 747-281F(SCD) FlightNumber:  62 Date:Wednesday 22 October 2003 Casualties:0  Reason:Tailstrike
