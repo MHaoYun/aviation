@@ -1,10 +1,18 @@
+#coding=utf-8
+#!/usr/bin/python3
 import requests
 import json
 import datetime
 import time
-import demjson
 import threading
+import urllib
 from bs4 import BeautifulSoup
+import sys
+import codecs
+import importlib
+importlib.reload(sys)
+sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
+print('中文')
 '''cityAb=['bjs', 'sha', 'can', 'szx', 'ctu', 'hgh', 'wuh', 'sia', 'ckg',
                'tao', 'csx', 'nkg', 'xmn', 'kmg', 'dlc', 'tsn', 'cgo', 'syx',
                'tna', 'foc', 'cgq', 'hrb', 'het', 'nng', 'khn', 'hak', 'lxa',
@@ -50,7 +58,7 @@ def getCities():
 					jsonText = jsonText[abPos1:]
 					cityName.append(vCityName)
 					cityAb.append(vCityAb)
-					file.write(vCityName+' '+vCityAb+'\n')
+					file.write(vCityName+' '+vCityAb+'\r\n')
 				file.close()
 			else:
 				print('request fail error code is '+str(requests_object.status_code)+ ' ' + str(page))
@@ -87,12 +95,16 @@ def crawler(dcId,acId,sDate):
 	#print(f"responseTime = {datetime.datetime.now()}, statusCode = {res.status_code}, res text = {res.text}")
 	text=res.text.replace('null','""')
 	jjj=json.loads(text)
-	file = open(cityName[dcId]+'jb.txt','w',encoding='utf-8')
+	inpath=cityName[dcId]+'jb.txt'
+	uipath=str(inpath).encode("utf-8")
+	file = open(uipath,'w',encoding='utf-8')
 	file.write(json.dumps(jjj, ensure_ascii=False,indent=2))
 	file.close()
 	i=0
-	file = open('cities/'+sDate+'/'+cityName[dcId]+'.txt','a',encoding='utf-8')
-	file.write('到'+cityName[acId]+':\n')
+	inpath='cities/'+sDate+'/'+cityName[dcId]+'.txt'
+	uipath=str(inpath).encode("utf-8")
+	file = open(uipath,'a',encoding='utf-8')
+	file.write('到'+cityName[acId]+':\r\n')
 	try:
 		while jjj != None and jjj['data']['routeList'] != None:
 			if len(jjj['data']['routeList'])>i:
@@ -115,7 +127,7 @@ def crawler(dcId,acId,sDate):
 					file.write(time)
 					file.write(' 延误率：'+jjj['data']['routeList'][i]['legs'][0]['flight']['punctualityRate'])
 					file.write(' 餐食类型：'+jjj['data']['routeList'][i]['legs'][0]['flight']['mealType'])
-					file.write('\n')
+					file.write('\r\n')
 				i+=1
 			else:
 				break
@@ -126,10 +138,12 @@ def crawler(dcId,acId,sDate):
 def start():
 	depCityId=0
 	arrCityId=0
-	searchDate="2019-04-09"
+	searchDate="2019-04-10"
 	getCities()
-	while depCityId<len(cityAb) and depCityId<100:
-		file = open('cities/'+searchDate+'/'+cityName[depCityId]+'.txt','w',encoding='utf-8')
+	while depCityId<len(cityAb) and depCityId<285:
+		inpath='cities/'+searchDate+'/'+cityName[depCityId]+'.txt'
+		uipath=str(inpath).encode("utf-8")
+		file = open(uipath,'w',encoding='utf-8')
 		file.close()
 		time.sleep(5)
 		while arrCityId<len(cityAb) and arrCityId<285:
