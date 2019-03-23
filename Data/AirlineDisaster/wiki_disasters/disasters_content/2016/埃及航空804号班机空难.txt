@@ -1,0 +1,423 @@
+
+本條目需要擴充。 (2016年5月19日)请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}埃及航空804号班机空难
+失事飛機SU-GCC，攝於2015阿塔蒂尔克国际机场概要日期
+2016年5月19日摘要
+机舱失火，调查中地點
+ 埃及地中海領空28°29′50.8″N 33°57′35.1″E﻿ / ﻿28.497444°N 33.959750°E﻿ / 28.497444; 33.959750坐标：28°29′50.8″N 33°57′35.1″E﻿ / ﻿28.497444°N 33.959750°E﻿ / 28.497444; 33.959750乘客
+56機組人員
+10受傷
+0死亡
+66生還者
+0機型
+空客A320-232R操作人員
+埃及航空註冊編號
+SU-GCC起飛地
+ 法国巴黎戴高乐机场目的地
+ 埃及开罗国际机场
+埃及航空804號班機（MS804/MSR804）是埃及航空的定期國際航線班機，是法國巴黎至埃及開羅的航班代號。2016年5月18日執飛的航班在歐洲東部時間2016年5月19日2時45分從雷達上消失。當時，該航班已進入埃及空域約130公里處，飛行高度為37,000英呎（約11,000公尺）。隨後埃及民航局官員稱目前已經有理由相信在地中海失去聯絡的飛機已經在希臘喀帕蘇斯島附近墜毀[1][2][3]。
+
+目录
+
+1 失事班机情况
+2 乘客和机组
+
+2.1 机组人员
+2.2 乘客
+
+
+3 经过
+4 搜索和救援
+
+4.1 失事海域
+4.2 黑匣子
+
+
+5 调查
+6 另見
+7 備註
+8 参考资料
+9 外部連結
+
+
+失事班机情况[编辑]
+涉事飛機的型號為空中巴士A320-232，機身編號為SU-GCC，使用IAE V2527-A5引擎，於2003年7月25日進行試飛並於同年11月3日交由埃及航空營運[4]。截止至事故发生前，该客机机龄12年，飛行時數為6275小时。失事当天之前该飞机已执行五次航班飞行任务，分別飛到三個曾經受到恐怖攻擊或曾受到恐怖攻擊威脅的城市，第一趟是从厄立特里亚阿斯马拉国际机场，飞往开罗；第二趟是从开罗飞往突尼西亞-迦太基國際機場，然后执行回程航班任務；第四次則是由开罗飞往巴黎。
+
+乘客和机组[编辑]
+804号班机机组人员尚不明确，已知的訊息包括：机长有6275小时飛行經驗，其中A320为2101小时。副驾驶也有2766小时的飛行經驗。其他机组成员包括三名安全员与五名其他机组成员。乘客一共有56名，其中包括一名小孩与两名婴儿。[5]
+
+机组人员[编辑]
+机上有10名机组人员，其中3名是机上安全员，5名是乘务员，另有两名飞行员[6]。据埃及航空的官方数据，執飛當次航班的機長有6,275个小时的飞行经验，其中驾驶A320机型的有2,101个小时，而副機師也有4,000小時的經驗。
+
+乘客[编辑]
+机上共有来自12个国家的56名乘客，其中有1名儿童和2名婴儿[7][8]。
+埃及航空官方Twitter显示，该航班上共有56名旅客、7名机组人员和3名安全人员[9]。其国籍如下表所示:
+
+
+
+国籍
+乘客
+机组
+合计
+
+
+ 埃及
+30
+3
+33
+
+
+ 法国
+15
+0
+15
+
+
+ 伊拉克
+2
+0
+2
+
+
+ 英國[註 1][10]
+1
+0
+1
+
+
+ 比利時
+1
+0
+1
+
+
+ 苏丹
+1
+0
+1
+
+
+ 乍得
+1
+0
+1
+
+
+ 葡萄牙
+1
+0
+1
+
+
+ 阿尔及利亚
+1
+0
+1
+
+
+ 沙烏地阿拉伯
+1
+0
+1
+
+
+ 科威特
+
+1
+
+0
+
+1
+
+
+ 加拿大
+
+1
+
+0
+
+1
+
+
+未知
+
+0
+
+7
+
+7
+
+
+总计
+56
+10
+66
+
+经过[编辑]
+这班空客A320-232R客机（注册编号：SU-GCC）原定于2016年5月18日20时45分在巴黎夏尔·戴高乐机场起飞，并于第二日03时05分到达开罗国际机场[11]。实际在当晚09时11分离港，并于次日02时45分从雷达上消失[11]，飞机最后一次与控制塔联络仅在十分钟之前。但飞机并未按照规定在进入埃及领空时向控制塔汇报[12]。该飞机回传的最后一次ADS-B数据如下：
+高度：11277.6公尺，速度：976.004公里/小时，航迹角：119度，经纬度：28.297447967517，33.959762573242，当地时间：2016/05/19 上午08:27:06，更新时间：2016/05/19 上午08:28:42。[13]
+该机预定在3:05着陆。埃及军方最初说，他们在4:26，即飞机从雷达上消失2小时后，收到了求救訊号。但随后他们的官员又否认了这个说法。[14]
+希腊国防部部长曾宣称，根据希腊军方的雷达数据，804号班机在进入埃及飞行情报区后不久就转弯了。在高度37000英尺处，飞机先后向左转90度并右转360度。在此期间，飞机高度从37000英尺迅速下降至15000英尺。当飞机高度降至10000英尺后，飞机就从雷达上消失了。[15][16]5月23日，一名来自埃及国家空中导航服务公司（National Air Navigation Services Company）的埃及民航局官员又否认了这一说法。他同时宣称，该机在坠毁前并没有改变高度，也没有做出反常动作。[17]不过，埃及方面的雷达数据准确度可能不及希腊。[18]
+飞机制造商空中客车公司，在其Facebook页面上发表声明：“空中客车公司遗憾地证实，由埃及航空公司运营的A320飞机于02:30左右（埃及当地时间）在地中海失去联系。”
+
+
+
+
+
+绿线及黄线为MS804航班航线，红星处为航班ADS-B信号丢失地点。
+
+
+
+
+
+
+20:30到0:30期间埃及航空804号航班的高度（蓝线）及速率（橙线）。
+
+
+
+
+搜索和救援[编辑]
+失事海域[编辑]
+埃及和希臘方面都參與了搜救行動。埃及民航部表示，埃及海軍和希腊空军正在地中海上空的希臘空域搜尋埃及航空的失聯客機[11][19]。另一方面，埃及空軍亦配合搜救隊從雷達屏幕上搜尋失聯客機[19]。
+希腊派出了一架C-130运输机，一架EMB-145-H预警机以及一艘埃利级护卫舰参与搜索。[20] 英国和法国也都派出舰船和飞机参与搜索。[21] 美国海军则派出一架P-3猎户座海上巡逻机。
+[22]
+5月19日，埃及官方发布消息称，距离飞机消失位置以南80公里处，喀帕苏斯岛附近，发现疑似失事飞机的残骸。但埃及调查组随后确认表明，该碎片并非来自804航班[23]。埃及航空随后收回飞机残骸被找到的声明[24]。
+5月20日，埃及空军（英语：Egyptian Air Force）和海军在距离亚历山大港290公里的海面发现残骸，乘客遗体以及行李等私人物品。[25]
+欧洲航天局声称其在航班最后发出訊号位置的东南方约40公里处（33°32′N 29°13′E）探测到一条2公里长的浮油带。该浮油于5月19日被该局的哨兵-1A（英语：Sentinel-1A）型卫星探测到。[26]
+5月22日，埃及石油部（英语：Ministry of Petroleum (Egypt)）派出一艘遥控潜水器参加搜索行动。埃及总统称这艘遥控潜水器可於水下3000公尺深的地方展开工作。[27][28][29]根据埃及民航部首席调查员Ayman al-Moqadem的说法，这艘遥控潜水器不能探测黑匣子发出信号。[30]
+5月26日，据CNN报导，卫星探测到了发自机上紧急定位訊号发射器（英语：Emergency Locator Transmitter）（Emergency Locator Transmitter，下称ELT）的訊号，这个发现使调查人员将飞机主要残骸可能分布范围缩小为海床上一个直径5公里的圆形区域，也为黑盒子的搜寻工作提供了更具体的地点。[31][32]ELT可以在飞机坠海（或触地）后启动并发送紧急訊号。[33][34] 美国国家海洋和大气管理局称卫星在飞机失事后几分钟内接受到了这个信号。[35]
+埃方19日报道中提到的那个在失事2小时后接收到的紧急訊号，指的可能就是ELT发出的訊号，不过，这条消息已经被埃及航空否认了。[36][37]
+
+黑匣子[编辑]
+5月20日，法国海军派出载有声纳设备的巡逻艇出海寻找MS804航班的黑盒子，该舰于5月23日抵达可能的坠机地点。[38][39]这艘法国舰艇可释放一艘可於1000公尺深的水下探测黑盒子訊号的小型潜艇。[40]
+5月26日，埃及政府请求部分擅长开展深水搜索作业的法国和意大利公司协助搜索失事客机的黑盒子。[41]
+5月27日，据BEA称，法国海军又派出一艘海洋探测船拉普拉斯号（Laplace）前往失事海域搜索。[42] 拉普拉斯号有望于5月30日抵达。
+埃及政府已经委托深海搜索公司（英语：Deep Ocean Search）的约翰·莱斯布里奇号（John Lethbridge）参与搜寻。该船装备的一艘遥控潜水器可以在6000米深的水下探测信号并勘察海床。[43] [44][45]该船于5月28日离开爱尔兰海域，预计12天后到达，法国及埃及调查员将于亚历山大港登船。[46]
+6月1日，埃及民航部称拉普拉斯号已经探测到黑匣子坐标定位器发出的信号。[43][47]BEA也确认了这一消息，他们的发言人还说，他们已根据推测将一片海域定为优先搜索区域。[47]
+6月16日，埃及政府宣布约翰·莱斯布里奇号已经于水下13000英尺深处发现了座舱语音记录仪（CVR）。CVR部分损坏，不过存储部件依然完好。他们已将CVR送至亚历山大港。[48]次日，约翰·莱斯布里奇号取回了飞行数据记录器的一些部件。[49] 埃及民航部于6月19日宣布，在埃及军方的协助下，他们已经完成了对尚完好的存储部件的干燥并开始进行电子测试。[50] 6月21日，有官员透漏称CVR和FDR的存储部件都损坏了。[51][52] 在下载数据的尝试失败后[53]，埃及调查员于23日称他们将把黑匣子送至BEA。[54]6月27日，BEA将修好的飞行数据记录仪（FDR）送回开罗进行分析。
+[55][56]随后，修复完毕的驾驶舱语音记录也被送至开罗。[57]
+
+调查[编辑]
+@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%!important;clear:both!important;margin:0 0 0.8em!important;float:none!important}}
+ACARS 數據[58]
+
+
+00:26Z 3044 ANTI ICE R WINDOW
+00:26Z 561200 R SLIDING WINDOW SENSOR
+00:26Z 2600 SMOKE LAVATORY SMOKE
+00:27Z 2600 AVIONICS SMOKE
+00:28Z 561100 R FIXED WINDOW SENSOR
+00:29Z 2200 AUTO FLT FCU 2 FAULT
+00:29Z 2700 F/CTL SEC 3 FAULT
+
+
+
+希腊军方雷达显示，MS804航班在进入埃及飞行情报区时很快偏离航道，在高度37000英尺处，飞机先是向左转90度，紧接着又右转360度。在此期间，飞机高度从37000英尺迅速下降至15000英尺。当飞机高度降至10000英尺后，飞机就从雷达上消失了。5月23日，一名来自埃及国家空中导航服务公司（National Air Navigation Services Company）的埃及民航局官员又否认了这一说法。他同时宣称，该机在坠毁前并没有改变高度，也没有做出反常动作。
+与此同时，希腊国防部对一名声称在喀帕苏斯岛以南240处看到“有一团火焰从空中坠落”的船长开展调查工作。[59]埃及民航部长称，相较于机件故障，恐怖袭击导致飞机失事的可能性更大[60]。
+事故发生后不久，法国政府就开始对巴黎夏尔·戴高乐机场的安保是否存在过失展开调查。[61]
+5月20日，飞机的ACARS数据公布，在飛機失聯四分鐘前發出了7條警報。[58]这7条警報均发出于2:26至2:29之间，飞机于4分钟后的2:33失联。[58]两名分别接受过每日電訊報和澳洲人报采访的飞行员说根据数据来看该起事故可能是炸弹造成的。[62][63]航空国际杂志（英语：Flight International）引述航空专家大卫·利尔指，飞机的航电系统内可能曾经起火，[64] 而飞行员可能因忙于处理其它情况没有向空管求救。[65]
+法国调查分析局指出，在飞机的厕所和電動設備检测到了烟雾，機艙響起了煙霧警報，而駕駛艙右邊其中一隻窗曾經被人打開[66]。该警报也可能是被机舱剧烈失压产生的水雾触发的。[62]
+5月24日，埃方调查组的一名法医称，受害者遗体显示机上曾发生爆炸。[67]不过他的上级随后又否认了他的説法。[68]
+6月29日，埃及官员宣布，目前恢复的FDR数据显示，机上曾经起火。这些数据与飞机自动化系统发送的数据吻合。官员说，飞机残骸上有烟熏和暴露在高温下的痕迹。 数据也显示，飞行数据记录器和一个向地面发送故障信息的警报系统同时停止工作，FDR于37000英尺停止记录。[69][70][71]
+2016年12月，埃及民航部表示在一些遇難者遺體上發現爆炸物殘餘痕跡。[72]
+2017年1月，法国《巴黎人（英语：Le Parisien）》（Le Parisien）报纸援引调查者消息称，事件可能是由于飞行员驾驶舱内的iPhone手机起火引致。苹果公司后对此发表声明，认为此说法没有任何证据。[73]
+
+另見[编辑]
+埃及航空990号班机空难
+備註[编辑]
+
+^ 該名旅客同時擁有澳洲國籍。[10]
+
+
+参考资料[编辑]
+
+
+^ EgyptAir flight MS804 from Paris to Cairo crashed - Hollande. BBC. 2016-05-19  [2016-05-19]. 
+
+^ Lizzie Dearden. EgyptAir flight MS804 crash: Military searching for wreckage in Mediterranean Sea, officials say. The Independent. 2016-05-19  [2016-05-19]. 
+
+^ Natalie Evans. Egyptair flight MS804 missing: live updates as plane crash with 66 on board 'almost certainly caused by attack'. 每日鏡報網. 2016-05-19  [2016-05-19] （英国英语）. 
+
+^ EgyptAir SU-GCC. Airfleets.net.   [2016-05-19]. 
+
+^ Lizzie Dearden. EgyptAir flight MS804 crash: Military searching for wreckage in Mediterranean Sea, officials say. 英國獨立報. 2016-05-19  [2016-05-19]. 
+
+^ Walsh, Declan. EgyptAir Plane Disappears Over Mediterranean, Airline Says. 紐約時報. 2016-05-19  [2016-05-19] （美国英语）. 
+
+^ EgyptAir says flight from Paris to Cairo missing with 66 on board. Reuters. 2016-05-19  [2016-05-19]. 
+
+^ 埃及失联客机乘客国籍公布　没有中国公民. 中国新闻网. 2016-05-19  [2016-05-19]. 
+
+^ passengers' nationalities. 埃及航空. 2016-05-19  [2016-05-25] （英语）. 
+
+^ 10.0 10.1 EgyptAir flight MS804: What we know so far. 澳洲廣播公司.   [2016-05-23] （澳大利亚英语）. 
+
+^ 11.0 11.1 11.2 Faith Karimi and Hamdi Alkhshali. EgyptAir Flight 804 disappears. CNN. 2016-05-19  [2016-05-19]. 
+
+^ Nick Thompson; James Griffiths; Tiffany Ap. EgyptAir missing plane MS804: Live updates. CNN. 2016-05-19  [2016-05-19]. 
+
+^ Flight history for aircraft - SU-GCC. FlightRadar24. 2016-05-19  [2016-05-19]. 
+
+^ EgyptAir flight MS804 disappears from radar between Paris and Cairo – live updates. The Guardian. 2016-05-19  [2016-05-19]. 
+
+^ Π. Καμμένος: Στα 10.000 πόδια χάθηκε η εικόνα του airbus - Συνεχίζονται οι έρευνες [P. Kammenos: At 10,000 feet [was] lost the image of the Airbus - Ongoing investigation]. YouTube. 2016-05-19  [2016-05-19] （希腊语）. 
+
+^ EgyptAir flight MS804 crash: Plane 'swerved' suddenly before dropping off radar over Mediterranean Sea. 独立报. 2016-05-19  [2016-05-19]. 
+
+^ EgyptAir: Crashed flight MS804 'did not swerve'. BBC新聞網. 2016-05-23  [2016-05-23] （英国英语）. 
+
+^ Ahmed-Ullah, Noreen. EgyptAir 804: U of T forensic expert explains what we know so far. 多伦多大学. 2016-05-30  [2016-05-31]. 
+
+^ 19.0 19.1 埃希兩國空軍、埃及民航部正全力搜尋失聯客機. 俄羅斯衛星網. 2016-05-19  [2016-05-19]. 
+
+^ EgyptAir flight from Paris to Cairo disappears with 66 on board. Los Angeles Times. 2016-05-19  [2016-05-19]. 
+
+^ EgyptAir Jet Disappears Over Mediterranean Sea. Sky News. 2016-05-19  [2016-05-19]. 
+
+^ Thompson, Nick; Griffiths, James; Ap, Tiffany. EgyptAir missing plane MS804: Live updates. CNN. 2016-05-19  [2016-05-19]. 
+
+^ EgyptAir crash: Plane wreckage found near Greek island. BBC新闻. 2016-05-19  [2016-05-19] （英国英语）. 
+
+^ Pearson, Michael; Karimi, Faith; Lee, Ian. EgyptAir Flight 804: Greek official says debris not from plane, report. CNN. 2016-05-19  [2016-05-19]. 
+
+^ EgyptAir crash: 'Debris found' from flight MS804. BBC News. 2016-05-20  [2016-05-20]. 
+
+^ Sentinel-1A Spots Potential Oil Slick from Missing EgyptAir Plane. 欧洲航天局.   [2016-05-20]. 
+
+^ EgyptAir: Submarine searches for missing flight data recorders. BBC News. 2016-05-22  [2016-05-22]. 
+
+^ Egyptian submarine to visit plane crash site. CTV News. 美聯社. 2016-05-22  [2016-05-22]. 
+
+^ Egypt sends submarine to hunt for crashed EgyptAir jet. 路透社. 2016-05-22  [2016-05-22]. 
+
+^ Signals detected from EgyptAir Flight 804. NBC 11 News. 美联社. 2016-05-27  [2016-05-27]. 
+
+^ Sirgany, Sarah; Abdelaziz, Salma; Park, Madison. Report: Signals detected from EgyptAir Flight 804 in Mediterranean. CNN. 2016-05-26  [2016-05-26]. 
+
+^ El-Ghobashy, Tamer; Kholaif, Dahlia; Wall, Robert. Searchers Detect Emergency Signal of EgyptAir Plane. 华尔街日报. 2016-05-26  [2016-05-26]. 
+
+^ Sirgany, Sarah; Abdelaziz, Salma; Park, Madison. Report: Signals detected from EgyptAir Flight 804 in Mediterranean. CNN. 2016-05-26  [2016-05-26]. 
+
+^ El-Ghobashy, Tamer; Kholaif, Dahlia; Wall, Robert. Searchers Detect Emergency Signal of EgyptAir Plane. 华尔街日报. 2016-05-26  [2016-05-26]. 
+
+^ Distress signal from EgyptAir flight 804 confirmed by authorities in Cairo and US. 卫报. 2016-05-31. 
+
+^ http://www.bustle.com/articles/161783-did-egyptair-flight-ms804-send-out-a-distress-signal-there-are-mixed-reports-coming-from-egyptair
+
+^ Fahim, Kareem. Distress Signal Received From Missing Plane. 纽约时报. 2016-05-19  [2016-05-28]. 
+
+^ ABC News. EgyptAir 804 Black Boxes Remain Unrecovered: What We Know About the Hunt for Answers. ABC News.   [2016-05-23]. 
+
+^ Disparition du vol d’EgyptAir: La marine française mobilisée [The disappearance of the EgyptAir flight: The French Navy mobilises]. Mer et Marine. 2016-05-20  [2016-05-22] （法语）. 
+
+^ Pearson, Michael. EgyptAir Flight 804: Conflicting reports over final moments. CNN. 2016-05-24  [2016-05-24]. 
+
+^ Staff and agencies in Cairo. EgyptAir flight 804: deep-sea hunt for 'black boxes' as week passes since crash. 卫报. 2016-05-26  [2016-05-26]. 
+
+^ EgyptAir crash: French naval ship to join search. BBC. 2016-05-27  [2016-05-27]. 
+
+^ 43.0 43.1 Noueihed, Lin; Labbé, Chine; Williams, Alison. French vessel detects signals likely from EgyptAir jet black box. Cairo: Reuters. 2016-06-01  [2016-06-01]. 
+
+^ Viscusi, Gregory; Levin, Alan; Rothman, Andrea. Egypt brings in specialized deep search ship for Egyptair hunt. Chicago Tribune. Bloomberg News. 2016-05-28  [2016-05-29]. 
+
+^ French vessel joins EgyptAir black box search. Aljazeera. 2016-05-28  [2016-05-29]. 
+
+^ EgyptAir flight MS804: Black boxes impossible to recover before 12 days, investigators say. ABC News (Australia). 法新社. 2016-05-30  [2016-05-30]. 
+
+^ 47.0 47.1 EgyptAir crash: Black box signals heard by search teams. BBC News. 2016-06-01  [2016-06-01]. 
+
+^ [1]
+
+^ EgyptAir crash: Second flight recorder recovered. BBC News. 2016-06-17  [2016-06-17]. 
+
+^ Gubash, Charlene; Gittens, Hasani. Investigators Begin Examining EgyptAir Flight MS804 Black Boxes. NBC News. 2016-06-19  [2016-06-19]. 
+
+^ Ansari, Azadeh; Sirgany, Sarah. EgyptAir Flight 804: Memory chips damaged. CNN. 2016-06-21  [2016-06-22]. 
+
+^ Damaged memory chips of EgyptAir Flight 804 being repaired. New Kerala. 2016-06-21  [2016-06-22]. 
+
+^ EgyptAir MS804 flight recorders: efforts to extract data fail | World news. 卫报. 2016-06-24  [2016-06-24]. 
+
+^ EgyptAir Flight MS804 recorders to go to Paris for repairs. BBC News. 2016-06-29  [2016-06-24]. 
+
+^ EgyptAir crash: Flight data recorder repaired - investigators - BBC News. BBC. BBC.   [2016-06-28]. 
+
+^ Egypt says flight 804 'black box' fixed as France opens manslaughter case. 卫报. 2016-06-28  [2016-06-28]. 
+
+^ Wall, Robert. EgyptAir Flight 804 Cockpit Recorder Successfully Repaired. 华尔街日报. 2016-07-02  [2016-07-02]. 
+
+^ 58.0 58.1 58.2 Hradecky, Simon. Crash: Egypt A320 over Mediterranean on May 19th 2016, aircraft found crashed, ACARS messages indicate fire on board. 航空先驅報（The Aviation Herald）. 2016-05-19  [2016-05-25]. 
+
+^ Noueihed, Lin; Knecht, Eric. EgyptAir flight from Paris to Cairo missing with 66 on board. 路透社. 2016-05-18  [2016-05-19]. 
+
+^ Hartley-Parkinson, Richard. Debris found in sea in search for crashed EgyptAir flight. Metro. 2016-05-19  [2016-05-19]. 
+
+^ EgyptAir flight MS804: What we know. BBC News. 2016-05-20  [2016-05-20]. 
+
+^ 62.0 62.1 Sanchez, Raf. Smoke in the cabin: what does the data from EgyptAir MS804's sensors mean?. 每日電訊報. 2016-05-21  [2016-05-21]. 
+
+^ EgyptAir Flight 804: absence of pilot mayday points to bomb blast. The Australian. 2016-05-21  [2016-05-21]. 
+
+^ Possibility of fire aboard EgyptAir flight raised as body parts, debris found in Mediterranean. Fox News. 2016-05-21  [2016-05-24]. 
+
+^ Jamieson, Alastair. Smoke Detected on EgyptAir MS804 Before Crash: French Investigators. NBC新聞網. 2016-05-21  [2016-05-24]. 
+
+^ 法國調查部門:埃及航空客機墜毀前機艙現煙霧. 信報財經新聞. 2016-05-21 （繁体中文）. 
+
+^ Dearden, Lizzie. EgyptAir crash: Human remains retrieved from flight MS804 crash site 'point to an explosion on board'. The Independent. 2016-05-24  [2016-05-24]. 
+
+^ EgyptAir crash: Forensics chief denies explosion claim. BBC News. 2016-05-24  [2016-05-24]. 
+
+^ Pasztor, Andy; Kholaif, Dahlia; Wall, Robert. Wreckage, ‘Black Box’ Data Point to Fire Aboard EgyptAir Flight 804. 华尔街日报. 2016-06-29  [2016-06-30]. 
+
+^ EgyptAir crash: Flight MS804 black box 'confirms smoke' - BBC News. BBC. 2016-06-29  [2016-06-30]. 
+
+^ Ali, Randa; Dooley, Erin. EgyptAir Flight 804 Data Recorder Indicates Smoke in Bathroom. ABC新闻. 美国广播公司. 2016-06-29  [2016-06-30]. 
+
+^ Egypt: Traces of Explosives Found on Victims of Paris Flight. 美國之音. 2016-12-15. 
+
+^ 苹果公司：埃及航空公司客机并非因iPhone而坠毁. 环球网. 2017-01-17  [2017-01-17]. 
+
+
+外部連結[编辑]
+ 維基共享資源中与埃及航空804号班机空难相關的分類
+查论编← 2015 2016年航空事故 2017 →   
+01月06日：瑞典西方航空294號班機
+01月15日：美国海军陆战队直升机
+01月16日：伊朗空军F-4战斗机
+01月22日：中華民國空军F-16战斗机
+02月02日：達洛航空159號班機
+02月24日：塔拉航空193号班机
+03月18日: 2016年清州机场跑道入侵事件
+03月19日：杜拜航空981号班机
+03月29日：埃及航空181號班機劫机
+04月04日：巴澤航空7703號班機
+04月06日：日本航空自衛隊U-125飛機
+
+05月01日：中国东方航空5443号班机
+05月18日：美国空军B-52H同温层堡垒
+05月18日：絲綢之路航空貨機
+05月19日：埃及航空804号班机 
+05月27日：大韓航空2708號班機
+06月14日：越南空軍苏-30飞机坠毁
+06月27日：新加坡航空368号班机
+07月20日：幸福通航6005号班机
+07月22日：印度空军运输机
+07月27日：美国空军OC-135B侦察机事故
+
+07月30日：洛克哈特热气球坠毁事故
+08月03日：阿聯酋航空521號班機
+08月05日：ASL航空7332号班机事故
+10月11日：2016年虹桥机场跑道入侵事件
+11月12日：中国空军歼-10战斗机
+11月29日：拉米亞航空2933號班機
+12月07日：巴基斯坦国际航空661号班机
+12月13日：驻日美军MV-22鱼鹰运输机
+12月18日：印尼空军运输机
+12月20日：蘇克雷航空4544號班機
+12月25日：俄羅斯國防部圖-154飛機†
+粗体字表示至少造成50人死亡的航空事故
+† 表示為2016年最嚴重的航空事故
+
+
+

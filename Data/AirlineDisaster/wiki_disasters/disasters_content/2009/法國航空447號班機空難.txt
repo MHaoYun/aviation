@@ -1,0 +1,763 @@
+
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}法國航空447號班機
+F-GZCP，事故客機，攝於2007年3月28日概要日期
+2009年6月1日摘要
+皮托管結冰、失速、機師失誤[1]地點
+ 地球大西洋上空乘客
+216機組人員
+12死亡
+228生還者
+0機型
+空客A330-203操作人員
+法國航空註冊編號
+F-GZCP起飛地
+ 巴西里約熱內盧加利昂國際機場目的地
+ 法国巴黎戴高樂機場
+法國航空447號班機原定由巴西里約熱內盧加利昂國際機場飛往法國巴黎戴高樂機場。2009年6月1日，該航班一架空中巴士A330-203客機（註冊編號：F-GZCP），載有216名乘客以及12名機組人員[2]，在巴西圣佩德罗和圣保罗岛屿附近坠毁[3]，機上人員全數罹難。此空難為法國航空成立以來最嚴重的空難[4][5]，亦是A330最嚴重及首次商業飛行空難[6]，更是天合联盟自成立以来死亡人数最多的空难。
+事發後五天，巴西海軍找到飛機的大型殘骸及兩具屍體，但揭露空難原因的飛行紀錄儀直到2011年5月在大西洋海底才找到[7][8]。空難最後調查報告於2012年7月5日的新聞發佈會上公佈[9][10]，指出皮托管（pitot tube）結冰使飛機未能偵測空速，自動駕駛自動關閉，機員錯誤操作導致失速，最後釀成空難[9][11]。
+
+目录
+
+1 客機資料
+2 機員及乘客
+3 事發經過
+4 搜救行动
+
+4.1 2011年搜尋行動
+
+
+5 調查
+6 事後
+7 紀錄片
+8 參見
+9 參考資料
+10 外部連結
+
+
+客機資料[编辑]
+法國航空447號班機所使用的飛機為空中巴士A330-203，發動機採用通用電氣CF6-80E1，生產編號660，在法國飛機註冊編號F-GZCP，在2005年2月25日首飛，失事前已飛行18,870小時[12]。2006年8月17日，該客機曾經於戴高樂機場與一架同屬法國航空飛機（註冊編號F-GTAM）的空中巴士A321-211在跑道上發生碰撞，兩架客機受損不大[13]。客機曾在2009年4月16日入廠接受大規模的修理[14]。
+
+機員及乘客[编辑]
+
+
+國籍
+乘客
+機組人員
+合計
+
+
+ 法国
+61
+11
+72
+
+
+ 巴西
+58
+1
+59
+
+
+ 德國
+26
+—
+26
+
+
+ 義大利
+9
+—
+9
+
+
+ 中国
+9
+—
+9
+
+
+ 瑞士
+6
+—
+6
+
+
+ 黎巴嫩
+5
+—
+5
+
+
+ 英國
+5
+—
+5
+
+
+ 匈牙利
+4
+—
+4
+
+
+ 爱尔兰
+3
+—
+3
+
+
+ 挪威
+3
+—
+3
+
+
+ 斯洛伐克
+3
+—
+3
+
+
+ 摩洛哥
+2
+—
+2
+
+
+ 波蘭
+2
+—
+2
+
+
+ 西班牙
+2
+—
+2
+
+
+ 美國
+2
+—
+2
+
+
+ 阿根廷
+1
+—
+1
+
+
+ 奥地利
+1
+—
+1
+
+
+ 比利時
+1
+—
+1
+
+
+ 加拿大
+1
+—
+1
+
+
+ 克罗地亚
+1
+—
+1
+
+
+ 丹麥
+1
+—
+1
+
+
+ 爱沙尼亚
+1
+—
+1
+
+
+ 冈比亚
+1
+—
+1
+
+
+ 冰島
+1
+—
+1
+
+
+ 荷蘭
+1
+—
+1
+
+
+ 菲律賓
+1
+—
+1
+
+
+ 羅馬尼亞
+1
+—
+1
+
+
+ 俄羅斯
+1
+—
+1
+
+
+ 南非
+1
+—
+1
+
+
+ 土耳其
+1
+—
+1
+
+
+ 瑞典
+1
+—
+1
+
+
+合計
+216
+12
+228[15]
+
+ 航班預定路線及失事大致位置
+ 坠毁飞机的垂直尾翼
+ 打撈黑盒的海缆船伊爾德桑號
+該航班搭載228人，包括3名飛行員、9名機組人員、和216名乘客。根據法國航空於2009年6月1日所提供的官方乘客資料[16]，乘客當中大多為巴西和法國人[17][18]。2009年6月20日，法國航空向每位罹難者家屬提供17,500歐元初步賠償[19]。
+機長马克·迪布瓦（Marc Dubois），58歲，1988年加入法國航空，有10,988小時的飛行經驗（駕駛空中巴士A330時間為1700小時）；两名副機師为大卫·羅拔（David Robert）与皮埃尔-塞德里克·博南（Pierre-Cedric Bonin），分别为37歲及32歲。羅拔於1998年7月加入法航，飛行時數達6,547小时，其中4,479小时為A330；博南於2003年10月加入法航，飛行時數達2,936小时，其中807小时為A330[20]。
+
+事發經過[编辑]
+2009年5月31日，班機在里約熱內盧當地時間19時29分起飛，原定於6月1日上午10時03分到達巴黎[21]。UTC01時35分，客機與航管作出最後一次通話，並在UTC1時49分離開巴西雷達監管範圍。當時機長迪布瓦及副機師博南在駕駛席上，而羅拔則在駕駛艙後方[22]。
+UTC1時55分，機長離開座位去休息並換上副機師羅拔。當時博南為控制機師，而羅拔則為監控機師。UTC2時06分，機師通知空服員飛機將會進入亂流區域。之後飛機的皮托管因結冰而失效，無法偵測飛機速度，在系統發現了不正常數值的情況下，飞行控制规律[何意？]切換至備用模式。2時10分5秒，飛機解除了自動駕駛模式，之後自動節流閥亦自動解除，這意味機師們開始手動飛行。飛機由於受到亂流的影響而向右傾側，於是博南便把飛機左轉兩圈以作修正，但與此同時他卻抬高機鼻使飛機爬升，這動作在當時並沒有需要[23]。據飛行紀錄儀的資料，當時飛機以每分鐘7,000英尺的高速率爬升，空速由274節瞬間降至52節[24]。
+皮托管結冰只維持了一分鐘多些[25][26][27]，之後便回復正常。但飛機仍繼續增加攻角，2時11分10秒，飛機已爬升至38,000尺，攻角達16度，推力全滿，2時11分15秒，飛機因為沒有升力開始下降，攻角又增加至30度。由於飞行控制规律在備用模式，系統原定自動推頭（將機首降低）的失速保護沒有啟動[28] ，飛機陷入失速卻沒有回復動作，這在刻意操作下也幾乎不可能出現在空巴的飛機上。
+2時11分40秒，機長返回駕駛艙。當時飛機攻角已達40度，飛機已降至35,000尺，雖然指示器已經不結冰，失速警告卻不響起，這次是由於此時攻角過高，空速指示器值被判定無效[29]。22秒後，博南稍微降低機鼻，空速指示器恢復，失速警告間歇性響起。飛機下降至10,000尺，此時機長發出重要訊息，博南應降低機鼻挽救失速。羅拔接管飛機操控權，飛機已下降至4,000尺。2,000尺，地面迫近警告系統響起。飛行紀錄儀於2時14分28.4秒停止，最後一句說話為機長：「仰角10度（ten degrees pitch attitude.）」，撞擊時地速為107節，所有人員瞬間死亡[30]。由38,000尺至撞毀期間歷時3分30秒，整個過程飛機都處於失速狀態[31]，記錄顯示駕駛直至墜機對都不知道飛機已經失速。
+
+搜救行动[编辑]
+由於飛機離開雷達監控區，因此航管人員並不知道班機已失事。班機原定在在約UTC2時20分聯繫塞內加爾空中管制區，並在3時45分進入維德角空中管制區。班機沒有聯繫塞內加爾航管，而航管亦曾嘗試聯繫法航447，但沒有回應。塞內加爾航管要求另一架法航459班機嘗試聯繫447號班機，亦沒有回應[32]。
+巴西空軍隨即在费尔南多·迪诺罗尼亚群島附近展開搜索，而法國偵察機亦在塞內加爾達喀爾起飛前往大西洋搜索[33]。西班牙的C-235海上巡逻機[34]和美國的P-3獵戶座海上巡邏機亦加入搜索行動[35][36]。
+6月1日上午，法航和法國政府已假設飛機失事且全數罹難，法航發言人向法國快報說「沒有生還希望」[37][38][39]，法國總統薩科齊向乘客親屬表示生還機會渺茫[40]。6月2日UTC15時20分，巴西空軍發現費爾南多·迪諾羅尼亞島東北650公里，靠近圣佩德罗和圣保罗群岩處發現殘骸及一帶長5公里的油漬，相信是航空煤油。該殘骸包括飛機座椅、桶、橘色浮標、白色物件和電子導體[41][42]。該天晚點與巴西乘客親屬會見後，巴西國防部部長内尔松·若宾宣佈所發現的殘骸相信是屬於法航447[43][44]。巴西代理總統若澤·阿倫卡爾在當晚簽署法令，宣佈全國哀悼三天[44][45]。同一天，法國海軍護衛艦风月號和西北風級兩棲突擊艦啟程前往懷疑事發地點。此外，法國研究船“為什麼不呢？號”（Pourquoi Pas?）聯同兩艘可潛入6,000米深的小型潛艇亦出發搜索[46] 。事發地點的深度可達4,700米[47][48]。6月3日，巴西海軍巡邏艇格拉雅烏號（Grajaú）最先抵達發現殘骸的地點，而巴西海軍共派出五艘船前往。
+6月3日，法航發言人表示事發當天收到班機飞机通信寻址与报告系统傳來超過三分鐘的電子訊息，訊息在UTC2時10分至14分期間傳送了共6項故障報告及19項警告[49]，其中包括皮托静压系统故障[50]、大氣資料慣性基準系統（Air Data Inertial Reference Unit）故障導致自動駕駛系統以及自動節流閥關閉、空中防撞系統切換至故障模式、飛行控制規律切換至備用模式。2時10分，飛機傳送了一段包括飛機經緯度2°59′N 30°35′W﻿ / ﻿2.98°N 30.59°W﻿ / 2.98; -30.59的訊息。2時12分，發出警告表示飛機三組大气数据系统不一致。2時14分，發出最後一組數據，指客艙的垂直速度過高[51][52][53]。
+6月6日，即失事後的五天，發現兩具男性屍體及座椅[54]，此外亦發現內有電腦和疫苗接種卡的尼龍背包，及內有法航登機證的皮革公事包[55][56]。6月7日，找到首個飛機重要大型殘骸－垂直尾翼[57]。
+在接下來的一星期，巴西軍方共動員了1,100人、[58]15架航空器參與搜救[59]。巴西航空工業R99飛機共飛行超過100小時，機上的電子儀器掃瞄了超過100萬平方公里海域[60]，其他飛機亦以目視方式搜索了超過32萬平方公里海域[58]。
+6月10日，法國的核子動力潛艇翡翠号抵達事發海域尋找可能已沉至海底的飛行記錄儀（俗稱黑盒）[61]。水面搜索結束後，水底搜索仍然進行。法国航空事故调查处主席表示他對找到黑盒的可能性並不樂觀，黑盒可能沉至3,000米下地形崎嶇的海底[62]。
+6月19日，兩群相隔80公里共50具屍體被尋回[63][64]。病理學家根據牙齒和手指模檢驗了50具屍體，包括機長迪布瓦[65][66][67]。6月26日宣佈終止搜索行動，在英、法、西、美的協助下共尋回50具屍體和640件碎片[68]。惟至7月中，飛機黑盒仍未被找回，此時黑盒因電池消耗完畢而不再發出訊號，一度令飛機失事的原因石沉大海[69]。
+
+
+2011年搜尋行動[编辑]
+2011年4月3日，由伍茲霍爾海洋研究所帶領的搜尋行動展開，透過自主水下載具的側掃聲納發現了法航447的大部份殘骸和屍體[70]，包括機身、機翼、引擎及起落架。該殘骸位於第一批殘骸的北部不遠處，分散在200至600米，由此推測飛機是完整地撞入水中[71]。法國生態部部長娜塔莉·科修斯柯－莫里塞表示飛機殘骸和屍體會打撈上水面，並帶回法國進行化驗[72]。4月26日，美國的遙控潛水器鮣魚6000號（Remora 6000）首次下潛便找到法航447的飛行記錄儀，但沒有失事殘存記憶體[73][74]。5月1日，海缆船伊爾德桑號找到飛行記錄儀的記憶體並成功打撈上水[75]。5月7日，飛行記錄儀被送到巴黎進行分析。是次搜尋行動共找回104具屍體，加上2009年的50具，共154具屍體[76][77]。搜尋行動於6月3日結束，仍有74具屍體未被尋獲[78]。
+
+調查[编辑]
+根據法航447號班機最後調查報告，班機失事前正飛越赤道熱帶輻合帶[79]，該區域的气象分析顯示當時飛行路徑附近有一股中尺度对流系统往上伸延高達50,000尺[80][81][82][83]，班機失事前最後一小時有輕度亂流[84]。機長離開駕駛席前往休息時，並沒有把當時的天氣狀況告知接替的羅拔，亦沒有給予任何指示[85]。
+由於皮托管因結冰而失效，無法偵測速度，依賴速度參數來控制的自動駕駛及自動節流閥亦因此解除。由於自動駕駛解除時有警號，因此機師很快就知道，但他們沒有發現空速指示器不協調，亦沒有發現自動節流閥已解除和飞行控制规律切換至備用模式（電腦不自動修正）。自動駕駛解除後兩秒，飛機因亂流傾斜8.4度，而當時飛機儀表顯示飛機正以每分鐘300至600尺下降，於是博南便左轉及抬高機鼻使飛機爬升以修正飛機[86]。當時航機電子中央監控系統（Electronic Centralized Aircraft Monitor, ECAM）顯示最高速度，但沒有顯示最低速度，之後機師才知道空速指示器失效。在空速指示器變得不可靠的情況下，加上飞行指挥仪（Flight Director）顯示應抬高機鼻，令機師以為飛機超速，因此抬高機鼻以減速。之後飛機失速警告響起，表示飛機接近失速，機師應降低機鼻以增加飛行速度防止失速，但他們沒有對此作出反應[87]。由於機師以為飛機超速，沒有理會失速警告，並減低飛機推力，並試圖張開減速板。當機長回到駕駛時，兩名副機師告訴他飛機已失控。整個失速過程機師都沒有試圖挽救失速，亦不知道飛機正在失速，反而抬高機鼻試圖追蹤飞行指挥仪水平飛行，使情形惡化，釀成空難。
+法國航空事故調查處總結是次空難原因為皮托管失效引致機員操作失誤。達利思(Thales)是法航447號班機的皮托管製造商。在2003至2008年間，欧洲航空安全局收到17宗裝在A330/340客機的達利思AA皮托管故障報告，但達利思堅稱他們的皮托管通過安全測試，能在極端天氣下運作。早在2007年9月，空中巴士建議把C16195AA皮托管更換為C16195BA皮托管，後者更能提供結冰保護。2009年8月起，法航把所有空中巴士機隊的皮托管更換為BA型[88]。
+
+事後[编辑]
+法航在事發後不久，將由里約熱內盧飛往巴黎戴高樂機場的航班編號，由AF447更改為AF445[89]。然而在2009年11月30日，AF445在大西洋上空距离AF447号班机失事地点仅18公里处再次遇上強烈亂流，機師在沒有得到空中交通管制員的允許下便改變飛行高度，並發出求救訊號「Mayday」用以警告附近班機。經歷30分鐘中度至強烈亂流後，航機回復正常並安全抵達巴黎[90][91]。
+
+紀錄片[编辑]
+此班机的事故被加拿大的Cineflix公司拍摄成为纪录片《空中浩劫》第12季第13集：＜Vanished＞。
+
+參見[编辑]
+苏联民航12号班机空难
+伯根航空301號班機空難
+阿根廷南方航空2553號班機空難
+马来西亚航空370号班机事故
+秘魯航空603號班機空難
+印尼亚洲航空8501号班机空难
+萨拉托夫航空703号班机空难
+參考資料[编辑]
+
+
+^ Final report on the accident on 1st June 2009 to the Airbus A330-203 registered F-GZCP operated by Air France flight AF 447 Rio de Janeiro - Paris (PDF): 202. 
+
+^ 法国一架载有228人的空客330-200客机失踪 於2009年6月1日查閱
+
+^ 巴西空军证实法航失踪飞机残骸已经找到，国际在线
+
+^ Plane Crash Info.   [2011-10-23]. 
+
+^ Search intensifies for vanished Air France flight. ABS–CBN Corporation. Agence France-Presse. 2009-06-02  [2011-06-02]. （原始内容存档于2011-06-14）. 
+
+^ ASN Aviation Safety Database. Flight Safety Foundation. 2013  [2013-12-26]. 
+
+^ Interim report on the accident on 1 June 2009 to the Airbus A330-203 registered F-GZCP operated by Air France flight AF 447 Rio de Janeiro – Paris (PDF). Paris: Bureau d'Enquêtes et d'Analyses pour la sécurité de l'aviation civile (BEA). 2009-07-02  [2009-07-04].  (Original French version).
+
+^ Flight AF 447 on 1st June 2009. BEA. 2011  [2011-06-02]. 
+
+^ 9.0 9.1 Final report on the accident on 1st June 2009 to the Airbus A330-203 registered F-GZCP operated by Air France flight AF 447 Rio de Janeiro – Paris (PDF). BEA: 217. July 2012. 
+
+^ Briefing. BEA. 2012-07-05  [2013-02-24]. 
+
+^ Clark, Nicola. Report on Air France Crash Points to Pilot Training Issues. The New York Times. 2011-07-29. 
+
+^ Aviation Safety Network （英文） 於2009年6月5日查閱
+
+^ 2006年所有事故 （英文） 於2009年6月5日查閱
+
+^ 噴射客機空難數據評估中心 （英文） 於2009年6月7日查閱
+
+^ 班機乘客名單 法國航空 （英文） 於2009年6月2日查閱
+
+^ Press release N° 5 (新闻稿). Air France. 2009-06-01  [2011-01-08]. （原始内容存档于2011-01-04）. 
+
+^ Air France Update. Flight Air France 447 Rio de Janeiro – Paris-Charles de Gaulle. Air France. 2009-10-05  [2011-01-08]. 
+
+^ Ships head for area where airplane debris spotted. CNN. 2009-06-02  [2009-06-02]. （原始内容存档于2009-06-06）. 
+
+^ Air France pays $24,500 to crash victims' families. CNN. 2009-06-02. 
+
+^ BEA Final Report - Section 1.5.1 - Pages 24-29
+
+^ Safety Investigation Following the Accident on 1st June 2009 to the Airbus A300-203, Flight AF 447 – Summary (PDF). BEA. July 2012. 
+
+^ BEA first interim report, section 1.17.2.2
+
+^ BEA final report, section 2.1.2.3 "The excessive amplitude of these [nose-up] inputs made them unsuitable and incompatible with the recommended aeroplane handling practices for high altitude flight."
+
+^ Palmer, p. 86
+
+^ Palmer, p. 7 "02:11:07 [...] The last of the pitot icing had cleared and all three airspeed indications were then displaying correctly"
+
+^ Palmer, p. 57 "The pitot icing lasted for about one minute and five seconds".
+
+^ BEA final report, p. 198 "The speed displayed on the left PFD was incorrect for 29 seconds, that of the speed on the ISIS for 54 seconds and the speed displayed on the right PFD for 61 seconds at most."
+
+^ Palmer, pp. 78-80
+
+^ Palmer, p. 57. "This created a situation where the air was pushing into, in addition to flowing over, the static ports. [...] This dynamic accounts for the repeated falling of the airspeed to invalid values."
+
+^ Recording Indicates Pilot Wasn't In Cockpit During Critical Phase. 2011-05-23. 
+
+^ Flight AF 447 on 1st June 2009, A330-203, registered F-GZCP, 27 May 2011 briefing. BEA. 
+
+^ Section 1.9.2 "Coordination between the control centres", First interim report, BEA .
+
+^ French plane lost in ocean storm. BBC. 2009-06-01  [2009-06-01]. （原始内容存档于2009-06-03）. At 0530 GMT, Brazil's air force launched a search-and-rescue mission, sending out a coast guard patrol aircraft and a specialised air force rescue aircraft. … France is despatching three search planes based in Dakar 
+
+^ 西班牙方面新聞     於2009年6月2日查閱
+
+^ Premières précisions sur l'Airbus d'Air France disparu [First information about the disappeared Air France Airbus]. L'Express. 2009-06-01  [2009-06-01]. （原始内容存档于2009-06-05） （法语）. 
+
+^ AF 447 may have come apart before crash: experts. Associated Press. 2009-06-03  [2009-06-03]. （原始内容存档于2009-06-06）. 
+
+^ 存档副本 ‘Aucun espoir’ pour le vol Rio-Paris d'Air France [‘No hope’ for the Air France Rio – Paris flight]. L'Express. 2009-06-01  [2009-06-01]. （原始内容存档于2009-06-05） （法语）. 
+
+^ Williams, David. Air France 'loses hope' after plane drops off the radar en route from Brazil to Paris with 228 people on board. Daily Mail (UK). 2009-06-01  [2009-06-01]. （原始内容存档于2009-06-08）. 
+
+^ Chrisafis, Angelique. French plane crashed over Atlantic. The Guardian (UK). 2009-06-01  [2009-06-01]. （原始内容存档于2009-06-11）. 
+
+^ Prospect slim of finding plane survivors. KKTV-TV. Associated Press. 2009-06-01  [2011-02-16]. 
+
+^ Brazilian Air Force Bulletin (6). 2009-06-02 （葡萄牙语）. 
+
+^ Negroni, Christine. France and Brazil Press Search for Missing Plane. The New York Times. 2009-06-02  [2009-06-02]. （原始内容存档于2009-06-06）. 
+
+^ No survivors found in wreckage of Air France jet, official says. CNN. 2009-06-02  [2009-06-02]. （原始内容存档于2009-06-06）. 
+
+^ 44.0 44.1 Ocean search finds plane debris. BBC. 2009-06-02  [2009-06-02]. （原始内容存档于2009-06-03）. 
+
+^ José Alencar decreta três dias de luto oficial por vítimas do Airbus [José Alencar decrees three days official mourning for Airbus victims]. Globo. 2009-06-02  [2009-06-02]. （原始内容存档于2009-06-12） （葡萄牙语）. 
+
+^ Sá, Evaristo. Navy ships seek to recover Air France crash debris. Agence France-Presse. 2009-06-03. 
+
+^ Mini-subs sent to look for jet. News24. 2009-06-02  [2009-06-02]. （原始内容存档于2010-01-17）. 
+
+^ Section 1.16.1.1 "Context of the searches", First interim report, BEA .
+
+^ France 2.   [2009-06-06]. （原始内容 (video)存档于2009-07-06） （法语）. 
+
+^ Joint aircraft system/component code table and definitions (PDF). Federal Aviation Administration, USA.   [2009-06-06]. 
+
+^ Crash: Air France A332 over Atlantic on 1 June 2009, aircraft lost. Aviation Herald. 2009-06-02. 
+
+^ Airbus Flight Control Laws. Airbus.   [2009-06-03]. 
+
+^ Avionics Product Range. Airbus.   [2011-08-21]. 
+
+^ Press Release 17: Information on Searches of the Air France Flight 447. Brazilian Ministry of Defense. 2009-06-06  [2013-11-17]. 
+
+^ Bodies 'found' from missing plane. BBC News. 2009-06-06  [2009-06-06]. （原始内容存档于2009-06-08）. 
+
+^ Brazil: Bodies found near Air France crash site. MSNBC. 2009-06-06  [2009-06-06]. （原始内容存档于2009-06-07）. 
+
+^ Air France tail section recovered. BBC News. 2009-06-08  [2010-01-01]. 
+
+^ 58.0 58.1 Press Release 39: Information on Searches of the Air France Flight 447. Brazilian Ministry of Defense. 2009-06-22  [2013-11-17]. 
+
+^ Press Release 37: Information on Searches of the Air France Flight 447. Brazilian Ministry of Defense. 2009-06-20  [2013-11-17]. 
+
+^ Press Release 31: Information on Searches of the Air France Flight 447. Brazilian Ministry of Defense. 2009-06-14  [2013-11-17]. 
+
+^ France sends nuclear sub to hunt for jet wreckage. CBC News. 2009-06-05  [2009-06-09]. （原始内容存档于2009-06-08）. 
+
+^ Lost jet data 'may not be found'. BBC. 2009-06-03  [2009-06-03]. （原始内容存档于2009-06-04）. 
+
+^ Campbell, Matthew; Richard Woods. Crash jet 'split in two at high altitude'. The Times (UK). 2009-06-14  [2009-06-14]. 
+
+^ Note 33: Information on Searches of the Air France Flight 447. Brazilian Ministry of Defense. 2009-06-16  [2009-06-17]. （原始内容存档于2009-06-20）. 
+
+^ BEA second interim report, section 1.13, page 32 (PDF page 33 of 104) "The autopsies made it possible to identify fifty persons: 45 passengers, 4 flight attendants, and the captain"
+
+^ Bremner, Charles; Tedmanson, Sophie. Hopes of finding Air France Airbus black boxes dashed. The Times (London). 2009-06-23  [2010-04-23]. 
+
+^ INFO FIGARO – AF 447 : le corps du pilote identifié. Le Figaro (France). 2009-06-25 （法语）. 
+
+^ BEA first interim report, section 1.12.1, page 37 (PDF page 38 of 128)
+
+^ Investigators say they have no confirmed black-box signals. France 24.com. 2009-06-27  [2009-06-23]. （原始内容存档于2009-06-26）. 
+
+^ In search of Air France Flight 447 Lawrence D. Stone Institute of Operations Research and the Management Sciences 2011
+
+^ Willsher, Kim. Air France plane crash victims found after two-year search. The Guardian (London). 2011-04-04. 
+
+^ Bodies found in Atlantic jet crash wreckage. Reuters. 2011-04-04  [2011-04-05]. 
+
+^ Solid-State FDR System including Crash Survivable Memory Unit (CSMU) (PDF).   [2011-04-27]. 
+
+^ Press release, 27 April 2011. Retrieved 27 April 2011
+
+^ Memory unit from the Flight Data Recorder (FDR) – Photos.   [2011-05-01]. 
+
+^ France starts recovery of bodies from Rio-Paris crash. Breitbart. 2011-05-05  [2011-05-05]. （原始内容存档于2011-06-13）. 
+
+^ Frost, Laurence; Andrea Rothman. Air France Victim's Body Recovered. Bloomberg News (Bloomberg). 2011-05-05  [2011-05-05]. 
+
+^ Vandoorne, Saskya. Air France crash recovery ends with 74 bodies missing. CNN. 2011-06-08  [2011-06-08]. 
+
+^ BEA final report, section 1.7.1, page 46
+
+^ Vasquez, Tim. Air France Flight 447: A detailed meteorological analysis. 2009-06-03. 
+
+^ Air France Flight #447: did weather play a role in the accident?. Cooperative Institute for Meteorological Satellite Studies. 2009-06-01. 
+
+^ A Meteosat-9 infrared satellite image. BBC News.   [2010-01-01]. 
+
+^ Plane Vanished in Region Known for Huge Storms. Fox News Channel. 2009-06-03  [2014-03-22]. （原始内容存档于2012-10-22）. 
+
+^ BEA final report, section 1.11.2, page 58
+
+^ BEA final report, section 2.1.1.33, page 171
+
+^ BEA final report, section 2.1.2.22, page 172
+
+^ BEA final report, section 2.1.3.1, page 178
+
+^ 2009年法航447航班空难深度调查. 紐約時報中文網. 2013-03-22. 
+
+^ AF 445 statt AF 447: Air France ändert Flugnummer auf der tragischen Unglücksroute. Baseler Zeitung. 2009-06-08  [2009-06-08]. （原始内容存档于2009-06-12）. 
+
+^ The Aviation Herald. "[1]". Retrieved 30 November 2009.
+
+^ "Flight AF445 Rio-Paris-CDG on 29 November 2009." Air France. Archived 22 July 2010.
+
+
+外部連結[编辑]
+
+
+航空主题
+
+
+
+维基共享资源中相关的多媒体资源：法國航空447號班機空難
+
+维基新闻相关報導：法航A330客机大西洋失踪
+
+Aviation Safety Network
+What Really Happened Aboard Air France 447
+BEA - AF447 Final Report
+查论编← 2008 2009年航空事故 2010 →   
+1月15日：馬哈奇卡拉伊爾-76相撞
+1月15日：全美航空1549號班機
+1月17日：加蓬直升機墜毀
+1月27日：美國帝國航空8284號班機事故
+2月07日：馬瑙斯航空出租墜機事件
+2月12日：大陆连接航空3407号班机
+2月25日：土耳其航空1951號班機
+3月12日：美洲獅直升機91號班機
+3月20日：阿聯酋航空407號班機
+3月23日：聯邦快遞80號班機
+3月25日：地中海航空TC-HEK號直升機
+4月01日：北海G-REDL號直升機
+4月06日：印尼空軍福克F27型
+4月12日：雪龙号舰载直升机墜毀
+
+4月17日：米米卡航空514號班機
+4月19日：肯捷航空918號班機
+5月03日：塔奇拉直升機墜毀事件
+5月20日：印尼空軍C-130H運輸機
+6月01日：法國航空447號班機†
+6月30日：也門航空626號班機
+7月03日：巴基斯坦陸軍Mi-17直升機
+7月13日：西南航空2294號班機
+7月15日：里海航空7908號班機
+7月24日：阿利亞航空1525號班機
+8月02日：印尼鴿記航空9760號班機
+8月04日：曼谷航空266號班機
+8月08日：哈德孫河空中相撞
+8月11日：巴布亞新幾內亞航空4684號班機
+
+08月26日：布拉柴維爾An-12型
+09月02日：安得拉邦VT-APG號直升機
+09月09日：墨西哥國際航空576號班機
+09月22日：伊朗空軍伊爾-76MD預警機
+09月24日：南非航空連結8911號班機
+10月21日：阿扎航空2241號班機
+10月22日：雲實航空014號班機
+10月29日：加州空中相撞
+11月01日：雅庫特伊爾-76運輸機
+11月12日：盧旺達航空205號班機
+11月18日：諾福克島水上迫降事件
+11月28日：艾維特航空324號班機
+12月22日：美國航空331號班機
+12月25日：西北航空253号班机
+粗体字表示至少造成50人死亡的航空事故
+† 表示為2009年最嚴重的航空事故
+查论编《空中浩劫》内涉及到的航空事故第一季（共6集，2003年）
+美國航空1420號班機
+聯合航空811號班機
+越洋航空236號班機
+瑞士航空111號班機
+秘魯航空603號班機
+阿拉斯加航空261號班機
+第二季（共6集，2005年）
+英國航空5390號班機
+大西洋東南航空529號班機
+法國航空8969號班機
+烏伯林根空難（巴什克利安航空2937號班机／DHL快遞公司611號班机）
+美国航空965号班机
+哥伦比亚航空052号班机
+第三季（共13集，2006-2007年）
+阿羅哈航空243號班機
+DHL货机遇袭事件（欧洲航空运输公司注册编号OO-DLL班机）
+日本航空123號班機
+聯邦快遞705號班機
+伊朗航空655號班機
+菲律賓航空434號班機
+布里斯托航空56C號班機
+埃及航空990號班機
+俄羅斯航空593號班機
+埃塞俄比亞航空961號班機
+第四季（共10集，2007年）
+法國航空358號班機
+英國航空009號班機
+加拿大航空797號班機
+大韓航空801號班機
+聯合航空585號班機 / 全美航空427號班機 / 東風航空517號班機
+中華航空006號班機
+墨西哥國際航空498號班機
+美國空軍IFO21號班機
+閃光航空604號班機
+太陽神航空522號班機
+第五季（共10集，2008年）
+全美快運航空5481號班機
+美國航空96號班機 / 土耳其航空981號班機
+加拿大航空143號班機
+達美航空191號班機
+美国南方航空242號班機
+南非航空295號班機
+印度航空182號班機
+伯根航空301號班機
+美国東方航空401號班機
+戈爾航空1907號班機/卓越航空注册编号N600XL班机
+第六季（特辑）（共3集，2007-2008年）
+太陽神航空522號班機
+聯合航空811號班機
+英國航空5390號班機
+阿羅哈航空243號班機
+阿拉斯加航空261號班機
+日本航空123號班機
+大西洋東南航空529號班機
+瑞士航空111號班機
+聯合航空585號班機
+全美航空427號班機
+東風航空517號班機
+秘魯航空603號班機
+中華航空006號班機
+俄羅斯航空593號班機
+閃光航空604號班機
+越洋航空236號班機
+第七季（共8集，2009-2010年）
+泛美航空103號班機
+沙地阿拉伯航空763號班機/哈薩克航空1907號班機
+中華航空611號班機
+柏納航空394號班機
+嬰兒空運行動空难（美国空军注册编号68-0218运输机）
+突尼斯國際航空1153號班機
+亞當航空574號班機
+美鷹航空4184號班機
+第八季（特辑）（共2集，2010年）
+大峽谷空中相撞事件（联合航空718号班机／环球航空2号班机）
+墨西哥國際航空498號班機
+烏伯林根空難（巴什克利安航空2937號班機／DHL快遞公司611號班機）
+戈爾航空1907號班機
+哥倫比亞航空052號班機
+南方航空242號班機
+達美航空191號班機
+美國航空1420號班機
+英國航空9號班機
+第九季（共8集，2010年）
+英國空旅航空28M號班機
+法國航空296號班機
+西北航空255號班機
+全美航空1493號班機／西翼航空5569號班機
+大韓航空007號班機
+因特航空148號班機
+安大略航空1363號班機／全美航空405號班機
+卓克斯海洋航空101號班機
+第十季（共6集，2011年）
+十字航空3597號班機
+英國航空38號班機
+北歐航空751號班機
+土耳其航空1951號班機
+美國大陸連線3407號班機
+全美航空1549號班機
+第十一季（共13集，2011-2012年）
+巴西天馬航空3054號班機
+西加勒比海航空708號班機
+飞箭航空1285号班机
+美国大陆快运2574号班机
+慕尼黑空难（英国欧洲航空公司609号班机）
+西北航空85號班機
+大韓航空貨運8509號班機
+太平洋西南航空182號班機
+尼日利亞航空2120號班機
+太平洋西南航空1771號班機
+中美洲航空110號班機
+北歐航空686號班機
+聯合航空232號班機
+第十二季（共13集，2013年）
+里夫阿留申航空8号班机
+瓦盧杰航空592號班機
+新加坡航空006號班機
+勝安航空185號班機
+秘魯國營航空204號班機
+大峽谷空中相撞事件（联合航空718号班机／环球航空2号班机）
+美國航空191號班機
+聯合航空173號班機
+波兰空军注册编号101客机
+雅羅斯拉夫爾空難（雅克服務航空註冊編號RA-42434客機）
+埃塞俄比亞航空409號班機
+聖巴巴拉航空518號班機
+法國航空447號班機
+第十三季（共11集，2013年）
+英國歐洲航空548號班機
+休斯西部航空706號班機
+十字航空498號班機
+佛羅里達航空90號班機
+美國航空587號班機
+烏斯蒂卡空難（意大维亚航空870号班机）
+NOAA42颶風獵人事件（美国国家海洋和大气管理局NOAA42号洛克希德WP-3D猎户座）
+莫雷阿航空1121號班機
+德國XL航空888T號班機
+澳洲航空32號班機
+第十四季（共11集，2015年）
+英倫航空92號班機
+勞達航空004號班機
+里约格朗德航空254號班機
+巴拿馬航空201號班機
+聯邦快遞空运80號班機/聯邦快遞空运14號班機
+小約翰‧甘迺迪飛機墜毀事故
+法國航空4590號班機
+墨西哥城空難
+Manx2航空7100號班機
+第一航空6560號班機
+馬來西亞航空370號班機
+第十五季（共11集，2015年-2016年）
+聯合航空快運5925號班機
+韓亞航空214號班機
+以色列航空1862號班機
+联合包裹服务空中运输6號班機
+1961年恩多拉聯合國DC-6墜毀事件（英语：1961 Ndola United Nations DC-6 crash）
+大西洋航空670號班機（英语：Atlantic Airways Flight 670）
+西班牙航空5022號班機
+嘉魯達印尼航空200號班機
+大西洋東南航空2311號班機（英语：Atlantic Southeast Airlines Flight 2311）
+巴西天馬航空402號班機
+第十六季（共10集，2016年-2017年）
+1999年南達科他州里爾35噴射機空难（英语：1999 South Dakota Learjet crash）
+美国航空77号班机（911事件）
+特內里費空難（荷蘭皇家航空4805號班機／泛美航空1736號班機）
+中华航空120号班机
+海神航空706號班機（英语：Proteus Airlines Flight 706）
+科羅拉多航空2286號班機（英语：Trans-Colorado Airlines Flight 2286）
+德国之翼航空9525号班机
+嘉鲁达印尼航空421号班机空难（英语：Garuda Indonesia Flight 421）
+亚洲航空（印尼）8501号班机
+美国国家航空102号班机
+第十七季（共10集，2017年）
+西北空連航空5719号班机空难（英语：Northwest Airlink Flight 5719）
+康姆航空3272号班机空难（英语：Comair Flight 3272）
+中国国际航空129号班机
+环球航空800号班机
+加鲁达印尼航空152号班机
+全美航空1016号班机
+復興航空235號班機
+科加雷姆航空9268號班機
+阿根廷私人航空3142号班机
+泰國國際航空311號班機
+第十八季（共10集，2018年）
+埃默里世界航空17号班机
+复兴航空222号班机
+达美航空1141號班機
+馬來西亞航空17號班機
+萨拉火山苏霍伊SSJ-100坠机事件（英语：Mount Salak Sukhoi Superjet 100 crash）
+維珍太空船2號墜毀事件（英语：VSS Enterprise crash）
+澳洲航空72號班機
+意大利航空404号班机
+中华航空140号班机
+美國大陸航空1713號班機
+第十八季（特辑）（共10集，2018年）
+聯航快運5925號班機
+加魯達航空152號班機
+特內里費空難（荷蘭皇家航空4805號班機／泛美航空1736號班機）
+英國歐洲航空548號班機
+西北空連航空5719號班機（英语：Northwest Airlink Flight 5719）
+科羅拉多航空2286號班機（英语：Trans-Colorado Airlines Flight 2286）
+全美航空1549號班機
+加拿大航空143號班機
+中美洲航空110號班機
+第十九季†（共10集，2019年）
+國泰航空780號班機
+2011年雷諾飛行競賽墜毀事故（英语：2011 Reno Air Races crash）
+荷蘭皇家城市快捷航空433號班機（英语：KLM Cityhopper Flight 433）
+卡利塔航空808號班機（英语：Kalitta Air#Incidents and accidents）
+法恩航空101號班機（英语：Fine Air Flight 101）
+羅馬尼亞航空371號班機（英语：TAROM Flight 371）
+美國大陸航空1404號班機（英语：Continental Airlines Flight 1404）
+北俄羅斯航空821號班機
+拉米亞航空2933號班機
+聯合快運航空6291號班機（英语：United Express Flight 6291）
+世纪大空难（特辑）
+特內里費空難（荷蘭皇家航空4805號班機／泛美航空1736號班機）
+参见
+空中浩劫各集列表
+空難列表
+商业客机事故列表
+航空事故
+附注†表示该季计划播出，列表中的内容可能会随着实际情况而发生变化
+
+
+
