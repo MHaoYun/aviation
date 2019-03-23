@@ -1,0 +1,469 @@
+
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}拉米亞航空2933號班機空難
+隶屬拉米亞航空在法蘭克福機場的另一架Avro RJ85空難概要日期
+2016年11月28日摘要
+不恰當規劃，引致燃料耗盡地點
+哥倫比亞拉烏尼翁塞羅戈多偏遠山區（距離麥德林約50公里）5°58′50″N 75°25′06″W﻿ / ﻿5.9805°N 75.4183°W﻿ / 5.9805; -75.4183坐标：5°58′50″N 75°25′06″W﻿ / ﻿5.9805°N 75.4183°W﻿ / 5.9805; -75.4183[1]乘客
+68機組人員
+9死亡
+71生還者
+6機型
+Avro RJ85操作人員
+玻利維亞拉米亞航空註冊編號
+CP-2933起飛地
+玻利維亞聖克魯斯維魯維魯國際機場目的地
+哥倫比亞里奧內格羅何塞·瑪麗亞·科爾多瓦國際機場
+ 最后15分钟的飞行路线。绿线表示飞机在飞航空层210（约21000英尺）中的等待航线状态（2:46:08–2:53:09 UTC）。橙星表示ADS-B信号（英语：Automatic dependent surveillance – broadcast）于UTC时间2:55:48消失的地点。坠机地点以红色标示。
+拉米亞航空班機2933號空難（LaMia，LMI 2933）是發生於哥倫比亞時間（英语：Time_in_Colombia）2016年11月28日的空難，機上運載有巴西足球會查比高恩斯的成員。班機由玻利維亞維魯維魯國際機場出發，原定在位于哥倫比亞麥德林的何塞·瑪麗亞·科爾多瓦國際機場降落。事發班機為英国宇航系统公司制造的Avro RJ85，機上載有77人，包括68名乘客（接載球隊成員和21名記者）和9名機組人員。球會原定抵达哥倫比亞出戰2016年南美球會盃決賽，對阵哥伦比亚國民體育會。據報球隊只有3名球員生還，其他球隊成員均已罹難，球賽亦告無限期延後，而國民體育會方面亦已宣佈要求賽會將冠軍頒予查比高恩斯[2][3][4][5]。機上有6人被救出時為生還[6]。事发前因一架哥伦比亚愉快航空的飞机由于已经出现漏油，被准予优先降落。[7]
+
+目录
+
+1 航班
+2 事故
+3 调查
+4 反应
+5 伤亡情况
+6 參見
+7 参考文献
+8 外部链接
+
+
+航班[编辑]
+飞机型号为Avro RJ85，注册编号CP-2933[8]，序列号（英语：Serial code）E.2348，于1999年3月26日首飞[9]。在法国航空名下服役于美莎巴航空（英语：Mesaba Airlines）和城捷航空后，2010年到2013年间停飞，之后被委内瑞拉和玻利维亚合资航空公司拉米亚航空收购[10]。事发时，CP-2933是拉米亚航空三架RJ85飞机中唯一在飞的班机[11]。
+
+事故[编辑]
+机上载有68名乘客和9名机组成员。航班从玻利维亚圣克鲁斯飞往哥伦比亚麦德林[12]。部分乘客将参加2016年南美球會盃决赛，对阵国民竞技。
+巴西国家民航局（英语：National Civil Aviation Agency of Brazil）拒绝了沙佩科恩斯包机从圣保罗直飞麦德林的请求，导致圣克鲁斯的航班停飞及变更[13]。民航局要求包机公司属巴西或哥伦比亚才授权直航，但俱乐部选择了曾载运过其他南美洲足球协会比赛俱乐部的拉米亚航空[11]。在18天前，该公司曾用同一架航班运送过阿根廷国家足球队[14]。
+两座机场相隔1,605海里（2,972公里），略高于Avro RJ85规定标准范围1,600海里（2,963公里），最大航行距离为2,600海里（4,800公里），所需油量相当于3个辅助油箱[15]。当地时间11月28日晚上22点（UTC时间11月29日凌晨3点），飞机在哥伦比亚拉塞哈和拉乌尼翁之间的空域飞行时燃料告急，机组人员发出燃油耗尽紧急警报[16][17][18]。飞行最后15分钟，航班以跑道等待航线姿态绕飞两周，飞行距离增加约54海里（100公里）。坠机地点距何塞·玛丽亚·科尔多瓦国际机场第36跑道10海里（19公里）。
+哥伦比亚空军（英语：Colombian Air Force）直升机起初因大雾无法抵达现场[8]，而事发两小时后救援人员抵达现场时，发现现场有区域散落着直径约100米（330英尺）的碎片[19]。到11月29日凌晨2点，首位生还者、沙佩科恩斯球员阿兰·卢舍尔（英语：Alan Ruschel）被送往拉赛贾（La Ceja）医院[19]。最初有7人幸存，但首发门将达尼洛（英语：Marcos Danilo Padilha）在送院后死亡。最后一名幸存者是球员内托（英语：Neto (footballer, born 1985)），于5点40分被发现[20]。替补门将贾克森·弗罗曼（英语：Jakson Follmann）截肢后幸存[21]。包括达尼洛在内，77名乘客中有71人坠机身亡，死亡人数最初是75人，后据透露有4人未登机[22]。
+
+
+
+
+
+救援人员与到场的空军直升机
+
+
+
+
+
+
+救援人员在哥伦比亚一个山坡搜索飞机残骸。
+
+
+
+
+
+
+搜获的尸体
+
+
+
+
+调查[编辑]
+哥伦比亚民用航空特别行政单位（英语：Special Administrative Unit of Civil Aeronautics）飞机事故调查组负责调查事故，要求飞机制造商英国宇航和英国航空事故调查局以制造方身份作为调查机构协助调查。调查局派出3人组成的调查队[23]。加入调查的还有玻利维亚国家航空局（英语：Dirección General de Aeronáutica Civil (Bolivia)）调查人员[24]。
+哥伦比亚空军从残骸中搜获70具遇难者遗体，已全部带回基地后送往麦德林医学研究机构进行尸检鉴定[25]。
+在事故中幸存的的乘务员表示，飞机燃料耗尽[26]。其他乘务员有听到航班飞行员在无线电中报称飞机燃料用完，需要紧急迫降[27]。而调查队领队表示“没有证据显示飞机因燃料耗尽迫降”，飞机坠毁时没有爆炸[8]。事故成因疑是燃料耗尽[12]。
+11月29日下午，民用航空特别行政单位表示，两台飞行记录仪完好无损[8]。
+有报道指出事故原因可能与机组成员在起飞前试图寻找某乘客的電子遊戲从而导致起飞延迟有关。起飞延迟使航班没能在午夜关闭时间之前抵达加油机场，错过了本应在中途进行的停降加油。[28][29]
+事故發生四周後，調查證實事故的原因是燃料耗盡。航空公司的糟糕規劃以及玻利維亞航空當局監管不力被視為促成因素。初步事故報告指出，飛行員已經討論了他們的燃料狀態以及燃料可能在途中耗盡。由於未知原因，CVR在FDR之前一小時四十分鐘停止錄製。
+
+反应[编辑]
+ 巴西利亚国民议会大楼前的巴西国旗和南方共同市场旗帜降半旗致哀。
+玻利维亚国家航空管理局收回拉米亚航空的航空营运许可证（英语：Air operator's certificate）[30][31]，航空局主任、机场及空中导航服务管理局主管及航空局负责玻利维亚民用航空器登记的官员被停职，其中负责登记的官员是拉米亚其中一位股东的儿子[30]。
+巴西总统米歇尔·特梅尔宣布全国哀悼三天，要求波哥大的巴西驻哥伦比亚大使馆工作人员前往麦德林，以更好地协助幸存者及遇难者家属[32]。
+英国外交及联邦事务部向受事故影响的人们表示慰问[33]。
+
+ 数千名民众出席沙佩科恩斯沙佩科主场的守夜仪式。
+ 在委内瑞拉圣克里斯托瓦尔举办的一场足球赛赛前有默哀仪式。
+南美足联暂停了一切活动，包括原定于11月30日到12月7日举行的南美俱乐部杯两回合制决赛[2]和巴西杯决赛第二回合[34]。此外，其社交媒体账户个人资料图片换成黑色沙佩科恩斯图标，并发表致哀信息[35]，其他巴西球队则提出明年愿意将球员租借给沙佩科恩斯[2]，要求巴西足球协会在未来三年免除其降级[36]。巴西国家联赛冠军帕尔梅拉斯体育俱乐部正式请求足协允许在他们本赛季最后一场比赛中穿上沙佩科恩斯球衣。国民竞技要求巴西足协授予决赛对手沙佩科恩斯南美俱乐部杯冠军，以示纪念，表示“对我们来说，沙佩科恩斯永远是2016年南美俱乐部杯冠军”[37]。对于该请求，南美足协的第一反应借用主席亚历杭德罗·多明戈斯（英语：Alejandro Dominguez (football executive)）抵达麦德林时说的话：“这非常值得（考虑），但是当务之急是与巴西和哥伦比亚的官员及国民竞技的官员交涉[38]。”12月5日，南美足协正式授予沙佩科恩斯冠军，同时授予国民竞技公平竞赛奖[39]。
+阿根廷的竞赛俱乐部和飓风竞技俱乐部[40]、乌拉圭的民族足球俱乐部[41]等部分南美洲足球队宣布将在他们接下来的联赛装备球衣上印上沙佩科恩斯的纹章，以示纪念。
+沙佩科恩斯也计划在巴西圣卡塔琳娜州沙佩科的球队主场康达体育场（英语：Arena Condá）举行守夜仪式[42]。
+哥伦比亚最大的国家航空公司哥伦比亚航空向受害者家属提供44名咨询（英语：Grief counseling）心理学家。应哥伦比亚和巴西政府请求，公司还向参与死者身份识别工作的巴西医疗人员提供后勤支援和运输服务[43]。哥伦比亚航空也在Twitter上对事件表示遗憾，表示“与受害者家属一同祷告”[44]。
+在1972年安第斯空难中幸存的前乌拉圭橄榄球队队员罗贝托·卡内萨（英语：Roberto Canessa）表示愿意帮助空难幸存者[45]。
+
+伤亡情况[编辑]
+门将：帕达利亚·达尼洛（获救后在医院去世）、福尔曼（获救）
+后卫：内托（获救）、阿兰·路斯切尔（获救）、吉梅内斯、德内尔、卡拉梅洛、马塞洛、菲利佩·马查多、蒂耶戈
+中场：尤西马尔、吉尔、塞尔吉奥·马诺埃尔、马特乌斯·比特克、克莱伯·桑塔纳、阿图尔·马亚
+前锋：卡内拉、布鲁诺·兰热尔、蒂亚古尼奥、卢卡斯·戈麦斯、亚拿尼亚、肯佩斯
+主帅：卡伊奥·儒尼奥尔
+
+參見[编辑]
+下列事件是有关體育俱樂部的空難：
+
+苏佩尔加空难：1949年拖連奴足球會18名球員在此事故中遇難。
+慕尼黑空难：1958年曼徹斯特聯足球俱樂部8名球員和3名職員在事故中遇難。
+比利時航空548號班機空難：1961年美國國家花样滑冰隊全體隊員在參賽途中遇難。
+蘇里南航空764號班機空難：1989年15名蘇里南足球運動員在事故中遇難。
+1993年加彭空難：1993年贊比亞國家足球隊的18名隊員及教練在事故中遇難。
+2011年雅羅斯拉夫爾空難：2011年雅罗斯拉夫尔火车头冰球队全隊在參賽途中遇難。
+参考文献[编辑]
+
+
+^ Crash: LAMIA Bolivia RJ85 near Medellin on Nov 28th 2016, electrical problems, impact with terrain. 2016-11-29  [2016-11-29]. 
+
+^ 2.0 2.1 2.2 Brazil football team Chapocoense in Colombia plane crash. 英國廣播公司新聞. 2016-11-29  [2016-11-29]. 
+
+^ 
+Lafuente, Javier; Marcos, Ana. Un avión que transportaba al equipo de fútbol brasileño del Chapecoense sufre un accidente en Colombia. 國家報. 2016-11-29 （西班牙语）. 
+
+^ Plane Carrying Football Players From Brazil Crashes In Colombia. 新德里電視台. 2016-11-29  [2016-11-29]. 
+
+^ Plane carrying Brazilian football team Chapecoense crashes in Colombia. 衛報.   [2016-11-29]. 
+
+^ Berlinger, Joshua; Brocchetto, Marilia; Ramos, Fernando. Colombia plane crash: 6th survivor found. CNN. 
+
+^ http://www.bbc.com/zhongwen/simp/world/2016/12/161201_chapecoense_crash_airline_suspended
+
+^ 8.0 8.1 8.2 8.3 Hradecky, Simon. Crash: LAMIA Bolivia RJ85 near Medellin on Nov 28th 2016, electrical problems, impact with terrain. Aviation Herald.   [2016-11-29]. 
+
+^ CP-2933 accident description. Aviation Safety Network.   [2016-11-29]. 
+
+^ CP-2933 LAMIA British Aerospace Avro RJ85 – cn E2348. Planespotters.   [2016-11-29]. 
+
+^ 11.0 11.1 Torres, Fabián. El piloto del avión siniestrado también era el dueño de la aerolínea LaMia. Marca. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ 12.0 12.1 Colombia plane crash: 71 dead on Brazil soccer team's charter flight. CNN.   [2016-11-30]. 
+
+^ Al Chapecoense lo hicieron cambiar de avión [Chapecoense was made to change aircraft]. El Tiempo. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ Messi y la Selección argentina viajaron en el mismo avión del accidente hace 18 días [Messi and the Argentine team travelled in the accident aircraft 18 days ago]. Infobae. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ Richter, Jan. 2016-11-28 LAMIA Avro RJ-85 crashed near Medellin with 81 on board. JACDEC.   [2016-11-29]. 
+
+^ Ostrower, John. Colombia plane crash: Jet ran out of fuel, pilot said. CNN.   [2016-11-30]. 
+
+^ Audio Recording, Controller. Pilot:. LMI 2933 Pilot: (We are) in complete electrical and fuel failure. Youtube.   [2016-11-30]. 
+
+^ Accidente de Chapecoense: los rescatistas tienen que subir media hora por la montaña a pie. La Nación. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ 19.0 19.1 Son seis los sobrevivientes del accidente aéreo en Antioquia. El Tiempo. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ Accidente de avión en el que viajaba Chapecoense deja 75 personas muertas. Caracol.tv. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ Goalie Follmann's leg amputated, Neto suffering from head trauma. Fox News Latino. 2016-11-29  [2016-11-30] （英语）. [永久失效連結]
+
+^ Lawlor, David. Colombia plane crash: 71 dead and six survivors on flight carrying Chapecoense football team. The Daily Telegraph. 2016-11-29  [2016-11-29]. 
+
+^ Cuiza, Paulo. DGAC envía comisión de investigadores a Colombia y asegura que nave de Lamia partió de Bolivia en perfectas condiciones [DGAC sends panel of investigators to Colombia and states that the LaMia aircraft left Bolivia in perfect condition]. La Razón. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ The AAIB is sending a team of inspectors to Colombia (新闻稿). Air Accidents Investigation Branch.   [2016-11-29]. 
+
+^ Corpos de vítimas de queda do voo da Chapecoense já estão todos no IML de Medellin [Bodies of victims of the Chapecoense air crash are already at the IML in Medellín]. G1. 2016-11-29  [2016-11-29] （葡萄牙语）. 
+
+^ Hartley-Parkinson, Richard. Final panicked words of pilot in Colombian plane crash as he 'ran out of fuel'. Metro. Associated Newspapers Ltd.   [2016-11-30]. 
+
+^ Soccer crash survivors treated in Colombia as investigation begins. Reuters UK.   [2016-11-30]. 
+
+^ Steinbuch, Yaron. Search for video game may be why Colombia plane didn’t refuel. 纽约邮报. 2016-12-02  [2016-12-05]. （原始内容存档于2016-12-04） （英语）. 
+
+^ Willoughby, James. Chapecoense air disaster: radical crash theory. 2016-12-02  [2016-12-05]. （原始内容存档于2016-12-03） （英语）. 
+
+^ 30.0 30.1 Uphoff, Rainer. Bolivia suspends LAMIA Bolivia's AOC. FlightGlobal (Reed Business Information). 2016-12-02  [2016-12-05]. 
+
+^ Chapecoense air crash: Bolivia suspends LaMia airline. BBC News. 2016-12-01  [2016-12-02] （英国英语）. 
+
+^ Temer decreta luto de três dias pela tragédia com time da Chapecoense [Temer decrees three days of mourning after the Chapecoense team tragedy]. G1.   [2016-11-29] （葡萄牙语）. 
+
+^ South America at FCO on Twitter. Twitter. 2016-11-29  [2016-11-29] （西班牙语）. 
+
+^ Final da Copa do Brasil é adiada após tragédia com voo da Chapecoense [Copa do Brasil final postponed after Chapecoense flight tragedy]. Globo. 2016-11-29  [2016-11-29] （葡萄牙语）. 
+
+^ Lang, Jack. Chapecoense fans gather in grief at football club's stadium in Brazil. The Guardian. 2016-11-29  [2016-11-29]. 
+
+^ Clubes se unem para ajudar Chape com empréstimos de jogadores [Clubs unite to help Chape by loans of players]. Globo Esportes. 2016-11-29  [2016-11-29] （葡萄牙语）. 
+
+^ Gesto de grandeza [Grand Gesture]. Ole.   [2016-11-29] （西班牙语）. 
+
+^ Chapecoense: Conmebol se expresó sobre título de la Copa Sudamericana [Chapecoense: CONMEBOL commented on South American Cup title]. Peru.com. 2016-11-29  [2016-11-30] （西班牙语）. Es muy valorable. Sin embargo, es el momento de ponernos a trabajar, de hablar con los pares de Brasil y con los de Colombia, con los de Atlético Nacional. No estoy en condiciones sobre el punto. Es loable el gesto. No tuve tiempo de hablar de eso en el avión 
+
+^ Chapecoense plane crash: Team awarded Copa Sudamericana. BBC Sport. 2016-12-05  [2016-12-05]. 
+
+^ Más solidariadad [More solidarity]. Olé. 2016-11-29  [2016-11-30]. 
+
+^ El homenaje de Nacional a Chapecoense [Homage to Chapecoense by Nacional]. Ovación Digital. 2016-11-30  [2016-11-30]. 
+
+^ Phillips, Tom. Chapecoense plane crash: victims to be honoured with mass wake at stadium. The Guardian. 2016-11-29  [2016-11-30]. ISSN 0261-3077 （英国英语）. 
+
+^ La aerolínea tuvo que acudir hasta a féretros prestados. ElTiempo.com.   [2016-11-29] （西班牙语）. 
+
+^ Avianca on Twitter. Twitter. 2016-11-29  [2016-11-30] （西班牙语）. 
+
+^ Sobreviviente del 'Milagro de los Andes': "La vida es como viene, no como uno quiere" [Survivor of the 'Miracle of the Andes': "Life is as it comes, not how one wants it"]. 
+
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：拉米亞航空2933號班機空難
+Informe Final Accidente COL-16-37-GIA Agotamiento de combustible AVRO 146-RJ85, Matrícula CP 2933 29 de noviembre de 2016La Unión, Antioquia –Colombia (PDF). Grupo de Investigación de Accidentes e Incidentes de Aviación, Colombia （西班牙语）. 
+Final Report Accident COL-16-37-GIA Fuel Exhaustion AVRO 146-RJ85, Reg. CP2933 29 November 2015 Aircraft,  La Unión, Antioquia–Colombia (PDF). Grupo de Investigación de Accidentes e Incidentes de Aviación, Colombia （英语）. 
+Preliminary accident report - Aerocivil （西班牙文）
+Preliminary accident report - Aerocivil （英文）
+事发地点航拍
+沙佩科恩斯球员和机组成员的最后访问
+查论编← 2015 2016年航空事故 2017 →   
+01月06日：瑞典西方航空294號班機
+01月15日：美国海军陆战队直升机
+01月16日：伊朗空军F-4战斗机
+01月22日：中華民國空军F-16战斗机
+02月02日：達洛航空159號班機
+02月24日：塔拉航空193号班机
+03月18日: 2016年清州机场跑道入侵事件
+03月19日：杜拜航空981号班机
+03月29日：埃及航空181號班機劫机
+04月04日：巴澤航空7703號班機
+04月06日：日本航空自衛隊U-125飛機
+
+05月01日：中国东方航空5443号班机
+05月18日：美国空军B-52H同温层堡垒
+05月18日：絲綢之路航空貨機
+05月19日：埃及航空804号班机 
+05月27日：大韓航空2708號班機
+06月14日：越南空軍苏-30飞机坠毁
+06月27日：新加坡航空368号班机
+07月20日：幸福通航6005号班机
+07月22日：印度空军运输机
+07月27日：美国空军OC-135B侦察机事故
+
+07月30日：洛克哈特热气球坠毁事故
+08月03日：阿聯酋航空521號班機
+08月05日：ASL航空7332号班机事故
+10月11日：2016年虹桥机场跑道入侵事件
+11月12日：中国空军歼-10战斗机
+11月29日：拉米亞航空2933號班機
+12月07日：巴基斯坦国际航空661号班机
+12月13日：驻日美军MV-22鱼鹰运输机
+12月18日：印尼空军运输机
+12月20日：蘇克雷航空4544號班機
+12月25日：俄羅斯國防部圖-154飛機†
+粗体字表示至少造成50人死亡的航空事故
+† 表示為2016年最嚴重的航空事故
+查论编《空中浩劫》内涉及到的航空事故第一季（共6集，2003年）
+美國航空1420號班機
+聯合航空811號班機
+越洋航空236號班機
+瑞士航空111號班機
+秘魯航空603號班機
+阿拉斯加航空261號班機
+第二季（共6集，2005年）
+英國航空5390號班機
+大西洋東南航空529號班機
+法國航空8969號班機
+烏伯林根空難（巴什克利安航空2937號班机／DHL快遞公司611號班机）
+美国航空965号班机
+哥伦比亚航空052号班机
+第三季（共13集，2006-2007年）
+阿羅哈航空243號班機
+DHL货机遇袭事件（欧洲航空运输公司注册编号OO-DLL班机）
+日本航空123號班機
+聯邦快遞705號班機
+伊朗航空655號班機
+菲律賓航空434號班機
+布里斯托航空56C號班機
+埃及航空990號班機
+俄羅斯航空593號班機
+埃塞俄比亞航空961號班機
+第四季（共10集，2007年）
+法國航空358號班機
+英國航空009號班機
+加拿大航空797號班機
+大韓航空801號班機
+聯合航空585號班機 / 全美航空427號班機 / 東風航空517號班機
+中華航空006號班機
+墨西哥國際航空498號班機
+美國空軍IFO21號班機
+閃光航空604號班機
+太陽神航空522號班機
+第五季（共10集，2008年）
+全美快運航空5481號班機
+美國航空96號班機 / 土耳其航空981號班機
+加拿大航空143號班機
+達美航空191號班機
+美国南方航空242號班機
+南非航空295號班機
+印度航空182號班機
+伯根航空301號班機
+美国東方航空401號班機
+戈爾航空1907號班機/卓越航空注册编号N600XL班机
+第六季（特辑）（共3集，2007-2008年）
+太陽神航空522號班機
+聯合航空811號班機
+英國航空5390號班機
+阿羅哈航空243號班機
+阿拉斯加航空261號班機
+日本航空123號班機
+大西洋東南航空529號班機
+瑞士航空111號班機
+聯合航空585號班機
+全美航空427號班機
+東風航空517號班機
+秘魯航空603號班機
+中華航空006號班機
+俄羅斯航空593號班機
+閃光航空604號班機
+越洋航空236號班機
+第七季（共8集，2009-2010年）
+泛美航空103號班機
+沙地阿拉伯航空763號班機/哈薩克航空1907號班機
+中華航空611號班機
+柏納航空394號班機
+嬰兒空運行動空难（美国空军注册编号68-0218运输机）
+突尼斯國際航空1153號班機
+亞當航空574號班機
+美鷹航空4184號班機
+第八季（特辑）（共2集，2010年）
+大峽谷空中相撞事件（联合航空718号班机／环球航空2号班机）
+墨西哥國際航空498號班機
+烏伯林根空難（巴什克利安航空2937號班機／DHL快遞公司611號班機）
+戈爾航空1907號班機
+哥倫比亞航空052號班機
+南方航空242號班機
+達美航空191號班機
+美國航空1420號班機
+英國航空9號班機
+第九季（共8集，2010年）
+英國空旅航空28M號班機
+法國航空296號班機
+西北航空255號班機
+全美航空1493號班機／西翼航空5569號班機
+大韓航空007號班機
+因特航空148號班機
+安大略航空1363號班機／全美航空405號班機
+卓克斯海洋航空101號班機
+第十季（共6集，2011年）
+十字航空3597號班機
+英國航空38號班機
+北歐航空751號班機
+土耳其航空1951號班機
+美國大陸連線3407號班機
+全美航空1549號班機
+第十一季（共13集，2011-2012年）
+巴西天馬航空3054號班機
+西加勒比海航空708號班機
+飞箭航空1285号班机
+美国大陆快运2574号班机
+慕尼黑空难（英国欧洲航空公司609号班机）
+西北航空85號班機
+大韓航空貨運8509號班機
+太平洋西南航空182號班機
+尼日利亞航空2120號班機
+太平洋西南航空1771號班機
+中美洲航空110號班機
+北歐航空686號班機
+聯合航空232號班機
+第十二季（共13集，2013年）
+里夫阿留申航空8号班机
+瓦盧杰航空592號班機
+新加坡航空006號班機
+勝安航空185號班機
+秘魯國營航空204號班機
+大峽谷空中相撞事件（联合航空718号班机／环球航空2号班机）
+美國航空191號班機
+聯合航空173號班機
+波兰空军注册编号101客机
+雅羅斯拉夫爾空難（雅克服務航空註冊編號RA-42434客機）
+埃塞俄比亞航空409號班機
+聖巴巴拉航空518號班機
+法國航空447號班機
+第十三季（共11集，2013年）
+英國歐洲航空548號班機
+休斯西部航空706號班機
+十字航空498號班機
+佛羅里達航空90號班機
+美國航空587號班機
+烏斯蒂卡空難（意大维亚航空870号班机）
+NOAA42颶風獵人事件（美国国家海洋和大气管理局NOAA42号洛克希德WP-3D猎户座）
+莫雷阿航空1121號班機
+德國XL航空888T號班機
+澳洲航空32號班機
+第十四季（共11集，2015年）
+英倫航空92號班機
+勞達航空004號班機
+里约格朗德航空254號班機
+巴拿馬航空201號班機
+聯邦快遞空运80號班機/聯邦快遞空运14號班機
+小約翰‧甘迺迪飛機墜毀事故
+法國航空4590號班機
+墨西哥城空難
+Manx2航空7100號班機
+第一航空6560號班機
+馬來西亞航空370號班機
+第十五季（共11集，2015年-2016年）
+聯合航空快運5925號班機
+韓亞航空214號班機
+以色列航空1862號班機
+联合包裹服务空中运输6號班機
+1961年恩多拉聯合國DC-6墜毀事件（英语：1961 Ndola United Nations DC-6 crash）
+大西洋航空670號班機（英语：Atlantic Airways Flight 670）
+西班牙航空5022號班機
+嘉魯達印尼航空200號班機
+大西洋東南航空2311號班機（英语：Atlantic Southeast Airlines Flight 2311）
+巴西天馬航空402號班機
+第十六季（共10集，2016年-2017年）
+1999年南達科他州里爾35噴射機空难（英语：1999 South Dakota Learjet crash）
+美国航空77号班机（911事件）
+特內里費空難（荷蘭皇家航空4805號班機／泛美航空1736號班機）
+中华航空120号班机
+海神航空706號班機（英语：Proteus Airlines Flight 706）
+科羅拉多航空2286號班機（英语：Trans-Colorado Airlines Flight 2286）
+德国之翼航空9525号班机
+嘉鲁达印尼航空421号班机空难（英语：Garuda Indonesia Flight 421）
+亚洲航空（印尼）8501号班机
+美国国家航空102号班机
+第十七季（共10集，2017年）
+西北空連航空5719号班机空难（英语：Northwest Airlink Flight 5719）
+康姆航空3272号班机空难（英语：Comair Flight 3272）
+中国国际航空129号班机
+环球航空800号班机
+加鲁达印尼航空152号班机
+全美航空1016号班机
+復興航空235號班機
+科加雷姆航空9268號班機
+阿根廷私人航空3142号班机
+泰國國際航空311號班機
+第十八季（共10集，2018年）
+埃默里世界航空17号班机
+复兴航空222号班机
+达美航空1141號班機
+馬來西亞航空17號班機
+萨拉火山苏霍伊SSJ-100坠机事件（英语：Mount Salak Sukhoi Superjet 100 crash）
+維珍太空船2號墜毀事件（英语：VSS Enterprise crash）
+澳洲航空72號班機
+意大利航空404号班机
+中华航空140号班机
+美國大陸航空1713號班機
+第十八季（特辑）（共10集，2018年）
+聯航快運5925號班機
+加魯達航空152號班機
+特內里費空難（荷蘭皇家航空4805號班機／泛美航空1736號班機）
+英國歐洲航空548號班機
+西北空連航空5719號班機（英语：Northwest Airlink Flight 5719）
+科羅拉多航空2286號班機（英语：Trans-Colorado Airlines Flight 2286）
+全美航空1549號班機
+加拿大航空143號班機
+中美洲航空110號班機
+第十九季†（共10集，2019年）
+國泰航空780號班機
+2011年雷諾飛行競賽墜毀事故（英语：2011 Reno Air Races crash）
+荷蘭皇家城市快捷航空433號班機（英语：KLM Cityhopper Flight 433）
+卡利塔航空808號班機（英语：Kalitta Air#Incidents and accidents）
+法恩航空101號班機（英语：Fine Air Flight 101）
+羅馬尼亞航空371號班機（英语：TAROM Flight 371）
+美國大陸航空1404號班機（英语：Continental Airlines Flight 1404）
+北俄羅斯航空821號班機
+拉米亞航空2933號班機
+聯合快運航空6291號班機（英语：United Express Flight 6291）
+世纪大空难（特辑）
+特內里費空難（荷蘭皇家航空4805號班機／泛美航空1736號班機）
+参见
+空中浩劫各集列表
+空難列表
+商业客机事故列表
+航空事故
+附注†表示该季计划播出，列表中的内容可能会随着实际情况而发生变化
+
+
+

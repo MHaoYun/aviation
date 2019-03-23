@@ -1,0 +1,83 @@
+
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}英國航空268號班機事故
+肇事的G-BNLG，2012年2月24日攝於倫敦希斯路機場。概要日期
+2005年2月20日摘要
+發動機失火地點
+美國洛杉磯乘客
+351機組人員
+18死亡
+0人生還者
+369（全部）機型
+波音747-436操作人員
+英國航空註冊編號
+G-BNLG起飛地
+ 美國洛杉磯國際機場目的地
+ 英國倫敦希斯洛機場
+英國航空268號班機（英語：British Airways Flight 268）是從洛杉磯國際機場飛往倫敦希斯洛機場的定期航班，航行飛機則為4引擎的波音747-436。
+
+目录
+
+1 過程
+2 註釋
+3 參考文獻
+4 外部連結
+
+
+過程[编辑]
+2005年2月20日，飛機於晚間9時24分左右起飛後不久後|二號發動機開始有失火跡象，並且引擎出現激烈震動。飛行員隨即將引擎關閉並且向航空交通管制人員表示放棄飛行計劃返回原本機場整修。但是在與航空公司的調度員協商後決定「盡自己所能地」完成飛行計畫，而取消原本將燃料轉往其他油箱並且降落整備的作法[1]。儘管波音747已經是設定在僅有3顆引擎正常運作的情況下仍能繼續飛行，但是在這樣航行方法也會造成油料的使用速度比平時還要來得快。雖然飛機在飛抵美國東海岸時仍評估可以繼續進行飛行任務，但是由於在大西洋上空飛行時並沒有太多原本估計有利飛行的環境因素，當即將到達英國上空時機組人員便判斷飛機上的可用燃油不足以抵達目的地。最後機長宣布飛機進入緊急狀態，並且改於曼徹斯特機場降落[2]。
+飛機降落後相關的安全爭議隨即被廣泛討論，美國聯邦航空總署認為客機這趟橫跨大西洋的飛行任務並未處於「適航」狀態。美國聯邦航空總署之後向英國航空提出25,000美元的罰緩[3]，而英國航空則上訴表示自身採用了英國民航局（Civil Aviation Authority）的標準，而這標準則是依照國際民航組織的標準所制定[4][5]。最後美國聯邦航空總署決定放棄對於英國航空的訴訟，但是相對地英國航空則必須排除這一類涉及執法問題的操作模式[6]。不過《國際航空雜誌》（Flight International）在相關文章中提到英國航空表示美國聯邦航空總署已經承認英國民航局的標準，並且改認定英國航空268號班機並未在「不適航」的情況下進行飛行任務[7]。對此在事故調查報告中則建議英國航空修改其燃料管理流程，而航空事故調查委員會也建議美國聯邦航空總署應該要求飛行數據記錄器的製造廠商霍尼韋爾修改系統程序。
+
+註釋[编辑]
+
+
+^ Flight's Engine Fails, Pilots Continue Flying. 美國廣播公司. 2006-09-24  [2013-01-24] （英语）. 
+
+^ David Learmount. BA must still face FAA court action. Flightglobal.com. 2006-06-13  [2013-01-24] （英语）. 
+
+^ David Learmount. Kabul-Khwaja Rawash Airport profile. Flightglobal.com. 2006-04-11  [2013-01-24] （英语）. 
+
+^ Darren Shannon. BA appeals US FAA fine for operating 747 in 'unworthy state' after engine shutdown. Flightglobal.com. 2006-04-03  [2013-01-24] （英语）. 
+
+^ 《國際航空雜誌》（Flight International）. Woolly thinking. Flightglobal.com. 2006-04-11  [2013-01-24] （英语）. 
+
+^ 史考特·麥卡尼（Scott McCartney）. After Engine Blew, Deciding to Fly On 'As Far as We Can'. 《華爾街日報》. 2006-09-23  [2013-01-24] （英语）. 
+
+^ David Learmount. USA/UK fail to agree new engine-out rules. Flightglobal.com. 2007-01-23  [2013-01-24] （英语）. 
+
+
+參考文獻[编辑]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+（英文） 航空失事調查局（Air Accidents Investigation Branch）. Section 1 - Aeroplanes 5,700kg MTWA and above. 英國奧爾德肖特: Progress Report 2007. 2007年12月. 
+
+外部連結[编辑]
+（英文） Flight's Engine Fails, Pilots Continue Flying
+查论编← 2004 2005年航空事故 2006 →   
+1月30日：英國皇家空軍C-130運輸機
+2月03日：卡姆航空904號班機
+2月20日：英國航空268號班機
+3月06日：加拿大越洋航空961號班機
+4月02日：偉斯特蘭海王直升機
+5月07日：費爾柴爾德梅特羅
+6月09日：波士頓洛根機場跑道入侵
+
+7月16日：赤道航空An-24運輸機
+8月02日：法國航空358號班機
+8月06日：突尼西亞國際航空1153號班機
+8月10日：喀普特航空103號班機
+8月14日：太陽神航空522號班機
+8月16日：西加勒比海航空708號班機†
+8月23日：秘魯國營航空204號班機
+9月05日：曼達拉航空091號班機
+
+09月21日：捷藍航空292號班機
+10月22日：貝爾韋尤航空210號班機
+12月06日：伊朗空軍C-130運輸機
+12月08日：西南航空1248號班機
+12月10日：索索利亞航空1145號班機
+12月19日：卓克斯海洋航空101號班機
+12月23日：亞塞拜然航空217號班機
+粗体字表示至少造成50人死亡的航空事故
+† 表示為2005年最嚴重的航空事故
+
+
+

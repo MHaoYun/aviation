@@ -1,0 +1,204 @@
+本文記述一項新聞動態。随着事件發展，內容可能會快速更新。維基百科不是新聞的收集处。請留心記載正確信息，在情報相對明朗之後進行編輯更新。
+
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}獅子航空610號班機空難
+注册编号PK-LQP的失事飞机，摄于2018年9月事故概要日期
+2018年10月29日摘要
+初步調查指出，源於攻角數據輸入錯誤，維修不當，機師操作失誤（當局已排除人為疏失）地點
+印尼佳拉旺（英语：Karawang） 5°46′15″S 107°7′16″E﻿ / ﻿5.77083°S 107.12111°E﻿ / -5.77083; 107.12111坐标：5°46′15″S 107°7′16″E﻿ / ﻿5.77083°S 107.12111°E﻿ / -5.77083; 107.12111乘客
+181機組人員
+8受傷
+0死亡
+189[1]生還者
+0機型
+波音737 MAX 8操作人員
+獅子航空註冊編號
+PK-LQP起飛地
+印尼雅加达蘇加諾-哈達國際機場目的地
+印尼邦加檳港德帕蒂·阿米尔机场
+
+
+@media all and (max-width:720px){body.skin-minerva .mw-parser-output div.mw-graph{min-width:auto!important;max-width:100%;overflow-x:auto;overflow-y:visible}}
+[全屏]
+
+
+狮子航空610号班机的飞行路线
+
+狮子航空610号班机（IATA：JT610，ICAO：LNI610；印尼語：Lion Air Penerbangan 610）是由印尼狮子航空运营的从雅加达蘇加諾-哈達國際機場飞往邦加檳港德帕蒂·阿米尔机场的国内定期客运航班。于2018年10月29日清晨6:20分从蘇加諾-哈達國際機場起飞13分钟后坠毁[2][3]。在爪哇岛海岸外的爪哇海发现飞机残骸[4]。官员预测恐怕機上所有189名乘客和机组人员都不幸已经罹难，[5]僅1天後，印尼官方公布已經尋獲了24具遺體和飛機殘骸，證實610班機已經墜毀印尼爪哇海，機上無人生還。11月1日印尼交通部长布迪·苏马迪（印尼语：Budi Karya Sumadi）希望澳大利亚就狮航公司空难后临时禁止乘坐该公司航班作出解释[6]。
+
+目录
+
+1 背景
+2 失事飛機
+3 航班信息
+4 事故经过
+5 救援
+6 调查
+7 参见
+
+7.1 类似事故
+7.2 相同机型事故
+
+
+8 参考文献
+
+
+背景[编辑]
+印尼狮子航空有着极坏的安全纪录，印尼狮航的航班曾被欧盟加入黑名单，禁止进入欧盟。另一方面，印尼民航业的安全记录也很差，民航事故频发。根据2018年的数据，在之前20年印尼曾有超过600人因空难丧生。美国联邦航空管理局在2016年将印尼的航空安全分级分为最危险的“1”类[7][8][9]。
+
+失事飛機[编辑]
+失事飛機註冊編號為PK-LQP的波音737MAX-8，機齡0.2年(2个月)，使用2台CFM LEAP-1B25发动机，由中国中民投租赁公司擁有，於2018年7月30日首飛，同年8月13日租賃予狮子航空[10][11]，8月18日投入服務，該飞机最大可以容纳210名乘客[12]。事故发生时，飞机已经飞行了约800小时。[13]這是737 MAX自2017年投入服務以來的首次事故[14]，也是涉及到737机型中伤亡人数最多的空难。11月1日上午印尼交通部（英语：Ministry of Transportation (Indonesia)）说，失事狮航客机的首个黑盒子已被成功打捞出水。[15]
+
+航班信息[编辑]
+据《海峡时报》报道，飞机上有181名乘客，包括178名成人和3名儿童，还有6名机组人员和2名飞行员[16]。狮子航空确认该航班的机长是1名印度公民，已经在该公司飞行了7年多，飞行经验大约6,000小时，副驾驶为印度尼西亚人，飞行经验大约5,000小时。[4]在机上有两名外籍人士，来自印度31岁的机长巴耶·苏内扎（Bhavye Suneja）以及26岁的義大利籍前职业自行車選手安德烈亚·曼弗雷迪。[17][18][19]
+乘客中有20名印度尼西亚财政部（英语：Ministry of Finance (Indonesia)）的雇员、10名印度尼西亚审计委员会（英语：Audit Board of Indonesia）的雇员、7名来自邦加-勿里洞省地区人民代表委员会成员、2名金融与发展监督处（印尼语：Badan Pengawasan Keuangan dan Pembangunan）的审计员、3名检察官及3名法官（两人来自邦加槟港高等法院、1人来自高木（英语：Koba, Indonesia）地方法院）；隨著11月1日首名遇難者確認為印尼能源與原物料部（英语：Ministry of Energy and Mineral Resources (Indonesia)）的公務員，使得具官方背景的乘客數量逼近50人。[20][21][22][23][24][25][26]
+
+事故经过[编辑]
+航空編號JT610的客機在當地清晨6:20分，由雅加達起飛，原定1小時後到邦加槟港，但客機在6:33分與塔台失去聯絡[16]。根據航空追蹤網站Flightradar24顯示，飛機“在失踪之前爬升到大约5,000英尺（1,524米），后重新恢复高度，最终坠入大海。最后记录显示飞机处于3,650英尺（1,113米）高，速度上升至345节[27]。”
+
+救援[编辑]
+印尼国家搜救署（英语：National Search and Rescue Agency）在国家空军的援助下开展了搜救行动[28]。民用船只也对1架坠毁飞机的报道作出回应，一艘拖船AS Jaya II的船员向当局报告，他们目睹飞机在早上6:45分坠毁，并在上午7:15分在水上发现飞机碎片[16][29]。该机构的一位发言人向记者证实，飞机已经坠毁[29]，直到大约上午9点的时候，官员说还没有机上的具体信息[30]。
+11月1日，首名遇難者經指紋比對已確認為來自東爪哇蘇達約（英语：Sidoarjo Regency）年24歲的扎娜敦·卿雅·德薇（Jannatun Cintya Dewi），是印尼能源與原物料部（英语：Ministry of Energy and Mineral Resources (Indonesia)）在雅加達的公務員。[26]
+11月3日，搜索行動的指揮官Isswarto上校表示，48歲的潛水員夏魯·安托（Syachrul Anto）於2日協助搜索客機殘骸和罹難者遺體期間，疑因出現潛水減壓症（Decompression）不幸身亡[31]。
+
+
+
+
+
+
+
+
+
+
+
+
+
+调查[编辑]
+巴厘岛机场的负责人表示，此架飞机於10月28日執行JT43航班，从巴厘岛載客返回雅加達的飞行过程中，飞机起飞不久飞行员即请求返回机场。當時飞行控制系统曾险些导致飞机失控，驾驶舱内一名“搭便机”的轮休飞行员正确诊断出问题，并让当班机组人员及时切断驱使飞机俯冲的发动机电源並將飛機控制權交予副機師，排除了险情，避免了事故发生[32][33]。當時搭乘此航班的兩名乘客表示，飛機發生多項令人煩惱和驚恐的問題。乘客之一的阿隆·索坦托（Alon Soetanto）接受印尼電視台tVOne（英语：tvOne (Indonesia)）訪問時表示，飛機剛起飛的數分鐘內，曾數度突然下墜。[34]
+是次航班的另一位乘客蒂雅·玛达妮（Diah Mardani）接受采访时说，飞机突然下坠，而后爬升，而后更剧烈地坠落并摇晃，客舱内气氛非常紧张，出事航班的飞行员在起飞后不久同样发出了返回机场着陆的请求。从航班状态监测网站上的数据来看，这两个航班在起飞后都出现了非常严重的高度和速度不稳定，但是这些数据还要通过飞机的黑盒子确认。印尼的Tempo新闻网（英语：Tempo (Indonesian magazine)）发出的失事航班与塔台间精确到分钟的对话内容显示，飞行员曾报告有飞行控制问题，且难以确定飞机所处高度。[33]
+来自美国国家运输安全委员会的小组，包括波音公司的专家已经加入了调查。[33]印度尼西亚交通部适航主管亚必·利扬托（Avi Riyanto）称，已经对所有正在服役的波音737 MAX 8进行检查，并将密切监视印尼其他使用波音737 MAX的航班，如果出现值得注意的问题，可能会做更多检查，如必要会将它们停飞。[33]
+据印尼国家运输安全委员会，失事客机在最后4次飞行时，飞机仪表已经发生故障，其中一次影响了攻角传感器和空速指示器的操作，[35]失事航班出现了其中一个攻角传感器输入读数错误。据报道，狮航机务人员在接到攻角传感器数据不可靠的报修后，仅采取了清理管路的不当维修操作。[36]根据空难的初步调查结果[37]，制造商波音于11月6日发表声明称，将向飞机运营商发布操作手册通告，告知运营商如何处理攻角传感器输入错误读数的情况。[38]波音通过调查发现，在某些情况下，若查觉有失速（气流平衡被破坏）可能，波音737 Max客机可能会自动降低机头。[37]根据波音发布的通告，美国联邦航空管理局于7日对737 MAX 8发布适航指令，警告受影响的美国航空公司和外国适航主管部门。[38]
+
+参见[编辑]
+类似事故[编辑]
+2008年澳洲航空72号班机事故：空中客车A330-300自新加坡往澳大利亚珀斯途中因攻角传感器故障导致飞机电脑中的防失速保护系统启动，从而导致飞机两次发生俯冲。最终飞机紧急迫降在里尔蒙斯机场，机上303人中有115人受伤。
+相同机型事故[编辑]
+2019年埃塞俄比亚航空302号班机空难：波音737MAX-8自亚的斯亚贝巴往内罗毕在起飞后6分钟坠毁，机上157人全部罹难。涉事飞机于2018年10月30日首飛，同年11月15日交付，机龄仅4个月。事件發生後4天，全数374架[39]波音737 MAX系列客机均被停飞。
+参考文献[编辑]
+
+
+^ Lion Air 737 Max 8 crash confirmed, 189 dead. 2018-10-29  [2018-10-29]. 
+
+^ Lion Air Boeing Passenger Jet Has Crashed, Says Rescue Agency. Bloomberg News. 2018-10-28  [2018-10-28]. 
+
+^ Media, Kompas Cyber. Pesawat Lion Air JT-610 Rute Jakarta-Pangkal Pinang Hilang Kontak - Kompas.com. KOMPAS.com. 2018-10-29  [2018-10-29] （英语）. 
+
+^ 4.0 4.1 Massola, James; Rompies, Karuni; Rosa, Amilia. Lion Air flight crashes in Indonesia. Sydney Morning Herald. 2018-10-29  [2018-10-29]. 
+
+^ Lion Air plane crash latest: 'No survivors' after Indonesia passenger jet crashes with 189 on board. EveningStandard. 2018-10-29  [2018-10-29]. 
+
+^ 印尼要求澳大利亚政府就禁乘狮航公司航班作出解释中國新聞網，2018年11月1日
+
+^ 赵觉珵. 印尼狮航客机今晨失联，公司安全记录一直不佳. 环球网. 
+
+^ Muktita Suhartono; Hannah Beech. Indonesia Plane Crash Adds to Country’s Troubling Safety Record. New York Times. 
+
+^ Indonesia's Lion Air is far from the only airline with a chequered safety record. 10 daily. 
+
+^ @nikphillips666. On delivery to Lion Air is Boeing 737 MAX 8, PK-LQP, from Boeing Field (推文). 2018-08-14  –通过Twitter.  
+
+^ Lion Air Datangkan Pesawat Baru Boeing 737 MAX 8 ke-10. Tribunnews.com. 2018-08-15  [2018-10-28] （印度尼西亚语）. 
+
+^ CNN, Euan McKirdy,. Lion Air flight crashes en route from Jakarta to Pangkal Pinang. CNN.   [2018-10-29]. 
+
+^ CNN, Euan McKirdy,. Lion Air flight crashes en route from Jakarta to Pangkal Pinang. CNN.   [2018-10-29]. 
+
+^ Indonesia: Lion Air flight from Jakarta to Sumatra crashes. Al Jazeera. 2018-10-29  [2018-10-29]. 
+
+^ 狮航失事客机首个黑盒子被找到 已打捞出水新浪新聞中心，2018年11月1日
+
+^ 16.0 16.1 16.2 Chan, Francis; Soeriaatmadja, Wahyudi. Lion Air plane carrying 188 on board crashes into sea shortly after take-off from Jakarta. The Straits Times. 2018-10-29  [2018-10-29]. 
+
+^ Lion Air plane crash latest: 'No survivors' after Indonesia passenger jet crashes with 189 on board. Evening Standard. 2018-10-29  [2018-10-29]. 
+
+^ Indonesia plane crash today: Indian pilot Bhavye Suneja, resident of Delhi, was captain of Lion Air flightTimes Now News.com，2018年10月29日
+
+^ Former Italian pro Andrea Manfredi dies in Indonesia plane crashCycling Weekly，2018年10月29日
+
+^ Zhou, Naaman. Lion Air crash: officials say 188 onboard lost flight JT610 – latest updates. The Guardian. 2018-10-29  [2018-10-29]. 
+
+^ Elvan Dany Sutrisno. 10 Pegawai BPK Jadi Penumpang Lion Air JT 610, Ini Daftar Namanya. Detik.com. 2018-10-29 （印度尼西亚语）. 
+
+^ Ketinggalan Pesawat, 2 Anggota DPRD Ini Selamat dari Insiden Jatuhnya Lion Air. Okezone.com. 2018-10-29 （印度尼西亚语）. 
+
+^ Iin Yumiyanti. 2 Auditor Andalan BPKP Jadi Korban Pesawat Lion Air yang Jatuh. Detik.com. 2018-10-29 （印度尼西亚语）. 
+
+^ 3 Jaksa Jadi Korban Pesawat Lion Air JT 610, Ini IdentitasnyadetikNews，2018年10月29日
+
+^ Tiga Hakim Ada di Pesawat Lion Air yang Jatuh, MA BerdukadetikNews，2018年10月29日
+
+^ 26.0 26.1 Lion Air Crash: First Victim Identified, Black Box Recovered Amid Search ComplicationsInternational Business Times，2018年11月1日
+
+^ Lion Air crash: officials say 189 onboard lost flight JT610 – as it happenedThe Guardian，2018年10月29日
+
+^ Indonesia's Lion Air says it's lost contact with airplane. The Seattle Times. Associated Press. 2018-10-29  [2018-10-29]. 
+
+^ 29.0 29.1 Lamb, Kate. Lion Air passenger plane flying from Jakarta crashes into the sea – latest updates. the Guardian. 2018-10-29  [2018-10-29] （英语）. 
+
+^ BREAKING: Contact lost with Lion Air plane, tugboat crew 'see debris of plane'. The Jakarta Post. 2018-10-29  [2018-10-29]. 
+
+^ 印尼獅航空難搜救工作傳惡耗　48歲蛙人喪生. 香港01. 2018-11-03. 
+
+^ 美媒称狮航客机失事前一天曾被飞行员排除过一次险情
+
+^ 33.0 33.1 33.2 33.3 New details highlight Lion Air jet's problems before crash. AP NEWS. 2018-11-02  [2018-11-02]. 
+
+^ （更新）印尼獅航JT 610黑盒子尋獲，失事謎團可望有解關鍵評論，2018年10月31日
+
+^ 刘婕. 波音：狮航失事客机飞行员可能读取了错误的数据_国际新闻_环球网. world.huanqiu.com.   [2018-11-08] （英语）. 
+
+^ 网易. 波音通告直指印尼坠机 迎角探测器故障成悬疑_网易订阅. dy.163.com.   [2018-11-08]. 
+
+^ 37.0 37.1 网易. 波音将警告航企：新型波音737有俯冲坠落的危险_网易航空. news.163.com.   [2018-11-08]. 
+
+^ 38.0 38.1 CNN, Helen Regan and Masrur Jamaluddin,. Boeing issues operational manual guidance to airlines following Lion Air crash. CNN.   [2018-11-08]. 
+
+^ 737 Model Orders and Deliveries data. 波音公司. 2019-03-01  [2019-03-13]. （原始内容存档于2019-03-13）. 
+
+
+查论编← 2017 2018年航空事故 2019 →   
+01月5日：卢克索热气球（英语：2018 Luxor hot air balloon crash）
+01月13日：土耳其飛馬航空8622號班機
+01月17日：蓝宝石航空UH-1直升机（英语：2018 Sapphire Aviation Bell UH-1H Iroquois crash）
+02月11日：萨拉托夫航空703号班机
+02月13日：联合航空1175号班机（英语：United Airlines Flight 1175）
+02月16日：墨西哥空军UH-60直升機
+02月18日：伊朗阿塞曼航空3704号班机
+03月6日：俄罗斯空军安-26运输机（英语：2018 Antonov An-26 crash）
+03月11日：巴薩朗控股龐巴迪飛機（英语：2018 Bombardier Challenger 604 crash）
+03月12日：紐約觀光直升機（英语：2018 New York City helicopter incident）
+
+03月12日：美国-孟加拉航空211号班机
+03月17日：菲律宾精简航空快运PA-23货机（英语：2018 Philippines Piper PA-23 crash）
+04月2日：美國馬里恩市機場撞機事故
+04月11日：阿爾及利亞空軍伊-76運輸機†
+04月17日：西南航空1380号班机
+05月14日：四川航空8633号班机
+05月18日：古巴航空972号班机
+07月31日：墨西哥航空2431号班机
+08月4日：Ju-Air Junkers Ju 52坠毁事故（英语：2018 Ju-Air Junkers Ju 52 crash）
+08月4日：de Havilland Beaver坠毁事故（英语：K2 Aviation de Havilland Beaver (DHC-2) crash）
+
+08月10日：地平线航空Q400事件
+08月16日：厦门航空8667号班机
+09月1日：俄罗斯烏塔航空579号班机
+09月17日：俄罗斯空军伊尔-20电子侦察机
+09月28日：新几内亚航空73号班机
+010月27日：莱斯特城足球俱乐部直升机
+010月29日：印尼獅子航空610号班机
+011月9日：牙買加飛天航空256號班機
+012月24日：普埃布拉州直升機墜毀事故
+粗体字表示至少造成50人死亡的航空事故
+† 表示為2018年最嚴重的航空事故
+
+
+

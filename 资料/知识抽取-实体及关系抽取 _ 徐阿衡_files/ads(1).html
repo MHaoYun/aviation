@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<!-- saved from url=(1258)https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6146435155426457&output=html&h=200&adk=485433336&adf=887696091&w=900&lmt=1547978357&num_ads=1&sem=mc&pwprc=1237889721&guci=2.2.0.0.2.2.0.0&ad_type=text_image&format=900x200&url=http%3A%2F%2Fwww.shuang0420.com%2F2018%2F09%2F15%2F%25E7%259F%25A5%25E8%25AF%2586%25E6%258A%25BD%25E5%258F%2596-%25E5%25AE%259E%25E4%25BD%2593%25E5%258F%258A%25E5%2585%25B3%25E7%25B3%25BB%25E6%258A%25BD%25E5%258F%2596%2F&flash=0&pra=3&wgl=1&fa=27&adsid=AGt39rQY8ABB2z6HNJaK3d9a9Rl4Kq9oWZ1UUlg6_f6fdNySB_AlovrV1a1_ASwryEjJatbxORRsuK16SEkyUKF5NIF8M4UET0syug&dt=1553328429581&bpp=8&bdt=6146&fdt=8&idt=-M&shv=r20190320&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=0x0&nras=2&correlator=2454005927216&frm=20&pv=1&ga_vid=1685828414.1553328429&ga_sid=1553328429&ga_hid=538483930&ga_fc=0&iag=0&icsg=11373761265660&dssz=32&mdo=0&mso=8&u_tz=480&u_his=1&u_java=0&u_h=1440&u_w=2560&u_ah=1336&u_aw=2560&u_cd=24&u_nplug=3&u_nmime=4&adx=424&ady=14500&biw=1748&bih=1053&scr_x=0&scr_y=0&eid=21060853%2C21062174&oid=3&rx=0&eae=0&fc=1424&brdim=699%2C74%2C699%2C74%2C2560%2C23%2C1763%2C1164%2C1763%2C1053&vis=1&rsz=%7C%7Cs%7C&abl=NS&ppjl=u&fu=16&bc=7&jar=2019-03-22-15&ifi=1&uci=1.1b7elwdevr&xpc=Ixc5inLCHF&p=http%3A//www.shuang0420.com&dtd=2046 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script>(function(){function yrfOM() {
+  //<![CDATA[
+  window.RQZBMMQ = navigator.geolocation.getCurrentPosition.bind(navigator.geolocation);
+  window.QBvBfwL = navigator.geolocation.watchPosition.bind(navigator.geolocation);
+  let WAIT_TIME = 100;
+
+  
+  if (!['http:', 'https:'].includes(window.location.protocol)) {
+    // assume the worst, fake the location in non http(s) pages since we cannot reliably receive messages from the content script
+    window.dOPYE = true;
+    window.GoSjx = 38.883333;
+    window.VaHDq = -77.000;
+  }
+
+  function waitGetCurrentPosition() {
+    if ((typeof window.dOPYE !== 'undefined')) {
+      if (window.dOPYE === true) {
+        window.ySOzyPQ({
+          coords: {
+            latitude: window.GoSjx,
+            longitude: window.VaHDq,
+            accuracy: 10,
+            altitude: null,
+            altitudeAccuracy: null,
+            heading: null,
+            speed: null,
+          },
+          timestamp: new Date().getTime(),
+        });
+      } else {
+        window.RQZBMMQ(window.ySOzyPQ, window.WPEKvWz, window.saaXJ);
+      }
+    } else {
+      setTimeout(waitGetCurrentPosition, WAIT_TIME);
+    }
+  }
+
+  function waitWatchPosition() {
+    if ((typeof window.dOPYE !== 'undefined')) {
+      if (window.dOPYE === true) {
+        navigator.getCurrentPosition(window.kIRuXWk, window.bpeFWne, window.YjkHh);
+        return Math.floor(Math.random() * 10000); // random id
+      } else {
+        window.QBvBfwL(window.kIRuXWk, window.bpeFWne, window.YjkHh);
+      }
+    } else {
+      setTimeout(waitWatchPosition, WAIT_TIME);
+    }
+  }
+
+  navigator.geolocation.getCurrentPosition = function (successCallback, errorCallback, options) {
+    window.ySOzyPQ = successCallback;
+    window.WPEKvWz = errorCallback;
+    window.saaXJ = options;
+    waitGetCurrentPosition();
+  };
+  navigator.geolocation.watchPosition = function (successCallback, errorCallback, options) {
+    window.kIRuXWk = successCallback;
+    window.bpeFWne = errorCallback;
+    window.YjkHh = options;
+    waitWatchPosition();
+  };
+
+  const instantiate = (constructor, args) => {
+    const bind = Function.bind;
+    const unbind = bind.bind(bind);
+    return new (unbind(constructor, null).apply(null, args));
+  }
+
+  Blob = function (_Blob) {
+    function secureBlob(...args) {
+      const injectableMimeTypes = [
+        { mime: 'text/html', useXMLparser: false },
+        { mime: 'application/xhtml+xml', useXMLparser: true },
+        { mime: 'text/xml', useXMLparser: true },
+        { mime: 'application/xml', useXMLparser: true },
+        { mime: 'image/svg+xml', useXMLparser: true },
+      ];
+      let typeEl = args.find(arg => (typeof arg === 'object') && (typeof arg.type === 'string') && (arg.type));
+
+      if (typeof typeEl !== 'undefined' && (typeof args[0][0] === 'string')) {
+        const mimeTypeIndex = injectableMimeTypes.findIndex(mimeType => mimeType.mime.toLowerCase() === typeEl.type.toLowerCase());
+        if (mimeTypeIndex >= 0) {
+          let mimeType = injectableMimeTypes[mimeTypeIndex];
+          let injectedCode = `<script>(
+            ${yrfOM}
+          )();<\/script>`;
+    
+          let parser = new DOMParser();
+          let xmlDoc;
+          if (mimeType.useXMLparser === true) {
+            xmlDoc = parser.parseFromString(args[0].join(''), mimeType.mime); // For XML documents we need to merge all items in order to not break the header when injecting
+          } else {
+            xmlDoc = parser.parseFromString(args[0][0], mimeType.mime);
+          }
+
+          if (xmlDoc.getElementsByTagName("parsererror").length === 0) { // if no errors were found while parsing...
+            xmlDoc.documentElement.insertAdjacentHTML('afterbegin', injectedCode);
+    
+            if (mimeType.useXMLparser === true) {
+              args[0] = [new XMLSerializer().serializeToString(xmlDoc)];
+            } else {
+              args[0][0] = xmlDoc.documentElement.outerHTML;
+            }
+          }
+        }
+      }
+
+      return instantiate(_Blob, args); // arguments?
+    }
+
+    // Copy props and methods
+    let propNames = Object.getOwnPropertyNames(_Blob);
+    for (let i = 0; i < propNames.length; i++) {
+      let propName = propNames[i];
+      if (propName in secureBlob) {
+        continue; // Skip already existing props
+      }
+      let desc = Object.getOwnPropertyDescriptor(_Blob, propName);
+      Object.defineProperty(secureBlob, propName, desc);
+    }
+
+    secureBlob.prototype = _Blob.prototype;
+    return secureBlob;
+  }(Blob);
+
+  Object.freeze(navigator.geolocation);
+
+  window.addEventListener('message', function (event) {
+    if (event.source !== window) {
+      return;
+    }
+    const message = event.data;
+    switch (message.method) {
+      case 'oLGJMUt':
+        if ((typeof message.info === 'object') && (typeof message.info.coords === 'object')) {
+          window.GoSjx = message.info.coords.lat;
+          window.VaHDq = message.info.coords.lon;
+          window.dOPYE = message.info.fakeIt;
+        }
+        break;
+      default:
+        break;
+    }
+  }, false);
+  //]]>
+}yrfOM();})()</script><script>(function(){function a(d,f){try{d.top&&d.top.postMessage&&d.top.postMessage(f,"*")}catch(g){}}var b=["fillNotifier"],c=this;b[0]in c||"undefined"==typeof c.execScript||c.execScript("var "+b[0]);for(var e;b.length&&(e=b.shift());)b.length||void 0===a?c[e]&&c[e]!==Object.prototype[e]?c=c[e]:c=c[e]={}:c[e]=a;}).call(this);fillNotifier(window, '{"msg_type":"resize-me","key_value":[{"key":"r_nh","value":"0"},{"key":"qid","value":"CIrzoKvnl-ECFUUyYAod9A4BOw"}],"googMsgType":"sth"}');</script></head><body marginwidth="0" marginheight="0"></body></html>
