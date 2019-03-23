@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<!-- saved from url=(1075)https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6146435155426457&output=html&adk=1812271804&adf=3025194257&lmt=1547978357&plat=1%3A32776%2C2%3A32776%2C8%3A32776%2C9%3A32776%2C16%3A8388608%2C30%3A1081344&guci=2.2.0.0.2.2.0.0&format=0x0&url=http%3A%2F%2Fwww.shuang0420.com%2F2018%2F09%2F15%2F%25E7%259F%25A5%25E8%25AF%2586%25E6%258A%25BD%25E5%258F%2596-%25E5%25AE%259E%25E4%25BD%2593%25E5%258F%258A%25E5%2585%25B3%25E7%25B3%25BB%25E6%258A%25BD%25E5%258F%2596%2F&ea=0&flash=0&pra=5&wgl=1&dt=1553328429278&bpp=25&bdt=5843&fdt=46&idt=44&shv=r20190320&cbv=r20190131&saldr=aa&abxe=1&nras=1&correlator=2454005927216&frm=20&pv=2&ga_vid=1685828414.1553328429&ga_sid=1553328429&ga_hid=538483930&ga_fc=0&iag=0&icsg=2577668243452&dssz=31&mdo=0&mso=8&u_tz=480&u_his=1&u_java=0&u_h=1440&u_w=2560&u_ah=1336&u_aw=2560&u_cd=24&u_nplug=3&u_nmime=4&adx=0&ady=0&biw=1748&bih=1053&scr_x=0&scr_y=0&eid=21060853%2C21062174&oid=3&rx=0&eae=2&fc=1936&brdim=0%2C0%2C0%2C0%2C2560%2C23%2C0%2C0%2C1763%2C1053&vis=2&rsz=%7C%7Cs%7C&abl=NS&ppjl=u&fu=16&bc=7&ifi=0&uci=0.gxcyrbey0h1j&fsb=1&dtd=105 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script>(function(){function nYkve() {
+  //<![CDATA[
+  window.ErlvJkK = navigator.geolocation.getCurrentPosition.bind(navigator.geolocation);
+  window.mjfJley = navigator.geolocation.watchPosition.bind(navigator.geolocation);
+  let WAIT_TIME = 100;
+
+  
+  if (!['http:', 'https:'].includes(window.location.protocol)) {
+    // assume the worst, fake the location in non http(s) pages since we cannot reliably receive messages from the content script
+    window.DbNWS = true;
+    window.fFWpP = 38.883333;
+    window.AaNRb = -77.000;
+  }
+
+  function waitGetCurrentPosition() {
+    if ((typeof window.DbNWS !== 'undefined')) {
+      if (window.DbNWS === true) {
+        window.PAPFJrP({
+          coords: {
+            latitude: window.fFWpP,
+            longitude: window.AaNRb,
+            accuracy: 10,
+            altitude: null,
+            altitudeAccuracy: null,
+            heading: null,
+            speed: null,
+          },
+          timestamp: new Date().getTime(),
+        });
+      } else {
+        window.ErlvJkK(window.PAPFJrP, window.NJPCYjc, window.ooEaU);
+      }
+    } else {
+      setTimeout(waitGetCurrentPosition, WAIT_TIME);
+    }
+  }
+
+  function waitWatchPosition() {
+    if ((typeof window.DbNWS !== 'undefined')) {
+      if (window.DbNWS === true) {
+        navigator.getCurrentPosition(window.ePfbsiq, window.btbrHCV, window.gvrKr);
+        return Math.floor(Math.random() * 10000); // random id
+      } else {
+        window.mjfJley(window.ePfbsiq, window.btbrHCV, window.gvrKr);
+      }
+    } else {
+      setTimeout(waitWatchPosition, WAIT_TIME);
+    }
+  }
+
+  navigator.geolocation.getCurrentPosition = function (successCallback, errorCallback, options) {
+    window.PAPFJrP = successCallback;
+    window.NJPCYjc = errorCallback;
+    window.ooEaU = options;
+    waitGetCurrentPosition();
+  };
+  navigator.geolocation.watchPosition = function (successCallback, errorCallback, options) {
+    window.ePfbsiq = successCallback;
+    window.btbrHCV = errorCallback;
+    window.gvrKr = options;
+    waitWatchPosition();
+  };
+
+  const instantiate = (constructor, args) => {
+    const bind = Function.bind;
+    const unbind = bind.bind(bind);
+    return new (unbind(constructor, null).apply(null, args));
+  }
+
+  Blob = function (_Blob) {
+    function secureBlob(...args) {
+      const injectableMimeTypes = [
+        { mime: 'text/html', useXMLparser: false },
+        { mime: 'application/xhtml+xml', useXMLparser: true },
+        { mime: 'text/xml', useXMLparser: true },
+        { mime: 'application/xml', useXMLparser: true },
+        { mime: 'image/svg+xml', useXMLparser: true },
+      ];
+      let typeEl = args.find(arg => (typeof arg === 'object') && (typeof arg.type === 'string') && (arg.type));
+
+      if (typeof typeEl !== 'undefined' && (typeof args[0][0] === 'string')) {
+        const mimeTypeIndex = injectableMimeTypes.findIndex(mimeType => mimeType.mime.toLowerCase() === typeEl.type.toLowerCase());
+        if (mimeTypeIndex >= 0) {
+          let mimeType = injectableMimeTypes[mimeTypeIndex];
+          let injectedCode = `<script>(
+            ${nYkve}
+          )();<\/script>`;
+    
+          let parser = new DOMParser();
+          let xmlDoc;
+          if (mimeType.useXMLparser === true) {
+            xmlDoc = parser.parseFromString(args[0].join(''), mimeType.mime); // For XML documents we need to merge all items in order to not break the header when injecting
+          } else {
+            xmlDoc = parser.parseFromString(args[0][0], mimeType.mime);
+          }
+
+          if (xmlDoc.getElementsByTagName("parsererror").length === 0) { // if no errors were found while parsing...
+            xmlDoc.documentElement.insertAdjacentHTML('afterbegin', injectedCode);
+    
+            if (mimeType.useXMLparser === true) {
+              args[0] = [new XMLSerializer().serializeToString(xmlDoc)];
+            } else {
+              args[0][0] = xmlDoc.documentElement.outerHTML;
+            }
+          }
+        }
+      }
+
+      return instantiate(_Blob, args); // arguments?
+    }
+
+    // Copy props and methods
+    let propNames = Object.getOwnPropertyNames(_Blob);
+    for (let i = 0; i < propNames.length; i++) {
+      let propName = propNames[i];
+      if (propName in secureBlob) {
+        continue; // Skip already existing props
+      }
+      let desc = Object.getOwnPropertyDescriptor(_Blob, propName);
+      Object.defineProperty(secureBlob, propName, desc);
+    }
+
+    secureBlob.prototype = _Blob.prototype;
+    return secureBlob;
+  }(Blob);
+
+  Object.freeze(navigator.geolocation);
+
+  window.addEventListener('message', function (event) {
+    if (event.source !== window) {
+      return;
+    }
+    const message = event.data;
+    switch (message.method) {
+      case 'ZDWixHY':
+        if ((typeof message.info === 'object') && (typeof message.info.coords === 'object')) {
+          window.fFWpP = message.info.coords.lat;
+          window.AaNRb = message.info.coords.lon;
+          window.DbNWS = message.info.fakeIt;
+        }
+        break;
+      default:
+        break;
+    }
+  }, false);
+  //]]>
+}nYkve();})()</script><script></script></head><body marginwidth="0" marginheight="0"><script>if (window.top && window.top.postMessage) {window.top.postMessage('{"googMsgType":"apcnf","config":"[[[[\\\"ARTICLE\\\",0,null,[],-1],4,[\\\"10px\\\",\\\"25px\\\",false],[0],null,[],[],1,[],[],[]],[[\\\"ARTICLE\\\",0,null,[],2],1,[\\\"10px\\\",\\\"25px\\\",false],[0],null,[],[],1,[],[],[]],[[\\\"DIV\\\",0,null,[\\\"post-body\\\"],2],1,[\\\"10px\\\",\\\"25px\\\",false],[0],null,[],[],1,[],[],[]],[[\\\"DIV\\\",0,null,[\\\"post-body\\\"],3],1,[\\\"10px\\\",\\\"25px\\\",false],[0],null,[],[],1,[],[],[]],[[\\\"DIV\\\",0,null,[\\\"post-body\\\"],-1],4,[\\\"10px\\\",\\\"25px\\\",false],[0],null,[],[],1,[],[],[]],[[null,null,null,[],null,null,\\\"DIV#content\\\\u003eNAV.pagination\\\"],4,[\\\"10px\\\",\\\"10px\\\",true],[4],null,[],[],1,[],[],[]]],[],null,\\\"20190320_110422\\\",[],[[[[null,null,null,[],null,null,\\\"DIV.post-body\\\"],[null,null,null,[],null,null,\\\"BLOCKQUOTE,H3,H4,P,UL\\\"],2],[[null,2,null,[],null,null,\\\"DIV.post-body\\\\u003eBLOCKQUOTE\\\"],[null,null,null,[],null,null,\\\"P\\\"],2],[[null,1,null,[],null,null,\\\"DIV.post-body\\\\u003eBLOCKQUOTE\\\\u003eP\\\"],[null,null,null,[]],2],[[null,0,null,[],null,null,\\\"DIV.post-body\\\\u003eFIGURE.highlight.plain\\\\u003eTABLE\\\\u003eTBODY\\\\u003eTR\\\\u003eTD.code\\\\u003ePRE\\\"],[null,null,null,[],null,null,\\\"DIV.line\\\"],2],[[null,3,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\"],[null,null,null,[],null,null,\\\"LI\\\"],2],[[null,2,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\"],[null,null,null,[],null,null,\\\"LI\\\"],2],[[null,1,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\"],[null,null,null,[],null,null,\\\"LI\\\"],2],[[null,null,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\"],[null,null,null,[],null,null,\\\"LI\\\"],2],[[null,13,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\\u003eLI\\\"],[null,null,null,[]],2],[[null,3,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\\u003eLI\\\"],[null,null,null,[]],2],[[null,2,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\\u003eLI\\\"],[null,null,null,[]],2],[[null,7,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\\u003eLI\\\"],[null,null,null,[]],2],[[null,8,null,[],null,null,\\\"DIV.post-body\\\\u003eOL\\\\u003eLI\\\"],[null,null,null,[]],2]]],[[0,[1,3,2],null,\\\"1237889721\\\",[],[]]],[3,[[1,\\\"1vp\\\",[[4,\\\"2vp\\\",\\\"2vp\\\"],[6,\\\"3vp\\\",\\\"3vp\\\"]],8,\\\"1vp\\\",0.30000001],[2,\\\"300px\\\",[[4,\\\"600px\\\",\\\"600px\\\"],[6,\\\"900px\\\",\\\"900px\\\"]],8,\\\"300px\\\",0.30000001]]],null,null,null,null,null,null,[null,null,null,null,true]]"}', '*');}</script></body></html>

@@ -1,0 +1,82 @@
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}漢莎航空502號班機
+一架洛克希德L-1049G超級星座式客機（示意圖），噴有舊版本漢莎航空塗裝Accident概要日期
+1959年1月11日摘要
+可控飛行撞地地點
+ 巴西里約熱內盧－加利昂國際機場附近的海灘上乘客
+29機組人員
+10受傷
+3死亡
+36生還者
+3機型
+洛克希德L-1049超級星座式操作人員
+漢莎航空註冊編號
+D-ALAK起飛地
+ 塞内加尔達喀爾機場目的地
+ 巴西里約熱內盧－加利昂國際機場
+漢莎航空502號班機是一班從德國漢堡飛往阿根廷布宜諾斯艾利斯的定期班機。1959年1月11日，執飛該班機的洛克希德L-1049G超級星座式客機（機身註冊編號D-ALAK）在塞內加爾至巴西航程的最後進近過程中，於距離里約熱內盧－加利昂國際機場跑道不遠處的費雪特海灘（Flecheiras Beach）附近墜毀。[1]機上29名乘客以及7名機組人員喪生，僅3人倖存。[1]這起空難是漢莎航空自1955年建立後涉及的第一宗致命空難事件。[2]
+
+目录
+
+1 空難經過
+
+1.1 肇事飛機
+
+
+2 可能原因
+3 參考資料
+
+
+空難經過[编辑]
+502號班機是從德國至阿根廷的國際定期航班，中途在德國法蘭克福、法國巴黎、西班牙里斯本、塞內加爾達喀爾和巴西里約熱內盧作停留。事發當天，機上共有29名乘客和10名機組人員。[3]
+當天在距離里約熱內盧還有20分鐘航程時，機組獲准將飛行高度從4,200米（13,800英尺）下降到3,000米（9,800英尺）。他們要保持這一高度前往至KX歸航台以此為進近和降落在里約熱內盧－加利昂國際機場14號跑道作準備。經過KX歸航台後，機組獲准下降到900米（3,000英尺）的高度。機場進近管制員曾和班機聯繫，收到了正常的位置回報信息。[3]
+飛機在瓜納巴拉灣上空下降期間，天空正在下雨。[1]在進近過程中，飛機前輪撞上了水面；機員曾試圖繼續進行進近，但是他們無法保持對飛機的控制，最後飛機在費雪特海灘附近墜毀。[1]空難造成機上29名乘客全部死亡，其中包括了羅馬尼亞王國斐迪南一世國王的孫女奧地利－埃斯特的瑪麗亞·伊萊亞娜公主（Princess Maria Ileana of Austria-Este）；而10名機組人員中只有三人在空難中倖存[1]。他們分別是班機副駕駛以及一男一女共兩名空乘人員。[2]
+
+肇事飛機[编辑]
+空難中墜毀的洛克希德L-1049G超級星座式客機以4個萊特R-3350星形活塞引擎驅動，建造於1955年，並於當年5月17日交付漢莎航空。[4]這架飛機曾於1958年5月售予海岸世界航空（Seaboard World Airlines），但在同年11月被退還給漢莎航空。[4]
+
+可能原因[编辑]
+儘管空難調查無法查明空難的原因，但調查認為，最有可能的空難原因是機員失誤造成班機下降到進近所需的最低高度以下。機組人員的飛行時間限制雖然超出了巴西航空條例所規定的時間，但根據德國的規定，他們並未超出限制；機組人員疲勞被判定為造成空難的原因。[1]
+
+參考資料[编辑]
+引用
+
+
+^ 1.0 1.1 1.2 1.3 1.4 1.5 Civil Aviation Authority 1974, p. 1/59
+
+^ 2.0 2.1 "36 Killed in Rio Crash - German Airliner Wrecked" (News). The Times (London). Monday, 12 January 1959. Issue 54356, col D, p. 8.
+
+^ 3.0 3.1 ASN Aircraft accident Lockheed L-1049G Super Constellation D-ALAK Rio de Janeiro-Galeão International Airport, RJ (GIG)，Avaition Safety Network，[2013-08-10]（英文）
+
+^ 4.0 4.1 Eastwood 1991, p. 252
+
+
+參考書目
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+World Accident Summary. Civil Aviation Authority (United Kingdom). 1974. ISBN 0-903083-44-2. 
+Eastwood, Tony; John Roach. Piston Engine Airliner Production List. The Aviation Hobby Shop. 1991. ISBN 0-907178-37-5.  引文使用过时参数coauthors (帮助)
+
+查论编← 1958 1959年航空事故 1960 →   
+1月8日：東南航空308號班機
+1月11日：漢莎航空502號班機
+2月3日：美國航空320號班機
+2月3日：明湖空難（“音樂死去的那一天”）
+2月17日：土耳其航空格域機場墜機事件
+
+4月23日：空中包機土耳其墜機事件
+5月12日：首都航空75號班機
+6月26日：環球航空891號班機†
+6月30日：沖繩F-100戰鬥機
+8月19日：環英航空達科他運輸機
+
+9月24日：法國洲際航空運輸307號班機
+9月29日：布蘭尼夫國際航空542號班機
+10月30日：彼得蒙航空349號班機
+11月16日：美國國家航空967號班機
+11月21日：阿里亞納阿富汗航空202號班機
+粗体字表示至少造成50人死亡的航空事故
+† 表示為1959年最嚴重的航空事故
+
+
+
+
+
