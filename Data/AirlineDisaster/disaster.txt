@@ -1,4 +1,4 @@
-Type:Boeing 737-8LJ (WL) FlightNumber:SU1515 Date:Tuesday 22 January 2019 Casualties:0  Reason:Unknown
+﻿Type:Boeing 737-8LJ (WL) FlightNumber:SU1515 Date:Tuesday 22 January 2019 Casualties:0  Reason:Unknown
 Type:Airbus A321-211 (WL) FlightNumber:SU1008 Date:Tuesday 3 January 2017 Casualties:0  Reason:Runway excursion
 Type:Ilyushin 96-300 FlightNumber:Unknown Date:Tuesday 3 June 2014 Casualties:0  Reason:Unknown
 Type:Boeing 737-59D FlightNumber:Unknown Date:Wednesday 3 June 2009 Casualties:0  Reason:Unknown
