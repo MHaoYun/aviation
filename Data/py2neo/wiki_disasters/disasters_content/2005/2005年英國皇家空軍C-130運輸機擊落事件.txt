@@ -1,0 +1,187 @@
+
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}2005年英國皇家空軍C-130運輸機擊落事件
+與遭擊落的飛機相似的英國皇家空軍C-130運輸機，攝於2006年7月17日英格蘭告羅士打郡。概要日期
+2005年1月30日摘要
+敵對地面火力攻擊地點
+ 伊拉克乘客
+2人機組人員
+8人受傷
+0人死亡
+10人[1][2][3]生還者
+0人機型
+洛克希德·馬丁C-130K C3型運輸機操作人員
+英國皇家空軍註冊編號
+XV179起飛地
+ 伊拉克巴格達目的地
+ 伊拉克巴拉德
+2005年英國皇家空軍C-130運輸機擊落事件是2005年1月30日時1架飛機序號為XV179的英國皇家空軍C-130K C3型運輸機遭到疑似遜尼派叛亂份子的攻擊而擊落，飛機上搭載的10人全數罹難[4][5]，這次事故也成為當時英國發起特里克行動（Operation Telic）後所遇到損失最為嚴重的單一軍事任務[6][7][8][9]。
+2005年12月，調查委員會就此事件做出結論，認為飛機上缺乏完善的火災抑制系統是導致其墜毀的主因[10][11][12]。2006年9月時，英國Channel 4 News更進一步發表文章批評英國國防部只在1架C-130運輸機安裝泡沫滅火抑制系統。而英國皇家空軍則在事件之後表示為避免再度發生如XV179機組人員喪生的事故，已經決定將所有第一線服役的C-130運輸機改裝相關系統以作因應[13][14][15]。
+
+目录
+
+1 事故
+2 調查
+3 爭議
+4 註釋
+5 外部連結
+
+
+事故[编辑]
+2005年1月30日，XV179號C-130運輸機於當地時間下午4時22分從巴格達起飛[16]。這架運輸機其任務內容為前往巴拉德提供客運和貨運服務[17][18]，而為了躲避飛彈攻擊因此飛機僅在較低飛行高度上飛行著[19]。起飛6分鐘之後，機組成員之一的英國皇家通信兵部隊（Royal Corps of Signals）史蒂芬·瓊斯（Steven Jones）下士隨即透過無線電表示：「不是演習、不是演習，我們失火了、我們失火了。[20][21]」最終在下午4時55分失去通信[22]。
+在通報遭於敵方火力攻擊45分鐘後，美軍AH-64阿帕奇直升机前往墜機現場觀察現場狀況。由於飛機是墜毀於遭到敵火攻擊的區域，使得針對人員殘骸、個人物品以及飛機零件的蒐集必須延緩進行[23]。而因為部分飛機右機翼已經飛離至主要墜機現場1公里之外處，這也讓調查團隊必須同時在2個地點進行物證的蒐集。但到了2月3日時飛機的殘骸大多已經被當地民眾拆下並且運往他處販售，調查團隊只能夠放棄蒐集所有殘骸零件加以拼組調查的方式[24]。而遇難人員之後證實有8名為威爾特郡英國皇家空軍萊納姆基地（RAF Lyneham）的機組人員，另外2人則為英國皇家空軍的軍官以及士兵[25][26][27]。
+
+調查[编辑]
+2005年1月31日關於飛機墜落的調查委員會正式組織完成，並且在同年8月時提交調查報告。由於在沒有證人和證據不足的情況下，因此調查工作的重點先放在清除可能導致飛機墜毀的原因，然後分析剩餘的可能因素[28][29]。委員會最終得出結論認為運輸機是受到地面火力攻擊而墜毀[30]，其中在1發砲火擊中右翼油箱後機翼隨即引起火災[31]，之後右機翼發生爆炸導致23英呎長的飛機副翼分離[32][33]，而飛機則因為失去控制能力而墜毀[34]。調查委員會在報告中總結飛機墜毀的主要原因為：「於白天進行低空飛行、缺乏機翼油箱防火技術以及沒有該地區最新的威脅資訊。[35]」
+而英國皇家空軍則在內部調查報告的結論提到泡沫抑制系統可能就得以避免飛機墜毀事故發生[36][37][38]，並且建議將改進措施列入「緊急事項」，以花費共600,000英鎊來為所有於類似風險地區服役的C-130運輸機安裝火災抑制系統[39][40][41][42][43]。而在這之前，英國空軍僅在飛機上安裝如照明彈、鋁箔條和導彈預警系統等防範紅外線瞄準武器攻擊的防禦系統[44]。
+
+爭議[编辑]
+由於美國空軍和皇家澳大利亞空軍的C-130運輸機都已經備有泡沫滅火系統[45][46]，這使得一些與他國運輸機駕駛交流的英國飛行員認為英國皇家空軍應該要更加關注C-130運輸機的安全問題[47]。不過也有一部分英國皇家空軍飛行員則認為這次應該要承擔的軍事風險之一，並且認為英國的C-130K運輸機相較於其他同類機型更為穩定且可靠[48]。
+對此英國皇家空軍軍官約翰·貝爾德（John Baird）則投書表示軍人因為缺乏滅火系統而死為「國家的恥辱」，並且認為現在改裝泡沫滅火系統仍然「太少以及太遲」[49]。空軍參謀長（Chief of the Air Staff）格列·托比（Glenn Torpy）則在為1名死者親屬寄送的信件中提到所有英國軍人在執行任務時都應該要擁有所有必須配備的安全措施，並且認為英國皇家空軍在XV179運輸機墜毀之前並不知道C-130運輸機容易受到這類型攻擊的影響。而儘管通常在飛行可能遇到這類型砲火攻擊之地區時都會要求飛機採取迂迴飛行的方式以作應對，但是實際上這架飛機飛行員並沒有獲得相關資訊以供參考[50]。
+英國Channel 4 News在2006年時對於事件進行相關的報導，其中1名不具名人士在接受採訪時提到：
+
+
+
+“
+
+我們的飛機都配備有防禦和生存設備以對應飛機所佈署的各種任務環境，然而不可能有一次飛行任務是絕對沒有風險的。由於XV179的損失使得國防部我們已經將油箱內填充惰性氣體列為緊急處理項目，我們也決定為解決飛機爆炸問題而添加泡沫抑制系統，而現在已經有一架飛機完全安裝了對應的防範措施。
+
+”
+
+
+註釋[编辑]
+
+
+^ Service honours Iraq crash dead. 英國廣播公司. 2005-05-20  [2013-01-21] （英语）. 
+
+^ Memorial to Hercules crew planned. 英國廣播公司. 2006-01-28  [2013-01-21] （英语）. 
+
+^ Families of 10 servicemen who died when RAF Hercules was shot down launch legal action against the Government. 《每日電訊報》. 2009-04-15  [2013-01-21] （英语）. 
+
+^ Hercules performs funeral fly-by. 英國廣播公司. 2005-04-01  [2013-01-21] （英语）. 
+
+^ 《國際航空雜誌》（Flight International）. UK to weigh up threat to Lockheed C-130K Hercules with eye to defences. Flightglobal.com. 2006-02-28  [2013-01-21] （英语）. 
+
+^ Where are British troops and why?. 英國廣播公司. 2008-04-29  [2013-01-21] （英语）. 
+
+^ Funeral of airman killed in Iraq. 英國廣播公司. 2005-03-30  [2013-01-21] （英语）. 
+
+^ Servicemen's inquest to be halted. 英國廣播公司. 2008-04-23  [2013-01-21] （英语）. 
+
+^ Funeral held for air crash victim. 英國廣播公司. 2008-04-02  [2013-01-21] （英语）. 
+
+^ ROYAL AIR FORCE BOARD OF INQUIRY INTO THE LOSS: HERCULES XV179 (PDF). 英國皇家空軍. 2005-10-11  [2013-01-21]. （原始内容 (PDF)存档于2012-10-26） （英语）. 
+
+^ Reaction to Hercules verdict. 英國廣播公司. 2008-10-22  [2013-01-21] （英语）. 
+
+^ RAF determined to learn lessons from Hercules XV179 shot down in 2005. Flightglobal.com. 2008-10-23  [2013-01-21] （英语）. 
+
+^ Craig Hoyle. UK to weigh up threat to Lockheed C-130K Hercules with eye to defences. Flightglobal.com. 2006-02-28  [2013-01-21] （英语）. 
+
+^ Craig Hoyle. Protect and survive. Flightglobal.com. 2006-04-25  [2013-01-21] （英语）. 
+
+^ Special Forces Hercules - Shoot-Down Inquest Underway. British Special Forces & Elite Units. 2008-04-02  [2013-01-21] （英语）. 
+
+^ Hercules 'sent distress signal'. 英國廣播公司. 2009-03-23  [2013-01-21] （英语）. 
+
+^ Iraq crash RAF dead flown to UK. 英國廣播公司. 2005-02-08  [2013-01-21] （英语）. 
+
+^ Profiles of Hercules crash dead. 英國廣播公司. 2008-10-22  [2013-01-21] （英语）. 
+
+^ Hercules crew tactics questioned. 英國廣播公司. 2008-04-19  [2013-01-21] （英语）. 
+
+^ 《國際航空雜誌》（Flight International）. RAF details chain of events in Hercules shoot-down. Flightglobal.com. 2005-12-13  [2013-01-21] （英语）. 
+
+^ MatthewA Hickley. Relatives hear final desperate radio message from RAF Hercules shot down by insurgents in Iraq. 《每日郵報》. 2008-04-16  [2013-01-21] （英语）. 
+
+^ John Coles. ‘No duff, no duff, we are on fire'. 《太陽報》. 2008-04-02  [2013-01-21] （英语）. 
+
+^ Hercules death crash investigated. 英國廣播公司. 2005-02-01  [2013-01-21] （英语）. 
+
+^ Hercules crash site search ends. 英國廣播公司. 2005-02-03  [2013-01-21] （英语）. 
+
+^ Memorials held for plane victims. 英國廣播公司. 2005-02-06  [2013-01-21] （英语）. 
+
+^ Hercules crash airmen remembered. 英國廣播公司. 2006-01-30  [2013-01-21] （英语）. 
+
+^ British military deaths in Iraq. 英國廣播公司. 2009-02-12  [2013-01-21] （英语）. 
+
+^ Crashed Hercules 'not sabotaged'. 英國廣播公司. 2005-03-07  [2013-01-21] （英语）. 
+
+^ Hercules crash inquests opening. 英國廣播公司. 2009-03-23  [2013-01-21] （英语）. 
+
+^ Flypast tribute to SW serviceman. 英國廣播公司. 2006-01-29  [2013-01-21] （英语）. 
+
+^ Hercules 'fault' known since WWII. 英國廣播公司. 2008-10-01  [2013-01-21] （英语）. 
+
+^ Coroner could call MoD minister. 英國廣播公司. 2007-11-19  [2013-01-21] （英语）. 
+
+^ Craig Hoyle. RAF acts on Hercules shoot-down. Flightglobal.com. 2005-12-13  [2013-01-21] （英语）. 
+
+^ 'Failures' caused Hercules deaths. 英國廣播公司. 2008-10-22  [2013-01-21] （英语）. 
+
+^ RAF Hercules was shot down - Reid. 英國廣播公司. 2005-12-28  [2013-01-21] （英语）. 
+
+^ Hercules jury sees blast footage. 英國廣播公司. 2008-10-08  [2013-01-21] （英语）. 
+
+^ RAF chief 'sorry' for Iraq deaths. 英國廣播公司. 2008-10-16  [2013-01-21] （英语）. 
+
+^ Craig Hoyle. RAF chief defends pace of Hercules upgrade. Flightglobal.com. 2007-03-13  [2013-01-21] （英语）. 
+
+^ AIRCRAFT ACCIDENT TO ROYAL FORCE HERCULES (PDF). 英國國防部. 2005-10-11  [2013-01-21]. （原始内容 (PDF)存档于2012-10-26） （英语）. 
+
+^ MoD fit explosion safety system. 英國廣播公司. 2006-04-26  [2013-01-21] （英语）. 
+
+^ Hercules risk 'was widely known'. 英國廣播公司. 2008-10-01  [2013-01-21] （英语）. 
+
+^ Truth urged at Hercules inquest. 英國廣播公司. 2008-03-31  [2013-01-21] （英语）. 
+
+^ Craig Hoyle. UK MoD looks to fund wing upgrade for RAF C-130Ks. Flightglobal.com. 2006-10-17  [2013-01-21] （英语）. 
+
+^ Special Forces C-130K - Hercules. British Special Forces & Elite Units.   [2013-01-21] （英语）. 
+
+^ Hercules safety change not made. 英國廣播公司. 2008-04-02  [2013-01-21] （英语）. 
+
+^ RAF pilot's warning 'not heeded'. 英國廣播公司. 2008-04-09  [2013-01-21] （英语）. 
+
+^ RAF pilots 'asked for tank foam'. 英國廣播公司. 2006-05-02  [2013-01-21] （英语）. 
+
+^ Air workhorse plays pivotal role. 英國廣播公司. 2005-01-30  [2013-01-21] （英语）. 
+
+^ Hercules safety 'still lacking'. 英國廣播公司. 2007-03-01  [2013-01-21] （英语）. 
+
+^ Crash Hercules 'in ambush site'. 英國廣播公司. 2008-10-17  [2013-01-21] （英语）. 
+
+
+外部連結[编辑]
+（英文） AIRCRAFT ACCIDENT TO ROYAL FORCE HERCULES
+（英文） ROYAL AIR FORCE BOARD OF INQUIRY INTO THE LOSS: HERCULES XV179
+查论编← 2004 2005年航空事故 2006 →   
+1月30日：英國皇家空軍C-130運輸機
+2月03日：卡姆航空904號班機
+2月20日：英國航空268號班機
+3月06日：加拿大越洋航空961號班機
+4月02日：偉斯特蘭海王直升機
+5月07日：費爾柴爾德梅特羅
+6月09日：波士頓洛根機場跑道入侵
+
+7月16日：赤道航空An-24運輸機
+8月02日：法國航空358號班機
+8月06日：突尼西亞國際航空1153號班機
+8月10日：喀普特航空103號班機
+8月14日：太陽神航空522號班機
+8月16日：西加勒比海航空708號班機†
+8月23日：秘魯國營航空204號班機
+9月05日：曼達拉航空091號班機
+
+09月21日：捷藍航空292號班機
+10月22日：貝爾韋尤航空210號班機
+12月06日：伊朗空軍C-130運輸機
+12月08日：西南航空1248號班機
+12月10日：索索利亞航空1145號班機
+12月19日：卓克斯海洋航空101號班機
+12月23日：亞塞拜然航空217號班機
+粗体字表示至少造成50人死亡的航空事故
+† 表示為2005年最嚴重的航空事故
+
+
+

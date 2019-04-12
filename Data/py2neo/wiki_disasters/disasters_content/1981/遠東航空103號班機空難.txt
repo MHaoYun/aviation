@@ -1,0 +1,108 @@
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}遠東航空103號班機空難概要日期
+1981年8月22日摘要
+機身金屬疲勞及腐蝕導致空中解體地點
+ 中華民國（臺灣）苗栗縣三義鄉山區上空乘客
+104機組人員
+6受傷
+0死亡
+110生還者
+0機型
+波音737-222操作人員
+遠東航空註冊編號
+B-2603起飛地
+ 中華民國（臺灣）台北松山機場目的地
+ 中華民國（臺灣）高雄國際機場
+遠東航空103號班機是由台灣台北松山機場飛往高雄國際機場的班機。1981年8月22日，一架隸屬於遠東航空的波音737-222型客機在執行此航班任務時，於空中解體並墜毀在苗栗縣三義鄉雙湖村大坑地區的山區墜毀，故又常被稱為三義空難。[1]
+
+ 事故後的紀念亭
+ 事故後的紀念碑，刻有所有罹難者名字。
+目录
+
+1 飛機基本資料
+2 概要
+3 可能事故原因
+4 事故後續
+5 逝世名人
+6 遠航空難紀念亭
+7 類似原因的事故
+8 參考資料
+9 外部連結
+
+
+飛機基本資料[编辑]
+飛機機型：波音737-222
+製造序號（msn）：19939/151
+機身編號：B-2603（前聯合航空N9058U）
+出廠年：1969年
+概要[编辑]
+B-2603飛機，在當天由台北飛往澎湖，起飛10分鐘後，發生艙壓失壓，於是飛回台北檢修。當日檢修完畢後，執行103號航班的飛行任務，從台北松山機場飛往高雄國際機場，起飛14分鐘後，失壓解體，機首墜毀於苗栗縣三義鄉，其它機身墜毀散布於苗栗縣的銅鑼鄉、苑裡鎮及通霄鎮山區。機組員6人、旅客104人全數罹難，旅客中包括第一屆國民大會嫩江省東興縣代表周世光、日本著名的女作家向田邦子。向田邦子為其所寫的隨筆集，而到台灣進行取材旅行，除了向田之外還有17名日本人[2]與2名美國人[3]也搭乘該班機。事故發生後，由於該地為山區，公路交通不便，罹難者的遺體是藉由公路運到勝興車站再以火車轉運送出。
+
+可能事故原因[编辑]
+該機於1981年8月5日，從台北飛往高雄時，也曾發生機艙失壓的狀況。事後經調查發現機體有嚴重腐蝕，導致機身蒙皮破裂，進而解體失事。而據多年的調查,遠東航空的737-200都會派飛外島航線像是金門，馬公(澎湖)的航線，而當時的外島包裹或海產生鮮類若是要趕時間的話則是以空運會當天抵達台灣本島;而當時的運送上較不現在的嚴格規定,海產生鮮類直接以保麗龍盒包裝或簍子直接上飛機貨艙,時間長久下來因為海水具有鹽分,而鹽分則會具有侵蝕作用久之對機身結構產生一定的侵害，另外當時的維修上程序較現在不太嚴謹、且僅以經驗判別是否有問題；理論上是照著維修手冊試圖找出問題所在。但客觀上仍欠缺危機意識並未在飛機進場大修時即時找到巳經被侵蝕的結構並做補強。
+在該班機前個航班機組(機師)人員連續反映(閥門加壓問題)之後，僅作簡易的檢視及維修(其實也僅做暫時性修復)並且換掉組員之後重新執行該航班，逕而導致悲劇產生。[4]
+Narrative:
+FEAT's Boeing 737 B-2603 was used extensively on domestic flights within Taiwan since being acquired from United Airlines in April 1976. 
+On August 5, 1981 the aircraft lost cabin pressure during a flight from Taipei (TSA) to Kaohsiung (KHH). On August 22 the 737 took off from Taipei on a flight to Makung (MZG). Ten minutes after takeoff from there was a loss of cabin pressure. The flight crew returned to Taipei, where repair work was carried out. Later that day the aircraft entered service again as Flight 103 to Kaohsiung. Fourteen minutes after takeoff the aircraft suffered an explosive decompression and disintegrated.
+
+Probable Cause:
+PROBABLE CAUSE: "Extensive corrosion damage in the lower fuselage structures, and at a number of locations there were corrosion penetrated through pits, holes and cracks due to intergranular corrosion and skin thinning exfoliation corrosion, and in addition, the possible existence of undetected cracks because of the great number of pressurization cycles of the aircraft (a total of 33,313 landings), interaction of these defects and the damage had so deteriorated that rapid fracture occurred at a certain flight altitude and pressure differential resulting rapid decompression and sudden break of passenger compartment floor beams and connecting frames, cutting control cables and electrical wiring. And eventually loss of power, loss of control, midair disintegration."
+
+事故後續[编辑]
+B-2603失事後，遠東航空跳過103及104航班；雖一度恢復，但2007年9月由於台北－高雄航線受台灣高鐵通車影響而減班，再度被跳過。
+而就在該機失事多年後遠東航空為了彌補其運輸上的缺口，便向民航局借貸向波音購買一架全新的737-200回台(編號B-2625)，而航空公司內曾一度有多達8架的737-100/200做營運。
+737-200退役
+後來這些老737機齡也逐漸增加,性能及油耗方面已經無任何競爭優勢，所以在1999年9月15日前全面淘汰這些737-200(最後一架除役編號B-2615)取而代之的則是由當時最新的MD-82/83系列的飛機。
+
+逝世名人[编辑]
+向田邦子
+遠航空難紀念亭[编辑]
+在空難發生數月之後，當時遠東航空及中國佛教會台灣省苗栗分會在失事航班機尾殘骸處，慈濟山(大坪山)腳下蓋了座「遠航空難紀念亭」，平日無人煙經過，直至空難當日或數日後仍有部分罹難者遺孀家屬到場憑悼。
+紀念碑文雖歷經三十餘載但其碑文文字及敘述仍清晰可見
+
+紀念碑正文刊載:
+『遠東航空公司波音七三七台北至高雄一0三班次二六0三號客機於民國七十年八月二十二日上午十點十分在三義雙湖及本處(三義苑裡)失事 全體罹難者名單紀念碑』
+
+類似原因的事故[编辑]
+日本航空123號班機
+中華航空611號班機
+阿羅哈航空243號班機
+參考資料[编辑]
+
+
+^ 2014.03.11新聞龍捲風part3　「如枯葉片片凋落」　遠航B2603解體　屍體綿延7KM！
+
+^ "AIRLINER THAT CRASHED IN TAIWAN, KILLING 110, HAD PRESSURE SNAGS." Associated Press at The New York Times. Sunday 23 August 1981. Late City Final Edition, Section 1, Page 3, Column 1. Retrieved on 6 January 2012.
+
+^ "U.S. Experts to Probe Crash." Associated Press at the Sarasota Herald-Tribune. Sunday 30 August 1981. 3A. Retrieved on 6 January 2012.
+
+^ 20171003中天新聞　三義空難人間煉獄　竟因運送「一件東西」導致？
+
+
+外部連結[编辑]
+Aviation Safety Net 事故資料
+Airliners.net 遠東航空同型飛機照片
+回顧遠航三義空難 - 台視記者張繼正
+查论编← 1980 1981年航空事故 1982 →   
+3月28日：加魯達航空206號班機
+5月2日：愛爾蘭航空164號班機
+5月7日：阿根廷南方航空901號班機
+6月14日：蘇聯民航498號班機
+6月26日：丹航空240號班機
+
+7月18日：亞美尼亞撞機事件
+7月20日：索馬里航空40號班機
+7月27日：墨西哥國際航空230號班機
+7月31日：巴拿馬空軍雙水獺空難
+8月13日：G-ASWI號直升機墜海
+
+8月22日：遠東航空103號班機
+8月24日：蘇聯民航811號班機
+10月6日：荷蘭城市航空431號班機
+11月17日：蘇聯民航3603號班機
+12月1日：伊內克斯-亞得里亞航空1308號班機†
+粗体字表示至少造成50人死亡的航空事故
+† 表示為1981年最嚴重的航空事故
+查论编台灣航空事故1960年代民航公司106號班機空難1964年6月20日（神岡空難） · 民航公司10號班機空難1968年2月16日 · 中華航空227號班機空難1969年1月2日 · 遠東航空104號班機空難1969年2月24日1970年代中華航空206號班機空難1970年8月12日 · 中華航空825號班機空難1971年11月20日 · 遠東航空134號班機空難1975年7月31日 · 中華航空831號班機劫機事件1978年3月9日1980年代中華航空811號班機空難1980年2月27日 · 遠東航空103號班機空難1981年8月22日（三義空難） · 中華航空006號班機事故1985年2月19日 · 中華航空2265號班機空難1986年2月16日 · 中華航空334號班機劫機事件1986年5月3日（王錫爵劫機事件） · 永興航空公司C404飛機事故1989年6月27日 · 中華航空204號班機空難1989年10月26日1990年代中華航空358號班機空難1991年12月29日 · 遠東航空116號班機事故1993年10月25日 · 中華航空605號班機事故1993年11月4日 · 中華航空140號班機空難1994年4月26日（華航名古屋空難） · 遠東航空128號班機劫機事件1997年3月10日 · 國華航空7601號班機空難1997年8月10日 · 中華航空676號班機空難1998年2月16日（大園空難） · 中國國際航空905號班機劫機事件1998年10月28日 · 中華航空642號班機空難1999年8月22日 · 立榮航空873號班機爆炸事件1999年8月24日2000年代新加坡航空006號班機空難2000年10月31日 · 中華航空611號班機空難2002年5月25日（澎湖空難） · 復興航空791號班機2002年12月21日 · 遠東航空306號班機事故2006年11月16日 · 中華航空120號班機事故2007年8月20日2010年代2012年大鵬航空BN-2空難2012年8月30日 · 2013年中興航空BK-117空難2013年10月16日 · 中華民國陸軍阿帕契808號機墜機事件2014年4月25日 · 復興航空222號班機空難2014年7月23日（馬公空難） · 復興航空235號班機空難2015年2月4日（基隆河空難） · 2017年凌天航空直升機事故2017年6月10日
+
+
+
