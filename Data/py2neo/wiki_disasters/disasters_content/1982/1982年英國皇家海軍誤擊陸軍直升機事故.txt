@@ -1,0 +1,157 @@
+
+坐标：51°47′0.96″S 58°28′4.03″W﻿ / ﻿51.7836000°S 58.4677861°W﻿ / -51.7836000; -58.4677861
+
+XX377瞪羚直升機事故福克蘭戰爭期間的一部分與出事機同款的英國陸軍瞪羚直升機，約攝於1983年日期1982年6月6日地点福克蘭群島歡喜峰（英语：Pleasant Peak）结果
+英軍4人喪生直升機墜毀
+1982年英國皇家海軍誤擊陸軍直升機事故是一起發生於福克蘭戰爭期間的友軍誤擊意外（英语：Friendly fire）。該年6月6日凌晨，英國皇家海軍的42型驅逐艦加地夫號（英语：HMS Cardiff (D108)）在福克蘭群島近海對阿根廷供應佔島部隊補給的飛機進行監視時，把一架序號XX377、隸屬英國陸軍航空兵（英语：Army Air Corps (United Kingdom)）的瞪羚直升機錯認作阿根廷軍方的C-130運輸機，開火將之擊落，導致機上4名乘員全部喪生。
+此事發生前的6月5日夜間，加地夫號驅逐艦正部署於群島以東，以艦炮支援（英语：Naval gunfire support）陸上部隊，同時也負責攔截阿軍飛機，而出事的瞪羚直升機則在替東福克蘭的英軍無線電轉播站進行人員和裝備的例行運送作業。凌晨2時左右，加地夫艦上的雷達偵測到這架飛行物，但作戰室人員由其速度和航線作判斷時，卻認定來者為敵機。隨後，該艦發射海鏢飛彈摧毀目標，機體殘骸和機組人員直到翌日早上才尋獲，出事原因則歸咎於「敵軍砲火」。儘管加地夫號曾被懷疑為事故肇因，但後續對直升機殘片所做的科學實驗，卻未能就飛彈碎片的來源求得定論。
+誤擊案事隔4年之後，英國當局才正式展開調查。英國國防部對外宣稱直升機是行動中失蹤、表示其無意「造成家屬進一步苦痛」，同時仍試圖釐清瞪羚機遭到擊落的原因。最後，調查委員會確認4名官兵之死是己方誤擊的結果，雖然該會指出「疏忽及過失均不應歸責於任何個別人員」[1]，但卻列舉出另外數項因素，如陸海兩軍間缺乏溝通，意味著直升機飛行區域的指揮單位——第5步兵旅（英语：5th Infantry Brigade (United Kingdom)）沒有對外告知直升機的行程；瞪羚直升機則為了避免干擾陸軍的長劍防空導彈（英语：Rapier (missile)），而關掉機上的敵我辨識（IFF）信號發送器，而海軍卻假定所有直升機都會啟用此套系統，上述導因加成之下促成了事故發生。有見及此，英國軍方於1980年代晚期加強側重了軍種間的聯合作戰訓練和通訊，並擴大識別設備的裝配，而福克蘭群島的墜機地點也建立了紀念設施，憑弔4位逝者。
+
+目录
+
+1 背景
+2 事發經過
+3 調查
+4 後續及影響
+5 相關條目
+6 參考來源
+
+
+背景[编辑]
+1982年4月2日，鄰近福克蘭群島的阿根廷對這座英國海外領土發起進攻[2]，遠在約8,000英里（13,000公里）外的英國則集結、派出了為數28,000人的海軍特遣部隊（英语：Events leading to the Falklands War#Task force），藉此奪回島嶼[2][3]。至阿根廷在6月底向英方投降（英语：Argentine surrender in the Falklands War）、戰爭結束為止，雙方在陸海空三域均有對戰，兩軍死亡人數共計900人左右[2]。
+5月上旬，英軍登陸東福克蘭島西部的聖卡洛斯，再由當地朝福島首府史坦利出發，為了支援進軍，後勤物資也由聖卡洛斯起飛的直升機空運給部隊[1]。阿根廷軍方面，佔領史坦利的兵力由戰事爆發至終，都是透過往返阿國本土—福島間的C-130運輸機獲得補給品，這些被英國稱作「送奶航班」（milk-runs）的軍機正是英國皇家海軍的擔憂來源，英方構思了各種方法試圖攔阻[4][5]。
+
+事發經過[编辑]
+ 加地夫號驅逐艦（英语：HMS Cardiff (D108)）在事發前一天的6月5日提供砲火支援後，甲板上佈滿4.5吋艦砲（英语：4.5 inch Mark 8 naval gun）的彈殼
+6月5日晚間，加地夫號部署在福克蘭群島東方的布拉夫灣（英语：Bluff Cove）射擊區域內，負有雙重任務，一為以炮火支援岸上的英國皇家海軍陸戰隊第3突擊旅，二為制止任何阿根廷軍機飛往史坦利。加地夫艦此前已有4晚擔當過類似角色，曾在一架補給機降落時試圖開火，卻沒成功打下，當該機升空時又再度失手[6]。
+與此同時，英國陸軍航空兵第656中隊（英语：No. 656 Squadron AAC）的飛行員克里斯多弗·格里芬上士（Christopher Griffin）及賽門·考克頓准下士（Simon Cockton）正奉命空運人員和設備到歡喜峰山頂上一座故障中的無線電轉播站[7][8][9]，此設施於事前一日建成，目地是充當達爾文的第5步兵旅旅部（英语：5th Infantry Brigade (United Kingdom)）和菲茨羅伊（英语：Fitzroy, Falkland Islands）的傘兵團第2營營部（英语：2nd Battalion, Parachute Regiment）間之聯絡管道[7]。當晚的飛行環境良好，夜空晴朗，月亮顯著可見，風速約20節（每小時37公里）[7]。兩人駕駛序號XX377的瞪羚直升機從古斯格林（英语：Goose Green）出發，在達爾文的指揮部將替代用的器材送上機，還載了兩名乘員，分別是205通信中隊（英语：205 Signal Squadron）的中隊長邁可·佛吉少校（Michael Forge）及他的技術員約翰·貝克上士（John Baker）[7][10][11]。格里芬是經驗老到的直升機飛行員，而前往轉播站的航程預計有10分鐘[1]。
+
+ 加地夫艦上的雷達控制台
+當地時間凌晨2點，加地夫號作戰室（英语：Operations room）在雷達圖（英语：Plot (radar)）上偵測到25海里（46公里）外的XX337直升機[1]，因為直升機上的敵我辨識系統已經關閉，使加地夫艦沒收到友機訊號，又由於其飛行方向大致朝著史坦利，因此作戰室人員將之認定為敵機[1]。當他們進一步估算了飛行速度後，又認為雷達正在追蹤的是阿根廷軍用定翼機——若非載運補品的C-130力士型運輸機，就是為了報復加地夫艦對陸砲襲而派來的IA 58攻擊機（英语：FMA IA 58 Pucará）[1][12][13]。加地夫號遂射出海鏢飛彈[14]。當步兵5旅與直升機的失去無線電聯繫時，歡喜峰轉播站的駐員則親自目睹、耳聞了導彈的彈頭爆炸[7]。
+直升機的出事使英國懷疑阿根廷軍仍在此區行動，因此廓爾喀旅（英语：Brigade of Gurkhas）調派兵力前去巡邏[7]，在廓爾喀兵遇上歡喜峰軍用無線電站的人員時，當地還潛在著發生另一起友軍誤擊事件的可能[15]:p604。徹底搜索則於天剛破曉之際展開，找到了炸毀的直升機和4位乘員的遺體，這是英軍第5步兵旅在福島戰爭中的首批傷亡[7][15]:p819。案後不久，擊落一事即遭懷疑是加地夫艦所為，海軍特遣部隊司令山迪·伍華德（英语：Sandy Woodward）少將也在當天傍晚下達了嚴限用武令（英语：Weapons Tight），規定在東福克蘭偵測到任何速度慢於200節（每小時370公里）、高度在610米（2,000英尺）以下的飛行器時，只要其未明確顯示為敵機，就不得與之交戰[1][6]。
+
+調查[编辑]
+ 加地夫號驅逐艦上的海鏢飛彈，攝於1982年
+ 加地夫艦上的飛彈發射台，攝於擊落事件後的1982年6月6日早晨
+瞪羚直升機失事後，罹難人員的遺骸由海軍醫官瑞克·喬利（英语：Rick Jolly）上校進行初步檢驗[16]，直升機的機體則直接在現場檢查，但英國人員無法確定開火的是加地夫艦上的飛彈，抑或是阿根廷軍。在肇事者不明的情況下，有關單位決定不召開調查委員會，並宣布XX377號機「於行動中失蹤」。當時的推想是，一旦遇難官兵的家屬知悉直升機為遭到己方打落時，其苦痛將會加深[7]。戰爭結束後，機艙內找到的飛彈破片即送往皇家航空研究院的法恩伯勒分院（英语：Farnborough Airport），利用院內的英國政府航研設施分析。實驗結論是機上的砲彈碎片並非來自英軍海鏢飛彈，儘管此後就有一塊海鏢飛彈的外殼在機骸的「數百碼」之外被找獲[7]。
+1982年12月，當考克頓准下士的遺體送返英國之後，南安普敦一名驗屍官對其進行了死因研訊。英國陸軍航空兵以法恩伯勒航研院的實驗結果為基礎遞交證詞，指出機內彈頭殘片的分析顯示出一件事，即直升機是遭到某種「已知為敵軍所有」的防空飛彈摧毀[7]。這份結果後來又在1985年11月經過重審，隨後判定「關於從墜機現場復原的飛彈碎片，無法斷言其確切來源為何」[7]。1986年6月，國防部的三軍國務大臣（英语：Minister of State for the Armed Forces）約翰·史坦利（英语：John Stanley (MP for Tonbridge and Malling)）在他對下議院的書面答覆中宣稱「（南安普敦）驗屍官所知道的就是如此」[7]。
+事故發生4年後的1986年10月，英國政府面臨來自考克頓的母親與反戰政治家譚姆·戴利埃爾（英语：Tam Dalyell）等方面的壓力，終於組建了官方調查委員會[16][17][18][19][20][21]，委員們花了一個月的時間，得出了「XX377直升機是被加地夫號擊毀」的結論[1]。歷史學家休·碧切諾（英语：Hugh Bicheno）評論道：「國防部花了4年，辦了2場調查，第一次的調查要不是無力可言，就是刻意掩飾真相，甚至連瞪羚直升機是被自己人錯打的都不承認」[22]。委員會的調查結果報告書後在2008年7月應《2000年資訊自由法（英语：Freedom of Information Act 2000）》的要求公開，僅報告內的第13段依據該法令第26條的規定而經過隱蔽處理（英语：Sanitization (classified information)），因其「包含了英國皇家海軍活動中的作戰細節，縱使在福克蘭戰爭結束多年後，仍可能為潛在的敵對勢力所用」[23]。
+調委會發現在標準作戰程序的規定下，陸軍第5步兵旅的旅長並不需要向別的單位公布直升機的任務，因為那趟飛行是於該旅的空域中進行旅內勤務[1][6]。即便直升機上裝設了敵我辨識信號器，但也處於關閉狀態，委員會認為「如果敵我辨識器有打開的話，那晚加地夫號就不會對直升機開火了，這點幾乎無庸置疑」[1]。當時英軍地面部隊的直升機中，配有敵我辨識裝置者還佔不到一半比例，就算有裝，也因其會影響英軍陸基防空飛彈「長劍（英语：Rapier (missile)）」的追蹤系統運作，而奉上級命令停用[1][7]，但這點並未通報給英國皇家海軍知曉，背後導因是外界對海軍打擊陸上飛行目標的能力存在誤解。委員會推斷，這場溝通上的疏忽，外加英國海軍假定所有直升機都會使用敵我辨識裝備，「形成了累加效果，也是事故的主要肇因」[1]，但其也提出了「疏忽及過失均不應歸責於任何個別人員」此一建言[1]。
+
+後續及影響[编辑]
+ 位於歡喜峰的紀念十字架
+ 由空中俯瞰墜機地點上的「205」字樣，其由英國陸軍第205通信中隊的隊員以漆為白色的石塊排列而成。205中隊的中隊長佛吉少校和貝克上士均於瞪羚直升機誤擊事故中身亡
+有鑑於直升機在陸上部隊作戰中的角色愈加顯著，將飛彈驅逐艦（英语：Guided missile destroyer）結合到海岸防禦中也更為重要，事故調查委員會倡議修改北約的兩棲作戰及艦砲支援作戰準則，以使其他軍種留意艦載導彈交戰區涵蓋到陸地時的危險性[1]。1980年代晚期，英國政府對跨軍種作戰（英语：joint warfare）的訓練投注了更多重視，並在阿曼和蘇格蘭進行了紫色戰士（英语：Exercise Purple Warrior）之類的聯合軍演[1][6]。不僅於此，委員會也指明了常設聯合指揮部（英语：Permanent Joint Headquarters）的設立，旨在終結單一軍種各自實施作戰的「將就湊合、被動因應狀態」[1][24]。英國陸軍航空兵、英國皇家海軍陸戰隊麾下的瞪羚及山貓直升機均全面加裝敵我辨識裝備[1]，此種設備在接近長劍飛彈發射台時造成干擾的問題也成功得到解決[1]。最後，調查委員會還建議在實施近岸聯合軍種作戰期間，將艦砲支援聯絡官的權責擴大到可以對防空問題進行研判[1]。
+瞪羚直升機誤擊案後，陸軍205通信中隊的隊員在墜機地點用漆成白色的石塊排出「205」的字樣，歡喜峰上也設立了紀念十字架。2006年11月11日，英軍福島聯合通訊隊（JCUFI）的隊員和陸海空三軍官兵共組的代表團集體悼念了事故中的4名亡者[25]。
+
+
+相關條目[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：1982年英國皇家海軍誤擊陸軍直升機事故
+
+
+英国主题
+軍事航空主题
+海军主题
+灾害主题
+瞪羚直升機
+福克蘭戰爭
+加地夫號驅逐艦（英语：HMS Cardiff (D108)）
+英國陸軍航空兵（英语：Army Air Corps (United Kingdom)）
+東福克蘭島、歡喜峰（英语：Pleasant Peak）
+友軍誤擊（英语：Friendly fire）
+艦砲支援（英语：Naval gunfire support）
+敵我辨識裝置
+跨軍種作戰（英语：Joint warfare）
+
+參考來源[编辑]
+
+
+^ 1.00 1.01 1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 Navy Command HQ. Report of Board of Inquiry into Loss of an Army Air Corps Gazelle over the Falkland Islands on 6 June 1982 (PDF). Ministry of Defence.   [2008-11-19]. （原始内容 (PDF)存档于2012-10-26）. 
+
+^ 2.0 2.1 2.2 Key facts: The Falklands War, Introduction. BBC News.   [2008-03-07]. （原始内容存档于2008-03-08）. 
+
+^ Key facts: The Falklands War, Task Force. BBC News.   [2015-09-21]. （原始内容存档于2007-10-07）. 
+
+^ Ward, Nigel "Sharkey"（英语：Nigel Ward）. Chapter 29. Sea Harrier Over the Falklands. Cassell Military Paperbacks. 2006: 323. ISBN 0-304-35542-9. 
+
+^ Hastings, Max（英语：Max Hastings）; Jenkins, Simon（英语：Simon Jenkins）. Chapter 9. The Battle for the Falklands. Bungay, Suffolk: Book Club Associates. 1983: 158. ISBN 0-393-30198-2. 
+
+^ 6.0 6.1 6.2 6.3 L/Cpl. S. J. Cockton. Hansard（英语：Hansard）. Parliament of the United Kingdom. 1987-02-02  [2008-11-19]. 
+
+^ 7.00 7.01 7.02 7.03 7.04 7.05 7.06 7.07 7.08 7.09 7.10 7.11 7.12 Falkland Islands. Hansard（英语：Hansard）. Parliament of the United Kingdom. 1986-06-25  [2008-11-19]. 
+
+^ Veterans UK. Griffen, Christopher Anthony – Roll of honour – Armed forces memorial. Service Personnel & Veterans Agency（英语：Service Personnel and Veterans Agency）.   [2015-08-30]. （原始内容存档于2012-07-30）. 
+
+^ Veterans UK. Cockton, Simon Jeremy Roll of honour. Service Personnel & Veterans Agency（英语：Service Personnel and Veterans Agency）.   [2015-08-30]. （原始内容存档于2012-08-04）. 
+
+^ Veterans UK. Forge, Michael Lancaster – Roll of honour – Armed forces memorial. Service Personnel & Veterans Agency（英语：Service Personnel and Veterans Agency）.   [2015-08-30]. （原始内容存档于2012-08-03）. 
+
+^ Veterans UK. Baker, John Ivan – Roll of honour – Armed forces memorial. Service Personnel & Veterans Agency（英语：Service Personnel and Veterans Agency）.   [2015-08-30]. （原始内容存档于2012-07-30）. 
+
+^ Cook, Malcolm; Masakowski, Yvonne Noyes, Janet M. Decision making in complex environments. Aldershot, Hants, England: Ashgate. 2007: 197  [2008-11-19]. ISBN 0-7546-4950-4. 
+
+^ Bolia, Robert S. The Falklands War: The Bluff Cove Disaster. Military Review: 67. ISSN 0026-4148.  使用|accessdate=需要含有|url= (帮助)
+
+^ McGowen, Stanley S. Helicopters: An Illustrated History of Their Impact. ABC-CLIO. 2005: 156. ISBN 9781851094684. 
+
+^ 15.0 15.1 Freedman, Lawrence（英语：Lawrence Freedman）. The Official History of the Falklands Campaign. Volume II: War and Diplomacy Updated. London: Routledge. 2007. ISBN 978-0-415-41911-6. 
+
+^ 16.0 16.1 Jolly, Richard（英语：Rick Jolly）. Sunday, June 6th. The Red and Green Life Machine Revised. Cornwall: Palamanando Publishing. 2007: 150–151 [1983]  [2010-03-04]. ISBN 0-9514305-4-8. （原始内容存档于2011-10-09）. 
+
+^ Navy Command HQ. Convening Authority Order (PDF). Ministry of Defence.   [2008-11-19]. （原始内容 (PDF)存档于2012-10-26）. 
+
+^ Lance Corporal Simon Cockton: HC Deb 09 June 1986 vol 99 c57W. Hansard（英语：Hansard）. Parliament of the United Kingdom. 1986-06-09  [2009-09-04]. 
+
+^ Lance Corporal Simon Cockton: HC Deb 12 June 1986 vol 99 c290W. Hansard（英语：Hansard）. Parliament of the United Kingdom. 1986-06-12  [2009-09-04]. 
+
+^ Lance-Corporal Simon Cockton: HC Deb 17 June 1986 vol 99 c509W. Hansard（英语：Hansard）. Parliament of the United Kingdom. 1986-06-17  [2009-09-04]. 
+
+^ The Royal Navy. Hansard（英语：Hansard）. Parliament of the United Kingdom. 1988-03-03  [2009-09-04]. 
+
+^ Bicheno, Hugh（英语：Hugh Bicheno）. Chapter 10. Razor's Edge. London: Orion Publishing. 2007: 207. ISBN 0-7538-2186-9. 
+
+^ Navy Command HQ. Response to Loss of Gazelle, Falklands on 6 Jun 1982 (PDF). Ministry of Defence.   [2009-09-08]. （原始内容 (PDF)存档于2012-10-26）. 
+
+^ PJHQ – History. Ministry of Defence.   [2009-09-23]. （原始内容存档于2012-10-26）. 
+
+^ UK troops around the world honour fallen comrades. Ministry of Defence.   [2009-09-08]. （原始内容存档于2012-10-26）. 
+
+
+查论编← 1981 1982年航空事故 1983 →   
+1月13日：佛羅里達航空90號班機
+1月23日：世界航空30號班機（英语：World Airways Flight 30）
+2月6日：韓國空軍C-123運輸機（英语：February 1982 Korean Air Force C-123 accident）
+2月9日：日本航空350號班機
+3月11日：維德勒航空933號班機（英语：Widerøe Flight 933）
+3月20日：加魯達航空福克F28空難（英语：1982 Garuda Fokker F28 crash）
+3月26日：哥倫比亞洲際航空217號班機（英语：Aeropesca Colombia Flight 217）
+4月26日：中國民航3303號班機
+
+6月6日：英國陸軍XX377直升機
+6月12日：亞馬遜航空FH-227型（英语：1982 TABA Fairchild FH-227 accident）
+6月21日：印度航空403號班機空難（英语：印度航空403號班機）
+6月24日：英國航空9號班機
+6月28日：蘇聯民航8641號班機
+7月6日：蘇聯民航411號班機
+7月9日：泛美航空759號班機†
+7月23日：陰陽魔界片場墜機事件（英语：Twilight Zone accident）
+7月30日：中国空军50258号客机
+
+8月11日：泛美航空830號班機
+9月1日：厄瓜多爾鷹航DHC-4型（英语：1982 Aerocondor DHC-4 Caribou accident）
+9月13日：西班達斯航空995號班機（英语：Spantax Flight 995）
+9月17日：日本航空792號班機
+9月20日：张家口机场空中相撞
+9月29日：蘇聯民航343號班機
+12月9日：智利北方航空304號班機（英语：Aeronor Flight 304）
+12月24日：中國民航2311號班機
+粗体字表示至少造成50人死亡的航空事故
+† 表示為1982年最嚴重的航空事故
+
+
+
+
+

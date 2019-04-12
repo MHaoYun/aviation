@@ -1,0 +1,163 @@
+
+body.skin-minerva .mw-parser-output table.infobox caption{text-align:center}王權球場直升機墜機事故
+肇事直升機的照片，攝於2016年8月Accident概要日期
+2018年10月27日 (2018-10-27)摘要
+事件調查中地點
+ 英國萊斯特王權球場 52°37′07″N 1°08′27″W﻿ / ﻿52.61861°N 1.14083°W﻿ / 52.61861; -1.14083坐标：52°37′07″N 1°08′27″W﻿ / ﻿52.61861°N 1.14083°W﻿ / 52.61861; -1.14083Grid reference SK 583 028乘客
+4機組人員
+1死亡
+5生還者
+0機型
+阿古斯塔韦斯特兰AW169操作人員
+福克斯堡公司註冊編號
+G-VSKP起飛地
+ 英國萊斯特王權球場目的地
+ 英國倫敦盧頓機場[1]
+2018年10月27日，一架阿古斯塔韦斯特兰AW169直升机在英国李斯特城足球會的主場王權球場场起飞后不久坠毁。足球會班主维猜·斯里瓦塔那布拉帕（60岁）、两名员工努莎拉·苏娜玛（Nursara Suknamai，2005年泰国环球小姐亚军兼最上镜小姐、2006年洲际小姐（法语：Miss Intercontinental）冠军，33岁）[2][3]和卡必朋·彭帕雷（Kaveporn Punpare）以及機師埃里克·斯沃弗（Eric Swaffer，53岁）和其助手伊莎贝拉·雷科維茲（Izabela Roza Lechowicz，机长女友，46岁，波兰裔，亦为机师）為機上乘客[4][5]。
+英国航空事故调查局目前正领导事故調查，當局确认機上無人生還，但未有造成地面人员伤亡，據知機師的轉向避免了更多人身亡[6][7][8]。
+
+目录
+
+1 事故
+
+1.1 航程摘要
+1.2 墜機
+
+
+2 直升機資料
+3 调查
+4 反應
+5 參見
+6 参考文献
+
+
+事故[编辑]
+航程摘要[编辑]
+飞机原本搭載维猜到王權球場觀賞英超李斯特城对韋斯咸足球會的比賽。英國夏令時間下午2時43分從薩里郡起飛，在3時48分抵達球場[9]。比賽結束後一如以往，直升机降落在球場中心區域接走維猜[10][11]。從英國電信體育台的直播可見，该直升机准备起飞[12][13]。此時韋斯咸的隊巴已經離開，但部分李斯特城的職員和球員、以及兩隊球迷仍然在場區外[14]。
+
+墜機[编辑]
+載有維猜等五人的客機在王權球場起飛後不久的晚上8時30分墜毀，隨即起火[15] 。在場人士嘗試拯救機上人士但因飛機起火而不成功，有目擊者表示直升機尾翼未能運作，繼而導致墜毀，亦有人指飛機「如石頭般」急墜地面[16]。飛機在200米外的球場停車場E區墜毀，機上所有人罹難，是次乃AW169機型首次墜毀事故[17][18]。
+
+直升機資料[编辑]
+涉及是次事故的飞机為阿古斯特维斯特兰AW169直升机，註冊編號為G-VSKP[19]，c/n69018，並於2016年製造[20]。飛機能承載10人，負重约4,500公斤[21]。直升機的兩個引擎为普惠公司PW210A型号[22]。
+
+调查[编辑]
+英国航空事故调查局就墜機事故展開調查[23]。直升機的飛行紀錄儀已被尋回，但因大火而嚴重受損[24]。
+
+
+
+已隱藏部分未翻譯部分，歡迎參與翻譯。
+The Air Accidents Investigation Branch (AAIB) opened an investigation into the accident. Italy's Agenzia Nazionale per la Sicurezza del Volo, representing the state of the manufacturer of the helicopter, and Canada's Transportation Safety Board, representing the state of the manufacturer of the helicopter's engines, provided assistance. Accredited representatives from Poland's State Commission on Aircraft Accidents Investigation and Thailand's Aircraft Accident Investigation Committee also provided assistance. The aircraft's Digital Flight Data Recorder was recovered on 28 October, having been severely damaged in the fire. It was transported to the AAIB's base at Farnborough, Hampshire, for downloading of data contained therein. The wreckage of the helicopter was transported to Farnborough on 2 November.
+A coroner's court was created to investigate the official cause of death for the passengers and crew of the helicopter. The investigation reported in the court revealed that there was minimal opportunity for any individuals who survived the initial crash to escape, or anyone to help those trapped.
+On 7 November, the European Aviation Safety Agency (EASA) issued an Airworthiness Directive, demanding checks of the tails of all AgustaWestland AW169 and AgustaWestland AW189 helicopters, as a precautionary measure. On 14 November, the AAIB released a Special Bulletin, outlining the progress of the investigation. A loss of yaw control was revealed as the cause of the aircraft crashing, with the reasons for the loss of yaw control not yet determined. The investigation is concentrating on the tail rotor system as a matter of priority. On 30 November, the EASA issued an Emergency Alert Service Bulletin requiring periodic inspection of part of the tail rotor system. This was made mandatory by an Airworthiness Directive issued the same day.
+On 6 December 2018, the AAIB published a second Special Bulletin. Investigators revealed that loss of control of the helicopter resulted from the tail rotor actuator control shaft (which controls the pitch of the tail rotor blades) becoming disconnected from the actuator lever mechanism that transmits the pilots' pedal inputs to control the helicopter's yaw. They have also revealed evidence of the normally stationary control shaft being spun by the tail rotor which caused the castellated nut holding the actuator lever in place to friction weld to its carrier, shear off its split pin and rotate off the threaded shaft. The locking nut and pin carrier were found loose in the tail rotor fairing and were bonded together. A duplex bearing that was designed to allow the control shaft to remain stationary (with the rest of the tail rotor assembly rotating around it) have been found to only allow a few degrees of rotation, with the races blocked up by a mix of burnt grease and metallic particles. Work continues to identify the cause of the damage observed to the duplex bearing and to establish its contribution to the failure sequence.}}
+
+
+反應[编辑]
+ 萊斯特城足球俱樂部代表團抵達坤敬機場（英语：Khon Kaen Airport），參加維猜的追思會
+英格蘭足球總會女子冠軍聯賽中李斯特城對曼聯的比赛，以及對打比郡的賽事均延遲舉行，以示尊重[25][26]。英格蘭足球聯賽盃中李斯特城對南安普敦的賽事原定在10月30日與王權球場舉行，亦宣告延遲。英超國際盃中李斯特城U23s對飛燕諾學院的賽事也同樣延遲[27][28]。
+翌日早上，球迷们在王權球場外獻花，亦有人獻上李斯特城和其他足球隊（包括韋斯咸）的隊衫和圍巾[29]。周日舉行的多場英國足球賽事，各球員均戴上黑色臂章，紀念李斯特城墜機事故和國殤紀念日[30]。
+
+參見[编辑]
+马修·哈丁：車路士前班主，於1996年10月觀賽後所乘搭的直升機墜毀而死亡。
+参考文献[编辑]
+
+
+^ Steinberg, Jacob; Dodd, Vikram. Helicopter believed to be carrying Leicester City owner crashes after game. the Guardian. 2018-10-28  [2018-10-29]. （原始内容存档于2018-10-28）. 
+
+^ Who was Nusara Suknamai? Was former Miss Thailand contender on Leicester owner Vichai Srivaddhanaprabha’s helicopter during crash? 页面存档备份，存于互联网档案馆The Sun，2018年10月30日
+
+^ Thailand_2006 Nusara Suknamai At Miss Intercontinental In BahamasRomanian InfoFashion Featival，2006年
+
+^ LIVE: Leicester City owner confirmed dead in helicopter crash.   [2018-10-29]. （原始内容存档于2018-10-29）. 
+
+^ 坠机罹难者：飞行员为一对情侣，已有多年飞行经验 页面存档备份，存于互联网档案馆虎扑网，2018年10月29日
+
+^ Club Statement: Vichai Srivaddhanaprabha. 2018-10-28  [2018-10-28]. （原始内容存档于2018-10-28）. 
+
+^ Leicester City confirm chairman's death. 2018-10-28  [2018-10-29]. （原始内容存档于2018-10-29）. 
+
+^ Steinberg, Jacob. Leicester City owner Vichai Srivaddhanaprabha confirmed dead in helicopter crash. 2018-10-28  [2018-10-29]. （原始内容存档于2018-10-29）. 
+
+^ LLC, Airnav Systems. AirNav RadarBox – Live Flight Tracker and Airport Status.   [2018-10-29]. （原始内容存档于2018-10-28）. 
+
+^ Leicester City helicopter crash: Foxes owner's aircraft bursts into flames outside King Power Stadium. 2018-10-27  [2018-10-28]. （原始内容存档于2018-10-28）. 
+
+^ Jarvis, Jacob. Leicester helicopter crash: City football club owner's helicopter crashes outside King Power Stadium. 2018-10-27  [2018-10-29]. （原始内容存档于2018-10-29）. 
+
+^ Leicester City helicopter crash: Moment shaken BT Sport host Jake Humphrey breaks news of disaster live on air. 2018-10-28  [2018-10-28]. （原始内容存档于2018-10-29）. 
+
+^ Beardsworth, Luke. Leicester helicopter crash: Moment visibly shaken Jake Humphrey breaks news of crash on live TV. Leicester Mercury.   [2018-10-29]. （原始内容存档于2018-10-29）. 
+
+^ Cullen, Ellie. 'Horrific scenes': Reaction to Leicester City helicopter crash. Leicester Mercury.   [2018-10-28]. （原始内容存档于2018-10-28）. 
+
+^ Hermesauto. Leicester City’s Thai chairman Vichai Srivaddhanaprabha was on board helicopter that crashed: BBC. The Straits Times. 2018-10-28  [2018-10-28]. （原始内容存档于2018-10-28）. 
+
+^ Helicopter 'spiralled out of control'.   [2018-10-28]. （原始内容存档于2018-10-28） （英国英语）. 
+
+^ Leicester City owner's helicopter crashes outside club's King Power Stadium. Sky News.   [2018-10-28]. （原始内容存档于2018-10-28）. 
+
+^ Leonardo Helicopters [@AgustaWestland]. Leonardo Helicopters is ready to support the AAIB with their investigation to determine the cause of this accident. This is the first ever accident involving an AW169 helicopter (推文). 2018-10-28  –通过Twitter.  
+
+^ Leicester City owner's helicopter crashes leaving stadium. BBC News Online.   [2018-10-28]. （原始内容存档于2018-10-28）. 
+
+^ G-VSKP. Helis.   [2018-10-28]. （原始内容存档于2018-10-28）. 
+
+^ Martin, Dan. More about the £6.6m helicopter that crashed outside stadium. 2018-10-28  [2018-10-29]. （原始内容存档于2018-10-28）. 
+
+^ G-INFO search | Civil Aviation Authority.   [2018-10-28]. （原始内容存档于2018-11-06） （英语）. 
+
+^ Leicester City owner in helicopter crash. BBC News. 2018-10-28  [2018-10-30]. （原始内容存档于2018-10-29） （英国英语）. 
+
+^ Air Accidents Investigation Branch. Update on Leicester helicopter accident (G-VSKP). 2018-10-29  [2018-10-30]. （原始内容存档于2018-10-29） （英语）. 
+
+^ Leicester City helicopter crash – latest reaction. BBC Sport. 2018-10-28  [2018-10-28]. 
+
+^ Leicester City helicopter crash: What we know so far.   [2018-10-29]. （原始内容存档于2018-10-28）. 
+
+^ Leicester vs Southampton postponed: Why has Carabao Cup tie been called off and when is the re-arranged date?. 2018-10-28  [2018-10-28]. （原始内容存档于2018-10-29）. 
+
+^ Club Statement: Vichai Srivaddhanaprabha. 2018-10-28  [2018-10-29]. （原始内容存档于2018-10-28）. 
+
+^ O'Grady, Sean. Leicester helicopter crash: Flowers and scarves left in tribute as fans react in shock. The Independent. 2018-10-28  [2018-10-29]. （原始内容存档于2018-10-28）. 
+
+^ Fisher, Ben; Cook, Chris. Leicester City helicopter crash: owner believed to have been on board – latest updates. The Guardian. 2018-10-28  [2018-10-28]. ISSN 0261-3077. （原始内容存档于2018-10-29） （英国英语）. 
+
+
+查论编← 2017 2018年航空事故 2019 →   
+01月5日：卢克索热气球（英语：2018 Luxor hot air balloon crash）
+01月13日：土耳其飛馬航空8622號班機
+01月17日：蓝宝石航空UH-1直升机（英语：2018 Sapphire Aviation Bell UH-1H Iroquois crash）
+02月11日：萨拉托夫航空703号班机
+02月13日：联合航空1175号班机（英语：United Airlines Flight 1175）
+02月16日：墨西哥空军UH-60直升機
+02月18日：伊朗阿塞曼航空3704号班机
+03月6日：俄罗斯空军安-26运输机（英语：2018 Antonov An-26 crash）
+03月11日：巴薩朗控股龐巴迪飛機（英语：2018 Bombardier Challenger 604 crash）
+03月12日：紐約觀光直升機（英语：2018 New York City helicopter incident）
+
+03月12日：美国-孟加拉航空211号班机
+03月17日：菲律宾精简航空快运PA-23货机（英语：2018 Philippines Piper PA-23 crash）
+04月2日：美國馬里恩市機場撞機事故
+04月11日：阿爾及利亞空軍伊-76運輸機†
+04月17日：西南航空1380号班机
+05月14日：四川航空8633号班机
+05月18日：古巴航空972号班机
+07月31日：墨西哥航空2431号班机
+08月4日：Ju-Air Junkers Ju 52坠毁事故（英语：2018 Ju-Air Junkers Ju 52 crash）
+08月4日：de Havilland Beaver坠毁事故（英语：K2 Aviation de Havilland Beaver (DHC-2) crash）
+
+08月10日：地平线航空Q400事件
+08月16日：厦门航空8667号班机
+09月1日：俄罗斯烏塔航空579号班机
+09月17日：俄罗斯空军伊尔-20电子侦察机
+09月28日：新几内亚航空73号班机
+010月27日：莱斯特城足球俱乐部直升机
+010月29日：印尼獅子航空610号班机
+011月9日：牙買加飛天航空256號班機
+012月24日：普埃布拉州直升機墜毀事故
+粗体字表示至少造成50人死亡的航空事故
+† 表示為2018年最嚴重的航空事故
+
+
+
