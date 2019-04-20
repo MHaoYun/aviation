@@ -1,0 +1,25 @@
+﻿中国国际航空公司 Air China CA CCA
+中国北方航空公司 China Northern Airlines CJ CBF
+中国南方航空公司 China Southern Airlines CZ CSN
+中国西南航空公司 China Southwest Airlines SZ CXN
+中国西北航空公司 China Northwest Airlines WH CWN
+东方航空公司 China Eastern Airlines MU CES
+厦门航空公司 Xiamen Airlines MF CXA
+山东航空公司 Shandong Airlines SC CDG
+上海航空公司 Shanghai Airlines FM CSF
+深圳航空公司 Shenzhen Airlines 4G CSJ
+中国新华航空公司 Chinaxinhua Airlines X2 CXH
+中国航空股份公司  F6 CAG
+云南航空公司 Yunnan Airlines 3Q CYH
+新疆航空公司 Xinjiang Airlines XO CXJ
+四川航空公司 Sichuan Airlines 3U CSC
+中原航空公司  Z2 CYN
+武汉航空公司 Wuhan Airlines WU CWU
+贵州航空公司 Guizhou Airlines G4 CGH
+海南航空公司 Hainan Airlines H4 CHH
+中国通用航空公司  GP CTH
+南京航空公司  3W CNJ
+浙江航空公司  ZJ CJG
+长城航空公司  GW CGW
+福建航空公司 Fujian Airlines FJ CFJ
+长安航空公司  2Z CGN
