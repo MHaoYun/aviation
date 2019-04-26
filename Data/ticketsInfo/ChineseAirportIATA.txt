@@ -1,0 +1,147 @@
+﻿北京市
+北京	NAY	ZBNY	北京南苑机场	NANYUAN	北京	PEK	ZBAA	北京首都国际机场	BEIJING
+天津市
+天津	TSN	ZBTJ	天津滨海国际机场	TIANJIN	 	 	 	 	 
+河北省
+张家口	ZQZ	ZBZJ	张家口宁远机场	ZHANGJIAKOU	邯郸	HDG	ZBHD	邯郸机场	HANDAN
+秦皇岛	SHP	ZBSH	秦皇岛山海关机场	QINHUANGDAO	唐山	TVS	ZBTS	唐山三女河机场	TANGSHAN
+邢台	XNT	ZBXT	邢台褡裢机场	SHAHE	石家庄	SJW	ZBSJ	石家庄正定国际机场	SHIJIAZHUANG
+山西省
+太原	TYN	ZBYN	太原武宿国际机场	TAIYUAN	吕梁	LLV	ZBLL	吕梁机场	LVLIANG
+长治	CIH	ZBCZ	长治王村机场	CHANGZHI	大同	DAT	ZBDT	大同云冈机场	DATONG
+运城	YCU	ZBYC	运城机场	YUNCHENG	 	 	 	 	 
+内蒙古自治区
+阿拉善左旗	AXF		阿拉善左旗巴彦浩特机场	BAYANHAOTE	阿拉善右旗	RHT		阿拉善右旗巴丹吉林机场	BADANJILIN
+包头	BAV	ZBOW	包头二里半机场	BAOTOU	赤峰	CIF	ZBCF	赤峰玉龙机场	CHIFENG
+鄂尔多斯	DSN	ZBDS	鄂尔多斯伊金霍洛机场	ORDOS	额济纳旗	EJN		额济纳旗桃来机场	ERJINA
+二连浩特	ERL	ZBER	二连浩特赛乌苏机场	ERLIANHOT	满洲里	NZH	ZBMZ	满洲里西郊机场	MANZHOULI
+乌海	WUA	ZBUH	乌海机场	WUHAI	阿尔山	YIE	ZBES	阿尔山伊尔施机场	ARXAN
+巴彦淖尔	RLK	ZBYZ	巴彦淖尔天吉泰机场	BAYANNUR	呼和浩特	HET	ZBHH	呼和浩特白塔国际机场	HOHHOT
+呼伦贝尔	HLD	ZBLA	呼伦贝尔海拉尔机场	HAILAR	通辽	TGO	ZBTL	通辽机场	TONGLIAO
+乌兰浩特	HLH	ZBUL	乌兰浩特机场	ULANHOT	锡林浩特	XIL	ZBXH	锡林浩特机场	XILINHOT
+辽宁省
+鞍山	AOG	ZYAS	鞍山腾鳌机场	ANSHAN	长海	CNI	ZYCH	长海大长山岛机场	CHANGHAI
+朝阳	CHG	ZYCY	朝阳机场	CHAOYANG	大连	DLC	ZYTL	大连周水子国际机场	DALIAN
+丹东	DDG	ZYDD	丹东浪头机场	DANDONG	锦州	JNZ	ZYJZ	锦州小岭子机场	JINZHOU
+沈阳	SHE	ZYTX	沈阳桃仙国际机场	SHENYANG	 	 	 	 	 
+吉林省
+通化	TNH	ZYTN	通化三源浦机场	TONGHUA	白山	NBS	ZYBS	长白山机场	CHANGBAISHAN
+延边	YNJ	ZYYJ	延吉朝阳川机场	YANJI	长春	CGQ	ZYCC	长春龙嘉国际机场	CHANGCHUN
+黑龙江省
+鸡西	JXA	ZYJX	鸡西兴凯湖机场	JIXI	佳木斯	JMU	ZYJM	佳木斯东郊机场	JIAMUSI
+牡丹江	MDG	ZYMD	牡丹江海浪机场	MUDANJIANG	伊春	LDS	ZYLD	伊春林都机场	YICHUN
+黑河	HEK	ZYHE	黑河机场	HEIHE	大庆	DQA	ZYDQ	大庆萨尔图机场	DAQING
+大兴安岭	JGD	ZYJD	加格达奇机场	JIAGEDAQI	哈尔滨	HRB	ZYHB	哈尔滨太平国际机场	HARBIN
+漠河	OHE	ZYMH	漠河古莲机场	MOHE	齐齐哈尔	NDG	ZYQQ	齐齐哈尔三家子机场	QIQIHAER
+上海市
+上海	SHA	ZSSS	上海虹桥国际机场	HONGQIAO	上海	PVG	ZSPD	上海浦东国际机场	PUDONG
+江苏省
+淮安	HIA	ZSSH	淮安涟水机场	HUAIAN	南通	NTG	ZSNT	南通兴东机场	NANTONG
+盐城	YNZ	ZSYN	盐城南洋机场	YANCHENG	扬州	YTY	ZSYA	扬州泰州机场	YANGZHOU
+南京	NKG	ZSNJ	南京禄口国际机场	NANJING	徐州	XUZ	ZSXZ	徐州观音机场	XUZHOU
+连云港	LYG	ZSLG	连云港白塔埠机场	LIANYUNGANG	常州	CZX	ZSCG	常州奔牛机场	CHANGZHOU
+无锡	WUX	ZSWX	苏南硕放国际机场	WUXI	 	 	 	 	 
+浙江省
+温州	WNZ	ZSWZ	温州龙湾国际机场	WENZHOU	衢州	JUZ	ZSJU	衢州机场	QUZHOU
+台州	HYN	ZSLQ	台州路桥机场	TAIZHOU	舟山	HSN	ZSZS	舟山普陀山机场	ZHOUSHAN
+杭州	HGH	ZSHC	杭州萧山国际机场	HANGZHOU	金华	YIW	ZSYW	义乌机场	YIWU
+宁波	NGB	ZSNB	宁波栎社国际机场	NINGBO	 	 	 	 	 
+安徽省
+安庆	AQG	ZSAQ	安庆天柱山机场	ANQING	池州	JUH	ZSJH	池州九华山机场	CHIZHOU
+黄山	TXN	ZSTX	黄山屯溪机场	HUANGSHAN	合肥	HFE	ZSOF	合肥新桥国际机场	HEFEI
+阜阳	FUG	ZSFY	阜阳西关机场	FUYANG	 	 	 	 	 
+福建省
+福州	FOC	ZSFZ	福州长乐国际机场	FUZHOU	沙县	SQJ		三明沙县机场	SANMING
+龙岩	LCX	ZSLD	连城冠豸山机场	LONGYAN	泉州	JJN	ZSQZ	泉州晋江机场	QUANZHOU
+南平	WUS	ZSWY	武夷山机场	WUYISHAN	厦门	XMN	ZSAM	厦门高崎国际机场	XIAMEN
+江西省
+赣州	KOW	ZSGZ	赣州黄金机场	GANZHOU	吉安	JGS	ZSGS	井冈山机场	JINGGANGSHAN
+宜春	YIC	ZSYC	宜春明月山机场	YICHUN	南昌	KHN	ZSCN	南昌昌北国际机场	NANCHANG
+景德镇	JDZ	ZSJD	景德镇罗家机场	JINGDEZHEN	九江	JIU	ZSJJ	九江庐山机场	JIUJIANG
+山东省
+济宁	JNG	ZSJG	济宁曲阜机场	JINING	潍坊	WEF	ZSWF	潍坊机场	WEIFANG
+青岛	TAO	ZSQD	青岛流亭国际机场	QINGDAO	济南	TNA	ZSJN	济南遥墙国际机场	JINAN
+临沂	LYI	ZSLY	临沂沭埠岭机场	LINYI	烟台	YNT	ZSYT	烟台莱山国际机场	YANTAI
+东营	DOY	ZSDY	东营胜利机场	DONGYING	威海	WEH	ZSWH	威海国际机场	WEIHAI
+河南省
+洛阳	LYA	ZHLY	洛阳北郊机场	LUOYANG	郑州	CGO	ZHCC	郑州新郑国际机场	ZHENGZHOU
+南阳	NNY	ZHNY	南阳姜营机场	NANYANG	 	 	 	 	 
+湖北省
+武汉	WUH	ZHHH	武汉天河国际机场	WUHAN	宜昌	YIH	ZHYC	宜昌三峡机场	YICHANG
+恩施	ENH	ZHES	恩施许家坪机场	ENSHI	襄阳	XFN	ZHXF	襄阳刘集机场	XIANGYANG
+湖南省
+常德	CGD	ZGCD	常德桃花源机场	CHANGDE	怀化	HJJ	ZGCJ	怀化芷江机场	HUAIHUA
+张家界	DYG	ZGDY	张家界荷花国际机场	ZHANGJIAJIE	长沙	CSX	ZGHA	长沙黄花国际机场	CHANGSHA
+永州	LLF	ZGLG	永州零陵机场	YONGZHOU	 	 	 	 	 
+广东省
+东莞	DGM		东莞机场	DONGGUAN	深圳	SZX	ZGSZ	深圳宝安国际机场	SHENZHEN
+惠州	HUZ	ZGHZ	惠州机场	HUIZHOU	梅州	MXZ	ZGMX	梅县长岗岌机场	MEIXIAN
+揭阳	SWA	ZGOW	揭阳潮汕机场	JIEYANG	湛江	ZHA	ZGZJ	湛江机场	ZHANJIANG
+佛山	FUO	ZGFS	佛山机场	FOSHAN	韶关	HSC		韶关桂头机场	SHAOGUAN
+珠海	ZUH	ZGSD	珠海金湾机场	ZHUHAI	广州	CAN	ZGGG	广州白云国际机场	GUANGZHOU
+广西壮族自治区
+柳州	LZH	ZGZH	柳州白莲机场	LIUZHOU	百色	AEB	ZGBS	百色巴马机场	BAISE
+北海	BHY	ZGBH	北海福成机场	BEIHAI	南宁	NNG	ZGNN	南宁吴圩国际机场	NANNING
+梧州	WUZ	ZGWZ	梧州长洲岛机场	WUZHOU	桂林	KWL	ZGKL	桂林两江国际机场	GUILIN
+海南省
+海口	HAK	ZJHK	海口美兰国际机场	HAIKOU	三亚	SYX	ZJSY	三亚凤凰国际机场	SANYA
+重庆市
+重庆	CKG	ZUCK	重庆江北国际机场	CHONGQING	万州	WXN	ZUWX	万州五桥机场	WANZHOU
+黔江	JIQ	ZUQJ	黔江武陵山机场	ZHOUBAI	 	 	 	 	 
+四川省
+达州	DAX	ZUDX	达州河市机场	DAZHOU	稻城	DCY	ZUDC	稻城亚丁机场	DAOCHENG
+九寨沟	JZH	ZUJZ	九寨黄龙机场	JIUZHAIGOU	南充	NAO	ZUNC	南充高坪机场	NANCHONG
+攀枝花	PZI	ZUZI	攀枝花保安营机场	PANZHIHUA	成都	CTU	ZUUU	成都双流国际机场	CHENGDU
+遂宁	SUN	ZNSU	遂宁机场	SUINING	广元	GYS	ZUGU	广元盘龙机场	GUANGYUAN
+康定	KGT	ZUKD	甘孜康定机场	KANGDING	绵阳	MIG	ZUMY	绵阳南郊机场	MIANYANG
+泸州	LZO	ZULZ	泸州蓝田机场	LUZHOU	西昌	XIC	ZUXC	西昌青山机场	XICHANG
+宜宾	YBP	ZUYB	宜宾菜坝机场	YIBIN	 	 	 	 	 
+贵州省
+安顺	AVA	ZUAS	安顺黄果树机场	ANSHUN	毕节	BFJ	ZUBJ	毕节飞雄机场	BIJIE
+贵阳	KWE	ZUGY	贵阳龙洞堡国际机场	GUIYANG	黔西南	ACX	ZUYI	兴义机场	XINGYI
+黎平	HZH	ZUNP	黎平机场	LIPING	黔东南	KJH	ZUKJ	凯里黄平机场	KAILI
+黔南	LLB	ZULB	荔波机场	LIBO	铜仁	TEN	ZUTR	铜仁凤凰机场	TONGREN
+遵义	ZYI	ZUZY	遵义新舟机场	ZUNYI	 	 	 	 	 
+云南省
+普洱	SYM	ZPSM	普洱思茅机场	PUER	腾冲	TCZ	ZUTC	腾冲驼峰机场	TENGCHONG
+临沧	LNJ	ZPLC	临沧机场	LINCANG	西双版纳	JHG	ZPJH	西双版纳嘎洒国际机场	JINGHONG
+丽江	LJG	ZPLJ	丽江三义机场	LIJIANG	昭通	ZAT	ZPZT	昭通机场	ZHAOTONG
+隆阳	BSD	ZPBS	保山云瑞机场	BAOSHAN	大理	DLU	ZPDL	大理机场	DALIXIAGUAN
+德宏	LUM	ZPMS	德宏芒市机场	MANGSHI	迪庆	DIG	ZPDQ	迪庆香格里拉机场	DIQING
+昆明	KMG	ZPPP	昆明长水国际机场	KUNMING	文山	WNH	ZPWS	文山普者黑机场	WENSHAN
+西藏自治区
+阿里	NGQ	ZUAL	阿里昆莎机场	SHIQUANHE	昌都	BPX	ZUBD	昌都邦达机场	CHAMDO
+日喀则	RKZ	ZURK	日喀则和平机场	RIKAZE	拉萨	LXA	ZULS	拉萨贡嘎机场	LHASA
+林芝	LZY	ZUNZ	林芝米林机场	NYINGCHI	 	 	 	 	 
+陕西省
+西安	XIY	ZLXY	西安咸阳国际机场	XIAN	榆林	UYN	ZLYL	榆林榆阳机场	YULIN
+汉中	HZG	ZLHZ	汉中西关机场	HANZHONG	安康	AKA	ZLAK	安康五里铺机场	ANKANG
+延安	ENY	ZLYA	延安二十里堡机场	YANAN	 	 	 	 	 
+甘肃省
+甘南	GXH	ZLXH	甘南夏河机场	XIAHE	金昌	JIC	ZLJC	金昌金川机场	JINCHANG
+张掖	YZY	ZLZY	张掖甘州机场	ZHANGYE	敦煌	DNH	ZLDH	敦煌机场	DUNHUANG
+嘉峪关	JGN	ZLJQ	嘉峪关机场	JIAYUGUAN	兰州	LHW	ZLLL	兰州中川机场	LANZHOU
+庆阳	IQN	ZLQY	庆阳机场	QINGYANG	天水	THQ	ZLTS	天水麦积山机场	TIANSHUI
+青海省
+西宁	XNN	ZLXN	西宁曹家堡机场	XINING	格尔木	GOQ	ZLGM	格尔木机场	GOLMUD
+玉树	YUS	ZLYS	玉树巴塘机场	YUSHU	 	 	 	 	 
+宁夏回族自治区
+固原	GYU	ZLGY	固原六盘山机场	GUYUAN	银川	INC	ZLIC	银川河东国际机场	YINCHUAN
+中卫	ZHY	ZLZW	中卫沙坡头机场	ZHONGWEI	 	 	 	 	 
+新疆维吾尔自治区
+阿克苏	AKU	ZWAK	阿克苏机场	AKSU	阿勒泰	AAT	ZWAT	阿勒泰机场	ALTAY
+富蕴	FYN	ZWFY	富蕴机场	FUYUN	哈密	HMI	ZWHM	哈密机场	HAMI
+和田	HTN	ZWTN	和田机场	HETIAN	库尔勒	KRL	ZWKL	库尔勒机场	KORLA
+且末	IQM	ZWCM	且末机场	QIEMO	吐鲁番	TLQ	ZWTP	吐鲁番交河机场	TULUFAN
+乌鲁木齐	URC	ZWWW	乌鲁木齐地窝堡国际机场	URUMQI	博尔塔拉	BPL	ZWBL	博乐阿拉山口机场	BOLE
+布尔津	KJI	ZWKN	布尔津喀纳斯机场	BUERJIN	喀什	KHG	ZWSH	喀什机场	KASHGAR
+克拉玛依	KRY	ZWKM	克拉玛依机场	KARAMAY	库车	KCA	ZWKC	库车龟兹机场	KUQA
+塔城	TCG	ZWTC	塔城机场	TACHENG	伊宁	YIN	ZWYN	伊宁机场	YINING
+新源	NLT	ZWNL	新源那拉提机场	NALATI	 	 	 	 	 
+香港特别行政区
+香港	HKG	VHHH	香港国际机场	HONG KONG	 	 	 	 	 
+澳门特别行政区
+澳门	MFM	VMMC	澳门国际机场	MACAU	 	 	 	 	 
+台湾省
+台北	TSA	RCSS	台北松山机场	TAIBEI	桃园	TPE	RCTP	桃园国际机场	TAOYUAN
+高雄	KHH	RCKH	高雄国际机场	GAOXIONG	 	 	 	 
