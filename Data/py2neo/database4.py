@@ -3,7 +3,9 @@ import csv
 
 
 def database4():
-    my_graph = Graph("http://localhost:7474", username="neo4j", password="123456")
+    my_graph = Graph("http://localhost:7474",
+                     username="neo4j",
+                     password="123456")
 
     aircraft_types = []
     aircraft_types.append({"Company": "BAC", "Type": "Concorde"})
@@ -51,7 +53,9 @@ def database4():
         aircraft_types.append(temp)
 
     for item in aircraft_types:
-        type_Node = Node("Aircraft_type", Company=item["Company"], Type=item["Type"])
+        type_Node = Node("Aircraft_type",
+                         Company=item["Company"],
+                         Type=item["Type"])
         my_graph.create(type_Node)
 
     matcher = NodeMatcher(my_graph)
@@ -271,7 +275,8 @@ def database4():
         my_graph.create(is_a)
     print("ok24")
 
-    targets = list(matcher.match("Plane").where("_.Type=~ '.*ERJ.*(135|140|145).*'"))
+    targets = list(
+        matcher.match("Plane").where("_.Type=~ '.*ERJ.*(135|140|145).*'"))
     for target in targets:
         i = targets.index(target)
         print(str(i) + "/" + str(len(targets)))
@@ -280,7 +285,8 @@ def database4():
         my_graph.create(is_a)
     print("ok25")
 
-    targets = list(matcher.match("Plane").where("_.Type=~ '.*ERJ.*(170|175).*'"))
+    targets = list(
+        matcher.match("Plane").where("_.Type=~ '.*ERJ.*(170|175).*'"))
     for target in targets:
         i = targets.index(target)
         print(str(i) + "/" + str(len(targets)))
@@ -289,7 +295,8 @@ def database4():
         my_graph.create(is_a)
     print("ok26")
 
-    targets = list(matcher.match("Plane").where("_.Type=~ '.*ERJ.*(190|195).*'"))
+    targets = list(
+        matcher.match("Plane").where("_.Type=~ '.*ERJ.*(190|195).*'"))
     for target in targets:
         i = targets.index(target)
         print(str(i) + "/" + str(len(targets)))
@@ -297,3 +304,6 @@ def database4():
         is_a = Relationship(target, "Is_a", big_type)
         my_graph.create(is_a)
     print("ok27")
+
+
+database4()
