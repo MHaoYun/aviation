@@ -1018,8 +1018,8 @@
 引擎制造商Herman 制造 引擎Herman 45hp
 引擎制造商Herman 制造 引擎Herman 70hp
 引擎制造商Hewland 制造 引擎Hewland AE75
-引擎制造商Hexatron Engineering Co., Inc. 制造 引擎Hexadyne P60
-引擎制造商Hexatron Engineering Co., Inc. 制造 引擎Hexadyne O-49
+引擎制造商Hexatron Engineering Co.  Inc. 制造 引擎Hexadyne P60
+引擎制造商Hexatron Engineering Co.  Inc. 制造 引擎Hexadyne O-49
 引擎制造商Hiero 制造 引擎Hiero B
 引擎制造商Hiero 制造 引擎Hiero C
 引擎制造商Hiero 制造 引擎Hiero D
@@ -1441,10 +1441,10 @@
 引擎制造商LPC 制造 引擎LPC Fang 1-KS-40
 引擎制造商LPC 制造 引擎LPC Sword 3.81-KS-4090
 引擎制造商LPC 制造 引擎LPC Meteor 33-KS-2800
-引擎制造商LPC 制造 引擎LPC Mercury 0.765-KS-53,600
-引擎制造商LPC 制造 引擎LPC Viper I-C 5.6-KS-5,400
-引擎制造商LPC 制造 引擎LPC Viper II-C 3.77-KS-8,040
-引擎制造商LPC 制造 引擎LPC Lance I-C 6.65-KS-38,800
+引擎制造商LPC 制造 引擎LPC Mercury 0.765-KS-53 600
+引擎制造商LPC 制造 引擎LPC Viper I-C 5.6-KS-5 400
+引擎制造商LPC 制造 引擎LPC Viper II-C 3.77-KS-8 040
+引擎制造商LPC 制造 引擎LPC Lance I-C 6.65-KS-38 800
 引擎制造商LSA-Engines 制造 引擎LSA-Engines LSA850
 引擎制造商Lycoming 制造 引擎Lycoming O-145
 引擎制造商Lycoming 制造 引擎Lycoming O-160
@@ -1616,7 +1616,7 @@
 引擎制造商Mitsubishi 制造 引擎Mitsubishi Army Type 99 900hp Air Cooled Radial
 引擎制造商Mitsubishi 制造 引擎Mitsubishi Army Type2 Rocket
 引擎制造商Mitsubishi 制造 引擎Mitsubishi Army Type3 Rocket
-引擎制造商Mitsubishi 制造 引擎Mitsubishi Army Type 4 1,900hp Air Cooled Radial
+引擎制造商Mitsubishi 制造 引擎Mitsubishi Army Type 4 1 900hp Air Cooled Radial
 引擎制造商Mitsubishi 制造 引擎Mitsubishi A2
 引擎制造商Mitsubishi 制造 引擎Mitsubishi A4
 引擎制造商Mitsubishi 制造 引擎Mitsubishi A5
@@ -1684,8 +1684,8 @@
 引擎制造商Nakajima 制造 引擎Nakajima Ha-117
 引擎制造商Nakajima 制造 引擎Nakajima Ha-217
 引擎制造商Nakajima 制造 引擎Nakajima Army Type 97 850 hp Air-cooled Radial
-引擎制造商Nakajima 制造 引擎Nakajima Army Type 100 1,260 hp Air-cooled Radial
-引擎制造商Nakajima 制造 引擎Nakajima Army Type 2 1,450 hp Air-cooled Radial
+引擎制造商Nakajima 制造 引擎Nakajima Army Type 100 1 260 hp Air-cooled Radial
+引擎制造商Nakajima 制造 引擎Nakajima Army Type 2 1 450 hp Air-cooled Radial
 引擎制造商Nakajima 制造 引擎Nakajima BA
 引擎制造商Nakajima 制造 引擎Nakajima NBA
 引擎制造商Nakajima 制造 引擎Nakajima NBD
@@ -1763,7 +1763,7 @@
 引擎制造商Peugeot 制造 引擎Peugeot 8A
 引擎制造商Pheasant Aircraft Company 制造 引擎Pheasant Flight 4-cyl
 引擎制造商Phillips 制造 引擎Phillips 500
-引擎制造商Piaggio 制造 引擎(note: the R is for Riduttori – reduction geared, and the C is for Compressore – supercharged)
+引擎制造商Piaggio 制造 引擎(note: the R is for Riduttori – reduction geared  and the C is for Compressore – supercharged)
 引擎制造商Pirna 制造 引擎Pirna 014
 引擎制造商Platzer 制造 引擎Platzer MA 12 P/Nissan
 引擎制造商Pobjoy 制造 引擎Pobjoy R
@@ -2334,8 +2334,8 @@
 引擎制造商STAL 制造 引擎STAL Skuten
 引擎制造商STAL 制造 引擎STAL Dovern
 引擎制造商Statax 制造 引擎Statax 3cyl 10hp axial
-引擎制造商Stratus 2000, Inc 制造 引擎Stratus EA 81
-引擎制造商Stratus 2000, Inc 制造 引擎Stratus EJ 22
+引擎制造商Stratus 2000  Inc 制造 引擎Stratus EA 81
+引擎制造商Stratus 2000  Inc 制造 引擎Stratus EJ 22
 引擎制造商Straughan 制造 引擎Straughan AL-1000
 引擎制造商Studebaker-Waterman 制造 引擎Studebaker-Waterman S-1
 引擎制造商Sturtevant 制造 引擎Sturtevant 5A-4
