@@ -1,0 +1,938 @@
+Flight airspeed record2 date 17 December 1903
+Flight airspeed record2 speed 10.98
+Flight airspeed record2 aircraft Wright Flyer
+Flight airspeed record3 date 5 October 1905
+Flight airspeed record3 speed 60.23
+Flight airspeed record3 aircraft Wright Flyer III
+Flight airspeed record4 date 12 November 1906
+Flight airspeed record4 pilot Bagatelle Castle, Paris, France
+Flight airspeed record4 speed 41.292
+Flight airspeed record4 aircraft Santos-Dumont 14-bis
+Flight airspeed record4 pilot Bagatelle Castle, Paris, France
+Flight airspeed record5 date 26 October 1907
+Flight airspeed record5 speed 52.700
+Flight airspeed record5 aircraft Voisin-Farman I
+Flight airspeed record6 date 25 May 1909
+Flight airspeed record6 speed 54.810
+Flight airspeed record6 aircraft Wright Model A
+Flight airspeed record7 date 23 August 1909
+Flight airspeed record7 speed 69.821
+Flight airspeed record7 aircraft Curtiss No. 2
+Flight airspeed record8 date 24 August 1909
+Flight airspeed record8 speed 74.318
+Flight airspeed record8 aircraft Blériot XI
+Flight airspeed record9 date 28 August 1909
+Flight airspeed record9 speed 76.995
+Flight airspeed record9 aircraft Blériot XI
+Flight airspeed record10 date 23 April 1910
+Flight airspeed record10 pilot Nice, France
+Flight airspeed record10 speed 77.579
+Flight airspeed record10 aircraft Antoinette VII
+Flight airspeed record10 pilot Nice, France
+Flight airspeed record11 date 10 July 1910
+Flight airspeed record11 speed 106.508
+Flight airspeed record11 aircraft Blériot
+Flight airspeed record12 date 29 October 1910
+Flight airspeed record12 pilot New York, New York, USA
+Flight airspeed record12 speed 109.756
+Flight airspeed record12 aircraft Blériot XI
+Flight airspeed record12 pilot New York, New York, USA
+Flight airspeed record13 date 12 April 1911
+Flight airspeed record13 speed 111.801
+Flight airspeed record13 aircraft Blériot  Blériot
+Flight airspeed record14 date 11 May 1911
+Flight airspeed record14 speed 119.760
+Flight airspeed record14 aircraft Nieuport IIN
+Flight airspeed record15 date 12 June 1911
+Flight airspeed record15 speed 125.000
+Flight airspeed record15 aircraft Blériot
+Flight airspeed record16 date 16 June 1911
+Flight airspeed record16 speed 130.057
+Flight airspeed record16 aircraft Nieuport IIN
+Flight airspeed record17 date 21 June 1911
+Flight airspeed record17 speed 133.136
+Flight airspeed record17 aircraft Nieuport IIN
+Flight airspeed record18 date 13 January 1912
+Flight airspeed record18 speed 145.161
+Flight airspeed record18 aircraft Deperdussin Monocoque (1912)
+Flight airspeed record19 date 22 February 1912
+Flight airspeed record19 speed 161.290
+Flight airspeed record19 aircraft Deperdussin monoplane
+Flight airspeed record20 date 29 February 1912
+Flight airspeed record20 speed 162.454
+Flight airspeed record20 aircraft Deperdussin Monocoque
+Flight airspeed record21 date 1 March 1912
+Flight airspeed record21 speed 166.821
+Flight airspeed record21 aircraft Deperdussin Monocoque
+Flight airspeed record22 date 2 March 1912
+Flight airspeed record22 speed 167.910
+Flight airspeed record22 aircraft Deperdussin Monocoque
+Flight airspeed record23 date 13 July 1912
+Flight airspeed record23 speed 170.777
+Flight airspeed record23 aircraft Deperdussin Monocoque
+Flight airspeed record24 date 9 September 1912
+Flight airspeed record24 pilot Chicago, Illinois, USA
+Flight airspeed record24 speed 174.100
+Flight airspeed record24 aircraft Kanav Wason (1912)
+Flight airspeed record24 pilot Chicago, Illinois, USA
+Flight airspeed record25 date 17 June 1913
+Flight airspeed record25 speed 179.820
+Flight airspeed record25 aircraft Deperdussin Monocoque (1913)
+Flight airspeed record26 date 27 September 1913
+Flight airspeed record26 speed 191.897
+Flight airspeed record26 aircraft Deperdussin Monocoque (1913)
+Flight airspeed record27 date 29 September 1913
+Flight airspeed record27 speed 203.850
+Flight airspeed record27 aircraft Deperdussin Monocoque (1913)
+Flight airspeed record28 date 1914
+Flight airspeed record28 speed 216.5
+Flight airspeed record28 aircraft Royal Aircraft Factory S.E.4
+Flight airspeed record29 date August 1918
+Flight airspeed record29 speed 262.3
+Flight airspeed record29 aircraft Curtiss Wasp
+Flight airspeed record30 date 1919
+Flight airspeed record30 speed 307.5
+Flight airspeed record30 aircraft Nieuport-Delage NiD 29V
+Flight airspeed record31 date 7 February 1920
+Flight airspeed record31 speed 275.264
+Flight airspeed record31 aircraft Nieuport-Delage NiD 29V
+Flight airspeed record32 date 28 February 1920
+Flight airspeed record32 speed 283.464
+Flight airspeed record32 aircraft Spad-Herbemont 20 bis
+Flight airspeed record33 date 9 October 1920
+Flight airspeed record33 speed 292.682
+Flight airspeed record33 aircraft Spad-Herbemont 20 bis
+Flight airspeed record34 date 10 October 1920
+Flight airspeed record34 speed 296.694
+Flight airspeed record34 aircraft Nieuport-Delage NiD 29V
+Flight airspeed record35 date 20 October 1920
+Flight airspeed record35 speed 302.529
+Flight airspeed record35 aircraft Nieuport-Delage NiD 29V
+Flight airspeed record36 date 4 November 1920
+Flight airspeed record36 speed 309.012
+Flight airspeed record36 aircraft SPAD S.XX
+Flight airspeed record37 date 12 December 1920
+Flight airspeed record37 speed 313.043
+Flight airspeed record38 date 26 September 1921
+Flight airspeed record38 pilot Ville Sauvage, France
+Flight airspeed record38 speed 330.275
+Flight airspeed record38 aircraft Nieuport-Delage Sesquiplan
+Flight airspeed record38 pilot Ville Sauvage, France
+Flight airspeed record39 date 13 October 1922
+Flight airspeed record39 pilot Detroit, Michigan, USA
+Flight airspeed record39 speed 358.836
+Flight airspeed record39 aircraft Curtiss R
+Flight airspeed record39 pilot Detroit, Michigan, USA
+Flight airspeed record40 date 18 October 1922
+Flight airspeed record40 pilot Selfridge Field, Detroit, Michigan, USA
+Flight airspeed record40 speed 360.93
+Flight airspeed record40 aircraft Curtiss R-6
+Flight airspeed record40 pilot Selfridge Field, Detroit, Michigan, USA
+Flight airspeed record41 date 15 February 1923
+Flight airspeed record41 pilot Istres, France
+Flight airspeed record41 speed 375.00
+Flight airspeed record41 pilot Istres, France
+Flight airspeed record42 date 29 March 1923
+Flight airspeed record42 pilot Wright Field, Dayton, Ohio, USA
+Flight airspeed record42 speed 380.74
+Flight airspeed record42 aircraft Curtiss R-6
+Flight airspeed record42 pilot Wright Field, Dayton, Ohio, USA
+Flight airspeed record43 date 2 November 1923
+Flight airspeed record43 pilot Mineola, New York, USA
+Flight airspeed record43 speed 417.07
+Flight airspeed record43 aircraft Curtiss R2C-1
+Flight airspeed record43 pilot Mineola, New York, USA
+Flight airspeed record44 date 4 November 1923
+Flight airspeed record44 pilot Mineola, New York, USA
+Flight airspeed record44 speed 429.02
+Flight airspeed record44 aircraft Curtiss R2C-1
+Flight airspeed record44 pilot Mineola, New York, USA
+Flight airspeed record45 date 11 November 1924
+Flight airspeed record45 speed 448.171
+Flight airspeed record45 aircraft Bernard-Ferbois V.2
+Flight airspeed record46 date 4 November 1927
+Flight airspeed record46 pilot Venice, Italy
+Flight airspeed record46 speed 479.290
+Flight airspeed record46 pilot Venice, Italy
+Flight airspeed record47 date 30 March 1928
+Flight airspeed record47 pilot Venice, Italy
+Flight airspeed record47 speed 512.776
+Flight airspeed record47 pilot Venice, Italy
+Flight airspeed record48 date August 1929
+Flight airspeed record48 speed 582.6
+Flight airspeed record49 date 10 September 1929
+Flight airspeed record49 pilot Calshot, UK
+Flight airspeed record49 speed 541.4
+Flight airspeed record49 pilot Calshot, UK
+Flight airspeed record50 date 12 September 1929
+Flight airspeed record50 pilot Calshot, UK
+Flight airspeed record50 speed 575.5
+Flight airspeed record50 pilot Calshot, UK
+Flight airspeed record51 date 13 September  1931
+Flight airspeed record51 pilot Lee-on-the-Solent, UK
+Flight airspeed record51 speed 655.8
+Flight airspeed record51 pilot Lee-on-the-Solent, UK
+Flight airspeed record52 date 10 April 1933
+Flight airspeed record52 pilot Desenzano del Garda, Italy
+Flight airspeed record52 speed 682.078
+Flight airspeed record52 pilot Desenzano del Garda, Italy
+Flight airspeed record53 date 23 October 1934
+Flight airspeed record53 pilot Desenzano del Garda, Italy
+Flight airspeed record53 speed 709.209
+Flight airspeed record53 pilot Desenzano del Garda, Italy
+Flight airspeed record54 date 13 September 1935
+Flight airspeed record54 speed 567.12
+Flight airspeed record55 date 11 November 1937
+Flight airspeed record55 pilot Augsburg, Germany
+Flight airspeed record55 speed 610.95
+Flight airspeed record55 pilot Augsburg, Germany
+Flight airspeed record56 date 30 March 1939
+Flight airspeed record56 pilot  Oranienburg (Germany)
+Flight airspeed record56 speed 746.60
+Flight airspeed record56 pilot  Oranienburg (Germany)
+Flight airspeed record57 date 26 April 1939
+Flight airspeed record57 pilot Augsburg, Germany
+Flight airspeed record57 speed 755.138
+Flight airspeed record57 pilot Augsburg, Germany
+Flight airspeed record58 date 2 October 1941
+Flight airspeed record58 pilot Peenemünde-West, Germany
+Flight airspeed record58 speed 1003.67
+Flight airspeed record58 pilot Peenemünde-West, Germany
+Flight airspeed record59 date 1944
+Flight airspeed record59 pilot Leipheim, Germany
+Flight airspeed record59 speed 1004
+Flight airspeed record59 pilot Leipheim, Germany
+Flight airspeed record60 date 6 July 1944
+Flight airspeed record60 pilot Lagerlechfeld, Germany
+Flight airspeed record60 speed 1130
+Flight airspeed record60 pilot Lagerlechfeld, Germany
+Flight airspeed record61 date 7 November 1945
+Flight airspeed record61 speed 975.9
+Flight airspeed record61 aircraft Gloster Meteor F Mk 4
+Flight airspeed record62 date 7 September 1946
+Flight airspeed record62 speed 990.79
+Flight airspeed record62 aircraft Gloster Meteor F Mk 4
+Flight airspeed record63 date 19 June 1947
+Flight airspeed record63 speed 1003.60
+Flight airspeed record63 aircraft Lockheed P-80R Shooting Star
+Flight airspeed record64 date 20 August 1947
+Flight airspeed record64 speed 1031.049
+Flight airspeed record64 aircraft Douglas Skystreak
+Flight airspeed record65 date 25 August 1947
+Flight airspeed record65 speed 1047.356
+Flight airspeed record65 aircraft Douglas Skystreak
+Flight airspeed record66 date 14 October 1947
+Flight airspeed record66 speed 1078
+Flight airspeed record67 date 6 November 1947
+Flight airspeed record67 speed 1434
+Flight airspeed record68 date 15 September 1948
+Flight airspeed record68 speed 1079.6
+Flight airspeed record68 aircraft North American F-86A-3 Sabre
+Flight airspeed record69 date 18 November 1952
+Flight airspeed record69 speed 1,124.13
+Flight airspeed record69 aircraft North American F-86D Sabre
+Flight airspeed record70 date 16 July 1953
+Flight airspeed record70 speed 1,151.88
+Flight airspeed record70 aircraft North American F-86D Sabre
+Flight airspeed record71 date 7 September 1953
+Flight airspeed record71 speed 1,171
+Flight airspeed record71 aircraft Hawker Hunter Mk.3
+Flight airspeed record72 date 26 September 1953
+Flight airspeed record72 speed 1,184
+Flight airspeed record72 aircraft Supermarine Swift F4
+Flight airspeed record73 date 3 October 1953
+Flight airspeed record73 pilot Salton Sea, US
+Flight airspeed record73 speed 1,211.5
+Flight airspeed record73 aircraft Douglas F4D Skyray
+Flight airspeed record73 pilot Salton Sea, US
+Flight airspeed record74 date 29 October 1953
+Flight airspeed record74 pilot Salton Sea, US
+Flight airspeed record74 speed 1,215.3
+Flight airspeed record74 aircraft North American F-100 Super Sabre
+Flight airspeed record74 pilot Salton Sea, US
+Flight airspeed record75 date 20 August 1955
+Flight airspeed record75 speed 1,323
+Flight airspeed record75 aircraft North American F-100C Super Sabre
+Flight airspeed record76 date 10 March 1956
+Flight airspeed record76 speed 1,822
+Flight airspeed record76 aircraft Fairey Delta 2
+Flight airspeed record77 date 12 December 1957
+Flight airspeed record77 pilot Edwards Air Force Base, US
+Flight airspeed record77 speed 1,943.5
+Flight airspeed record77 aircraft McDonnell F-101A Voodoo
+Flight airspeed record77 pilot Edwards Air Force Base, US
+Flight airspeed record78 date 18 May 1958
+Flight airspeed record78 pilot Edwards Air Force Base, US
+Flight airspeed record78 speed 2,259.5
+Flight airspeed record78 aircraft Lockheed YF-104A Starfighter
+Flight airspeed record78 pilot Edwards Air Force Base, US
+Flight airspeed record79 date 14 Sept 1958
+Flight airspeed record79 pilot Malton, ON, Canada
+Flight airspeed record79 speed 2,333.8
+Flight airspeed record79 aircraft CF-105 Avro Arrow
+Flight airspeed record79 pilot Malton, ON, Canada
+Flight airspeed record80 date 31 October 1959
+Flight airspeed record80 pilot USSR
+Flight airspeed record80 speed 2,388
+Flight airspeed record80 pilot USSR
+Flight airspeed record81 date 15 December 1959
+Flight airspeed record81 speed 2,455.7
+Flight airspeed record81 aircraft Convair F-106 Delta Dart
+Flight airspeed record82 date 22 November 1961
+Flight airspeed record82 pilot Edwards Air Force Base, US
+Flight airspeed record82 speed 2,585.1
+Flight airspeed record82 aircraft McDonnell-Douglas F4H-1F Phantom II
+Flight airspeed record82 pilot Edwards Air Force Base, US
+Flight airspeed record83 date 7 July 1962
+Flight airspeed record83 pilot USSR
+Flight airspeed record83 speed 2,681
+Flight airspeed record83 pilot USSR
+Flight airspeed record84 date 12 January 1966
+Flight airspeed record84 speed 3,250
+Flight airspeed record84 aircraft North American XB-70
+Flight airspeed record85 date 1 May 1965
+Flight airspeed record85 speed 3,331.5
+Flight airspeed record85 aircraft Lockheed YF-12A
+Flight airspeed record86 date 28 July 1976
+Flight airspeed record86 speed 3,529.6
+produce_record1 plane_name Cessna 172
+produce_record1 nation United States
+
+produce_record2 plane_name Ilyushin Il-2
+produce_record2 number_produced 36,183
+produce_record2 nation Soviet Union
+produce_record2 production_priod 1941–1945
+
+produce_record3 plane_name Messerschmitt Bf 109
+produce_record3 number_produced 34,852
+produce_record3 nation Germany
+produce_record3 production_priod 1936–1958
+
+produce_record4 plane_name Piper PA-28 series
+produce_record4 plane_type Utility / trainer
+
+produce_record4 number_produced 32,778+
+produce_record4 nation United States
+produce_record5 plane_type Utility / trainer
+
+produce_record5 number_produced 31,500+
+produce_record5 nation United States
+produce_record5 production_priod 1958–1986
+
+produce_record6 plane_name Cessna 182
+produce_record6 plane_type Utility
+
+produce_record6 number_produced 23,237+
+produce_record6 nation United States
+produce_record7 plane_type Fighter
+
+produce_record7 number_produced 22,685
+produce_record7 nation United Kingdom
+produce_record7 production_priod 1938–1948
+
+produce_record8 plane_name Piper J-3 Cub
+produce_record8 plane_type Utility / trainer
+
+produce_record8 nation United States
+
+produce_record8 production_priod 1938–1947
+
+produce_record9 plane_name Focke-Wulf Fw 190
+produce_record9 plane_type Fighter
+
+produce_record9 number_produced 20,051
+produce_record9 nation Germany
+produce_record9 production_priod 1939–1945
+
+produce_record10 plane_name Polikarpov Po-2
+produce_record10 nation Soviet Union
+
+produce_record11 plane_name Consolidated B-24 Liberator
+produce_record11 nation United States
+produce_record11 production_priod 1940–1945
+
+produce_record12 number_produced 18,000+
+produce_record12 nation Soviet Union
+produce_record12 production_priod 1947–present
+
+produce_record13 plane_name Mikoyan-Gurevich MiG-15
+produce_record13 number_produced 18,000+
+produce_record13 nation Soviet Union
+produce_record13 production_priod 1947–1950s
+
+produce_record14 number_produced 17,000+
+produce_record14 nation Soviet Union
+produce_record15 plane_name Beechcraft Bonanza
+produce_record15 plane_type Utility
+
+produce_record15 number_produced 17,000+
+produce_record15 nation United States
+produce_record16 plane_name Yakovlev Yak-9
+produce_record16 plane_type Fighter
+
+produce_record16 nation Soviet Union
+produce_record16 production_priod 1942–1948
+produce_record17 plane_name Douglas DC-3
+produce_record17 number_produced 16,079
+produce_record17 nation United States
+produce_record17 production_priod 1935–1952
+
+produce_record18 plane_name Bell UH-1 "Huey" Iroquois
+produce_record18 plane_type Helicopter, utility
+
+produce_record18 number_produced 16,000+
+produce_record18 nation United States
+produce_record19 plane_name Republic P-47 Thunderbolt
+produce_record19 plane_type Fighter
+
+produce_record19 nation United States
+
+produce_record19 production_priod 1942–1945
+
+produce_record20 plane_name North American P-51 Mustang
+produce_record20 plane_type Fighter
+
+produce_record20 number_produced 15,586
+produce_record20 nation United States
+produce_record20 production_priod 1940–1951
+
+produce_record21 plane_name North American T-6 Texan
+produce_record21 plane_type Trainer
+
+produce_record21 number_produced 15,495
+produce_record21 nation United States
+produce_record21 production_priod 1937–1950s
+
+produce_record22 plane_name Junkers Ju 88
+produce_record22 plane_type Multirole
+
+produce_record22 nation Germany
+
+produce_record22 production_priod 1939–1945
+
+produce_record23 plane_name Hawker Hurricane
+produce_record23 plane_type Fighter
+
+produce_record23 number_produced 14,583
+produce_record23 nation United Kingdom
+produce_record23 production_priod 1937–1944
+
+produce_record24 plane_name Mikoyan-Gurevich MiG-21
+produce_record24 plane_type Jet fighter
+
+produce_record24 number_produced 13,996
+produce_record24 nation Soviet Union
+produce_record24 production_priod 1959–2006
+
+produce_record25 plane_name Waco CG-4
+produce_record25 number_produced 13,903+
+produce_record25 nation United States
+produce_record25 production_priod 1942–1945
+
+produce_record26 plane_name Curtiss P-40 Warhawk
+produce_record26 plane_type Fighter
+
+produce_record26 nation United States
+produce_record26 production_priod 1939–1944
+
+produce_record27 plane_name Chotia Weedhopper
+produce_record27 number_produced 13,000
+produce_record27 nation United States
+produce_record28 plane_name Boeing B-17 Flying Fortress
+produce_record28 plane_type Heavy bomber
+
+produce_record28 number_produced 12,731
+produce_record28 nation United States
+produce_record28 production_priod 1937–1945
+
+produce_record29 plane_name Vought F4U Corsair
+produce_record29 plane_type Fighter
+
+produce_record29 number_produced 12,571
+produce_record29 nation United States
+produce_record29 production_priod 1941–1952
+
+produce_record30 plane_name Grumman F6F Hellcat
+produce_record30 plane_type Fighter
+
+produce_record30 number_produced 12,275
+produce_record30 nation United States
+produce_record30 production_priod 1942–1945
+produce_record31 plane_name Vultee BT-13 Valiant
+produce_record31 plane_type Trainer
+
+produce_record31 number_produced 11,537
+produce_record31 nation United States
+produce_record31 production_priod 1939–1947
+produce_record32 plane_name Vickers Wellington
+produce_record32 nation United Kingdom
+produce_record32 production_priod 1936–1945
+produce_record33 plane_name Petlyakov Pe-2
+produce_record33 number_produced 11,427
+produce_record33 nation Soviet Union
+produce_record33 production_priod 1939–1945
+produce_record34 plane_name Avro 504
+produce_record34 plane_type Biplane, bomber / trainer
+
+produce_record34 nation United Kingdom
+produce_record35 plane_name Avro Anson
+produce_record35 plane_type Multirole
+
+produce_record35 nation United Kingdom
+produce_record35 production_priod 1935–1952
+
+produce_record36 plane_name Mitsubishi A6M Zero
+produce_record36 plane_type Fighter
+
+produce_record36 number_produced 10,939
+produce_record36 nation Japan
+produce_record36 production_priod 1940–1945
+produce_record37 plane_name Piper Pacer
+produce_record37 plane_type Utility / trainer
+
+produce_record37 nation United States
+produce_record37 production_priod 1950–1964
+
+produce_record38 plane_name Mikoyan-Gurevich MiG-17
+produce_record38 plane_type Jet fighter
+
+produce_record38 number_produced 10,367
+produce_record38 nation Soviet Union
+produce_record38 production_priod 1951–1986
+
+produce_record39 plane_name Boeing 737
+produce_record39 plane_type Jet airliner
+
+produce_record39 nation United States
+
+produce_record40 plane_name Piper PA-18 Super Cub
+produce_record40 plane_type Utility / trainer
+
+produce_record40 nation United States
+produce_record40 production_priod 1949–1983
+
+produce_record41 plane_name Lockheed P-38 Lightning
+produce_record41 plane_type Fighter
+
+produce_record41 number_produced 10,037
+produce_record41 nation United States
+produce_record41 production_priod 1941–1945
+
+produce_record42 plane_name Aeronca Champion
+produce_record42 plane_type Utility / trainer
+
+produce_record42 number_produced 10,000+
+produce_record42 nation United States
+produce_record42 production_priod 1946–present
+
+produce_record43 plane_name DFS SG 38 Schulgleiter
+produce_record43 plane_type Glider, trainer
+
+produce_record43 nation Germany
+produce_record43 production_priod 1938–1944
+produce_record44 plane_name North American B-25 Mitchell
+produce_record44 plane_type Medium bomber
+
+produce_record44 number_produced 9,984
+produce_record44 nation United States
+produce_record44 production_priod 1939–1945
+produce_record45 plane_name Lavochkin La-5
+produce_record45 plane_type Fighter
+
+produce_record45 number_produced 9,920
+produce_record45 nation Soviet Union
+produce_record45 production_priod 1942–1944
+produce_record46 plane_type Jet fighter
+
+produce_record46 number_produced 9,860
+produce_record46 nation United States
+produce_record46 production_priod 1947–1956
+
+produce_record47 plane_name Grumman TBF Avenger
+produce_record47 nation United States
+produce_record47 production_priod 1941–1945
+
+produce_record48 plane_name Bell P-39 Airacobra
+produce_record48 plane_type Fighter
+
+produce_record48 number_produced 9,584
+produce_record48 nation United States
+produce_record48 production_priod 1938–1944
+produce_record49 plane_name Cessna 210
+produce_record49 plane_type Utility
+
+produce_record49 number_produced 9,240[?+]
+produce_record49 nation United States
+produce_record49 production_priod 1957–[?1985]
+produce_record50 plane_name Beechcraft Model 18
+produce_record50 plane_type Utility
+
+produce_record50 number_produced 9,000+
+produce_record50 nation United States
+produce_record50 production_priod 1937–1970
+
+produce_record51 plane_name Airspeed Oxford
+produce_record51 plane_type Trainer
+
+produce_record51 nation United Kingdom
+produce_record51 production_priod 1937-1945
+
+produce_record52 plane_name Yakovlev Yak-1
+produce_record52 plane_type Fighter
+
+produce_record52 nation Soviet Union
+produce_record52 production_priod 1940–1944
+produce_record53 plane_name Polikarpov I-16
+produce_record53 plane_type Fighter
+
+produce_record53 nation Soviet Union
+produce_record53 production_priod 1934–1943
+produce_record54 plane_name Airbus A320 family
+produce_record54 plane_type Jet airliner
+
+produce_record54 nation Multi-national
+
+produce_record55 plane_name Boeing-Stearman Model 75
+produce_record55 plane_type Biplane, trainer
+
+produce_record55 nation United States
+produce_record55 production_priod 1934–1942
+
+produce_record56 plane_name Cessna 206
+produce_record56 plane_type Utility
+
+produce_record56 nation United States
+
+produce_record57 plane_name SPAD S.XIII
+produce_record57 plane_type Biplane, fighter
+
+produce_record57 number_produced 8,472
+produce_record57 nation France
+produce_record57 production_priod 1917–1918
+
+produce_record58 plane_name La Mouette Atlas
+produce_record58 number_produced 8,000+
+produce_record58 nation France
+produce_record59 plane_name Grumman F4F Wildcat
+produce_record59 plane_type Fighter
+
+produce_record59 nation United States
+produce_record59 production_priod 1937–1943
+
+produce_record60 plane_name Piper PA-32
+produce_record60 plane_type Utility
+
+produce_record60 number_produced 7,842+
+produce_record60 nation United States
+produce_record60 production_priod 1965–2007
+
+produce_record61 plane_name Breguet 14
+produce_record61 number_produced 7,800
+produce_record61 nation France
+produce_record61 production_priod 1916–1928
+
+produce_record62 plane_name de Havilland Mosquito
+produce_record62 plane_type Multirole
+
+produce_record62 number_produced 7,781
+produce_record62 nation United Kingdom
+produce_record62 production_priod 1940–1950
+
+produce_record63 plane_type Trainer
+
+produce_record63 nation United States
+
+produce_record63 production_priod 1938–1948
+
+produce_record64 plane_name Cessna 120 and 140
+produce_record64 plane_type Utility / trainer
+
+produce_record64 nation United States
+produce_record64 production_priod 1946–1950
+
+produce_record65 plane_name Republic F-84 Thunderjet
+produce_record65 number_produced 7,524
+produce_record65 nation United States
+produce_record65 production_priod 1946–1953
+
+produce_record66 plane_name Douglas DB-7 (A-20 Havoc)
+produce_record66 plane_type Multirole
+
+produce_record66 nation United States
+produce_record66 production_priod 1938–1944
+
+produce_record67 plane_name Avro Lancaster
+produce_record67 plane_type Heavy bomber
+
+produce_record67 number_produced 7,377
+produce_record67 nation United Kingdom
+produce_record67 production_priod 1942–1945
+
+produce_record68 plane_name Bell 206 JetRanger
+produce_record68 plane_type Helicopter, utility / trainer
+
+produce_record68 number_produced 7,340+
+
+produce_record68 nation United States
+
+produce_record69 plane_name Heinkel He 111
+produce_record69 plane_type Medium bomber
+
+produce_record69 number_produced 7,300
+produce_record69 nation Germany
+produce_record69 production_priod 1935–1944
+produce_record70 plane_name Curtiss SB2C Helldiver
+produce_record70 plane_type Dive bomber
+
+produce_record70 number_produced 7,140
+produce_record70 nation United States
+produce_record70 production_priod 1940–1945
+
+produce_record71 plane_name de Havilland Tiger Moth
+produce_record71 plane_type Biplane, trainer
+
+produce_record71 number_produced 7,105
+produce_record71 nation United Kingdom
+produce_record71 production_priod 1931–1944
+
+produce_record72 plane_name Piper PA-23
+produce_record72 plane_type Utility / trainer
+
+produce_record72 nation United States
+produce_record72 production_priod 1952–1981
+
+produce_record73 plane_name Beechcraft Baron
+produce_record73 plane_type Utility
+
+produce_record73 nation United States
+produce_record73 production_priod 1961–present
+
+produce_record74 plane_name Curtiss JN-4
+produce_record74 plane_type Biplane, trainer
+
+produce_record74 number_produced 6,813
+produce_record74 nation United States
+produce_record74 production_priod 1915–1927
+produce_record75 plane_name Polikarpov I-15
+produce_record75 plane_type Biplane, fighter
+
+produce_record75 nation Soviet Union
+produce_record75 production_priod 1933–1940
+
+produce_record76 plane_name Tupolev SB
+produce_record76 plane_type Bomber
+
+produce_record76 number_produced 6,656
+produce_record76 nation Soviet Union
+produce_record76 production_priod 1936–1941
+
+produce_record77 plane_name Ilyushin Il-28
+produce_record77 plane_type Medium bomber
+
+produce_record77 number_produced 6,635+
+produce_record77 nation Soviet Union
+produce_record77 production_priod 1949–1955
+
+produce_record78 plane_name Yakovlev Yak-18
+produce_record78 plane_type Trainer
+
+produce_record78 nation Soviet Union
+produce_record78 production_priod 1946–1960s
+produce_record79 plane_name Lockheed T-33 Shooting Star
+produce_record79 plane_type Jet trainer
+
+produce_record79 number_produced 6,557
+produce_record79 nation United States
+produce_record79 production_priod 1948–1959
+
+produce_record80 plane_name Yakovlev Yak-7
+produce_record80 plane_type Fighter / trainer
+
+produce_record80 nation Soviet Union
+produce_record80 production_priod 1940–1943
+produce_record81 plane_name Airco DH.4
+produce_record81 plane_type Biplane, Bomber
+
+produce_record81 nation United Kingdom
+produce_record81 production_priod 1916–1926
+
+produce_record82 plane_name Lavochkin-Gorbunov-Gudkov LaGG-3
+produce_record82 plane_type Fighter
+
+produce_record82 number_produced 6,258
+produce_record82 nation Soviet Union
+produce_record82 production_priod 1941–1942
+produce_record83 plane_name Ilyushin Il-10
+produce_record83 plane_type Ground-attack
+
+produce_record83 number_produced 6,226
+produce_record83 nation Soviet Union
+produce_record83 production_priod 1944–1954
+
+produce_record84 plane_name Cessna 180
+produce_record84 plane_type Utility
+
+produce_record84 nation United States
+produce_record84 production_priod 1953–1981
+
+produce_record85 plane_name Handley Page Halifax
+produce_record85 plane_type Heavy bomber
+
+produce_record85 nation United Kingdom
+produce_record85 production_priod 1940–1946
+produce_record86 plane_name Messerschmitt Bf 110
+produce_record86 number_produced 6,150
+produce_record86 nation Germany
+produce_record86 production_priod 1936–1945
+
+produce_record87 plane_name Junkers Ju 87
+produce_record87 plane_type Dive bomber
+
+produce_record87 number_produced 6,000
+produce_record87 nation Germany
+produce_record87 production_priod 1935–1944
+produce_record88 plane_name Polikarpov R-5
+produce_record88 plane_type Reconnaissance / bomber
+
+produce_record88 number_produced 6,000
+produce_record88 nation Soviet Union
+produce_record88 production_priod 1928–1937
+produce_record89 plane_name Robinson R44
+produce_record89 plane_type Helicopter, utility / trainer
+
+produce_record89 number_produced 5,979+
+produce_record89 nation United States
+produce_record90 plane_name Sopwith 1½ Strutter
+produce_record90 plane_type Biplane, multirole
+
+produce_record90 number_produced 5,939
+produce_record90 nation United Kingdom
+produce_record90 production_priod 1917–1918
+
+produce_record91 plane_name Douglas SBD Dauntless
+produce_record91 nation United States
+produce_record91 production_priod 1940–1944
+
+produce_record92 plane_name Bristol Beaufighter
+produce_record92 number_produced 5,928
+produce_record92 nation United Kingdom
+produce_record92 production_priod 1940–1946
+
+produce_record93 plane_name Nakajima Ki-43
+produce_record93 plane_type Fighter
+
+produce_record93 nation Japan
+produce_record93 production_priod 1942–1945
+produce_record94 plane_name Yokosuka K5Y
+produce_record94 plane_type Biplane, trainer
+
+produce_record94 nation Japan
+produce_record94 production_priod 1934–1945
+produce_record95 plane_name Lavochkin La-7
+produce_record95 plane_type Fighter
+
+produce_record95 number_produced 5,753
+produce_record95 nation Soviet Union
+produce_record95 production_priod 1944–1946
+produce_record96 plane_name Cessna 310
+produce_record96 plane_type Utility / trainer
+
+produce_record96 nation United States
+produce_record96 production_priod 1954–1980
+produce_record97 plane_name Antonov A-1
+produce_record97 plane_type Glider, trainer
+
+produce_record97 number_produced 5,700
+produce_record97 nation Soviet Union
+produce_record97 production_priod 1930–1940s
+produce_record98 plane_name ERCO Ercoupe
+produce_record98 plane_type Utility / trainer
+
+produce_record98 number_produced 5,685
+produce_record98 nation United States
+produce_record98 production_priod 1940-1969
+
+produce_record99 plane_name Cirrus SR22
+produce_record99 plane_type Utility
+
+produce_record99 nation United States
+produce_record100 plane_name Mikoyan-Gurevich MiG-19
+produce_record100 plane_type Jet fighter
+
+produce_record100 nation Soviet Union
+
+produce_record100 production_priod 1953-1991
+
+produce_record101 plane_name Sopwith Camel
+produce_record101 plane_type Biplane, fighter
+
+produce_record101 number_produced 5,497
+produce_record101 nation United Kingdom
+produce_record101 production_priod 1917–1918
+produce_record102 plane_name Mil Mi-2
+produce_record102 plane_type Helicopter, utility
+
+produce_record102 number_produced 5,497
+produce_record102 nation Soviet Union
+produce_record102 production_priod 1965–1985
+
+produce_record103 plane_name Cessna AT-17 Bobcat
+produce_record103 plane_type Trainer
+
+produce_record103 number_produced 5,422
+produce_record103 nation United States
+produce_record103 production_priod 1939–1943
+produce_record104 plane_name Bristol F.2 Fighter
+produce_record104 plane_type Biplane, fighter
+
+produce_record104 number_produced 5,329
+produce_record104 nation United Kingdom
+produce_record104 production_priod 1916–1927
+
+produce_record105 plane_name Martin B-26 Marauder
+produce_record105 plane_type Medium bomber
+
+produce_record105 number_produced 5,288
+produce_record105 nation United States
+produce_record105 production_priod 1941–1945
+produce_record106 plane_name Stinson 108
+produce_record106 plane_type Utility / trainer
+
+produce_record106 nation United States
+produce_record106 production_priod 1946–1950
+produce_record107 plane_name Ilyushin Il-4
+produce_record107 plane_type Medium bomber
+
+produce_record107 number_produced 5,256
+produce_record107 nation Soviet Union
+produce_record107 production_priod 1942–1944
+produce_record108 plane_name Royal Aircraft Factory S.E.5
+produce_record108 plane_type Biplane, fighter
+
+produce_record108 number_produced 5,205
+produce_record108 nation United Kingdom
+produce_record108 production_priod 1917–1918
+produce_record109 plane_name McDonnell Douglas F-4 Phantom II
+produce_record109 nation United States
+produce_record109 production_priod 1958–1981
+
+produce_record110 plane_name Cessna 170
+produce_record110 plane_type Utility / trainer
+
+produce_record110 nation United States
+produce_record110 production_priod 1948–1956
+produce_record111 plane_name Mikoyan-Gurevich MiG-23
+produce_record111 plane_type Jet fighter
+
+produce_record111 number_produced 5,047
+produce_record111 nation Soviet Union
+produce_record111 production_priod 1967–1985
+
+produce_record112 plane_name Yakovlev Yak-12
+produce_record112 number_produced 5,000
+produce_record112 nation Soviet Union
+produce_record112 production_priod 1946–1957
+
+produce_record113 plane_name Grunau Baby IIb
+produce_record113 nation Germany
+produce_record113 production_priod 1932–[?]
