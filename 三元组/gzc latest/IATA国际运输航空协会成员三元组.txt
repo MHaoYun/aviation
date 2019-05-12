@@ -1,0 +1,3046 @@
+﻿ 博茨瓦纳航空 Air Botswana ﻿airline  博茨瓦纳航空 Air Botswana
+ 博茨瓦纳航空 Air Botswana  fleet_size  6
+ 博茨瓦纳航空 Air Botswana  destinations  7
+ 博茨瓦纳航空 Air Botswana  IATA  BP
+ 博茨瓦纳航空 Air Botswana  ICAO  BOT
+ 博茨瓦纳航空 Air Botswana  callsign  Botswana
+ 博茨瓦纳航空 Air Botswana  parent  博茨瓦納政府
+ 博茨瓦纳航空 Air Botswana  founded  1972年
+ 博茨瓦纳航空 Air Botswana  headquarters  BWA [[嘉柏隆里]]
+ 博茨瓦纳航空 Air Botswana  key_people  Letlhogonolo Bantsi  ([[執行總經理]] )
+ 博茨瓦纳航空 Air Botswana  hubs  BWA [[塞雷茨·卡马爵士国际机场]]
+ 博茨瓦纳航空 Air Botswana  frequent_flyer  Teemane Club
+ 博茨瓦纳航空 Air Botswana  website  http://www.airbotswana.co.bw
+ 马达加斯加航空 Air Madagascar airline  马达加斯加航空 Air Madagascar
+ 马达加斯加航空 Air Madagascar  IATA  MD
+ 马达加斯加航空 Air Madagascar  ICAO  MDG
+ 马达加斯加航空 Air Madagascar  callsign  Air Madagascar
+ 马达加斯加航空 Air Madagascar  founded  1947年
+ 马达加斯加航空 Air Madagascar  hubs  [[安塔那那利佛/伊瓦图国际机场]]
+ 马达加斯加航空 Air Madagascar  frequent_flyer  Namako
+ 马达加斯加航空 Air Madagascar  fleet_size  8
+ 马达加斯加航空 Air Madagascar  destinations  37
+ 马达加斯加航空 Air Madagascar  key_people  Heriniaina Razafimahefa  (主席 )
+ 马达加斯加航空 Air Madagascar  website  http://www.airmadagascar.com
+ 马拉维航空 Malawian Airlines airline  马拉维航空 Malawian Airlines
+ 马拉维航空 Malawian Airlines  IATA  3W
+ 马拉维航空 Malawian Airlines  ICAO  MWI
+ 马拉维航空 Malawian Airlines  callsign  MALAWIAN
+ 马拉维航空 Malawian Airlines  founded  2013年
+ 马拉维航空 Malawian Airlines  hubs  [[利隆圭国际机场]]
+ 马拉维航空 Malawian Airlines  headquarters  flagicon image|Flag of Malawi.svg 馬拉維利隆圭
+ 马拉维航空 Malawian Airlines  website  [http://www.malawian-airlines.com/ www.malawian-airlines.com]
+ 毛里裘斯航空 Air Mauritius airline  毛里裘斯航空 Air Mauritius
+ 毛里裘斯航空 Air Mauritius  fleet_size  15
+ 毛里裘斯航空 Air Mauritius  destinations  26
+ 毛里裘斯航空 Air Mauritius  IATA  MK
+ 毛里裘斯航空 Air Mauritius  ICAO  MAU
+ 毛里裘斯航空 Air Mauritius  callsign  AirMauritius
+ 毛里裘斯航空 Air Mauritius  parent  毛里裘斯航空股份有限公司
+ 毛里裘斯航空 Air Mauritius  founded  1967年6月14日
+ 毛里裘斯航空 Air Mauritius  headquarters  MUS [[路易港]]
+ 毛里裘斯航空 Air Mauritius  key_people  Manoj Ujoodha  ([[行政董事長]] )
+ 毛里裘斯航空 Air Mauritius  hubs  nowrap|MUS| [[西沃萨古尔·拉姆古兰爵士国际机场]] MUS [[西沃萨古尔·拉姆古兰爵士国际机场]]
+ 毛里裘斯航空 Air Mauritius  frequent_flyer  KestrelFlyer
+ 毛里裘斯航空 Air Mauritius  website  http://www.airmauritius.com
+ 纳米比亚航空Air Namibia airline  纳米比亚航空Air Namibia
+ 纳米比亚航空Air Namibia  IATA  SW
+ 纳米比亚航空Air Namibia  ICAO  NMB
+ 纳米比亚航空Air Namibia  callsign  NAMIBIA
+ 纳米比亚航空Air Namibia  founded  1946年
+ 纳米比亚航空Air Namibia  hubs  [[霍齐亚·库塔科国际机场]]
+ 纳米比亚航空Air Namibia  secondary_hubs  [[厄洛斯機場]]
+ 纳米比亚航空Air Namibia  frequent_flyer  Reward$
+ 纳米比亚航空Air Namibia  fleet_size  10
+ 纳米比亚航空Air Namibia  destinations  18
+ 纳米比亚航空Air Namibia  headquarters  flagicon image|Flag of Namibia.svg 纳米比亚温得和克
+ 纳米比亚航空Air Namibia  key_people  Mandi Ellaine Samson
+ 纳米比亚航空Air Namibia  website  [http://www.airnamibia.com/ airnamibia.com]
+ 塞舌尔航空 Air Seychelles airline  塞舌尔航空 Air Seychelles
+ 塞舌尔航空 Air Seychelles   IATA  HM
+ 塞舌尔航空 Air Seychelles  ICAO  SEY
+ 塞舌尔航空 Air Seychelles  callsign  Seychelles
+ 塞舌尔航空 Air Seychelles  founded  1977年
+ 塞舌尔航空 Air Seychelles  hubs  [[塞舌尔国际机场]]
+ 塞舌尔航空 Air Seychelles  focus_cities  [[阿布扎比國際機場]]
+ 塞舌尔航空 Air Seychelles  frequent_flyer  Etihad Guest
+ 塞舌尔航空 Air Seychelles  lounge  Salon de Vallee de Mai
+ 塞舌尔航空 Air Seychelles  fleet_size  10
+ 塞舌尔航空 Air Seychelles  destinations  10
+ 塞舌尔航空 Air Seychelles  headquarters  [[塞舌尔]][[马埃岛]]  (塞舌爾國際機場 )
+ 塞舌尔航空 Air Seychelles  key_people  大-{zh-hk
+ 塞舌尔航空 Air Seychelles  website  http://www.airseychelles.com http://www.airseychelles.de
+ 津巴布韦航空 Air Zimbabwe airline  津巴布韦航空 Air Zimbabwe
+ 津巴布韦航空 Air Zimbabwe   IATA  UM
+ 津巴布韦航空 Air Zimbabwe  ICAO  AZW
+ 津巴布韦航空 Air Zimbabwe  callsign  Air Zimbabwe
+ 津巴布韦航空 Air Zimbabwe  parent  辛巴威交通部
+ 津巴布韦航空 Air Zimbabwe  founded  1967年9月1日
+ 津巴布韦航空 Air Zimbabwe  commenced  1980年4月2日
+ 津巴布韦航空 Air Zimbabwe  key_people  瑪沙路部長  ([[CEO]] )
+ 津巴布韦航空 Air Zimbabwe  hubs  [[哈拉雷国际机场]]
+ 津巴布韦航空 Air Zimbabwe  focus_cities  <div>\n*[[桃園機場]]
+ 津巴布韦航空 Air Zimbabwe  frequent_flyer  Rainbow Club
+ 津巴布韦航空 Air Zimbabwe  fleet_size  6
+ 津巴布韦航空 Air Zimbabwe  destinations  5
+ 津巴布韦航空 Air Zimbabwe  website  [http://www.airzimbabwe.aero/ www.airzimbabwe.aero]
+ 南非连接航空 Airlink airline  南非连接航空 Airlink
+ 南非连接航空 Airlink   fleet_size  22
+ 南非连接航空 Airlink  IATA  4Z
+ 南非连接航空 Airlink  ICAO  LNK
+ 南非连接航空 Airlink  callsign  LINK
+ 南非连接航空 Airlink  parent  [[南非航空]]
+ 南非连接航空 Airlink  founded  1995年
+ 南非连接航空 Airlink  headquarters  南非 [[約翰內斯堡]]
+ 南非连接航空 Airlink  hubs  南非 [[奧利弗·坦博國際機場]]
+ 南非连接航空 Airlink  website  http://www.flyairlink.co.za/
+ 阿瑞克航空 Arik Air airline  阿瑞克航空 Arik Air
+ 阿瑞克航空 Arik Air   fleet_size  23 (+17 訂購中)
+ 阿瑞克航空 Arik Air  destinations  28
+ 阿瑞克航空 Arik Air  IATA  W3
+ 阿瑞克航空 Arik Air  ICAO  ARA
+ 阿瑞克航空 Arik Air  callsign  ARIK AIR
+ 阿瑞克航空 Arik Air  parent  Ojemai Investments
+ 阿瑞克航空 Arik Air  company_slogan  "奈及利亞之翼 Wings of Nigeria"
+ 阿瑞克航空 Arik Air  founded  2002
+ 阿瑞克航空 Arik Air  commenced  2006/10/30
+ 阿瑞克航空 Arik Air  headquarters  flag|Nigeria [[拉各斯州]] [[伊凱賈]]
+ 阿瑞克航空 Arik Air  key_people  <div>\n* Sir JIA Arumemi-Ikhide ([[主席]])\n* Michael Arumemi-Ikhide ([[執行長]])<div>
+ 阿瑞克航空 Arik Air  hubs  <div>\n* [[穆爾塔拉·穆罕默德國際機場]]\n* [[納姆迪·阿齊基韋國際機場]]</div>
+ 阿瑞克航空 Arik Air  website  [http://www.arikair.com Arik Air]
+ 康姆航空 Comair airline  康姆航空 Comair
+ 康姆航空 Comair  fleet_size  15
+ 康姆航空 Comair  destinations  8
+ 康姆航空 Comair  IATA  MN
+ 康姆航空 Comair  ICAO  CAW
+ 康姆航空 Comair  callsign  COMAIR
+ 康姆航空 Comair  subsidiaries  [[Kulula.com]]
+ 康姆航空 Comair  founded  1946年  (名為商業航空 )
+ 康姆航空 Comair  headquarters  [[南非]][[約翰內斯堡]]
+ 康姆航空 Comair  hubs  [[奧利弗·坦博國際機場]]
+ 康姆航空 Comair  focus_cities  [[開普敦國際機場]]  [[德班國際機場]]
+ 康姆航空 Comair  frequent_flyer  Executive Club
+ 康姆航空 Comair  lounge  Terraces Lounge
+ 康姆航空 Comair  alliance  [[寰宇一家]]
+ 康姆航空 Comair  website  http://www.comair.co.za/
+ 埃塞俄比亞航空Ethiopian Airlines airline  埃塞俄比亞航空Ethiopian Airlines
+ 埃塞俄比亞航空Ethiopian Airlines IATA  ET
+ 埃塞俄比亞航空Ethiopian Airlines  ICAO  ETH
+ 埃塞俄比亞航空Ethiopian Airlines  callsign  Ethiopian
+ 埃塞俄比亞航空Ethiopian Airlines  founded  1945年
+ 埃塞俄比亞航空Ethiopian Airlines  key_people  Tewolde Gebremariam  ([[CEO]] )
+ 埃塞俄比亞航空Ethiopian Airlines  hubs  [[博樂國際機場|亚的斯亚贝巴博来國際機場]]
+ 埃塞俄比亞航空Ethiopian Airlines  frequent_flyer  [[Sheba Miles]]
+ 埃塞俄比亞航空Ethiopian Airlines  alliance  [[星空聯盟]]
+ 埃塞俄比亞航空Ethiopian Airlines  fleet_size  97
+ 埃塞俄比亞航空Ethiopian Airlines  destinations  166
+ 埃塞俄比亞航空Ethiopian Airlines  website  [https://www.ethiopianairlines.com ethiopianairlines.com]
+ 肯尼亚航空  Kenya Airways airline  肯尼亚航空  Kenya Airways
+ 肯尼亚航空  Kenya Airways fleet_size  36
+ 肯尼亚航空  Kenya Airways  destinations  54
+ 肯尼亚航空  Kenya Airways  IATA  KQ
+ 肯尼亚航空  Kenya Airways  ICAO  KQA
+ 肯尼亚航空  Kenya Airways  callsign  KENYA
+ 肯尼亚航空  Kenya Airways  company_slogan  The Pride of Africa  (非洲的骄傲 )
+ 肯尼亚航空  Kenya Airways  founded  1977年2月4日
+ 肯尼亚航空  Kenya Airways  headquarters  [[内罗毕]]
+ 肯尼亚航空  Kenya Airways  key_people  提图斯·奈库尼  (Titus Naikuni )，[[CEO]]  阿历克斯·姆布古阿  (Alex Mbugua )，[[CFO]]  伊万孙·姆瓦尼基  (Evanson Mwaniki )，[[主席]]
+ 肯尼亚航空  Kenya Airways  hubs  [[乔莫·肯雅塔国际机场|乔莫·-{肯雅塔}-国际机场]]
+ 肯尼亚航空  Kenya Airways  focus_cities  [[莫伊国际机场]]
+ 肯尼亚航空  Kenya Airways  frequent_flyer  藍天飛行  (Flying Blue )
+ 肯尼亚航空  Kenya Airways  lounge  Simba Lounge
+ 肯尼亚航空  Kenya Airways  alliance  [[天合联盟]]
+ 肯尼亚航空  Kenya Airways  website  http://www.kenya-airways.com
+ 莫桑比克航空 airline  莫桑比克航空
+ 莫桑比克航空  IATA  TM
+ 莫桑比克航空  ICAO  LAM
+ 莫桑比克航空  callsign  MOZAMBIQUE
+ 莫桑比克航空  founded  1936年
+ 莫桑比克航空  hubs  [[马普托国际机场]]
+ 莫桑比克航空  subsidiaries  [[莫桑比克快運航空]]
+ 莫桑比克航空  website  [https://www.lam.co.mz/ www.lam.co.mz]
+ 卢旺达航空  RwandAir airline  卢旺达航空  RwandAir
+ 卢旺达航空  RwandAir  fleet_size  12
+ 卢旺达航空  RwandAir  destinations  21
+ 卢旺达航空  RwandAir  IATA  WB
+ 卢旺达航空  RwandAir  ICAO  RWD
+ 卢旺达航空  RwandAir  callsign  RwandAir
+ 卢旺达航空  RwandAir  parent  卢旺达政府
+ 卢旺达航空  RwandAir  company_slogan Fly the dream of Africa
+ 卢旺达航空  RwandAir founded  2002年12月1日
+ 卢旺达航空  RwandAir  commenced  2003年4月27日
+ 卢旺达航空  RwandAir headquarters  卢旺达 [[吉佳利]]
+ 卢旺达航空  RwandAir  hubs  卢旺达 [[吉佳利国际机场]]
+ 卢旺达航空  RwandAir  website  http://rwandair.com/
+ 萨法航空  Safair airline  萨法航空  Safair
+ 萨法航空  Safair  fleet_size  63
+ 萨法航空  Safair  IATA  FA
+ 萨法航空  Safair  ICAO  SFR
+ 萨法航空  Safair  callsign  SAFAAIR
+ 萨法航空  Safair  parent  帝國控股公司
+ 萨法航空  Safair  founded  1969年3月
+ 萨法航空  Safair  headquarters  南非 [[豪登省]] [[肯普頓公園]]
+ 萨法航空  Safair  hubs  南非 [[奧利弗·坦博國際機場]]
+ 萨法航空  Safair  website  http://www.safair.co.za/
+ 南非航空  South African Airways airline  南非航空  South African Airways
+ 南非航空  South African Airways fleet_size  53
+ 南非航空  South African Airways  destinations  39
+ 南非航空  South African Airways  IATA  SA
+ 南非航空  South African Airways  ICAO  SAA
+ 南非航空  South African Airways  callsign  SPRINGBOK
+ 南非航空  South African Airways  parent  [[南非|南非共和國政府]]
+ 南非航空  South African Airways  founded  1934年
+ 南非航空  South African Airways  subsidiaries  [[南非快運航空]]
+ 南非航空  South African Airways  headquarters  南非 [[約翰内斯堡]]
+ 南非航空  South African Airways  key_people  Siza Mzimela  ([[CEO]] )、Tryphosa Ramano  ([[CFO]] )
+ 南非航空  South African Airways  revenue  increase [[南非蘭特|R]]30.742&nbsp;十億 (2016/17 <abbr title="Fiscal year">FY</abbr>)
+ 南非航空  South African Airways  operating_income  decrease [[南非蘭特|R]]-2.760&nbsp;十億 虧損 (2016/17 <abbr title="Fiscal year">FY</abbr>)
+ 南非航空  South African Airways  profit  decrease [[南非蘭特|R]]-5.431&nbsp;十億 虧損 (2016/17 <abbr title="Fiscal year">FY</abbr>)
+ 南非航空  South African Airways  assets  decrease [[南非蘭特|R]]15.916&nbsp;十億 (2016/17 <abbr title="Fiscal year">FY</abbr>)
+ 南非航空  South African Airways  frequent_flyer  Voyager
+ 南非航空  South African Airways  lounge  Cycad/Baobab Lounge
+ 南非航空  South African Airways  alliance  [[星空聯盟]]
+ 南非航空  South African Airways  website  http://www.flysaa.com
+ 南非快運航空  South African Express airline  南非快運航空  South African Express
+ 南非快運航空  South African Express   fleet_size  25
+ 南非快運航空  South African Express  destinations  19
+ 南非快運航空  South African Express  IATA  YB
+ 南非快運航空  South African Express  ICAO  EXY
+ 南非快運航空  South African Express  callsign  EXPRESSWAYS
+ 南非快運航空  South African Express  parent  [[南非航空]]
+ 南非快運航空  South African Express  founded  1994年4月24日
+ 南非快運航空  South African Express  focus_cities  [[開普敦]]、[[約翰內斯堡]]和[[德班]]
+ 南非快運航空  South African Express  website  http://www.saexpress.co.za/
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola airline  TAAG安哥拉航空  TAAG Linhas Aéreas de Angola
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola fleet_size  13
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola  destinations  24
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola  IATA  DT
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola  ICAO  DTA
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola  callsign  Angola
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola  founded  1938年
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola  key_people  Julio Almeda  ([[首席执行官]] )
+ TAAG安哥拉航空  TAAG Linhas Aéreas de Angola  website  http://www.taag.com/
+ 佛得角航空  TACV Cabo Verde Airlines airline  佛得角航空  TACV Cabo Verde Airlines
+ 佛得角航空  TACV Cabo Verde Airlines  fleet_size  5
+ 佛得角航空  TACV Cabo Verde Airlines  destinations  20
+ 佛得角航空  TACV Cabo Verde Airlines  IATA  VR
+ 佛得角航空  TACV Cabo Verde Airlines  ICAO  TCV
+ 佛得角航空  TACV Cabo Verde Airlines  callsign  CABOVERDE
+ 佛得角航空  TACV Cabo Verde Airlines  founded  1958年
+ 佛得角航空  TACV Cabo Verde Airlines  headquarters  [[佛得角]][[培亚]]
+ 佛得角航空  TACV Cabo Verde Airlines  hubs  [[阿米尔卡·加布拉尔国际机场]]、[[培亞國際機場]]、[[聖柏多機場]]
+ 佛得角航空  TACV Cabo Verde Airlines  focus_cities  [[伊斯巴戈斯]]、[[培亚]]、[[棉特魯]]
+ 佛得角航空  TACV Cabo Verde Airlines  frequent_flyer  TACV Club
+ 佛得角航空  TACV Cabo Verde Airlines  website  [https://flytacv.com/?lang=en flytacv.com]
+ 喀里多尼亚航空    Aircalin airline  喀里多尼亚航空    Aircalin
+ 喀里多尼亚航空    Aircalin fleet_size  6
+ 喀里多尼亚航空    Aircalin  destinations  11
+ 喀里多尼亚航空    Aircalin  IATA  SB
+ 喀里多尼亚航空    Aircalin  ICAO  ACI
+ 喀里多尼亚航空    Aircalin  callsign  AIRCALIN
+ 喀里多尼亚航空    Aircalin  parent  "Caisse dEpargne Group"
+ 喀里多尼亚航空    Aircalin  founded  1983
+ 喀里多尼亚航空    Aircalin  headquarters  [[新喀里多尼亞]][[努美阿]]
+ 喀里多尼亚航空    Aircalin  hubs  [[努美阿國際機場]]
+ 喀里多尼亚航空    Aircalin  frequent_flyer  藍天飛行  (Flying Blue )、Club 500
+ 喀里多尼亚航空    Aircalin  key_people  Charles Lavoix  (president )  Jean-Michel Masson  (managing director )
+ 喀里多尼亚航空    Aircalin  alliance  Interline agreements
+ 喀里多尼亚航空    Aircalin  website  http://www.aircalin.com/
+ 印度航空 Air India airline  印度航空 Air India
+ 印度航空 Air India IATA  AI
+ 印度航空 Air India  ICAO  AIC
+ 印度航空 Air India  callsign  AIRINDIA
+ 印度航空 Air India  founded  1932年
+ 印度航空 Air India  hubs  flag|印度 [[英迪拉·甘地國際機場|新德里國際機場]]
+ 印度航空 Air India  frequent_flyer  Flying Returns
+ 印度航空 Air India  alliance  [[星空聯盟]]
+ 印度航空 Air India  fleet_size  118
+ 印度航空 Air India  destinations  94
+ 印度航空 Air India  company_slogan  "Air India... Truly Indian"
+ 印度航空 Air India  parent  印度航空有限公司
+ 印度航空 Air India  headquarters  flag|印度 [[德里]]
+ 印度航空 Air India  website  [http://www.airindia.com/ airindia.com]
+ 紐西蘭航空  Air New Zealand airline  紐西蘭航空  Air New Zealand
+ 紐西蘭航空  Air New Zealand IATA  NZ
+ 紐西蘭航空  Air New Zealand  ICAO  ANZ
+ 紐西蘭航空  Air New Zealand  callsign  NEW ZEALAND
+ 紐西蘭航空  Air New Zealand  founded  1940年
+ 紐西蘭航空  Air New Zealand  key_people  Christopher Luxon  ([[行政總裁]] )
+ 紐西蘭航空  Air New Zealand  frequent_flyer  Airpoints
+ 紐西蘭航空  Air New Zealand  lounge  Koru Lounge
+ 紐西蘭航空  Air New Zealand  alliance  [[星空聯盟]]
+ 紐西蘭航空  Air New Zealand  subsidiaries  [[紐西蘭支線航空]]
+ 紐西蘭航空  Air New Zealand  fleet_size  56
+ 紐西蘭航空  Air New Zealand  destinations  52
+ 紐西蘭航空  Air New Zealand  company_slogan  Amazing journeys. Every day.
+ 紐西蘭航空  Air New Zealand  revenue  increase4925million
+ 紐西蘭航空  Air New Zealand  profit  increase NZ$327 million  (2015年 ), 
+ 紐西蘭航空  Air New Zealand  assets  increase NZ$6,775 million  (2015年 ), 
+ 紐西蘭航空  Air New Zealand  equity  increase NZ$1,965 million  (2015年 ), 
+ 紐西蘭航空  Air New Zealand  website  http://www.airnewzealand.co.nz  http://www.airnewzealand.com/
+新畿內亞航空   Air Niugini airline  新畿內亞航空   Air Niugini
+ 新畿內亞航空   Air Niugini   IATA  PX
+ 新畿內亞航空   Air Niugini  ICAO  ANG
+ 新畿內亞航空   Air Niugini  callsign  Niugini
+ 新畿內亞航空   Air Niugini  founded  1973年
+ 新畿內亞航空   Air Niugini  key_people  Wasantha Kumarasiri  (CEO )
+ 新畿內亞航空   Air Niugini  lounge  Executive Club
+ 新畿內亞航空   Air Niugini  fleet_size  17
+ 新畿內亞航空   Air Niugini  destinations  31
+ 新畿內亞航空   Air Niugini  website  http://www.airniugini.com.pg
+ 塔希提航空   Air Tahiti airline  塔希提航空   Air Tahiti
+ 塔希提航空   Air Tahiti  fleet_size  11
+ 塔希提航空   Air Tahiti  destinations  34
+ 塔希提航空   Air Tahiti  IATA  VT
+ 塔希提航空   Air Tahiti  ICAO  VTA
+ 塔希提航空   Air Tahiti  callsign  AIR TAHITI
+ 塔希提航空   Air Tahiti  founded  1953年
+ 塔希提航空   Air Tahiti  headquarters  [[法属波利尼西亚]][[塔希提岛]][[帕皮提]]
+ 塔希提航空   Air Tahiti  hubs  [[法阿國際機場]]
+ 塔希提航空   Air Tahiti  website  http://www.airtahiti.aero/
+ 大溪地航空  Air Tahiti Nui airline  大溪地航空  Air Tahiti Nui
+ 大溪地航空  Air Tahiti Nui  fleet_size  5
+ 大溪地航空  Air Tahiti Nui  destinations  5
+ 大溪地航空  Air Tahiti Nui  IATA  TN
+ 大溪地航空  Air Tahiti Nui  ICAO  THT
+ 大溪地航空  Air Tahiti Nui  callsign  TAHITI AIRLINES
+ 大溪地航空  Air Tahiti Nui  founded  1996
+ 大溪地航空  Air Tahiti Nui  headquarters  [[法屬玻里尼西亞]][[大溪地]][[帕皮提]]
+ 大溪地航空  Air Tahiti Nui  key_people  Christian Vernaudon ([[CEO]])
+ 大溪地航空  Air Tahiti Nui  focus_cities  USA [[洛杉磯國際機場]]
+ 大溪地航空  Air Tahiti Nui  frequent_flyer  Club Tiare
+ 大溪地航空  Air Tahiti Nui  lounge  International Lounge
+ 大溪地航空  Air Tahiti Nui  website  http://www.airtahitinui.com.tw/
+ 瓦努阿图航空  Air Vanuatu airline  瓦努阿图航空  Air Vanuatu
+ 瓦努阿图航空  Air Vanuatu  fleet_size  6
+ 瓦努阿图航空  Air Vanuatu  destinations  34
+ 瓦努阿图航空  Air Vanuatu  IATA  NF
+ 瓦努阿图航空  Air Vanuatu  ICAO  AVN
+ 瓦努阿图航空  Air Vanuatu  callsign  AIR VAN
+ 瓦努阿图航空  Air Vanuatu  founded  1981年
+ 瓦努阿图航空  Air Vanuatu  website  http://www.airvanuatu.com
+ 韓亞航空 Asiana Airlines airline  韓亞航空 Asiana Airlines
+ 韓亞航空 Asiana Airlines  IATA  OZ
+ 韓亞航空 Asiana Airlines  ICAO  AAR
+ 韓亞航空 Asiana Airlines  callsign  ASIANA
+ 韓亞航空 Asiana Airlines  parent  flagicon|KOR [[錦湖韓亞集團]]
+ 韓亞航空 Asiana Airlines  founded  1988年2月17日
+ 韓亞航空 Asiana Airlines  headquarters  ROK [[首爾]] [[江西区 (首尔)|江西区]]五釗洞韩亚城
+ 韓亞航空 Asiana Airlines  key_people  [[朴三求]]  (集團會長 )  金秀天  (社長兼CEO )
+ 韓亞航空 Asiana Airlines  hubs  KOR [[仁川國際機場]]   KOR [[金浦國際機場]]
+ 韓亞航空 Asiana Airlines  focus_cities  KOR [[金海國際機場]]   KOR [[濟州國際機場]]   JPN [[關西國際機場]]
+ 韓亞航空 Asiana Airlines  frequent_flyer  韩亚俱乐部
+ 韓亞航空 Asiana Airlines  lounge  韩亚贵宾休息室
+ 韓亞航空 Asiana Airlines  alliance  [[星空聯盟]]  (2003年起 )
+ 韓亞航空 Asiana Airlines  subsidiaries  flagicon|KOR [[釜山航空]]    flagicon|KOR [[首爾航空]]
+ 韓亞航空 Asiana Airlines  fleet_size  83
+ 韓亞航空 Asiana Airlines  destinations  90
+ 韓亞航空 Asiana Airlines  company_slogan  "Always with you"
+ 韓亞航空 Asiana Airlines  revenue  increase [[韩圆|KRW]] 5兆6381亿元  (2012 )
+ 韓亞航空 Asiana Airlines  website  http://www.flyasiana.com/
+ 曼谷航空Bangkok Airways airline  曼谷航空Bangkok Airways
+ 曼谷航空Bangkok Airways  image  Bangkok Airways Logo.svg
+ 曼谷航空Bangkok Airways  image_size  200px
+ 曼谷航空Bangkok Airways  IATA  PG
+ 曼谷航空Bangkok Airways  ICAO  BKP
+ 曼谷航空Bangkok Airways  callsign  BANGKOK AIR
+ 曼谷航空Bangkok Airways  founded  1968年  (當時的名稱為Sahakol Air )
+ 曼谷航空Bangkok Airways  hubs  [[蘇凡納布機場]]
+ 曼谷航空Bangkok Airways  focus_cities  [[苏梅国际机场]]
+ 曼谷航空Bangkok Airways  frequent_flyer  FlyerBonus
+ 曼谷航空Bangkok Airways  company_slogan  "Asias Boutique Airline"
+ 曼谷航空Bangkok Airways  parent  曼谷航空公眾有限公司
+ 曼谷航空Bangkok Airways  fleet_size  38
+ 曼谷航空Bangkok Airways  destinations  25
+ 曼谷航空Bangkok Airways  headquarters  flagicon image|Flag of Thailand.svg 泰國曼谷
+ 曼谷航空Bangkok Airways  key_people  Dr. Prasert Prasarttong-Osoth  ([[首席执行官]] )
+ 曼谷航空Bangkok Airways  website  [http://www.bangkokair.com/ bangkokair.com]
+ 孟加拉航空  Biman Bangladesh Airlines airline  孟加拉航空  Biman Bangladesh Airlines
+ 孟加拉航空  Biman Bangladesh Airlines destinations  16
+ 孟加拉航空  Biman Bangladesh Airlines  IATA  BG
+ 孟加拉航空  Biman Bangladesh Airlines  ICAO  BBC
+ 孟加拉航空  Biman Bangladesh Airlines  callsign  Bangladesh
+ 孟加拉航空  Biman Bangladesh Airlines  founded  1972
+ 孟加拉航空  Biman Bangladesh Airlines  headquarters  flag|孟加拉
+ 孟加拉航空  Biman Bangladesh Airlines  key_people  Air Commodore (Retd.) Md Zakiul Islam([[CEO]] & [[董事總經理|MD]])
+ 孟加拉航空  Biman Bangladesh Airlines  hubs  [[達卡國際機場]]
+ 孟加拉航空  Biman Bangladesh Airlines  focus_cities  [[杜拜國際機場]]  [[希斯路國際機場]]
+ 孟加拉航空  Biman Bangladesh Airlines  frequent_flyer  Frequent Flyer Programme
+ 孟加拉航空  Biman Bangladesh Airlines  website  http://www.biman-airlines.com
+ 密克羅尼西亞大陸航空    Continental Micronesia airline  密克羅尼西亞大陸航空    Continental Micronesia
+ 密克羅尼西亞大陸航空    Continental Micronesia IATA  CS
+ 密克羅尼西亞大陸航空    Continental Micronesia  ICAO  CMI
+ 密克羅尼西亞大陸航空    Continental Micronesia  callsign  AIR MIKE
+ 密克羅尼西亞大陸航空    Continental Micronesia  founded  1968年
+ 密克羅尼西亞大陸航空    Continental Micronesia  commenced  1968年5月16日
+ 密克羅尼西亞大陸航空    Continental Micronesia  ceased  2010年12月22日
+ 密克羅尼西亞大陸航空    Continental Micronesia  headquarters  GUM [[關島國際機場]]
+ 密克羅尼西亞大陸航空    Continental Micronesia  hubs  GUM [[關島國際機場]]
+ 密克羅尼西亞大陸航空    Continental Micronesia  frequent_flyer  MileagePlus
+ 密克羅尼西亞大陸航空    Continental Micronesia  lounge  United Club
+ 密克羅尼西亞大陸航空    Continental Micronesia  alliance  [[天合聯盟]]  (2004-2009年 )<div> [[星空聯盟]]  (2009年以后 )
+ 密克羅尼西亞大陸航空    Continental Micronesia  fleet_size  13
+ 密克羅尼西亞大陸航空    Continental Micronesia  destinations  25
+ 密克羅尼西亞大陸航空    Continental Micronesia  website  http://www.continental.com
+ 斐濟航空Fiji Airways airline  斐濟航空Fiji Airways
+ 斐濟航空Fiji Airways fleet_size  9
+ 斐濟航空Fiji Airways  destinations  24
+ 斐濟航空Fiji Airways  IATA  FJ
+ 斐濟航空Fiji Airways  ICAO  FJI
+ 斐濟航空Fiji Airways  callsign  Fiji
+ 斐濟航空Fiji Airways  founded  "1947年  (成立之初名为太平洋航空 )"
+ 斐濟航空Fiji Airways  headquarters  [[斐濟]][[納迪]]
+ 斐濟航空Fiji Airways  key_people  約翰·坎貝爾
+ 斐濟航空Fiji Airways  hubs  [[納迪國際機場]]
+ 斐濟航空Fiji Airways  secondary_hubs  [[瑙索里國際機場]]
+ 斐濟航空Fiji Airways  alliance  [[寰宇一家]]  (Connect成員 ) </small>
+ 斐濟航空Fiji Airways  lounge  Tabua Club
+ 斐濟航空Fiji Airways  website  [http://www.fijiairways.com www.fijiairways.com]
+ 嘉鲁达印尼航空Garuda Indonesia airline  嘉鲁达印尼航空Garuda Indonesia
+ 嘉鲁达印尼航空Garuda Indonesia IATA  GA
+ 嘉鲁达印尼航空Garuda Indonesia  ICAO  GIA
+ 嘉鲁达印尼航空Garuda Indonesia  callsign  Indonesia
+ 嘉鲁达印尼航空Garuda Indonesia  parent  Trans集团\nfounded=1947年8月1日
+ 嘉鲁达印尼航空Garuda Indonesia  commenced  1949年1月26日
+ 嘉鲁达印尼航空Garuda Indonesia  key_people  Emirsyah Satar  ([[首席执行官]] )
+ 嘉鲁达印尼航空Garuda Indonesia  frequent_flyer  GarudaMiles
+ 嘉鲁达印尼航空Garuda Indonesia  company_slogan  [[印度尼西亚]]的[[航空公司]]The Airline of Indonesia
+ 嘉鲁达印尼航空Garuda Indonesia  lounge  Garuda Lounge
+ 嘉鲁达印尼航空Garuda Indonesia  alliance  [[天合聯盟]]
+ 嘉鲁达印尼航空Garuda Indonesia  fleet_size  142
+ 嘉鲁达印尼航空Garuda Indonesia  destinations  133
+ 嘉鲁达印尼航空Garuda Indonesia  website  http://www.garuda-indonesia.com/
+ 日本航空Japan Airlines airline  日本航空Japan Airlines
+ 日本航空Japan Airlines  fleet_size  162  (訂購中：74 )
+ 日本航空Japan Airlines  destinations  92
+ 日本航空Japan Airlines  IATA  JL
+ 日本航空Japan Airlines  ICAO  JAL
+ 日本航空Japan Airlines  callsign  JapanAir
+ 日本航空Japan Airlines  founded  1951年8月1日
+ 日本航空Japan Airlines  commenced  1951年10月25日
+ 日本航空Japan Airlines  headquarters  JPN [[東京]][[東品川]]
+ 日本航空Japan Airlines  subsidiaries  * [[J-Air]]\n* [[日本空中通勤]]  (JAC )\n* [[日本越洋航空]]  (JTA )\n* [[北海道空中系統]]  (HAC )\n* [[琉球空中通勤]]  (RAC )
+ 日本航空Japan Airlines  key_people  [[社長]] 植木義晴
+ 日本航空Japan Airlines  hubs  nowrap|[[東京國際機場]]<small>  (國內線與國際線 )</small>  [[成田國際機場]]<small>  (國際線 )</small> [[關西國際機場]]<small>  (國際線 )</small> [[大阪國際機場]]<small>  (國內線 )</small>
+ 日本航空Japan Airlines  focus_cities  [[中部國際機場]] [[福岡機場]] [[新千歲機場]]
+ 日本航空Japan Airlines  frequent_flyer  JAL Mileage Bank、JAL Global Club
+ 日本航空Japan Airlines  lounge  SAKURA Lounge  (樱花休息室 )、Diamond Premier Lounge、JAL First Class Lounge
+ 日本航空Japan Airlines  alliance  [[寰宇一家]]
+ 日本航空Japan Airlines  company_slogan  日本之翼，飛向未來  ( lang|ja|明日の空へ、日本の翼 ；2011- ) <br/>Dream Skyward  (2002-2011 )
+ 日本航空Japan Airlines  website    ( JPN  ) url|https://www.jal.com/
+ 捷特航空Jet Airways airline  捷特航空Jet Airways
+ 捷特航空Jet Airways  IATA  9W
+ 捷特航空Jet Airways  ICAO  JAI
+ 捷特航空Jet Airways  callsign  JET AIRWAYS
+ 捷特航空Jet Airways  founded  start date|1993|df|=|yes
+ 捷特航空Jet Airways  hubs  [[孟買]][[賈特拉帕蒂·希瓦吉國際機場]]
+ 捷特航空Jet Airways  secondary_hubs  Unbulleted list| [[德里]][[英迪拉·甘地國際機場]]| [[清奈國際機場]]|[[布魯塞爾國際機場]]
+ 捷特航空Jet Airways  focus_cities  [[班加羅爾國際機場]]  nowrap| [[加爾各答]][[內塔吉·蘇巴斯·錢德拉·鮑斯國際機場]]
+ 捷特航空Jet Airways  frequent_flyer  捷特飛行獎賞計劃  ( Jet Privilege  )
+ 捷特航空Jet Airways  lounge  捷特機場貴賓室  ( Jet Lounge  )
+ 捷特航空Jet Airways  fleet_size  117
+ 捷特航空Jet Airways  destinations  76
+ 捷特航空Jet Airways  company_slogan  "改变你的飞行方式！<small>  ( Change the way you fly!  )</small>"
+ 捷特航空Jet Airways  parent  Tailwinds Limited
+ 捷特航空Jet Airways  headquarters  [[孟買]]
+ 捷特航空Jet Airways  key_people  link-en|Naresh Goyal|Naresh Goyal <small>  ([[創辦人]]及[[董事會主席|主席]] )</small>
+ 捷特航空Jet Airways  website  URL|http://www.jetairways.com/
+ 大韓航空Korean Air airline  大韓航空Korean Air
+ 大韓航空Korean Air   IATA  KE
+ 大韓航空Korean Air  ICAO  KAL
+ 大韓航空Korean Air  callsign  KOREANAIR
+ 大韓航空Korean Air  parent  [[韓進集團]]
+ 大韓航空Korean Air  subsidiary  [[真航空]]
+ 大韓航空Korean Air  company_slogan  "Excellence in Flight"
+ 大韓航空Korean Air  founded  1946年  (成立之初为[[韩国国家航空]] )
+ 大韓航空Korean Air  commenced  1969年
+ 大韓航空Korean Air  key_people  [[趙亮鎬]]  (集團會長兼CEO )
+ 大韓航空Korean Air  frequent_flyer  SKYPASS
+ 大韓航空Korean Air  lounge  大韓航空贵宾休息室
+ 大韓航空Korean Air  alliance  [[天合聯盟]]
+ 大韓航空Korean Air  fleet_size  167
+ 大韓航空Korean Air  destinations  127
+ 大韓航空Korean Air  website  [https://www.koreanair.com koreanair.com]
+ 马来西亚国际航空Malaysia Airlines Berhad airline  马来西亚国际航空Malaysia Airlines Berhad
+ 马来西亚国际航空Malaysia Airlines Berhad IATA  MH
+ 马来西亚国际航空Malaysia Airlines Berhad  ICAO  MAS
+ 马来西亚国际航空Malaysia Airlines Berhad  callsign  MALAYSIAN
+ 马来西亚国际航空Malaysia Airlines Berhad  founded  1937年10月12日
+ 马来西亚国际航空Malaysia Airlines Berhad  commenced  1947年05月01日
+ 马来西亚国际航空Malaysia Airlines Berhad  bases  [[吉隆坡国际机场]]
+ 马来西亚国际航空Malaysia Airlines Berhad  hubs  [[吉隆坡国际机场]]
+ 马来西亚国际航空Malaysia Airlines Berhad  secondary_hubs     [[亚庇国际机场]]     [[槟城国际机场]]     [[古晋国际机场]]
+ 马来西亚国际航空Malaysia Airlines Berhad  focus_cities  JPN [[成田国际机场|东京成田国际机场]]<br/> HKG [[香港國際機場]]
+ 马来西亚国际航空Malaysia Airlines Berhad  frequent_flyer  Enrich
+ 马来西亚国际航空Malaysia Airlines Berhad  lounge  Golden Lounge
+ 马来西亚国际航空Malaysia Airlines Berhad  alliance  [[寰宇一家]]
+ 马来西亚国际航空Malaysia Airlines Berhad  fleet_size  83(含貨機)
+ 马来西亚国际航空Malaysia Airlines Berhad  destinations  61
+ 马来西亚国际航空Malaysia Airlines Berhad  company_slogan  \\"Journey Are Made By The People You Travel With."\\
+ 马来西亚国际航空Malaysia Airlines Berhad  parent  [[国库控股]]  ([[马来西亚政府]])
+ 马来西亚国际航空Malaysia Airlines Berhad  headquarters  [[吉隆坡国际机场]]
+ 马来西亚国际航空Malaysia Airlines Berhad  key_people  Tan Sri Md Nor Yusof(董事会主席)
+ 马来西亚国际航空Malaysia Airlines Berhad  net_income  increase RM5.1 billion [[馬來西亞令吉|MYR]] <small>  (2016 Q1 )</small>
+ 马来西亚国际航空Malaysia Airlines Berhad  profit  increase RM1.4 billion [[馬來西亞令吉|MYR]] <small>  (2016 Q1 )</small>
+ 马来西亚国际航空Malaysia Airlines Berhad  num_employees  16,000+  (2017年 )
+ 马来西亚国际航空Malaysia Airlines Berhad  website  URL|https://www.malaysiaairlines.com
+ 日本货物航空Nippon Cargo Airlines airline  日本货物航空Nippon Cargo Airlines
+ 日本货物航空Nippon Cargo Airlines  fleet_size  9
+ 日本货物航空Nippon Cargo Airlines  destinations  18
+ 日本货物航空Nippon Cargo Airlines parent 日本邮船 IATA
+ 日本货物航空Nippon Cargo Airlines  ICAO  NCA
+ 日本货物航空Nippon Cargo Airlines  callsign  Nippon Cargo
+ 日本货物航空Nippon Cargo Airlines  founded  1978年9月27日
+ 日本货物航空Nippon Cargo Airlines headquarters  日本千叶县成田市（成田国际机场）
+ 日本货物航空Nippon Cargo Airlines   key_people  [[社長]] 坂本深
+ 日本货物航空Nippon Cargo Airlines  hubs  成田国际机场
+ 日本货物航空Nippon Cargo Airlines website  url|http://nca.aero/
+ 巴基斯坦國際航空 airline  巴基斯坦國際航空
+ 巴基斯坦國際航空 IATA  PK
+ 巴基斯坦國際航空  ICAO  PIA
+ 巴基斯坦國際航空  callsign  PAKISTAN
+ 巴基斯坦國際航空  founded  1946年
+ 巴基斯坦國際航空  hubs  [[真纳国际机场]]<br/>[[阿拉马·伊克巴勒国际机场]]<br/>[[新伊斯蘭瑪巴德國際機場]]
+ 巴基斯坦國際航空  frequent_flyer  PIA Awards Plus+
+ 巴基斯坦國際航空  fleet_size  33
+ 巴基斯坦國際航空  destinations  52
+ 巴基斯坦國際航空  headquarters  flag|巴基斯坦 [[喀拉蚩]]
+ 巴基斯坦國際航空  website  [http://www4.piac.com.pk/pianew/ piac.com.pk]
+ 菲律賓航空<br />Philippine Airlines airline  菲律賓航空<br />Philippine Airlines
+ 菲律賓航空<br />Philippine Airlines  logo  Philippine Airlines.svg
+ 菲律賓航空<br />Philippine Airlines  logo_size  250px
+ 菲律賓航空<br />Philippine Airlines  fleet_size  65
+ 菲律賓航空<br />Philippine Airlines  destinations  56
+ 菲律賓航空<br />Philippine Airlines  IATA  PR
+ 菲律賓航空<br />Philippine Airlines  ICAO  PAL
+ 菲律賓航空<br />Philippine Airlines  callsign  Philippine
+菲律賓航空<br />Philippine Airlines  parent  Philippine Airlines
+ 菲律賓航空<br />Philippine Airlines  founded  1941年2月26日
+ 菲律賓航空<br />Philippine Airlines  headquarters  PHI [[帕謝]]
+ 菲律賓航空<br />Philippine Airlines  key_people  * [[陳永栽|Lucio C. Tan]] (Chairman and CEO) * Jaime J. Bautista (President and COO) * Harry C. Tan (Treasurer) * Marianne C. Raymundo (CFO)
+ 菲律賓航空<br />Philippine Airlines  hubs  PHI [[馬尼拉艾奎諾國際機場]]
+ 菲律賓航空<br />Philippine Airlines  secondary_hubs  PHI [[宿霧麥克坦國際機場]]
+ 菲律賓航空<br />Philippine Airlines  frequent_flyer  Mabuhay Miles
+ 菲律賓航空<br />Philippine Airlines  lounge  Mabuhay Lounges
+ 菲律賓航空<br />Philippine Airlines  website  http://www.philippineairlines.com
+ 菲律賓航空<br />Philippine Airlines   company_slogan  Heart of the Filipino <br/> Shinning Through
+ 澳洲航空Qantas Airways airline  澳洲航空Qantas Airways
+ 澳洲航空Qantas Airways fleet_size  126(+6訂購中)
+ 澳洲航空Qantas Airways  destinations  85
+ 澳洲航空Qantas Airways  IATA  QF
+ 澳洲航空Qantas Airways  ICAO  QFA
+ 澳洲航空Qantas Airways  callsign  QANTAS
+ 澳洲航空Qantas Airways  company_slogan  The Spirit of Australians
+ 澳洲航空Qantas Airways  founded  1920年
+ 澳洲航空Qantas Airways  frequent_flyer  Qantas Frequent Flyer
+ 澳洲航空Qantas Airways  lounge  Qantas Club
+ 澳洲航空Qantas Airways  alliance  [[寰宇一家]]
+ 澳洲航空Qantas Airways  subsidiaries  flagicon|AUS [[澳洲连接航空]]flagicon|AUS [[捷星航空]]flagicon|AUS [[捷连航空]]
+ 澳洲航空Qantas Airways  headquarters  AUS [[悉尼]]
+ 澳洲航空Qantas Airways  key_people  Leigh Clifford（[[主席]]）<br />Alan Joyce（[[執行長]]）
+ 澳洲航空Qantas Airways  website  [http://www.qantas.com.au/ www.qantas.com.au]
+ 皇家汶萊航空  Royal Brunei Airlines airline  皇家汶萊航空  Royal Brunei Airlines
+ 皇家汶萊航空  Royal Brunei Airlines  logo  Royal Brunei Airlines logo.svg
+ 皇家汶萊航空  Royal Brunei Airlines  IATA  BI
+ 皇家汶萊航空  Royal Brunei Airlines  ICAO  RBA
+ 皇家汶萊航空  Royal Brunei Airlines  callsign  Brunei
+ 皇家汶萊航空  Royal Brunei Airlines  founded  1974年
+ 皇家汶萊航空  Royal Brunei Airlines  headquarters  {{汶莱}} [[斯里巴加灣市]]
+ 皇家汶萊航空  Royal Brunei Airlines  key_people  Ray Sayer（[[首席执行官]]）
+ 皇家汶萊航空  Royal Brunei Airlines  hubs  {{汶莱}} [[汶莱国际机场]]
+ 皇家汶萊航空  Royal Brunei Airlines  frequent_flyer  皇家天空（Royal Skies）
+ 皇家汶萊航空  Royal Brunei Airlines  lounge  Sky Lounge
+ 皇家汶萊航空  Royal Brunei Airlines  fleet_size  14
+ 皇家汶萊航空  Royal Brunei Airlines  destinations  21
+ 皇家汶萊航空  Royal Brunei Airlines  website  https://www.flyroyalbrunei.com
+ 勝安航空Silk Air airline  勝安航空Silk Air
+ 勝安航空Silk Air fleet_size  34
+ 勝安航空Silk Air  destinations  53
+ 勝安航空Silk Air  IATA  MI
+ 勝安航空Silk Air  ICAO  SLK
+ 勝安航空Silk Air  callsign  SilkAir
+ 勝安航空Silk Air  parent  [[新加坡航空]]
+ 勝安航空Silk Air  company_slogan  飛悅同歡，樂在勝安\n(A Joy to Fly)
+ 勝安航空Silk Air  founded  1975年
+ 勝安航空Silk Air  commenced  1989年2月21日
+ 勝安航空Silk Air  headquarters  [[新加坡]]
+ 勝安航空Silk Air  hubs  [[樟宜機場]]
+ 勝安航空Silk Air  frequent_flyer  新航獎勵計劃（KrisFlyer）
+ 勝安航空Silk Air  lounge  「銀刃」貴賓室
+ 勝安航空Silk Air  website  https://www.singaporeair.com
+ 新加坡航空Singapore Airlines airline  新加坡航空Singapore Airlines
+ 新加坡航空Singapore Airlines  IATA  SQ
+ 新加坡航空Singapore Airlines  ICAO  SIA
+ 新加坡航空Singapore Airlines  callsign  SINGAPORE
+ 新加坡航空Singapore Airlines  founded  1947年
+ 新加坡航空Singapore Airlines  hubs  {{SGP}} [[樟宜机场]]
+ 新加坡航空Singapore Airlines  focus_cities  {{AUS}} [[悉尼机场]]{{AUS}} [[墨爾本机场]]{{HK}} [[香港國際機場]]
+ 新加坡航空Singapore Airlines  frequent_flyer  新航獎勵計劃
+ 新加坡航空Singapore Airlines  lounge  “银刃”贵宾室
+ 新加坡航空Singapore Airlines  alliance  [[星空聯盟]]
+ 新加坡航空Singapore Airlines  subsidiaries  [[勝安航空]]|[[酷航]]
+ 新加坡航空Singapore Airlines  fleet_size  112
+ 新加坡航空Singapore Airlines  destinations  64
+ 新加坡航空Singapore Airlines  company_slogan  "A Great Way to Fly"
+ 新加坡航空Singapore Airlines  parent  [[淡馬錫控股]]
+ 新加坡航空Singapore Airlines  headquarters  {{SGP}}
+ 新加坡航空Singapore Airlines  key_people  吴俊鹏
+ 新加坡航空Singapore Airlines  website  {{URL|http://www.singaporeair.com/}}
+ 新加坡货运航空Singapore Airlines Cargo airline  新加坡货运航空Singapore Airlines Cargo
+ 新加坡货运航空Singapore Airlines Cargo  IATA  SQ
+ 新加坡货运航空Singapore Airlines Cargo  ICAO  SQC
+ 新加坡货运航空Singapore Airlines Cargo  callsign  SINCARGO
+ 新加坡货运航空Singapore Airlines Cargo  founded  2001年7月1日
+ 新加坡货运航空Singapore Airlines Cargo  hubs  {{Unbulleted list|[[樟宜機場]]|[[沙迦國際機場]]| [[布魯塞爾機場]]}}
+ 新加坡货运航空Singapore Airlines Cargo  secondary_hubs  [[阿姆斯特丹史基浦機場]]
+ 新加坡货运航空Singapore Airlines Cargo  alliance  [[WOW货运联盟]]
+ 新加坡货运航空Singapore Airlines Cargo  fleet_size  7
+ 新加坡货运航空Singapore Airlines Cargo  destinations  19
+ 新加坡货运航空Singapore Airlines Cargo  parent  [[新加坡航空]]
+ 新加坡货运航空Singapore Airlines Cargo  headquarters  [[新加坡]]
+ 新加坡货运航空Singapore Airlines Cargo  key_people  新加坡航空公司吴俊鹏m/zh_TW/ceo-biography?airlineCode=SQ |title=新加坡航空公司吳俊鵬先生
+ 新加坡货运航空Singapore Airlines Cargo  website  {{URL|http://www.siacargo.com/}}
+ 斯里蘭卡航空SriLankan Airlines airline  斯里蘭卡航空SriLankan Airlines
+ 斯里蘭卡航空SriLankan Airlines   IATA  UL
+ 斯里蘭卡航空SriLankan Airlines  ICAO  ALK
+ 斯里蘭卡航空SriLankan Airlines  callsign  SRILANKAN
+ 斯里蘭卡航空SriLankan Airlines  founded  1947年
+ 斯里蘭卡航空SriLankan Airlines  commenced  1979年9月1日
+ 斯里蘭卡航空SriLankan Airlines  hubs  {{LKA}} [[班達拉奈克國際機場]]
+ 斯里蘭卡航空SriLankan Airlines  frequent_flyer  [[FlySmiLes]]
+ 斯里蘭卡航空SriLankan Airlines  lounge  Serendib Lounge
+ 斯里蘭卡航空SriLankan Airlines  alliance  [[寰宇一家]]
+ 斯里蘭卡航空SriLankan Airlines  fleet_size  27
+ 斯里蘭卡航空SriLankan Airlines  destinations  42
+ 斯里蘭卡航空SriLankan Airlines  company_slogan  "Youre Our World"
+ 斯里蘭卡航空SriLankan Airlines  headquarters  {{LKA}} [[可倫坡]]
+ 斯里蘭卡航空SriLankan Airlines  key_people  Ajith N. Dias|<small>（[[董事會主席|主席]]）</small>|lang|en|Suren Ratwatte|<small>（[[CEO]]兼[[機長]]）</small>}} {{lang|en|Ajith N. Dias
+ 斯里蘭卡航空SriLankan Airlines  website  {{URL|http://www.srilankan.com/}}
+ 泰國國際航空Thai Airways airline  泰國國際航空Thai Airways
+ 泰國國際航空Thai Airways fleet_size  106
+ 泰國國際航空Thai Airways  destinations  91
+ 泰國國際航空Thai Airways  IATA  TG
+ 泰國國際航空Thai Airways  ICAO  THA
+ 泰國國際航空Thai Airways  callsign  THAI
+ 泰國國際航空Thai Airways  founded  1960年
+ 泰國國際航空Thai Airways  headquarters  {{THA}} [[曼谷]]
+ 泰國國際航空Thai Airways  hubs  {{THA}} [[曼谷]][[蘇凡納布機場]]{{THA}} [[布吉国际机场]]
+ 泰國國際航空Thai Airways  focus_cities  {{KOR}} [[仁川國際機場]]{{THA}} [[清迈國際機場]]{{HKG}} [[香港國際機場]] {{TWN}} [[臺灣桃園國際機場]]
+ 泰國國際航空Thai Airways  frequent_flyer  皇家風蘭飛行哩數計劃（Royal Orchid Plus）
+ 泰國國際航空Thai Airways  lounge  皇家風蘭貴賓室（Royal Orchid Lounge）
+ 泰國國際航空Thai Airways  company_slogan  Smooth as Silk （如絲般舒適)<br/>（Love You as Much as the Sky 愛你就如愛天空般)<br/>We reach for the sky
+ 泰國國際航空Thai Airways  alliance  [[星空聯盟]]
+ 泰國國際航空Thai Airways  website  http://www.thaiairways.com
+ 越南航空 airline  越南航空
+ 越南航空 fleet_size  85
+ 越南航空  destinations  52
+ 越南航空  IATA  VN
+ 越南航空  ICAO  HVN
+ 越南航空  callsign  VIET NAM
+ 越南航空  company_slogan  "Reach Further"
+ 越南航空  founded  1956 （越南民用航空局）
+ 越南航空  headquarters  [[越南]][[河內市]][[龍編郡]]
+ 越南航空  key_people  范曰清（董事長）<br/>范玉明（總經理）
+ 越南航空  hubs  [[河內]][[內排國際機場]]<br/>[[胡志明市]][[新山一國際機場]]
+ 越南航空  secondary_hubs  [[峴港國際機場]]
+ 越南航空  focus_cities  [[暹粒吴哥国际机场]]<br/>[[金邊國際機場]]
+ 越南航空  frequent_flyer  金蓮花卡獎勵積分計劃
+ 越南航空  alliance  [[天合聯盟]]
+ 越南航空  revenue  {{Increase}} [[越南盾|VND]]725.55兆（ {{US$|link|=|yes}} 34.5億；2013年）
+ 越南航空  profit  {{Increase}} VND5,330億（ {{US$}} 2,500萬；2013年）
+ 越南航空  website  {{URL|www.vietnamairlines.com}}
+ 維珍澳洲航空 Virgin Australia airline  維珍澳洲航空 Virgin Australia
+ 維珍澳洲航空 Virgin Australia  fleet_size  116
+ 維珍澳洲航空 Virgin Australia  destinations  52
+ 維珍澳洲航空 Virgin Australia  IATA  VA
+ 維珍澳洲航空 Virgin Australia  ICAO  VOZ
+ 維珍澳洲航空 Virgin Australia  callsign  VELOCITY
+ 維珍澳洲航空 Virgin Australia  company_slogan  Get what you want
+ 維珍澳洲航空 Virgin Australia  founded  2000年
+ 維珍澳洲航空 Virgin Australia  commenced  2011年5月4日
+ 維珍澳洲航空 Virgin Australia  parent  {{flagicon|AUS}} [[維珍澳洲控股]](20.1%) {{flagicon|UAE}} [[阿提哈德航空]](24.2%） {{flagicon|SGP}} [[新加坡航空]](22.8%） {{flagicon|CHN}} [[中國]][[南山集團]](19.9%） {{flagicon|CHN}} [[海航集團]](13%）
+ 維珍澳洲航空 Virgin Australia  headquarters  [[布里斯本]]
+ 維珍澳洲航空 Virgin Australia  key_people  Richard Branson
+ 維珍澳洲航空 Virgin Australia  hubs  [[布里斯本國際機場]]<br />[[墨爾本國際機場]]<br />[[京斯福特·史密斯機場]]
+ 維珍澳洲航空 Virgin Australia  focus_cities  [[阿德萊德國際機場]]<br />[[坎培拉國際機場]]<br />[[黃金海岸機場]]<br />[[珀斯機場]]
+ 維珍澳洲航空 Virgin Australia  frequent_flyer  Velocity Rewards
+ 維珍澳洲航空 Virgin Australia  lounge  The Lounge
+ 維珍澳洲航空 Virgin Australia  website  http://www.virginaustralia.com/au/en
+ 中国国际航空Air China airline  中国国际航空Air China
+ 中国国际航空Air China  fleet_size  405
+ 中国国际航空Air China  destinations  201
+ 中国国际航空Air China  IATA  CA
+ 中国国际航空Air China  ICAO  CCA
+ 中国国际航空Air China  callsign  Air China/国航
+ 中国国际航空Air China  company_name  中国国际航空股份有限公司
+ 中国国际航空Air China  founded  1988年
+ 中国国际航空Air China  headquarters  [[北京市]][[顺义区]][[天竺地区]]空港经济开发区天柱路30号国航总部大楼
+ 中国国际航空Air China  key_people  [[蔡劍江]]（董事長）
+ 中国国际航空Air China  company_slogan  伴梦想着陆Land Your Dream
+ 中国国际航空Air China  frequent_flyer  [[凤凰知音]]
+ 中国国际航空Air China  lounge  國航VIP贵宾室
+ 中国国际航空Air China  revenue  {{increase}} [[人民币]]1213.62899亿(2017)
+ 中国国际航空Air China  net_income  {{increase}} 人民币72.40312亿元(2017)
+ 中国国际航空Air China  assets  {{increase}} 人民币2357.17816亿元(2017)
+ 中国国际航空Air China  equity  {{increase}} 人民币145.24815亿元(2017)
+ 中国国际航空Air China  parent  中国航空集团有限公司（40.98%）<br />[[国泰航空]]（18.13%）<br />香港中央结算(代理人)有限公司（11.62%）<br />中国航空(集团)有限公司（10.72%）<br />[[中国航空油料集团公司]]（3.23%）
+ 中国国际航空Air China  subsidiaries  [[中国国际货运航空]]（51%）<br />[[澳门航空|澳门航空公司]]（66.8995%）<br />[[深圳航空有限责任公司]]（51%）<br />[[大连航空|大连航空有限责任公司]]（80%）<br />[[西藏航空|西藏航空有限责任公司]]（31%）<br />[[山东航空|山东航空有限责任公司]]（22.8%）
+ 中国国际航空Air China  alliance  [[星空聯盟]]
+ 中国国际航空Air China  website  [http://www.airchina.com airchina.com]
+ 高丽航空 airline  高丽航空
+ 高丽航空 fleet_size  19
+ 高丽航空  destinations  26
+ 高丽航空  IATA  JS
+ 高丽航空  ICAO  KOR
+ 高丽航空  callsign  AIR KORYO
+ 高丽航空  founded  1955年9月21日
+ 高丽航空  headquarters  {{DPK}} [[平壤]]
+ 高丽航空  bases  {{flagicon|DPK}} [[平壤順安國際機場]]
+ 高丽航空  website  http://www.airkoryo.com.kp
+ 澳門航空<br />Air Macau airline  澳門航空<br />Air Macau
+ 澳門航空<br />Air Macau  IATA  NX
+ 澳門航空<br />Air Macau  ICAO  AMU
+ 澳門航空<br />Air Macau  callsign  Air Macau
+ 澳門航空<br />Air Macau  company_name  澳門航空股份有限公司
+ 澳門航空<br />Air Macau  founded  1994年9月13日
+ 澳門航空<br />Air Macau  commenced  1995年11月9日
+ 澳門航空<br />Air Macau  key_people  陳洪（[[執行董事|執行]][[董事會主席]]兼[[總經理]]）
+ 澳門航空<br />Air Macau  headquarters  [[澳門]]
+ 澳門航空<br />Air Macau  hubs  {{MAC}} [[澳門國際機場]]
+ 澳門航空<br />Air Macau  frequent_flyer  [[鳳凰知音]]
+ 澳門航空<br />Air Macau  parent  [[中國國際航空]]（66.8995%）
+ 澳門航空<br />Air Macau  revenue  {{increase}} [[澳門幣]]7,876萬 圓（2017年）
+ 澳門航空<br />Air Macau  fleet_size  20 （+5）
+ 澳門航空<br />Air Macau  destinations  26
+ 澳門航空<br />Air Macau  website  {{url|http://www.airmacau.com.mo/}}
+ 國泰航空Cathay Pacific airline  國泰航空Cathay Pacific
+ 國泰航空Cathay Pacific   IATA  CX
+ 國泰航空Cathay Pacific  ICAO  [[CPA]]
+ 國泰航空Cathay Pacific  callsign  CATHAY
+ 國泰航空Cathay Pacific  founded  1946年9月24日
+ 國泰航空Cathay Pacific  hubs  [[香港國際機場]]
+ 國泰航空Cathay Pacific  secondary_hubs  [[臺灣桃園國際機場]]
+ 國泰航空Cathay Pacific  frequent_flyer  馬可孛羅会
+ 國泰航空Cathay Pacific  lounge  香港：寰宇堂、玉衡堂、逸連堂、玲瓏堂
+ 國泰航空Cathay Pacific  alliance  [[寰宇一家]]
+ 國泰航空Cathay Pacific  subsidiaries  * [[國泰港龍航空]]\n* [[香港華民航空]]
+ 國泰航空Cathay Pacific  fleet_size  154（+訂購中：39）
+ 國泰航空Cathay Pacific  destinations  220+
+ 國泰航空Cathay Pacific  company_slogan  "翺翔人生 翹首振翅"
+ 國泰航空Cathay Pacific  revenue  {{increase}} 1110.6亿[[港幣]]（2018）
+ 國泰航空Cathay Pacific  net_income  {{increase}} 23.45亿港幣（2018）
+ 國泰航空Cathay Pacific  assets  {{increase}} 1902.94亿港幣（2018）
+ 國泰航空Cathay Pacific  parent  [[太古集團]]
+ 國泰航空Cathay Pacific  headquarters  {{ubl|HKG|[[赤鱲角]]觀景路8號[[國泰城]]|HKG|[[赤鱲角]]國泰港龍大廈}} {{HKG}} [[赤鱲角]]觀景路8號[[國泰城]] {{HKG}} [[赤鱲角]]國泰港龍大廈
+ 國泰航空Cathay Pacific  key_people  {{Unbulleted list|[[史樂山]]<small>（[[董事局主席]]）</small>|何杲<small>（[[行政總裁]]）</small>}}
+ 國泰航空Cathay Pacific  website  {{URL|http://www.cathaypacific.com/}}
+ 中華航空China Airlines airline  中華航空China Airlines
+ 中華航空China Airlines  fleet_size  87
+ 中華航空China Airlines  destinations  156（含純貨運、共享代碼航點；所有航線均與[[華信航空]]共用班號營運）
+ 中華航空China Airlines  IATA  CI
+ 中華航空China Airlines  ICAO  CAL
+ 中華航空China Airlines  callsign  Dynasty
+ 中華航空China Airlines  subsidiaries  [[華信航空]]<br />[[台灣虎航]]<br />[[台灣飛機維修公司]]<br />[[桃園航勤]]等
+ 中華航空China Airlines  founded  1959年9月17日（ {{age in years and days|1959|9|17|age|=|no}} ）
+ 中華航空China Airlines  commenced  1959年12月16日
+ 中華航空China Airlines  headquarters  {{ROC}} [[桃園市]][[華航園區]]
+ 中華航空China Airlines  hubs  [[臺灣桃園國際機場|桃園國際機場]]
+ 中華航空China Airlines  secondary_hubs  [[高雄國際機場]]
+ 中華航空China Airlines  focus_cities  [[香港國際機場]]<br />[[曼谷]][[蘇凡納布機場]]
+ 中華航空China Airlines  frequent_flyer  華夏哩程酬賓計畫<br />大中華攜手飛
+ 中華航空China Airlines  lounge  梅苑貴賓室、王朝貴賓室
+ 中華航空China Airlines  company_slogan  相逢自是有緣，華航以客為尊（1995～2017）<br />團隊成就旅程（2017年～）
+ 中華航空China Airlines  alliance  [[天合聯盟]]
+ 中華航空China Airlines  website  {{url|https://www.china-airlines.com/}}
+ 中國貨運航空<br />China Cargo Airlines airline  中國貨運航空<br />China Cargo Airlines
+ 中國貨運航空<br />China Cargo Airlines  fleet_size  19
+ 中國貨運航空<br />China Cargo Airlines  destinations  20
+ 中國貨運航空<br />China Cargo Airlines  IATA  CK
+ 中國貨運航空<br />China Cargo Airlines  ICAO  CKK
+ 中國貨運航空<br />China Cargo Airlines  callsign  Cargo King货航
+ 中國貨運航空<br />China Cargo Airlines  company_name  中國貨運航空公司
+ 中國貨運航空<br />China Cargo Airlines  founded  1998年7月30日
+ 中國貨運航空<br />China Cargo Airlines  commenced  1998年10月
+ 中國貨運航空<br />China Cargo Airlines  alliance  [[天合聯盟貨運]]
+ 中國貨運航空<br />China Cargo Airlines  website  [http://www.ckair.com]
+ 中国东方航空<br />China Eastern airline  中国东方航空<br />China Eastern
+ 中国东方航空<br />China Eastern fleet_size  534+147(订购中)
+ 中国东方航空<br />China Eastern  destinations  325
+ 中国东方航空<br />China Eastern  IATA  MU
+ 中国东方航空<br />China Eastern  ICAO  CES
+ 中国东方航空<br />China Eastern  callsign  CHINA EASTERN/东方
+ 中国东方航空<br />China Eastern parent  中国东方航空集团公司
+ 中国东方航空<br />China Eastern  subsidiaries  [[上海航空]][[中国联合航空]][[中国货运航空]]（51%股权）[[东航云南公司]]
+ 中国东方航空<br />China Eastern  founded  1957年1月9日（作为民航上海管理处飞行中队）/1988年6月25日（作为中国东方航空）
+ 中国东方航空<br />China Eastern  headquarters  [[上海市]][[浦东国际机场]]机场大道66号（注册地址）<br />[[上海市]][[虹桥路]]2550号[[虹桥国际机场]]（营业地址）
+ 中国东方航空<br />China Eastern  key_people  董事长：[[刘绍勇]]<br />总经理：暂缺
+ 中国东方航空<br />China Eastern  company_slogan  "世界品位，东方魅力 {{zh icon}} <br />World-Class Hospitality with Eastern Charm {{en icon}}"
+ 中国东方航空<br />China Eastern  frequent_flyer  [[中国东方航空#.E4.B8.9C.E6.96.B9.E4.B8.87.E9.87.8C.E8.A1.8C|东方万里行]]
+ 中国东方航空<br />China Eastern  lounge  东方万里行贵宾休息室
+ 中国东方航空<br />China Eastern  alliance  [[天合联盟]]
+ 中国东方航空<br />China Eastern  revenue  {{Increase}} 985.6亿元[[人民币]] (2016)
+ 中国东方航空<br />China Eastern  operating_income  {{gain}} 65.07亿元 [[人民币]](2016)
+ 中国东方航空<br />China Eastern  net_income  {{gain}} 45.08亿元 [[人民币]] (2016)
+ 中国东方航空<br />China Eastern  assets  {{Increase}} 1957.09亿元[[人民币]] (2016)
+ 中国东方航空<br />China Eastern  Netassets  {{gain}} 523.66亿元 [[人民币]] (2016)
+ 中国东方航空<br />China Eastern  website  [http://www.ceair.com/ ceair.com]
+ 中国南方航空<br />China Southern airline  中国南方航空<br />China Southern
+ 中国南方航空<br />China Southern fleet_size  588+226（订购中）
+ 中国南方航空<br />China Southern  destinations  206
+ 中国南方航空<br />China Southern  IATA  CZ
+ 中国南方航空<br />China Southern  ICAO  CSN
+ 中国南方航空<br />China Southern  callsign  CHINA SOUTHERN
+ 中国南方航空<br />China Southern founded  1991年
+ 中国南方航空<br />China Southern  headquarters  [[广东省]][[广州市]]经济技术开发区
+ 中国南方航空<br />China Southern  key_people  [[董事長]]：[[王昌顺]]
+ 中国南方航空<br />China Southern  hubs  [[广州白云国际机场]][[北京首都国际机场]][[重庆江北国际机场]][[上海浦东国际机场]][[烏魯木齊地窩堡國際機場]][[素万那普机场]]
+ 中国南方航空<br />China Southern  focus_cities  [[长春龙嘉国际机场]][[长沙黄花国际机场]][[成都双流国际机场]][[大連周水子国际机场]][[贵阳龙洞堡国际機場]][[哈尔滨太平国际机场]][[海口美兰国际机场]][[杭州萧山国际机场]][[揭阳潮汕国际机场]][[瀋陽桃仙国际机场]][[深圳寶安国际机场]][[武漢天河國際機場]][[西安咸阳国际机场]][[鄭州新鄭国际机场]][[珠海金湾機場]]
+ 中国南方航空<br />China Southern  frequent_flyer  [[中国南方航空#南航明珠俱乐部|南航明珠俱乐部]]
+ 中国南方航空<br />China Southern  lounge  南航明珠貴賓室
+ 中国南方航空<br />China Southern  parent  中国南方航空集团公司（52.65%）[[卡塔尔航空]]（5%）[[美國航空]]（2.532%）
+ 中国南方航空<br />China Southern  company_slogan  "飞翔从此大不同<br />Fly your dreams"
+ 中国南方航空<br />China Southern  revenue  {{increase}} [[人民币]]1278.06亿(2017)
+ 中国南方航空<br />China Southern  net_income  {{increase}} 人民币68.98亿元(2017)
+ 中国南方航空<br />China Southern  assets  {{increase}} 人民币2187.18亿元(2017)
+ 中国南方航空<br />China Southern  equity  {{increase}} 人民币434.56亿元(2017)
+ 中国南方航空<br />China Southern  website  [http://www.csair.com/ csair.com]
+ Cathay Dragon 國泰港龍  airline  Cathay Dragon 國泰港龍
+ Cathay Dragon 國泰港龍  IATA  KA
+ Cathay Dragon 國泰港龍  ICAO  HDA
+ Cathay Dragon 國泰港龍  callsign  DRAGON
+ Cathay Dragon 國泰港龍  founded  {{Start date and age|df|=|y|1985|05|24}}
+ Cathay Dragon 國泰港龍  commenced  July 1985
+ Cathay Dragon 國泰港龍  headquarters  Cathay Dragon House, [[Hong Kong International Airport]], [[Lantau Island]], [[Hong Kong]]
+ Cathay Dragon 國泰港龍  key_people  <div>\n* [[Chao Kuang Piu|Kuang-Piu Chao]] (Honorary chairman)\n* Rupert Hogg (Chairman) * Algernon Yau (CEO) </div>
+ Cathay Dragon 國泰港龍   hubs  [[Hong Kong International Airport]]
+ Cathay Dragon 國泰港龍   frequent_flyer  <div>\n* Asia Miles\n* The Marco Polo Club</div>
+ Cathay Dragon 國泰港龍   fleet_size 48
+ Cathay Dragon 國泰港龍   destinations  51 incl. charter
+ Cathay Dragon 國泰港龍   alliance  [[Oneworld]] (affiliate)
+ Cathay Dragon 國泰港龍   parent  [[Cathay Pacific]]
+ Cathay Dragon 國泰港龍    num_employees  3,375 <small>(March 2015)</small>
+ Cathay Dragon 國泰港龍  website  [https://www.cathaypacific.com/ cathaypacific.com] [Dragonair.com]
+長榮航空{{lang|en|EVA AIR}} airline  長榮航空{{lang|en|EVA AIR}}
+ 長榮航空{{lang|en|EVA AIR}}  fleet_size  78（22 架訂購中）
+ 長榮航空{{lang|en|EVA AIR}}  destinations  177（含純貨運及共享代碼航點）
+ 長榮航空{{lang|en|EVA AIR}}  IATA  BR
+ 長榮航空{{lang|en|EVA AIR}}  ICAO  EVA
+ 長榮航空{{lang|en|EVA AIR}}  callsign  Eva
+ 長榮航空{{lang|en|EVA AIR}}  parent  [[長榮集團]]
+ 長榮航空{{lang|en|EVA AIR}}  founded  1989年4月7日（公司登記）
+ 長榮航空{{lang|en|EVA AIR}}  commenced  1991年7月1日
+ 長榮航空{{lang|en|EVA AIR}}  headquarters  {{flagicon|TWN}} [[臺灣]][[桃園市]][[南崁]]
+長榮航空{{lang|en|EVA AIR}}  company_slogan  Sharing the World, Flying Together
+長榮航空{{lang|en|EVA AIR}}  hubs  {{TWN}} [[桃園國際機場]]
+長榮航空{{lang|en|EVA AIR}}  focus_cities  {{TWN}} [[高雄國際機場]]{{THA}} [[蘇凡納布國際機場]]{{HKG}} [[香港國際機場]]
+長榮航空{{lang|en|EVA AIR}}  frequent_flyer  無限萬哩遊
+長榮航空{{lang|en|EVA AIR}}  lounge  長榮航空貴賓室
+長榮航空{{lang|en|EVA AIR}}  alliance [[星空聯盟]]
+長榮航空{{lang|en|EVA AIR}}  website  {{url|http://www.evaair.com/}}
+海南航空<br />Hainan Airlines airline  海南航空<br />Hainan Airlines
+ 海南航空<br />Hainan Airlines  logo  Hainan Airlines logo.svg
+ 海南航空<br />Hainan Airlines  fleet_size  227
+ 海南航空<br />Hainan Airlines  destinations  90
+ 海南航空<br />Hainan Airlines  IATA  HU
+ 海南航空<br />Hainan Airlines  ICAO  CHH
+ 海南航空<br />Hainan Airlines  callsign  HAINAN/海南
+ 海南航空<br />Hainan Airlines  company_name  海南航空控股份公司
+ 海南航空<br />Hainan Airlines  founded  1989年
+ 海南航空<br />Hainan Airlines  headquarters  {{CHN}} [[海南省]][[海口市]][[美兰区]]国兴大道7号新海航大厦
+ 海南航空<br />Hainan Airlines  key_people  王斐（董事長）
+ 海南航空<br />Hainan Airlines  hubs  [[海口美兰国际机场]][[北京首都国际机场]]<br />[[西安咸阳国际机场]]<br />
+ 海南航空<br />Hainan Airlines  focus_cities  [[长沙黄花国际机场]][[重庆江北国际机场]][[太原武宿国际机场]][[乌鲁木齐地窝堡国际机场]][[大连周水子国际机场]][[广州白云国际机场]][[深圳宝安国际机场]][[杭州萧山国际机场]]<br />[[上海浦东国际机场]]<br />
+ 海南航空<br />Hainan Airlines  frequent_flyer  [[金鹏俱乐部]]
+ 海南航空<br />Hainan Airlines  company_slogan  相伴相惜 梦享飞行
+ 海南航空<br />Hainan Airlines  revenue  {{decrease}} 人民币352.254亿元>(2015)
+ 海南航空<br />Hainan Airlines  net_income  {{decrease}} 人民币30.02亿元(2015)
+ 海南航空<br />Hainan Airlines  assets  {{increase}} 人民币1253.81亿元(2015)
+ 海南航空<br />Hainan Airlines  equity  {{increase}} 人民币334.816亿元(2015)
+ 海南航空<br />Hainan Airlines  website  [https://www.hnair.com hnair.com]
+ 香港航空<br />Hong Kong Airlines airline  香港航空<br />Hong Kong Airlines
+ 香港航空<br />Hong Kong Airlines  logo  Hong Kong Airlines Logo.svg
+ 香港航空<br />Hong Kong Airlines  logo_size  250px
+ 香港航空<br />Hong Kong Airlines  fleet_size  43 (+11架訂購中)
+ 香港航空<br />Hong Kong Airlines  destinations  40(1個即將停辦) {{註|已包括客運和貨運航點及目前飛航的季節性航點，但尚未包括由聯營航空公司以代碼聯營營運的航點}}
+ 香港航空<br />Hong Kong Airlines  IATA  HX
+ 香港航空<br />Hong Kong Airlines  ICAO  CRK
+ 香港航空<br />Hong Kong Airlines  callsign  Bauhinia
+ 香港航空<br />Hong Kong Airlines  founded  2006年
+ 香港航空<br />Hong Kong Airlines  headquarters  [[香港]][[東涌]]達東路20號[[東薈城]]
+ 香港航空<br />Hong Kong Airlines  lounge  遨堂（Club Autus）\n紫荊堂（Club Bauhinia）
+ 香港航空<br />Hong Kong Airlines  alliance  香港航空聯盟（Hong Kong Airlines Alliance） {{註|與[[維珍澳洲航空]]組成的戰略聯盟}}
+ 香港航空<br />Hong Kong Airlines  key_people  侯偉（聯席主席）<br />王利亞（總裁）<br />戰學偉（副總裁）<br />王證皓（副總裁）
+ 香港航空<br />Hong Kong Airlines  hubs  [[香港國際機場]]
+ 香港航空<br />Hong Kong Airlines  company_slogan  此刻，就是香港Where Hong Kong begins很年輕、好香港Fresh+very Hong Kong
+ 香港航空<br />Hong Kong Airlines  frequent_flyer  金鵬俱樂部
+ 香港航空<br />Hong Kong Airlines  website  http://www.hkairlines.com
+ 香港快運航空<br />Hong Kong Express airline  香港快運航空<br />Hong Kong Express
+ 香港快運航空<br />Hong Kong Express  fleet_size  24 (+9架訂購中)
+ 香港快運航空<br />Hong Kong Express  destinations  25
+ 香港快運航空<br />Hong Kong Express  IATA  UO
+ 香港快運航空<br />Hong Kong Express  ICAO  HKE
+ 香港快運航空<br />Hong Kong Express  callsign  HONGKONG SHUTTLE
+ 香港快運航空<br />Hong Kong Express  company_name  香港快運航空公司
+ 香港快運航空<br />Hong Kong Express  founded  2004年
+ 香港快運航空<br />Hong Kong Express  alliance  優行聯盟（U-fly Alliance）
+ 香港快運航空<br />Hong Kong Express  hubs  [[香港國際機場]]
+ 香港快運航空<br />Hong Kong Express  company_slogan  屬於香港的低成本航空公司
+ 香港快運航空<br />Hong Kong Express  frequent_flyer  reward-U
+ 香港快運航空<br />Hong Kong Express  website  http://www.hkexpress.com
+ 蒙古民用航空Mongolian Airlines airline  蒙古民用航空Mongolian Airlines
+ 蒙古民用航空Mongolian Airlines   IATA  OM
+ 蒙古民用航空Mongolian Airlines  ICAO  MGL
+ 蒙古民用航空Mongolian Airlines  callsign  MONGOL AIR
+ 蒙古民用航空Mongolian Airlines  founded  1954年
+ 蒙古民用航空Mongolian Airlines  hubs  {{MGL}} [[乌兰巴托]][[成吉思汗國際機場]]
+ 蒙古民用航空Mongolian Airlines  fleet_size  6
+ 蒙古民用航空Mongolian Airlines  destinations  8
+ 蒙古民用航空Mongolian Airlines  headquarters  {{MGL}} [[乌兰巴托]]
+ 蒙古民用航空Mongolian Airlines  website  http://www.miat.com/
+ 吉祥航空<br />JUNEYAO AIRLINES airline  吉祥航空<br />JUNEYAO AIRLINES
+ 吉祥航空<br />JUNEYAO AIRLINES  logo  Juneyao Airlines logo.png
+ 吉祥航空<br />JUNEYAO AIRLINES  logo_size  280px
+ 吉祥航空<br />JUNEYAO AIRLINES  fleet_size  72+7（订购中）
+ 吉祥航空<br />JUNEYAO AIRLINES  destinations  60+
+ 吉祥航空<br />JUNEYAO AIRLINES  IATA  HO
+ 吉祥航空<br />JUNEYAO AIRLINES  ICAO  DKH
+ 吉祥航空<br />JUNEYAO AIRLINES  callsign  JUNEYAO吉祥
+ 吉祥航空<br />JUNEYAO AIRLINES  parent  [[均瑶集团]]63.12%<Br/>[[東方航空產業投資]]8.6%
+ 吉祥航空<br />JUNEYAO AIRLINES  founded  2005年
+ 吉祥航空<br />JUNEYAO AIRLINES  headquarters  [[上海]]
+ 吉祥航空<br />JUNEYAO AIRLINES  hubs  {{flag|China}} [[上海浦东国际机场]]<Br/> {{flag|China}} [[上海虹桥国际机场]]
+ 吉祥航空<br />JUNEYAO AIRLINES  focus_cities  {{flag|China}} [[杭州萧山国际机场]]<Br/> {{flag|China}} [[南京禄口国际机场]]
+ 吉祥航空<br />JUNEYAO AIRLINES  frequent_flyer  如意俱乐部
+ 吉祥航空<br />JUNEYAO AIRLINES  alliance  [[星空聯盟]]（优连伙伴）
+ 吉祥航空<br />JUNEYAO AIRLINES  website  {{URL|http://www.juneyaoair.com}}
+ 吉祥航空<br />JUNEYAO AIRLINES  subsidiaries  [[九元航空]]
+ 山东航空Shandong Airlines airline  山东航空Shandong Airlines
+ 山东航空Shandong Airlines fleet_size  120
+ 山东航空Shandong Airlines  destinations  45+
+ 山东航空Shandong Airlines  IATA  SC
+ 山东航空Shandong Airlines  ICAO  CDG
+ 山东航空Shandong Airlines  callsign  SHANDONG山东
+ 山东航空Shandong Airlines  company_name  山东航空股份公司
+ 山东航空Shandong Airlines  founded  1994年3月12日
+ 山东航空Shandong Airlines  key_people  徐传钰<br />（董事长兼总裁）
+ 山东航空Shandong Airlines  frequent_flyer  [[凤凰知音]]
+ 山东航空Shandong Airlines  parent  [[山东航空集团]]\n<div>\n*[[中国国际航空]]22.8%\n*[[山东省经济投资开发公司]]42%\n</div>
+ 山东航空Shandong Airlines  website  http://www.shandongair.com.cn/
+ 上海航空Shanghai Airlines airline  上海航空Shanghai Airlines
+ 上海航空Shanghai Airlines fleet_size  105+12（已订购）
+ 上海航空Shanghai Airlines  destinations  140
+ 上海航空Shanghai Airlines  IATA  FM
+ 上海航空Shanghai Airlines  ICAO  CSH
+ 上海航空Shanghai Airlines  parent  [[中国东方航空]]
+ 上海航空Shanghai Airlines  callsign  Shanghai Air上航
+ 上海航空Shanghai Airlines  founded  1985年12月30日
+ 上海航空Shanghai Airlines  frequent_flyer  東方萬里行
+ 上海航空Shanghai Airlines  website  http://www.shanghai-air.com
+ 深圳航空Shenzhen Airlines airline  深圳航空Shenzhen Airlines
+ 深圳航空Shenzhen Airlines   fleet_size  187
+ 深圳航空Shenzhen Airlines  destinations  74
+ 深圳航空Shenzhen Airlines  IATA  ZH
+ 深圳航空Shenzhen Airlines  ICAO  CSZ
+ 深圳航空Shenzhen Airlines  callsign  SHENZHEN AIR/深圳
+ 深圳航空Shenzhen Airlines  company_name  深圳航空股份有限公司
+ 深圳航空Shenzhen Airlines  founded  1992年11月
+ 深圳航空Shenzhen Airlines  commenced  1993年9月17日
+ 深圳航空Shenzhen Airlines  headquarters  [[中國]][[广东省]][[深圳市]][[深圳宝安国际机场]]
+ 深圳航空Shenzhen Airlines  key_people  陈志勇（董事长）
+ 深圳航空Shenzhen Airlines  hubs  [[深圳宝安国际机场]][[广州白云国际机场]][[沈阳桃仙国际機場]]<Br />
+ 深圳航空Shenzhen Airlines  focus_cities  [[南京禄口国际机场]][[无锡苏南国际机场]][[南宁吴圩国际機場]][[西安咸阳国际機場]][[北京首都国际機場]][[郑州新郑国际機場]]<Br />[[成都双流国际机场]][[泉州晋江国际机场]]
+ 深圳航空Shenzhen Airlines  company_slogan  任何时候 自然体贴 深圳航空\n深情一片，航程万里(旧口号)
+ 深圳航空Shenzhen Airlines  frequent_flyer  [[鳳凰知音]]
+ 深圳航空Shenzhen Airlines  lounge  尊鹏阁
+ 深圳航空Shenzhen Airlines  revenue  {{Increase}} 276.46亿元[[人民币]]（下同）（2017）
+ 深圳航空Shenzhen Airlines  net_income  {{gain}} 14.39亿元 [[人民币]]（下同）（2017）
+ 深圳航空Shenzhen Airlines  equity  {{gain}} 8.125亿元 [[人民币]]（下同）（2016）
+ 深圳航空Shenzhen Airlines  parent  [[中國國際航空]]（51%）[[深圳国际]]（49%）
+ 深圳航空Shenzhen Airlines  subsidiaries  [[昆明航空]]
+ 深圳航空Shenzhen Airlines  alliance  [[星空聯盟]]
+ 深圳航空Shenzhen Airlines  website  {{URL|http://www.shenzhenair.com}}
+ 四川航空<br />Sichuan Airlines airline  四川航空<br />Sichuan Airlines
+ 四川航空<br />Sichuan Airlines   fleet_size  142
+ 四川航空<br />Sichuan Airlines  destinations  93
+ 四川航空<br />Sichuan Airlines  IATA  3U
+ 四川航空<br />Sichuan Airlines  ICAO  CSC
+ 四川航空<br />Sichuan Airlines  callsign  Sichuan Air<br />四川
+ 四川航空<br />Sichuan Airlines  company_name  四川航空股份有限公司
+ 四川航空<br />Sichuan Airlines  founded  1986年9月19日
+ 四川航空<br />Sichuan Airlines  commenced  1988年7月14日
+ 四川航空<br />Sichuan Airlines  headquarters  {{CHN}} [[四川省]] [[成都市]] [[双流国际机场]] 四川航空大厦
+ 四川航空<br />Sichuan Airlines  key_people  李海鹰（董事長）
+ 四川航空<br />Sichuan Airlines  company_slogan  美丽川航，卓越时尚
+ 四川航空<br />Sichuan Airlines  hubs  {{CHN}} [[成都双流国际机场]]（总部）{{CHN}} [[重庆江北国际机场]]（分公司）{{CHN}} [[昆明长水国际机场]]（分公司）
+ 四川航空<br />Sichuan Airlines  focus_cities  {{CHN}} [[北京首都国际机场]]（运行基地）{{CHN}} [[杭州萧山国际机场]]（运行基地）{{CHN}} [[西安咸阳国际机场]]（运行基地）{{CHN}} [[三亚凤凰国际机场]]（运行基地）{{CHN}} [[哈尔滨太平国际机场]]（运行基地）{{nowrap | |CHN| [[南宁吴圩国际机场]]（运行基地）}} {{CHN}} [[南宁吴圩国际机场]]（运行基地）
+ 四川航空<br />Sichuan Airlines  frequent_flyer  金熊猫俱乐部（与中国南航明珠俱乐部共享部分里程与奖励）
+ 四川航空<br />Sichuan Airlines  website  http://www.sichuanair.com/
+ 天津航空 airline  天津航空
+ 天津航空  fleet_size  93
+ 天津航空  IATA  GS
+ 天津航空  ICAO  GCR
+ 天津航空  callsign  BOHAI渤海
+ 天津航空  company_name  天津航空责任公司
+ 天津航空  founded  2006年11月15日（大新华快运）
+ 天津航空  headquarters  [[天津市]] [[中国（天津）自由贸易试验区|自贸试验区]] [[天津空港经济区|机场片区]]
+ 天津航空  key_people  刘璐（董事长）
+ 天津航空  hubs  [[天津滨海国际机场]][[海口美兰国际机场]]
+ 天津航空  secondary_hubs  [[西安咸阳国际机场]][[呼和浩特白塔国际机场]][[乌鲁木齐地窝堡国际机场]]
+ 天津航空  focus_cities  [[北京首都国际机场]][[南宁吴圩国际机场]][[贵阳龙洞堡国际机场]][[大连周水子国际机场]]
+ 天津航空  frequent_flyer  金鹏俱乐部
+ 天津航空  telephone_no  950710
+ 天津航空  website  http://www.tianjin-air.com
+ 廈門航空Xiamen Air airline  廈門航空Xiamen Air
+ 廈門航空Xiamen Air fleet_size  204（含子公司[[江西航空]]、[[河北航空]]）
+ 廈門航空Xiamen Air  destinations  80（境内62个，境外18个）
+ 廈門航空Xiamen Air  IATA  MF
+ 廈門航空Xiamen Air  ICAO  CXA
+ 廈門航空Xiamen Air  callsign  XIAMEN AIR<br />白鹭
+ 廈門航空Xiamen Air  revenue  {{increase}} [[人民币]]218.85亿(2016)
+ 廈門航空Xiamen Air  net_income  {{increase}} 人民币11.76亿元(2016)
+ 廈門航空Xiamen Air  assets  {{increase}} 人民币442.1亿元(2016)
+ 廈門航空Xiamen Air  parent  [[中国南方航空]](55%)<br />[[厦门建发集团有限公司]]（34%）<br />福建投资集团（11%）
+ 廈門航空Xiamen Air  company_name  廈門航空有限公司
+ 廈門航空Xiamen Air  founded  1984年7月25日
+ 廈門航空Xiamen Air  key_people  赵东（董事长兼任[[河北航空]]董事长）
+ 廈門航空Xiamen Air  frequent_flyer  林鷺飛行獎勵計劃
+ 廈門航空Xiamen Air  lounge  廈航白鷺貴賓室
+ 廈門航空Xiamen Air  alliance  [[天合聯盟]]
+ 廈門航空Xiamen Air  company_slogan  以诚为本，以客为尊
+ 廈門航空Xiamen Air  website  [http://www.xiamenair.com xiamenair.com]
+ Mandarin Airlines 華信航空 airline  Mandarin Airlines 華信航空
+ Mandarin Airlines 華信航空  fleet_size  10
+ Mandarin Airlines 華信航空  destinations  34 (including charter flights)
+ Mandarin Airlines 華信航空  IATA  AE
+ Mandarin Airlines 華信航空  ICAO  MDA
+ Mandarin Airlines 華信航空  callsign  MANDARIN
+ Mandarin Airlines 華信航空  parent  [[China Airlines]]
+ Mandarin Airlines 華信航空  founded  1 June 1991
+ Mandarin Airlines 華信航空  headquarters  [[Songshan District, Taipei|Songshan District]], [[Taipei]], [[Taiwan]]
+Mandarin Airlines 華信航空  key_people  Samuel P. Lin   ([[Chairman]])
+Mandarin Airlines 華信航空   hubs  <div>\n* [[Taiwan Taoyuan International Airport]]\n* [[Taipei Songshan Airport]] \n* [[Taichung International Airport]]\n</div>
+Mandarin Airlines 華信航空   focus_cities  [[Kaohsiung International Airport]]
+Mandarin Airlines 華信航空  frequent_flyer  [[China Airlines|Dynasty Flyer]]
+Mandarin Airlines 華信航空  alliance  [[SkyTeam]] (Affiliate)
+Mandarin Airlines 華信航空  website  [https://www.mandarin-airlines.com/]
+ 顺丰航空 airline  顺丰航空
+ 顺丰航空  fleet_size  53
+ 顺丰航空  IATA  O3
+ 顺丰航空  ICAO  CSS
+ 顺丰航空  callsign  SHUN FENG
+ 顺丰航空  company_name  顺丰航空有限公司
+ 顺丰航空  founded  2009年
+ 顺丰航空  headquarters  [[中國]][[广东省]][[深圳市]]宝安国际机场航站四路1111号
+ 顺丰航空  key_people  李胜（[[董事长]]）
+ 顺丰航空  hubs  [[深圳宝安国际机场]]<br />[[杭州萧山国际机场]]<br />[[鄂州机场]]（未来）
+ 河北航空Hebei Airlines airline  河北航空Hebei Airlines
+ 河北航空Hebei Airlines  fleet_size  28
+ 河北航空Hebei Airlines  destinations  境内53+(境外+6)
+ 河北航空Hebei Airlines  IATA  NS
+ 河北航空Hebei Airlines  ICAO  HBH
+ 河北航空Hebei Airlines  callsign  HEBEI AIR / 河北
+ 河北航空Hebei Airlines  company_name  河北航空公司
+ 河北航空Hebei Airlines  founded  2010年6月29日
+ 河北航空Hebei Airlines  frequent_flyer  冀鹰会员
+ 河北航空Hebei Airlines  lounge  河北航空贵宾室
+ 河北航空Hebei Airlines  key_people  赵东（[[厦门航空]]董事长兼任河北航空董事长）<br />蒋卫东（总经理）
+ 河北航空Hebei Airlines  company_slogan  随心启航·快乐飞翔
+ 河北航空Hebei Airlines  parent  [[廈門航空]]（99.47%）
+ 河北航空Hebei Airlines  website  http
+ 河北航空Hebei Airlines  assets  {{increase}} 人民币52.70亿元（2017年）
+ 亚德里亚航空<br />Adria Airways airline  亚德里亚航空<br />Adria Airways
+ 亚德里亚航空<br />Adria Airways  IATA  JP
+ 亚德里亚航空<br />Adria Airways  ICAO  ADR
+ 亚德里亚航空<br />Adria Airways  callsign  ADRIA
+ 亚德里亚航空<br />Adria Airways  founded  1961年3月14日
+ 亚德里亚航空<br />Adria Airways  commenced  1961年
+ 亚德里亚航空<br />Adria Airways  hubs  {{SVN}} [[卢布尔雅那约热·普奇尼克机场]]
+ 亚德里亚航空<br />Adria Airways  frequent_flyer  Miles & More
+ 亚德里亚航空<br />Adria Airways  lounge  Senator Lounge
+ 亚德里亚航空<br />Adria Airways  alliance  [[星空联盟]]
+ 亚德里亚航空<br />Adria Airways  fleet_size  13
+ 亚德里亚航空<br />Adria Airways  destinations  25
+ 亚德里亚航空<br />Adria Airways  parent  Kapitalska družba d.d.
+ 亚德里亚航空<br />Adria Airways  headquarters  {{SVN}} [[卢布尔雅那]]
+ 亚德里亚航空<br />Adria Airways  key_people  Tadej Tufek（[[总裁]]）
+ 亚德里亚航空<br />Adria Airways  website  http://www.adria.si/
+ 愛琴海航空Aegean Airlines airline  愛琴海航空Aegean Airlines
+ 愛琴海航空Aegean Airlines  IATA  A3
+ 愛琴海航空Aegean Airlines  ICAO  AEE
+ 愛琴海航空Aegean Airlines  callsign  AEGEAN
+ 愛琴海航空Aegean Airlines  founded  1987年
+ 愛琴海航空Aegean Airlines  hubs  [[雅典國際機場]]
+ 愛琴海航空Aegean Airlines  frequent_flyer  {{lang|en|Miles+Bonus}}
+ 愛琴海航空Aegean Airlines  alliance  [[星空聯盟]]
+ 愛琴海航空Aegean Airlines  subsidiaries  [[奧林匹克航空]]
+ 愛琴海航空Aegean Airlines  fleet_size  49
+ 愛琴海航空Aegean Airlines  destinations  81
+ 愛琴海航空Aegean Airlines  headquarters  {{flag|希腊}} [[雅典]]
+ 愛琴海航空Aegean Airlines  key_people  Eftychios Vassilakis（Vice president）<br/>Dimitrios Gerogiannis（CEO）
+ 愛琴海航空Aegean Airlines  website  [http://www.aegeanair.com/ aegeanair.com]
+ 愛爾蘭航空 Aer Lingus airline  愛爾蘭航空 Aer Lingus
+ 愛爾蘭航空 Aer Lingus  IATA  EI
+ 愛爾蘭航空 Aer Lingus  ICAO  EIN
+ 愛爾蘭航空 Aer Lingus  callsign  SHAMROCK
+ 愛爾蘭航空 Aer Lingus  headquarters  爱尔兰[[芬戈郡]][[都柏林机场]]
+ 愛爾蘭航空 Aer Lingus  parent  [[國際航空集團]]
+ 愛爾蘭航空 Aer Lingus  founded  1936年4月15日
+ 愛爾蘭航空 Aer Lingus  commenced  1936年5月27日
+ 愛爾蘭航空 Aer Lingus  key_people  科尔姆·巴灵顿（董事长）克里斯托弗·穆勒（CEO）
+ 愛爾蘭航空 Aer Lingus  hubs  *[[都柏林机场|都柏林]]
+ 愛爾蘭航空 Aer Lingus  bases  * [[乔治·贝斯特贝尔法斯特城市机场|贝尔法斯特-城市]]\n* [[科克機場|科克]]\n* [[盖特威克机场|伦敦-盖特威克]]\n* [[伦敦希思罗机场|伦敦-希思罗]]\n* [[香农机场|香农]]
+ 愛爾蘭航空 Aer Lingus  frequent_flyer  {{lang|en|AerClub/Avios}}
+ 愛爾蘭航空 Aer Lingus  fleet_size  47
+ 愛爾蘭航空 Aer Lingus  destinations  77
+ 愛爾蘭航空 Aer Lingus  revenue  {{increase}} [[欧元|€]]13.93亿（2012）
+ 愛爾蘭航空 Aer Lingus  operating_income  {{increase}} [[欧元|€]]0.691亿（2012）
+ 愛爾蘭航空 Aer Lingus  net_income  {{decrease}} [[欧元|€]]0.406亿（2012）
+ 愛爾蘭航空 Aer Lingus  company_slogan  " {{lang|en|Great Care. Great Fare.}} "
+ 愛爾蘭航空 Aer Lingus  website   {{URL|http://www.aerlingus.com|aerlingus.com}}
+ 藍鷹航空Aigle Azur airline  藍鷹航空Aigle Azur
+ 藍鷹航空Aigle Azur  IATA  ZI
+ 藍鷹航空Aigle Azur  ICAO  AAF
+ 藍鷹航空Aigle Azur  callsign  AIGLE AZUR
+ 藍鷹航空Aigle Azur  parent  [[海航集团]]（30%股权）
+ 藍鷹航空Aigle Azur  founded  1946年
+ 藍鷹航空Aigle Azur  hubs  {{FRA}} [[巴黎－奥利机场]]
+ 藍鷹航空Aigle Azur  frequent_flyer  {{lang|fr|Azur Plus}}
+ 藍鷹航空Aigle Azur  fleet_size  12
+ 藍鷹航空Aigle Azur  destinations  19
+ 藍鷹航空Aigle Azur  headquarters  {{FRA}} [[巴黎]]
+ 藍鷹航空Aigle Azur  website  [https://aigle-azur.com]
+ 波罗的海航空airBaltic airline  波罗的海航空airBaltic
+ 波罗的海航空airBaltic  IATA  BT
+ 波罗的海航空airBaltic  ICAO  BTI
+ 波罗的海航空airBaltic  callsign  AIR BALTIC
+ 波罗的海航空airBaltic  founded  1995年8月28日
+ 波罗的海航空airBaltic  hubs  [[里加国际机场]]
+ 波罗的海航空airBaltic  secondary_hubs  [[塔林倫納特·梅里機場|塔林國際機埸]] <br />[[維爾紐斯國際機場]]
+ 波罗的海航空airBaltic  frequent_flyer  {{lang|en|PINS}}
+ 波罗的海航空airBaltic  fleet_size  31
+ 波罗的海航空airBaltic  destinations  68
+ 波罗的海航空airBaltic  parent  {{flagicon image|Flag of Latvia.svg}} 拉脱维亚政府
+ 波罗的海航空airBaltic  headquarters  {{flagicon image|Flag of Latvia.svg}} 拉脱维亚里加
+ 波罗的海航空airBaltic  key_people  {{lang|la|Martin Gauss}}
+ 波罗的海航空airBaltic  website  [http://www.airbaltic.com/ airbaltic.com]
+ 歐羅巴航空  Air Europa airline  歐羅巴航空  Air Europa
+ 歐羅巴航空  Air Europa  fleet_size  43
+ 歐羅巴航空  Air Europa  destinations  64
+ 歐羅巴航空  Air Europa  IATA  UX
+ 歐羅巴航空  Air Europa  ICAO  AEA
+ 歐羅巴航空  Air Europa  callsign  EUROPA
+ 歐羅巴航空  Air Europa  parent  Globalia
+ 歐羅巴航空  Air Europa  founded  1986年
+ 歐羅巴航空  Air Europa  headquarters  {{ESP}} [[馬略卡島]] [[柳克馬霍爾]]
+ 歐羅巴航空  Air Europa  key_people  Juan Jose Hidalgo  （[[董事會主席]]兼[[執行長|CEO]]）
+ 歐羅巴航空  Air Europa  hubs  {{ESP}} [[马德里巴哈拉斯机场]]
+ 歐羅巴航空  Air Europa  focus_cities  {{ESP}} [[巴塞罗那机场]]  {{ESP}} [[特內里費南部機場]]
+ 歐羅巴航空  Air Europa  frequent_flyer  Suma
+ 歐羅巴航空  Air Europa  alliance  [[天合聯盟]]
+ 歐羅巴航空  Air Europa  website  [http://www.aireuropa.com www.aireuropa.com]
+ 格陵蘭航空  Air Greenland airline  格陵蘭航空  Air Greenland
+ 格陵蘭航空  Air Greenland fleet_size  28
+ 格陵蘭航空  Air Greenland  destinations  18
+ 格陵蘭航空  Air Greenland  IATA  GL
+ 格陵蘭航空  Air Greenland  ICAO  GRL
+ 格陵蘭航空  Air Greenland  callsign  GREENLAND
+ 格陵蘭航空  Air Greenland  founded  1960年
+ 格陵蘭航空  Air Greenland  headquarters  {{GRL}} [[瑟莫蘇克|瑟莫蘇克自治市]][[努克|努克市]] {{link-en|努史瓦克區|Nuussuaq (district)}}
+ 格陵蘭航空  Air Greenland  key_people  Peter Gronvold Samuelsen (CEO)
+ 格陵蘭航空  Air Greenland  hubs  * {{GRL}} [[努克機場]]\n* {{nowrap|GRL| [[坎克爾路斯斯雅克機場]]}} {{GRL}} [[坎克爾路斯斯雅克機場]]
+ 格陵蘭航空  Air Greenland  focus_cities  * {{DNK}} [[哥本哈根凱斯楚普機場]]\n* {{GRL}} {{link-en|伊盧利薩特機場|Ilulissat Airport}}
+ 格陵蘭航空  Air Greenland  website  http://www.airgreenland.gl
+ 法國航空Air FranceSociété Air France airline  法國航空Air FranceSociété Air France
+ 法國航空Air FranceSociété Air France  logo  Air France Logo.svg
+ 法國航空Air FranceSociété Air France  logo_size  280px
+ 法國航空Air FranceSociété Air France  fleet_size  217
+ 法國航空Air FranceSociété Air France  destinations  201
+ 法國航空Air FranceSociété Air France  IATA  AF
+ 法國航空Air FranceSociété Air France  ICAO  AFR
+ 法國航空Air FranceSociété Air France  callsign  AIRFRANS
+ 法國航空Air FranceSociété Air France  parent  [[法荷航集团]]
+ 法國航空Air FranceSociété Air France  founded  1933年10月7日
+ 法國航空Air FranceSociété Air France  headquarters  [[弗朗斯地区特朗布莱]]戴高樂機場
+ 法國航空Air FranceSociété Air France  key_people  Alexandre de Juniac（CEO）
+ 法國航空Air FranceSociété Air France  hubs  [[巴黎戴高樂機場]] [[巴黎奧利機場]]
+ 法國航空Air FranceSociété Air France  focus_cities  [[里昂圣埃克絮佩里机场]]<br/>[[马赛普罗旺斯机场]] [[尼斯蔚藍海岸機場]][[图卢兹-布拉尼亚克机场]]
+ 法國航空Air FranceSociété Air France  frequent_flyer  藍天飛行
+ 法國航空Air FranceSociété Air France  lounge  <div>\n* Première Lounge\n* Departures Lounge\n* Arrivals Lounge\n* Salon Air France\n* SkyTeam Lounge\n* Air France Lounge\n</div>
+ 法國航空Air FranceSociété Air France  subsidiaries  [[城捷航空]]  [[霍浦航空]]  [[法國泛航航空]]  [[朱恩航空]]\n</div>
+ 法國航空Air FranceSociété Air France  alliance  [[天合聯盟]]
+ 法國航空Air FranceSociété Air France  company_slogan  France is in the air
+ 法國航空Air FranceSociété Air France  website  http://www.airfrance.com
+ 馬耳他航空Air Malta airline  馬耳他航空Air Malta
+ 馬耳他航空Air Malta  IATA  KM
+ 馬耳他航空Air Malta  ICAO  AMC
+ 馬耳他航空Air Malta  callsign  AIR MALTA
+ 馬耳他航空Air Malta  founded  1973年
+ 馬耳他航空Air Malta  hubs  [[馬耳他國際機場]]
+ 馬耳他航空Air Malta  website  [https://airmalta.com]
+ 諾斯特姆航空Air Nostrum airline  諾斯特姆航空Air Nostrum
+ 諾斯特姆航空Air Nostrum  IATA  YW
+ 諾斯特姆航空Air Nostrum  ICAO  ANE
+ 諾斯特姆航空Air Nostrum  callsign  NOSTRUM AIR
+ 諾斯特姆航空Air Nostrum  parent  NULL
+ 諾斯特姆航空Air Nostrum  founded  1994年5月23日
+ 諾斯特姆航空Air Nostrum  headquarters  {{ESP}} [[巴倫西亞]]
+ 諾斯特姆航空Air Nostrum  hubs  {{ESP}} [[巴塞罗那机场]]  {{ESP}} [[马德里－巴拉哈斯机场]]  {{ESP}} {{link-es|巴倫西亞機場|Aeropuerto de Valencia}} </div>
+ 諾斯特姆航空Air Nostrum  alliance  [[寰宇一家]]
+ 諾斯特姆航空Air Nostrum  fleet_size  39
+ 諾斯特姆航空Air Nostrum  destinations  51
+ 諾斯特姆航空Air Nostrum  website  [http://www.airnostrum.com]
+ 塞爾維亞航空Air Serbia airline  塞爾維亞航空Air Serbia
+ 塞爾維亞航空Air Serbia  IATA  JU
+ 塞爾維亞航空Air Serbia  ICAO  ASL
+ 塞爾維亞航空Air Serbia  callsign  AIR SERBIA
+ 塞爾維亞航空Air Serbia  founded  "1927年06月17日"
+ 塞爾維亞航空Air Serbia  commenced  2013年10月26日
+ 塞爾維亞航空Air Serbia  bases  {{SRB}} [[貝爾格萊德]]
+ 塞爾維亞航空Air Serbia  hubs  {{SRB}} [[貝爾格萊德尼古拉·特斯拉機場]]
+ 塞爾維亞航空Air Serbia  frequent_flyer  [[阿提哈德航空|Etihad Guest]]
+ 塞爾維亞航空Air Serbia  subsidiaries  Air Serbia Technical * Air Serbia Ground Services * Aviolet
+ 塞爾維亞航空Air Serbia  fleet_size  20
+ 塞爾維亞航空Air Serbia  destinations  41
+ 塞爾維亞航空Air Serbia  parent  塞爾維亞政府
+ 塞爾維亞航空Air Serbia  headquarters  {{SRB}} [[貝爾格萊德]]
+ 塞爾維亞航空Air Serbia  key_people  Dane Kondic
+ 塞爾維亞航空Air Serbia  revenue  {{increase}} &nbsp;[[Euro|€]]262&nbsp;百萬&nbsp;<small>(2014)</small>
+ 塞爾維亞航空Air Serbia  net_income  {{increase}} €2.7&nbsp;百萬 <small>(2014)</small>
+ 塞爾維亞航空Air Serbia  assets  {{increase}} €304.97&nbsp;百萬 <small>(2013)</small>
+ 塞爾維亞航空Air Serbia  equity  {{steady}} €0 <small>(2013)</small>
+ 塞爾維亞航空Air Serbia  num_employees  1,527 <small>(2013)</small>
+ 塞爾維亞航空Air Serbia  website  {{URL|airserbia.com}}
+ 意大利航空Alitalia airline  意大利航空Alitalia
+ 意大利航空Alitalia IATA  AZ
+ 意大利航空Alitalia  ICAO  AZA
+ 意大利航空Alitalia  callsign  ALITALIA
+ 意大利航空Alitalia  founded  1999年
+ 意大利航空Alitalia  hubs  [[羅馬-菲烏米奇諾機場]]
+ 意大利航空Alitalia  secondary_hubs  [[米蘭-利納特機場]]
+ 意大利航空Alitalia  focus_cities  [[米蘭-馬爾彭薩機場]]
+ 意大利航空Alitalia  alliance  [[天合聯盟]]
+ 意大利航空Alitalia  subsidiaries  [[意大利城市快线航空]]
+ 意大利航空Alitalia  headquarters  {{flagicon image|Flag of Italy.svg}} 意大利罗马菲乌米奇诺
+ 意大利航空Alitalia  website  [https://alitalia.com]
+ 亚特拉斯航空  Atlas Air airline  亚特拉斯航空  Atlas Air
+ 亚特拉斯航空  Atlas Air  logo  Atlas Air Logo.svg
+ 亚特拉斯航空  Atlas Air  logo_size  250px
+ 亚特拉斯航空  Atlas Air  IATA  5Y
+ 亚特拉斯航空  Atlas Air  ICAO  GTI
+ 亚特拉斯航空  Atlas Air  callsign  GIANT
+ 亚特拉斯航空  Atlas Air  founded  1992年
+ 亚特拉斯航空  Atlas Air  fleet_size  21
+ 亚特拉斯航空  Atlas Air  destinations  101
+ 亚特拉斯航空  Atlas Air  website  http://www.atlasairworldwide.com
+ 奧地利航空<br />Austrian Airlines airline  奧地利航空<br />Austrian Airlines
+ 奧地利航空<br />Austrian Airlines  logo  Austrian Airlines Logo.svg
+ 奧地利航空<br />Austrian Airlines  logo_size  250px
+ 奧地利航空<br />Austrian Airlines  IATA  OS
+ 奧地利航空<br />Austrian Airlines  ICAO  AUA
+ 奧地利航空<br />Austrian Airlines  callsign  Austrian
+ 奧地利航空<br />Austrian Airlines  parent  [[汉莎航空|漢莎航空集團]]
+ 奧地利航空<br />Austrian Airlines  founded  1958
+ 奧地利航空<br />Austrian Airlines  headquarters  [[施韋夏特]]
+ 奧地利航空<br />Austrian Airlines  key_people  Alfred Ötsch （[[行政總裁]]）<br />Thomas Kleibl（[[財務總監]]）
+ 奧地利航空<br />Austrian Airlines  hubs  [[維也納國際機場]]
+ 奧地利航空<br />Austrian Airlines  focus_cities  [[因斯布魯克機場]] [[格拉茨機場]] [[薩爾茨堡機場]]
+ 奧地利航空<br />Austrian Airlines  frequent_flyer  Miles & More
+ 奧地利航空<br />Austrian Airlines  lounge  Senator Lounge
+ 奧地利航空<br />Austrian Airlines  alliance  [[星空聯盟]]
+ 奧地利航空<br />Austrian Airlines  fleet_size  82
+ 奧地利航空<br />Austrian Airlines  destinations  130
+ 奧地利航空<br />Austrian Airlines  website  http://www.aua.com
+ 貝勒航空  Belle Air airline  貝勒航空  Belle Air
+ 貝勒航空  Belle Air  IATA  LZ
+ 貝勒航空  Belle Air  ICAO  LBY
+ 貝勒航空  Belle Air  callsign  ALBAN-BELLE
+ 貝勒航空  Belle Air  founded  2005年
+ 貝勒航空  Belle Air  ceased  2013年
+ 貝勒航空  Belle Air  fleet_size  5
+ 貝勒航空  Belle Air  destinations  21
+ 貝勒航空  Belle Air  headquarters  {{ALB}} [[地拉那]]
+ 貝勒航空  Belle Air  key_people  Arbi Xhelo
+ 貝勒航空  Belle Air  website  http://www.belleair.al/
+ 藍景航空Blue Panorama Airlines airline  藍景航空Blue Panorama Airlines
+ 藍景航空Blue Panorama Airlines  IATA  BV
+ 藍景航空Blue Panorama Airlines  ICAO  BPA
+ 藍景航空Blue Panorama Airlines  callsign  BLUE PANORAMA
+ 藍景航空Blue Panorama Airlines  fleet_size  9
+ 藍景航空Blue Panorama Airlines  destinations  34
+ 藍景航空Blue Panorama Airlines  alt  Blue Panorama Airlines logo
+ 藍景航空Blue Panorama Airlines  founded  1998年9月3日
+ 藍景航空Blue Panorama Airlines  bases  <div> \n*[[米蘭-馬爾彭薩機場]]\n* {{nowrap|[[羅馬-菲烏米奇諾機場]]}} * {{nowrap|[[地拉那特蕾莎修女國際機場]]}}
+ 藍景航空Blue Panorama Airlines  headquarters  {{ITA}} [[羅馬省]][[菲烏米奇諾]]
+ 藍景航空Blue Panorama Airlines  key_people  Giancarlo Zeni, CEO 
+ 藍景航空Blue Panorama Airlines  website  [http://www.blue-panorama.com/it/ blue-panorama.com]
+ 蓝天航空Blue1 airline  蓝天航空Blue1
+ 蓝天航空Blue1  IATA  KF
+ 蓝天航空Blue1  ICAO  BLF
+ 蓝天航空Blue1  callsign  BLUEFIN
+ 蓝天航空Blue1  founded  1988年
+ 蓝天航空Blue1  commenced  1988年
+ 蓝天航空Blue1  ceased  {{nowrap|2016年 (合并至[[城捷航空]])}}
+ 蓝天航空Blue1  hubs  {{FIN}} [[赫尔辛基－万塔机场]]
+ 蓝天航空Blue1  focus_cities  {{SWE}} [[斯德哥尔摩－阿兰达机场]]
+ 蓝天航空Blue1  frequent_flyer  EuroBonus
+ 蓝天航空Blue1  lounge  斯堪的纳维亚休息室（Scandinavian Lounge）
+ 蓝天航空Blue1  alliance  [[星空联盟]]
+ 蓝天航空Blue1  fleet_size  14
+ 蓝天航空Blue1  destinations  27
+ 蓝天航空Blue1  parent  [[北欧航空]]集团
+ 蓝天航空Blue1  headquarters  {{FIN}} [[赫尔辛基]]
+ 蓝天航空Blue1  key_people  斯特凡·文特耶尔维（蓝天航空[[CEO]]）<br />马茨·扬松（北欧航空集团CEO）
+ 蓝天航空Blue1  website  http://www.blue1.com/
+ 英倫航空british midland airline  英倫航空british midland
+ 英倫航空british midland  fleet_size  27
+ 英倫航空british midland  destinations  51
+ 英倫航空british midland  IATA  BD
+ 英倫航空british midland  ICAO  BMA
+ 英倫航空british midland  callsign  Midland
+ 英倫航空british midland  parent  [[國際航空集團]]
+ 英倫航空british midland  subsidiaries  [[英倫寶貝航空]]
+ 英倫航空british midland  founded  1949年
+ 英倫航空british midland  ceased  2012年10月27日（併入[[英國航空]]）
+ 英倫航空british midland  key_people  Nigel Turner ([[CEO|MD]]）<br />Vagn Sorensen （[[公司主席|主席]]）<br />Sir Michael Bishop（前任主席）
+ 英倫航空british midland  hubs  [[倫敦希斯路機場]][[曼徹斯特國際機場]]
+ 英倫航空british midland  frequent_flyer  Diamond Club
+ 英倫航空british midland  lounge  Diamond Club Lounge
+ 英倫航空british midland  slogan  Better for Business
+ 英国航空British Airways airline  英国航空British Airways
+ 英国航空British Airways IATA  BA
+ 英国航空British Airways  ICAO  <span style="font-size
+ 英国航空British Airways  callsign  <span style="font-size
+ 英国航空British Airways  founded  1974年3月31日
+ 英国航空British Airways  company_slogan  "* To Fly. To Serve.（为飞行服务）\n* Upgrade to British Airways （升级到英航）<small>（在线营销）</small>"
+ 英国航空British Airways  key_people  Keith Williams<br/>（行政首长）<br/>Sir Martin Broughton<br/>（主席）
+ 英国航空British Airways  parent  [[国际航空集团]]
+ 英国航空British Airways  subsidiaries  {{flagicon|UK}} [[英航城市飞行者航空]]  {{flagicon|UK}} [[開放天空航空]]
+ 英国航空British Airways  hubs  {{UK}} [[倫敦希斯路機場]]  {{UK}} [[倫敦格域機場]]
+ 英国航空British Airways  lounge  * Concorde Room\n* Galleries First\n* Galleries Club\n* Galleries Arrivals\n* First Lounge\n* Terraces Lounge\n* Executive Club Lounge\n* International Lounge\n* UK and Ireland Lounge
+ 英国航空British Airways  frequent_flyer  會員俱樂部
+ 英国航空British Airways  alliance  [[寰宇一家]]
+ 英国航空British Airways  fleet_size  279
+ 英国航空British Airways  destinations  183
+ 英国航空British Airways  website  http://www.britishairways.com
+ 布魯塞爾航空Brussels Airlines airline  布魯塞爾航空Brussels Airlines
+ 布魯塞爾航空Brussels Airlines IATA  SN
+ 布魯塞爾航空Brussels Airlines  ICAO  BEL
+ 布魯塞爾航空Brussels Airlines  callsign  BEELINE
+ 布魯塞爾航空Brussels Airlines  founded  2006年
+ 布魯塞爾航空Brussels Airlines  hubs  [[布魯塞爾機場]]
+ 布魯塞爾航空Brussels Airlines  frequent_flyer  {{lang|en|Miles & More}}
+ 布魯塞爾航空Brussels Airlines  alliance  [[星空聯盟]]
+ 布魯塞爾航空Brussels Airlines  company_slogan  "{{lang|en|We go the extra smile.}}"
+ 布魯塞爾航空Brussels Airlines  fleet_size  54
+ 布魯塞爾航空Brussels Airlines  destinations  124
+ 布魯塞爾航空Brussels Airlines  headquarters  {{flagicon image|Flag of Belgium.svg}} 比利時扎芬特姆
+ 布魯塞爾航空Brussels Airlines  key_people  {{lang|en|Christina Foerster}} （ {{lang|la|CEO}} ） {{lang|en|Dieter Vranckx}} （ {{lang|la|CFO}} ）
+ 布魯塞爾航空Brussels Airlines  website  [https://brusselsairlines.com]
+ 保加利亚航空Bulgaria Air airline  保加利亚航空Bulgaria Air
+ 保加利亚航空Bulgaria Air IATA  FB
+ 保加利亚航空Bulgaria Air  ICAO  LZB
+ 保加利亚航空Bulgaria Air  callsign  FLYING BULGARIA
+ 保加利亚航空Bulgaria Air  founded  2002年
+ 保加利亚航空Bulgaria Air  hubs  {{flag|保加利亚}} [[索菲亞機場]]
+ 保加利亚航空Bulgaria Air  focus_cities  {{flag|保加利亚}} [[布爾加斯機場]]<br/> {{flag|保加利亚}} [[瓦爾納機場]]
+ 保加利亚航空Bulgaria Air  frequent_flyer  {{lang|en|FLY MORE}}
+ 保加利亚航空Bulgaria Air  fleet_size  10
+ 保加利亚航空Bulgaria Air  destinations  26
+ 保加利亚航空Bulgaria Air  parent  [[巴尔干赫姆斯集团]]
+ 保加利亚航空Bulgaria Air  headquarters  {{flag|保加利亚}} [[索菲亞]]
+ 保加利亚航空Bulgaria Air  website  [https://www.air.bg/ air.bg]
+ 卢森堡国际货运航空 Cargolux Airlines Internationa airline  卢森堡国际货运航空 Cargolux Airlines Internationa
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  logo  Cargolux.svg
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  logo_size  200px
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  IATA  CV
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  ICAO  CLX
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  callsign  CARGOLUX
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  company_slogan  You name it, we fly it
+ 卢森堡国际货运航空 Cargolux Airlines Internationa   founded  1970年3月4日
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  key_people  Ulrich Ogiermann (President and CEO)
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  headquarters  [[盧森堡市]]
+ 卢森堡国际货运航空 Cargolux Airlines Internationa   hubs  [[盧森堡－芬德爾國際機場|芬德爾國際機場]]
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  fleet_size  24
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  destinations  64
+ 卢森堡国际货运航空 Cargolux Airlines Internationa  website  {{url|www.cargolux.com}}
+ 卡帕特航空Carpatair airline  卡帕特航空Carpatair
+ 卡帕特航空Carpatair  IATA  V3
+ 卡帕特航空Carpatair  ICAO  KRP
+ 卡帕特航空Carpatair  callsign  CARPATAIR
+ 卡帕特航空Carpatair  founded  1999年
+ 卡帕特航空Carpatair  hubs  {{ROM}} [[蒂米什瓦拉提米索拉特拉伊安·维亚国际机场]]
+ 卡帕特航空Carpatair  fleet_size  3
+ 卡帕特航空Carpatair  destinations  7
+ 卡帕特航空Carpatair  key_people  Nicolae Petrov (President and CEO)
+ 城捷航空  CityJet airline  城捷航空  CityJet
+ 城捷航空  CityJet  IATA  WX
+ 城捷航空  CityJet  ICAO  BCY
+ 城捷航空  CityJet  callsign  CITY-IRELAND
+ 城捷航空  CityJet  parent  {{flagicon|FRA}} {{flagicon|NLD}} [[法荷航集团]]
+ 城捷航空  CityJet  founded  1992年
+ 城捷航空  CityJet  commenced  1994年
+ 城捷航空  CityJet  headquarters  {{IRE}} [[都柏林]]
+ 城捷航空  CityJet  frequent_flyer  藍天飛行
+ 城捷航空  CityJet  lounge  Departure Lounge
+ 城捷航空  CityJet  alliance  [[天合聯盟]]
+ 城捷航空  CityJet  hubs  {{IRE}} [[都柏林機場]]  {{ENG}} [[倫敦城市機場]]  {{FRA}} [[巴黎戴高樂機場]]  {{NLD}} [[鹿特丹海牙機場]]  {{NLD}} [[安特衛普國際機場]]
+ 城捷航空  CityJet  fleet_size  35
+ 城捷航空  CityJet  destinations  15
+ 城捷航空  CityJet  website  [http://www.cityjet.com cityjet.com]
+ 神鹰航空Condor Flugdienst airline  神鹰航空Condor Flugdienst
+ 神鹰航空Condor Flugdienst IATA  DE
+ 神鹰航空Condor Flugdienst  ICAO  CFG
+ 神鹰航空Condor Flugdienst  callsign  CONDOR
+ 神鹰航空Condor Flugdienst  founded  1955年
+ 神鹰航空Condor Flugdienst  fleet_size  34
+ 神鹰航空Condor Flugdienst  destinations  67
+ 神鹰航空Condor Flugdienst  parent  [[托马斯·库克集团]]
+ 神鹰航空Condor Flugdienst  website  http://www.condor.com/
+ 科西嘉國際航空{{lang|fr|Corsair International}} airline  科西嘉國際航空{{lang|fr|Corsair International}}
+ 科西嘉國際航空{{lang|fr|Corsair International}}  IATA  SS
+ 科西嘉國際航空{{lang|fr|Corsair International}}  ICAO  CRL
+ 科西嘉國際航空{{lang|fr|Corsair International}}  callsign  CORSAIR
+ 科西嘉國際航空{{lang|fr|Corsair International}}  parent  [[途易股份公司]]
+ 科西嘉國際航空{{lang|fr|Corsair International}}  founded  1981年5月17日(當時稱Corse Air International)
+ 科西嘉國際航空{{lang|fr|Corsair International}}  headquarters  [[蘭吉]]
+ 科西嘉國際航空{{lang|fr|Corsair International}}  key_people  Pascal de Izaguirre
+ 科西嘉國際航空{{lang|fr|Corsair International}}  hubs  [[巴黎－奧利機場]]
+ 科西嘉國際航空{{lang|fr|Corsair International}}  company_slogan  "Corsair, ouvrons dautres horizons"
+ 科西嘉國際航空{{lang|fr|Corsair International}}  fleet_size  8
+ 科西嘉國際航空{{lang|fr|Corsair International}}  website  [http://www.corsair.fr// www.corsair.fr]
+ 科西嘉國際航空{{lang|fr|Corsair International}}  destinations  15
+ 克罗地亚航空Croatia Airlines airline  克罗地亚航空Croatia Airlines
+ 克罗地亚航空Croatia Airlines  IATA  OU
+ 克罗地亚航空Croatia Airlines  ICAO  CTN
+ 克罗地亚航空Croatia Airlines  callsign  CROATIA
+ 克罗地亚航空Croatia Airlines  founded  1989年
+ 克罗地亚航空Croatia Airlines  hubs  [[萨格勒布国际机场]]
+ 克罗地亚航空Croatia Airlines  focus_cities  [[斯普利特机场]]<br/>[[杜布罗夫尼克机场]]
+ 克罗地亚航空Croatia Airlines  alliance  [[星空联盟]]
+ 克罗地亚航空Croatia Airlines  fleet_size  14
+ 克罗地亚航空Croatia Airlines  destinations  38
+ 克罗地亚航空Croatia Airlines  headquarters  {{flagicon image|Flag of Croatia.svg}} 克罗地亚萨格勒布
+ 克罗地亚航空Croatia Airlines  website  [https://croatiaairlines.com]
+ 塞浦路斯航空<br />Cyprus Airways airline  塞浦路斯航空<br />Cyprus Airways
+ 塞浦路斯航空<br />Cyprus Airways  IATA  CY
+ 塞浦路斯航空<br />Cyprus Airways  ICAO  CYP
+ 塞浦路斯航空<br />Cyprus Airways  callsign  CYPRUS
+ 塞浦路斯航空<br />Cyprus Airways  founded  1947年9月24日
+ 塞浦路斯航空<br />Cyprus Airways  ceased  2015年1月10日
+ 塞浦路斯航空<br />Cyprus Airways  hubs  [[拉纳卡国际机场]]
+ 塞浦路斯航空<br />Cyprus Airways  secondary_hubs  [[帕福斯国际机场]]
+ 塞浦路斯航空<br />Cyprus Airways  frequent_flyer  SunMiles
+ 塞浦路斯航空<br />Cyprus Airways  lounge  Executive Lounge
+ 塞浦路斯航空<br />Cyprus Airways  fleet_size  11
+ 塞浦路斯航空<br />Cyprus Airways  destinations  30
+ 塞浦路斯航空<br />Cyprus Airways  headquarters  [[塞浦路斯]][[尼科西亚]]
+ 捷克航空  České aerolinie  CSA Czech Airlines airline  捷克航空  České aerolinie  CSA Czech Airlines
+ 捷克航空  České aerolinie  CSA Czech Airlines  logo  Czech_Airlines.svg
+ 捷克航空  České aerolinie  CSA Czech Airlines  logo_size  250px
+ 捷克航空  České aerolinie  CSA Czech Airlines  IATA  OK
+ 捷克航空  České aerolinie  CSA Czech Airlines  ICAO  CSA
+ 捷克航空  České aerolinie  CSA Czech Airlines  callsign  CSA Lines
+ 捷克航空  České aerolinie  CSA Czech Airlines  founded  1923年
+ 捷克航空  České aerolinie  CSA Czech Airlines  headquarters  {{CZE}} [[布拉格]] {{link-en|Vokovice|Vokovice}}
+ 捷克航空  České aerolinie  CSA Czech Airlines  key_people  Radomír Lašák
+ 捷克航空  České aerolinie  CSA Czech Airlines  hubs  {{CZE}} [[布拉格瓦茨拉夫·哈维尔国际机场|布拉格机场]]
+ 捷克航空  České aerolinie  CSA Czech Airlines  focus_cities  * {{CZE}} {{link-en|卡羅維發利機場|Karlovy Vary Airport}} * {{nowrap|SVK| [[布拉提斯拉瓦機場]]}} * {{SVK}} [[布拉提斯拉瓦機場]] {{SVK}} [[科希策國際機場]]
+ 捷克航空  České aerolinie  CSA Czech Airlines  frequent_flyer  OK Plus
+ 捷克航空  České aerolinie  CSA Czech Airlines  lounge  Crystal Lounge
+ 捷克航空  České aerolinie  CSA Czech Airlines  alliance  [[天合联盟]]
+ 捷克航空  České aerolinie  CSA Czech Airlines  fleet_size  17
+ 捷克航空  České aerolinie  CSA Czech Airlines  destinations  43
+ 捷克航空  České aerolinie  CSA Czech Airlines  parent  [[Travel Service]]
+ 捷克航空  České aerolinie  CSA Czech Airlines  website  http://czechairlines.com/
+ 杜布罗夫尼克航空  Dubrovnik Airline airline  杜布罗夫尼克航空  Dubrovnik Airline
+ 杜布罗夫尼克航空  Dubrovnik Airline  logo  Dubrovnik Airline MD82 9A-CDC.jpg
+ 杜布罗夫尼克航空  Dubrovnik Airline  logo_size  250px
+ 杜布罗夫尼克航空  Dubrovnik Airline  IATA  2D
+ 杜布罗夫尼克航空  Dubrovnik Airline  ICAO  DBK
+ 杜布罗夫尼克航空  Dubrovnik Airline  callsign  DUBROVNIK AIR
+ 杜布罗夫尼克航空  Dubrovnik Airline  parent  [[Atlantska Plovidba]]
+ 杜布罗夫尼克航空  Dubrovnik Airline  founded  2004年12月15日
+ 杜布罗夫尼克航空  Dubrovnik Airline  ceased  2011年10月23日
+ 杜布罗夫尼克航空  Dubrovnik Airline  key_people  Zeno Singer ([[Managing Director|MD]])
+ 杜布罗夫尼克航空  Dubrovnik Airline  fleet_size  0
+ 杜布罗夫尼克航空  Dubrovnik Airline  destinations  0
+ 杜布罗夫尼克航空  Dubrovnik Airline  website  [http://www.dubrovnikairline.com]
+ 以色列航空 airline  以色列航空
+ 以色列航空  logo  Logo of El Al Israel Airlines.svg
+ 以色列航空  logo_size  300px
+ 以色列航空  fleet_size  45（另外28架已訂購）
+ 以色列航空  destinations  45（另外6個貨運航點）
+ 以色列航空  IATA  LY
+ 以色列航空  ICAO  ELY
+ 以色列航空  callsign  El Al
+ 以色列航空  founded  1948年
+ 以色列航空  frequent_flyer  Matmid
+ 以色列航空  lounge  King David Lounge
+ 以色列航空  key_people  Haim Romano（[[CEO]]）
+ 以色列航空  security_features  Each plane is fitted with an anti-missile system
+ 以色列航空  website  http://www.elal.co.il
+ 爱沙尼亚航空Estonian Air airline  爱沙尼亚航空Estonian Air
+ 爱沙尼亚航空Estonian Air  IATA  OV
+ 爱沙尼亚航空Estonian Air  ICAO  ELL
+ 爱沙尼亚航空Estonian Air  callsign  ESTONIAN
+ 爱沙尼亚航空Estonian Air  founded  1991年
+ 爱沙尼亚航空Estonian Air  ceased  2015年11月8日
+ 爱沙尼亚航空Estonian Air  headquarters  {{flag|愛沙尼亞}} [[塔林]]
+ 欧洲之翼航空  Eurowings Luftverkehrs airline  欧洲之翼航空  Eurowings Luftverkehrs
+ 欧洲之翼航空  Eurowings Luftverkehrs  logo  Eurowings Logo.svg
+ 欧洲之翼航空  Eurowings Luftverkehrs  IATA  EW
+ 欧洲之翼航空  Eurowings Luftverkehrs  ICAO  EWG
+ 欧洲之翼航空  Eurowings Luftverkehrs  callsign  EUROWINGS
+ 欧洲之翼航空  Eurowings Luftverkehrs  parent  [[汉莎航空]]
+ 欧洲之翼航空  Eurowings Luftverkehrs  subsidiaries  [[欧罗巴欧洲之翼航空]]
+ 欧洲之翼航空  Eurowings Luftverkehrs  founded  1993年
+ 欧洲之翼航空  Eurowings Luftverkehrs  commenced  1994年1月1日
+ 欧洲之翼航空  Eurowings Luftverkehrs  headquarters  [[德國]][[杜塞尔多夫]]
+ 欧洲之翼航空  Eurowings Luftverkehrs  key_people  F. W. 维特霍尔茨（主席）
+ 欧洲之翼航空  Eurowings Luftverkehrs  hubs  [[杜塞尔多夫机场]]
+ 欧洲之翼航空  Eurowings Luftverkehrs  frequent_flyer  Miles & More
+ 欧洲之翼航空  Eurowings Luftverkehrs  alliance  [[星空聯盟]]
+ 欧洲之翼航空  Eurowings Luftverkehrs  fleet_size  105
+ 欧洲之翼航空  Eurowings Luftverkehrs  destinations  79
+ 欧洲之翼航空  Eurowings Luftverkehrs  website  [http://www.eurowings.com]
+ 芬兰航空<br />Finnair airline  芬兰航空<br />Finnair
+ 芬兰航空<br />Finnair  logo  Finnair Logo.svg
+ 芬兰航空<br />Finnair  logo_size  250px
+ 芬兰航空<br />Finnair  fleet_size  77
+ 芬兰航空<br />Finnair  destinations  132
+ 芬兰航空<br />Finnair  IATA  AY
+ 芬兰航空<br />Finnair  ICAO  FIN
+ 芬兰航空<br />Finnair  callsign  Finnair
+ 芬兰航空<br />Finnair  company_name  Finnair Group
+ 芬兰航空<br />Finnair  founded  1923年
+ 芬兰航空<br />Finnair  key_people  Topi Manner（[[首席执行官]]）
+ 芬兰航空<br />Finnair  frequent_flyer  Finnair Plus
+ 芬兰航空<br />Finnair  lounge  Finnair Lounge
+ 芬兰航空<br />Finnair  alliance  [[寰宇一家]]
+ 芬兰航空<br />Finnair  website  {{URL|https://www.finnair.com/}}
+ 弗莱比航空  Flybe airline  弗莱比航空  Flybe
+ 弗莱比航空  Flybe  logo  Flybe Logo.svg
+ 弗莱比航空  Flybe  logo_size  200px
+ 弗莱比航空  Flybe  fleet_size  78
+ 弗莱比航空  Flybe  destinations  102
+ 弗莱比航空  Flybe  IATA  BE
+ 弗莱比航空  Flybe  ICAO  BEE
+ 弗莱比航空  Flybe  callsign  JERSEY
+ 弗莱比航空  Flybe  aoc  601
+ 弗莱比航空  Flybe  subsidiaries  Flybe Nordic
+ 弗莱比航空  Flybe  company_slogan  "The Fastest Way From A to Flybe"
+ 弗莱比航空  Flybe  founded  1979年
+ 弗莱比航空  Flybe  headquarters  [[埃克塞特國際機場]]
+ 弗莱比航空  Flybe  key_people  * Simon Laffin（[[董事長]]） * Saad Hammad（[[首席执行官]]）\n* Jack Walker（[[創始人]]）
+ 弗莱比航空  Flybe  hubs  [[曼徹斯特國際機場]]   [[伯明翰國際機場]]
+ 弗莱比航空  Flybe  bases  [[貝爾法斯特城市機場]]   [[愛丁堡機場]]   [[埃克塞特國際機場]]   [[格拉斯哥國際機場]]   [[南安普頓機場]]
+ 弗莱比航空  Flybe  focus_cities  [[阿伯丁機場]]   [[印威內斯機場]]   [[澤西機場]]   [[倫敦城市機場]]
+ 弗莱比航空  Flybe  frequent_flyer  Avios
+ 弗莱比航空  Flybe  lounge  Flybe Executive Lounge
+ 弗莱比航空  Flybe  revenue  {{increase}} [[英鎊|£]]6.205億
+ 弗莱比航空  Flybe  operating_income  {{increase}} £810萬
+ 弗莱比航空  Flybe  net_income  {{increase}} £800萬
+ 弗莱比航空  Flybe  website  {{URL|flybe.com}}
+ 自由鸟航空<br />Freebird Airlines airline  自由鸟航空<br />Freebird Airlines
+ 自由鸟航空<br />Freebird Airlines  IATA  FH
+ 自由鸟航空<br />Freebird Airlines  ICAO  FHY
+ 自由鸟航空<br />Freebird Airlines  callsign  FREEBIRD AIR
+ 自由鸟航空<br />Freebird Airlines  parent  Gözen航空服务
+ 自由鸟航空<br />Freebird Airlines  founded  2000
+ 自由鸟航空<br />Freebird Airlines  headquarters  [[土耳其]][[伊斯坦堡]]
+ 自由鸟航空<br />Freebird Airlines  hubs  [[阿塔蒂尔克国际机场]]
+ 自由鸟航空<br />Freebird Airlines  fleet_size  8
+ 自由鸟航空<br />Freebird Airlines  website  http://www.freebirdairlines.com/
+ 西班牙国家航空<br /> {{lang|es|Iberia}} airline  西班牙国家航空<br /> {{lang|es|Iberia}}
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  logo  Iberia (2013).svg
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  logo_size  250px
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  fleet_size  82
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  destinations  89
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  IATA  IB
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  ICAO  IBE
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  callsign  Iberia
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  parent  [[国际航空集团]]
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  founded  1927年
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  headquarters  {{ESP}} [[马德里]]
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  key_people  Fernando Conte（[[首席执行官]]）
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  hubs  [[马德里-巴拉哈斯机场]]
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  focus_cities  [[巴塞罗那-埃尔普拉特机场]]
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  frequent_flyer  Iberia Plus
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  lounge  Sala VIP
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  alliance  [[寰宇一家]]
+ 西班牙国家航空<br /> {{lang|es|Iberia}}  website  {{url|http://www.iberia.com/}}
+ 冰島航空  Icelandair airline  冰島航空  Icelandair
+ 冰島航空  Icelandair  logo  Icelandair logo.svg
+ 冰島航空  Icelandair  logo_size  250
+ 冰島航空  Icelandair  IATA  FI
+ 冰島航空  Icelandair  ICAO  ICE
+ 冰島航空  Icelandair  callsign  ICEAIR
+ 冰島航空  Icelandair  parent  {{flagicon|冰島}} 冰島航空集團
+ 冰島航空  Icelandair  subsidiaries  {{flagicon|冰島}} [[沃奥航空|WOW air]]
+ 冰島航空  Icelandair  founded  1937年
+ 冰島航空  Icelandair  headquarters  {{flag|冰島}} [[雷克雅維克]]
+ 冰島航空  Icelandair  key_people  Birkir Hólm Guðnason
+ 冰島航空  Icelandair  hubs  {{flag|冰島}} [[凱夫拉維克國際機場]]
+ 冰島航空  Icelandair  frequent_flyer  Saga Club
+ 冰島航空  Icelandair  lounge  Saga Lounge
+ 冰島航空  Icelandair  destinations  35
+ 冰島航空  Icelandair  fleet_size  21,
+ 冰島航空  Icelandair  website  [http://www.icelandair.com/ icelandair.com]
+ 以斯雷航空  Israir airline  以斯雷航空  Israir
+ 以斯雷航空  Israir  logo  Israir.svg
+ 以斯雷航空  Israir  logo_size  250px
+ 以斯雷航空  Israir  fleet_size  5(+1訂購中)
+ 以斯雷航空  Israir  destinations  13
+ 以斯雷航空  Israir  IATA  6H
+ 以斯雷航空  Israir  ICAO  ISR
+ 以斯雷航空  Israir  callsign  ISRAIR
+ 以斯雷航空  Israir  company_slogan  「誰付出更多？」"Why pay more? - למה לשלם יותר?"
+ 以斯雷航空  Israir  founded  1989年Kanfei HaEmek，1996年更名為「以斯雷航空」
+ 以斯雷航空  Israir  headquarters  [[以色列]][[特拉維夫]]
+ 以斯雷航空  Israir  hubs  [[本·古里安國際機場]][[斯迪·多夫機場]]
+ 以斯雷航空  Israir  focus_cities  [[埃拉特機場]][[奧夫達國際機場]][[海法機場]]
+ 以斯雷航空  Israir  key_people  Zohar Endelman （[[董事長]]兼[[行政總裁]]）Israel Ben Haim （總經理）
+ 以斯雷航空  Israir  website  http://www.israirairlines.com
+ 荷蘭皇家航空KLM airline  荷蘭皇家航空KLM
+ 荷蘭皇家航空KLM  image  KLM logo.svg
+ 荷蘭皇家航空KLM  image_size  200px
+ 荷蘭皇家航空KLM  IATA  KL
+ 荷蘭皇家航空KLM  ICAO  KLM
+ 荷蘭皇家航空KLM  callsign  KLM
+ 荷蘭皇家航空KLM  founded  1919年
+ 荷蘭皇家航空KLM  hubs  {{NLD}} [[阿姆斯特丹史基浦機場]]
+ 荷蘭皇家航空KLM  frequent_flyer  {{lang|en|Flying Blue}}
+ 荷蘭皇家航空KLM  alliance  [[天合聯盟]]
+ 荷蘭皇家航空KLM  subsidiaries  [[荷蘭皇家城市短途航空]][[馬丁航空]][[泛航航空]]
+ 荷蘭皇家航空KLM  company_slogan  "{{lang|en|Journeys of Inspiration}}"
+ 荷蘭皇家航空KLM  fleet_size  120
+ 荷蘭皇家航空KLM  destinations  138
+ 荷蘭皇家航空KLM  parent  [[法荷航集團]]
+ 荷蘭皇家航空KLM  headquarters  {{NLD}} [[阿姆斯特丹]]
+ 荷蘭皇家航空KLM  key_people  L. M. van Wijk（總裁及[[CEO]]）F. Gagey（[[CFO]]）P. F. Hartman（[[COO]]）
+ 荷蘭皇家航空KLM  website  [https://www.klm.com/ klm.com]
+ 劳达航空Lauda Air airline  劳达航空Lauda Air
+ 劳达航空Lauda Air  logo  Lauda_OS.png
+ 劳达航空Lauda Air  logo_size  250px
+ 劳达航空Lauda Air  IATA  NG
+ 劳达航空Lauda Air  ICAO  LDA
+ 劳达航空Lauda Air  callsign  LAUDA AIR
+ 劳达航空Lauda Air  parent  [[奥地利航空]]
+ 劳达航空Lauda Air  founded  1979年
+ 劳达航空Lauda Air  ceased  2013年
+ 劳达航空Lauda Air  headquarters  [[施韦夏特]]
+ 劳达航空Lauda Air  company_slogan  用奥地利人的方式来度假。  The Austrian Way to holidays
+ 劳达航空Lauda Air  key_people  [[尼基·劳达]]（[[创始人]]）
+ 劳达航空Lauda Air  hubs  [[维也纳国际机场]]
+ 劳达航空Lauda Air  frequent_flyer  Miles & More
+ 劳达航空Lauda Air  alliance  [[星空联盟]]
+ 劳达航空Lauda Air  fleet_size  1（结业时）
+ 劳达航空Lauda Air  destinations  56
+ LOT波蘭航空LOT Polish Airlines airline  LOT波蘭航空LOT Polish Airlines
+ LOT波蘭航空LOT Polish Airlines  image  LOT Polish Airlines.svg
+ LOT波蘭航空LOT Polish Airlines  image_size  250px
+ LOT波蘭航空LOT Polish Airlines  IATA  LO
+ LOT波蘭航空LOT Polish Airlines  ICAO  LOT
+ LOT波蘭航空LOT Polish Airlines  callsign  LOT
+ LOT波蘭航空LOT Polish Airlines  founded  1929年
+ LOT波蘭航空LOT Polish Airlines  hubs  [[華沙蕭邦機場]]
+ LOT波蘭航空LOT Polish Airlines  frequent_flyer  {{lang|en|Miles & More}}
+ LOT波蘭航空LOT Polish Airlines  alliance  [[星空聯盟]]
+ LOT波蘭航空LOT Polish Airlines  subsidiaries  {{lang|en|LOT Charters}}  {{lang|en|LOT Cargo}}
+ LOT波蘭航空LOT Polish Airlines  fleet_size  73
+ LOT波蘭航空LOT Polish Airlines  destinations  101
+ LOT波蘭航空LOT Polish Airlines  headquarters  {{flagicon image|Flag of Poland.svg}} 波蘭華沙
+ LOT波蘭航空LOT Polish Airlines  key_people  {{lang|pl|Rafał Milczarski}} （ {{lang|la|CEO}} ）
+ LOT波蘭航空LOT Polish Airlines  website  [http://www.lot.com/ lot.com]
+ 漢莎航空 Lufthansa airline  漢莎航空 Lufthansa
+ 漢莎航空 Lufthansa IATA  LH
+ 漢莎航空 Lufthansa  ICAO  DLH
+ 漢莎航空 Lufthansa  callsign  LUFTHANSA
+ 漢莎航空 Lufthansa  founded  1953年
+ 漢莎航空 Lufthansa  commenced  1955年
+ 漢莎航空 Lufthansa  headquarters  [[德國]][[科隆]]
+ 漢莎航空 Lufthansa  key_people  卡斯滕·史波尔<small>（总裁兼[[CEO]]）
+ 漢莎航空 Lufthansa  destinations  220
+ 漢莎航空 Lufthansa  revenue  {{decrease}} [[欧元|€]]300.3亿元<small>（2013）</small>
+ 漢莎航空 Lufthansa  operating_income  {{decrease}} €6.97亿元<small>（2013）</small>
+ 漢莎航空 Lufthansa  net_income  {{decrease}} €3.30亿元<small>（2013）</small>
+ 漢莎航空 Lufthansa  assets  {{increase}} €212.6亿元<small>（2013）</small>
+ 漢莎航空 Lufthansa  equity  {{increase}} €44.0亿元<small>（2013）</small>
+ 漢莎航空 Lufthansa  num_employees  118214
+漢莎航空 Lufthansa  company_slogan  "Nonstop you（一路为你）"
+漢莎航空 Lufthansa  website  {{url|http://www.lufthansa.com/}}
+漢莎航空 Lufthansa  hubs  {{flag|Germany}} [[法兰克福机场]]<br /> {{flag|Germany}} [[慕尼黑机场]]
+漢莎航空 Lufthansa  frequent_flyer  {{lang|en|Miles & More}}
+漢莎航空 Lufthansa  lounge  First Class Lounge
+漢莎航空 Lufthansa  alliance  [[星空联盟]]
+漢莎航空 Lufthansa  subsidiaries  [[奥地利航空]]
+漢莎航空 Lufthansa  fleet_size  279
+ 汉莎货运航空  Lufthansa Cargo airline  汉莎货运航空  Lufthansa Cargo
+ 汉莎货运航空  Lufthansa Cargo fleet_size  20
+ 汉莎货运航空  Lufthansa Cargo  destinations  39
+ 汉莎货运航空  Lufthansa Cargo  IATA  LH
+ 汉莎货运航空  Lufthansa Cargo  ICAO  GEC
+ 汉莎货运航空  Lufthansa Cargo  callsign  LUFTHANSA CARGO
+ 汉莎货运航空  Lufthansa Cargo  company_name  汉莎货运航空公司
+ 汉莎货运航空  Lufthansa Cargo  founded  1994年
+ 汉莎货运航空  Lufthansa Cargo  headquarters  {{DEU}} [[法兰克福]]
+ 汉莎货运航空  Lufthansa Cargo  key_people  [[董事長]]： {{link-de|卡斯滕·斯泼尔|Carsten Spohr}}
+ 汉莎货运航空  Lufthansa Cargo  alliance  [[WOW货运联盟]]
+ 汉莎货运航空  Lufthansa Cargo  website  http://www.lhcargo.com/
+ 汉莎城际航空<br/>Lufthansa Cityline airline  汉莎城际航空<br/>Lufthansa Cityline
+ 汉莎城际航空<br/>Lufthansa Cityline fleet_size  49
+ 汉莎城际航空<br/>Lufthansa Cityline  destinations  75
+ 汉莎城际航空<br/>Lufthansa Cityline  IATA  CL
+ 汉莎城际航空<br/>Lufthansa Cityline  ICAO  CLH
+ 汉莎城际航空<br/>Lufthansa Cityline  callsign  HANSALINE
+ 汉莎城际航空<br/>Lufthansa Cityline  company_name  Lufthansa CityLine GmbH
+ 汉莎城际航空<br/>Lufthansa Cityline  founded  1958年
+ 汉莎城际航空<br/>Lufthansa Cityline  key_people  沃尔夫冈·麦亚胡伯（[[首席执行官]]）
+ 汉莎城际航空<br/>Lufthansa Cityline  focus_cities  所有德国主要机场
+ 汉莎城际航空<br/>Lufthansa Cityline  frequent_flyer  Miles & More
+ 汉莎城际航空<br/>Lufthansa Cityline  lounge  Senator Lounge
+ 汉莎城际航空<br/>Lufthansa Cityline  alliance  [[星空聯盟]]
+ 汉莎城际航空<br/>Lufthansa Cityline  website  http://www.lufthansacityline.com
+ 卢森堡航空  Luxair airline  卢森堡航空  Luxair
+ 卢森堡航空  Luxair IATA  LG
+ 卢森堡航空  Luxair  ICAO  LGL
+ 卢森堡航空  Luxair  callsign  LUXAIR
+ 卢森堡航空  Luxair  founded  1961
+ 卢森堡航空  Luxair  key_people  Adrien Ney（[[首席执行官]]）
+ 卢森堡航空  Luxair  frequent_flyer  [[Miles & More]]
+ 卢森堡航空  Luxair  lounge  The Lounge by Luxair
+ 卢森堡航空  Luxair  company_slogan  "Fly in good company"
+ 卢森堡航空  Luxair  fleet_size  19
+ 卢森堡航空  Luxair  destinations  64
+ 卢森堡航空  Luxair  website  {{url|luxair.lu}}
+ 匈牙利航空Malév Hungarian Airlines airline  匈牙利航空Malév Hungarian Airlines
+ 匈牙利航空Malév Hungarian Airlines  IATA  MA
+ 匈牙利航空Malév Hungarian Airlines  ICAO  MAH
+ 匈牙利航空Malév Hungarian Airlines  callsign  MALEV
+ 匈牙利航空Malév Hungarian Airlines  founded  1946年
+ 匈牙利航空Malév Hungarian Airlines  ceased  2012年2月3日
+ 匈牙利航空Malév Hungarian Airlines  hubs  {{flagicon image|Flag of Hungary.svg}} [[布达佩斯国际机场]]
+ 匈牙利航空Malév Hungarian Airlines  frequent_flyer  {{lang|en|Duna Club}}
+ 匈牙利航空Malév Hungarian Airlines  alliance  [[寰宇一家]]（2007年至2012年）
+ 匈牙利航空Malév Hungarian Airlines  parent  {{lang|la|MNV}}
+ 匈牙利航空Malév Hungarian Airlines  headquarters  {{flagicon image|Flag of Hungary.svg}} [[布达佩斯]]
+ 匈牙利航空Malév Hungarian Airlines  key_people  {{lang|hu|Limburger Lóránt}} <br/> {{lang|hu|Berényi János}}
+ 蒙特內哥羅航空 Montenegro Airlines airline  蒙特內哥羅航空 Montenegro Airlines
+ 蒙特內哥羅航空 Montenegro Airlines  logo  Montenegro_Airlines_Logo.svg
+ 蒙特內哥羅航空 Montenegro Airlines  logo_size  250
+ 蒙特內哥羅航空 Montenegro Airlines  IATA  YM
+ 蒙特內哥羅航空 Montenegro Airlines  ICAO  MGX
+ 蒙特內哥羅航空 Montenegro Airlines  callsign  MONTENEGRO
+ 蒙特內哥羅航空 Montenegro Airlines  founded  1994年10月24日
+ 蒙特內哥羅航空 Montenegro Airlines  hubs  [[波德戈里察國際機場]][[蒂瓦特機場]]
+ 蒙特內哥羅航空 Montenegro Airlines  frequent_flyer  Vision Team
+ 蒙特內哥羅航空 Montenegro Airlines  fleet_size  8（+1訂購）
+ 蒙特內哥羅航空 Montenegro Airlines  destinations  13
+ 蒙特內哥羅航空 Montenegro Airlines  headquarters  [[蒙特内格鲁]][[波德戈里察]]
+ 蒙特內哥羅航空 Montenegro Airlines  key_people  Daliborka Pejović（[[CEO]]）
+ 蒙特內哥羅航空 Montenegro Airlines  net_income  {{decrease}} € -5.5&nbsp;[[百萬]]（2011年）
+ 蒙特內哥羅航空 Montenegro Airlines  website  [http://www.montenegroairlines.com]
+ 奧林匹克航空  Olympic Air airline  奧林匹克航空  Olympic Air
+ 奧林匹克航空  Olympic Air  IATA  OA
+ 奧林匹克航空  Olympic Air  ICAO  OAL
+ 奧林匹克航空  Olympic Air  callsign  OLYMPIC
+ 奧林匹克航空  Olympic Air  founded  2009
+ 奧林匹克航空  Olympic Air  commenced  成立：1957年4月6日<br/>私有化：2009年9月29日
+ 奧林匹克航空  Olympic Air  hubs  [[雅典国际机场]]
+ 奧林匹克航空  Olympic Air  secondary_hubs  <div>\n*[[塞萨洛尼基马其顿国际机场]]\n*[[罗得岛迪亚戈拉斯国际机场]]\n</div>
+ 奧林匹克航空  Olympic Air  alliance  [[星空联盟]]
+ 奧林匹克航空  Olympic Air  frequent_flyer  Travelair Club
+ 奧林匹克航空  Olympic Air  subsidiaries  [[马其顿航空]]
+ 奧林匹克航空  Olympic Air  fleet_size  29
+ 奧林匹克航空  Olympic Air  destinations  43
+ 奧林匹克航空  Olympic Air  parent  [[马尔芬投资集团]]
+ 奧林匹克航空  Olympic Air  company_slogan  "Η Ελλάδα Ψηλά - Greece, flying high"
+ 奧林匹克航空  Olympic Air  headquarters  {{GRE}} [[東阿提卡州]]
+ 奧林匹克航空  Olympic Air  key_people  [[Andreas Vgenopoulos]] (Chairman) <br /> Antonis Symigdalas ([[Chief executive officer|CEO]])
+ 奧林匹克航空  Olympic Air  website  [https://web.archive.org/web/20101228142839/http://www.olympicair.com/Home.aspx?a_id=549 www.olympicair.com]
+ 飛馬航空Pegasus Airlines airline  飛馬航空Pegasus Airlines
+ 飛馬航空Pegasus Airlines IATA  PC
+ 飛馬航空Pegasus Airlines  ICAO  PGT
+ 飛馬航空Pegasus Airlines  callsign  SUNTURK
+ 飛馬航空Pegasus Airlines  founded  {{start date and age|1990}}
+ 飛馬航空Pegasus Airlines  hubs  {{TUR}} [[薩比哈·格克琴國際機場]]  {{TUR}} [[阿塔蒂爾克國際機場]]
+ 飛馬航空Pegasus Airlines  Corporate organisation  GmbH & Co. KG
+ 飛馬航空Pegasus Airlines  subsidiaries  <div>\n*[[IZair]]\n*[[飛馬亞洲]] (49%)
+ 飛馬航空Pegasus Airlines  revenue  {{increase}} 24億[[土耳其里拉]]<small>(2013)</small>
+ 飛馬航空Pegasus Airlines  number_of_employees  9200 (May 2012)
+ 飛馬航空Pegasus Airlines  frequent_flyer  [http
+ 飛馬航空Pegasus Airlines  fleet_size  60
+ 飛馬航空Pegasus Airlines  destinations  97
+ 飛馬航空Pegasus Airlines  company_slogan  "We Didnt Start Aviation In Turkey But We Transformed It."
+ 飛馬航空Pegasus Airlines  parent  ESAS Holding
+ 飛馬航空Pegasus Airlines  headquarters  {{TUR}} [[伊斯坦堡]]
+ 飛馬航空Pegasus Airlines  key_people  <div>\n* [[Ali Sabanci]] <small>(董事長)</small>\n* [[Sertac Haybat]] <small>(總經理)</small>
+ 飛馬航空Pegasus Airlines  website  [http://www.flypgs.com]
+ 瑞士私人航空PrivatAir airline  瑞士私人航空PrivatAir
+ 瑞士私人航空PrivatAir  fleet_size  8
+ 瑞士私人航空PrivatAir  destinations  10（定期）
+ 瑞士私人航空PrivatAir  IATA  PT
+ 瑞士私人航空PrivatAir  ICAO  PTI
+ 瑞士私人航空PrivatAir  callsign  PRIVATAIR
+ 瑞士私人航空PrivatAir  founded  1977年
+ 瑞士私人航空PrivatAir  headquarters  {{CHE}} [[梅兰]]
+ 瑞士私人航空PrivatAir  bases  {{DEU}} [[法兰克福机场]] <small>（為 {{flagicon|DEU}} [[汉莎航空]]運營）</small>  {{CGO}} [[马亚-马亚国际机场]] <small>（為 {{flagicon|CGO}} {{link-en|赤道刚果航空|Equatorial Congo Airlines}} 運營）</small>
+ 瑞士私人航空PrivatAir  website  [http://www.privatair.com]
+ 北欧航空Scandinavian Airlines airline  北欧航空Scandinavian Airlines
+ 北欧航空Scandinavian Airlines  IATA  SK
+ 北欧航空Scandinavian Airlines  ICAO  SAS
+ 北欧航空Scandinavian Airlines  callsign  SCANDINAVIAN
+ 北欧航空Scandinavian Airlines  parent  {{link-en|SAS集团|SAS Group}}
+ 北欧航空Scandinavian Airlines  subsidiaries  {{link-en|愛爾蘭北歐航空|Scandinavian Airlines Ireland}}
+ 北欧航空Scandinavian Airlines  founded  1946年8月1日
+ 北欧航空Scandinavian Airlines  headquarters  {{SWE}} [[斯德哥爾摩省]][[索尔纳市]]
+ 北欧航空Scandinavian Airlines  key_people  弗里茨·舒尔
+ 北欧航空Scandinavian Airlines  hubs  * {{DNK}} [[哥本哈根凱斯楚普機場]]\n* {{nowrap|SWE| [[斯德哥尔摩－阿兰达机场]]}} * {{SWE}} [[斯德哥尔摩－阿兰达机场]] {{NOR}} [[奥斯陆加勒穆恩机场]]
+ 北欧航空Scandinavian Airlines  focus_cities  * {{NOR}} [[卑尔根机场]] \n* {{NOR}} {{link-en|斯塔万格机场|Stavanger Airport}} * {{NOR}} {{link-en|特隆赫姆机场|Trondheim Airport}} * {{SWE}} [[哥德堡-兰德维特机场]]
+ 北欧航空Scandinavian Airlines  company_slogan  Service and simplicity.
+ 北欧航空Scandinavian Airlines  frequent_flyer  {{lang|en|EuroBonus}}
+ 北欧航空Scandinavian Airlines  lounge  {{lang|en|Scandinavian Lounge & Business Lounge}}
+ 北欧航空Scandinavian Airlines  alliance  [[星空联盟]]
+ 北欧航空Scandinavian Airlines  fleet_size  182
+ 北欧航空Scandinavian Airlines  destinations  119
+ 北欧航空Scandinavian Airlines  website  [http://www.flysas.com]
+ 天空航空  Sky Airlines airline  天空航空  Sky Airlines
+ 天空航空  Sky Airlines  fleet_size  5
+ 天空航空  Sky Airlines  destinations  50
+ 天空航空  Sky Airlines  IATA  ZY
+ 天空航空  Sky Airlines  ICAO  SHY
+ 天空航空  Sky Airlines  callsign  SKY POWER
+ 天空航空  Sky Airlines  parent  Kayi Group
+ 天空航空  Sky Airlines  company_slogan  天空中的笑容
+ 天空航空  Sky Airlines  founded  2000年
+ 天空航空  Sky Airlines  commenced  2001年
+ 天空航空  Sky Airlines  ceased  2013年
+ 天空航空  Sky Airlines  headquarters  {{TUR}} [[安塔利亚]]
+ 天空航空  Sky Airlines  key_people  Tahir Gorgulu (CEO)
+ 天空航空  Sky Airlines  hubs  [[安塔利亚机场]]
+ 天空航空  Sky Airlines  secondary_hubs  <div>[[Dalaman Airport]]\n[[Milas-Bodrum Airport]]\n</div>
+ 天空航空  Sky Airlines  frequent_flyer  Miles&Sky
+ 天空航空  Sky Airlines  subsidiaries  [[德国天空航空]]
+ 天空航空  Sky Airlines  website  [http://www.skyairlines.net]
+ 西班牙航空  Spanair airline  西班牙航空  Spanair
+ 西班牙航空  Spanair logo_size  300
+ 西班牙航空  Spanair  fleet_size  29
+ 西班牙航空  Spanair  destinations  40
+ 西班牙航空  Spanair  IATA  JK
+ 西班牙航空  Spanair  ICAO  JKK
+ 西班牙航空  Spanair  callsign  SPANAIR
+ 西班牙航空  Spanair  parent  [[北歐航空]]
+ 西班牙航空  Spanair  founded  1988年
+ 西班牙航空  Spanair  ceased  2012年1月27日
+ 西班牙航空  Spanair  headquarters  {{ESP}} [[巴塞隆納]]
+ 西班牙航空  Spanair  key_people  Lars Lindgren（[[主席]]） Marcus Hedblom（行政總裁）
+ 西班牙航空  Spanair  hubs  {{ESP}} [[巴塞隆納機場|巴塞隆納國際機場]]
+ 西班牙航空  Spanair  frequent_flyer  Spanair Star
+ 西班牙航空  Spanair  lounge  Sala VIP
+ 西班牙航空  Spanair  alliance  [[星空聯盟]]
+ 西班牙航空  Spanair  website  http://spainair.com
+ 太阳快运航空  SunExpress airline  太阳快运航空  SunExpress
+ 太阳快运航空  SunExpress  logo  SunExpress Logo.svg
+ 太阳快运航空  SunExpress  IATA  XQ
+ 太阳快运航空  SunExpress  ICAO  SXS
+ 太阳快运航空  SunExpress  callsign  SUNEXPRESS
+ 太阳快运航空  SunExpress  founded  1989年
+ 太阳快运航空  SunExpress  headquarters  [[安塔利亚]]
+ 太阳快运航空  SunExpress  key_people  Jens Bischof [[CEO]]
+ 太阳快运航空  SunExpress  parent  [[土耳其航空]] [[汉莎航空]]
+ 太阳快运航空  SunExpress  hubs  {{nowrap| [[阿德南·曼德列斯机场]]}}   [[安塔利亚机场]]
+ 太阳快运航空  SunExpress  subsidiaries  [[德国太阳快运航空]]
+ 太阳快运航空  SunExpress  frequent_flyer  SunPoints
+ 太阳快运航空  SunExpress  fleet_size  70
+ 太阳快运航空  SunExpress  destinations  107
+ 太阳快运航空  SunExpress  num_employees  3000
+ 太阳快运航空  SunExpress  website  {{URL|http://www.sunexpress.com/}}
+ 瑞士國際航空Swiss International Air Lines airline  瑞士國際航空Swiss International Air Lines
+ 瑞士國際航空Swiss International Air Lines  logo  Swiss International Air Lines Logo 2011.svg
+ 瑞士國際航空Swiss International Air Lines  fleet_size  80
+ 瑞士國際航空Swiss International Air Lines  destinations  102
+ 瑞士國際航空Swiss International Air Lines  IATA  LX
+ 瑞士國際航空Swiss International Air Lines  ICAO  SWR
+ 瑞士國際航空Swiss International Air Lines  callsign  SWISS
+ 瑞士國際航空Swiss International Air Lines  founded  2002年
+ 瑞士國際航空Swiss International Air Lines  key_people  Dr. Christoph Franz
+ 瑞士國際航空Swiss International Air Lines  frequent_flyer  Miles & More
+ 瑞士國際航空Swiss International Air Lines  lounge  Swiss Lounge
+ 瑞士國際航空Swiss International Air Lines  alliance  [[星空聯盟]]
+ 瑞士國際航空Swiss International Air Lines  website  http://www.swiss.com/
+ TAP葡萄牙航空<br />TAP Air airline  TAP葡萄牙航空<br />TAP Air
+ TAP葡萄牙航空<br />TAP Air  logo  TAP Portugal Logo.svg
+ TAP葡萄牙航空<br />TAP Air  logo_size  250px
+ TAP葡萄牙航空<br />TAP Air  fleet_size  69
+ TAP葡萄牙航空<br />TAP Air  destinations  88
+ TAP葡萄牙航空<br />TAP Air  IATA  TP
+ TAP葡萄牙航空<br />TAP Air  ICAO  TAP
+ TAP葡萄牙航空<br />TAP Air  callsign  Air Portugal
+ TAP葡萄牙航空<br />TAP Air  company_name  TAP Portugal
+ TAP葡萄牙航空<br />TAP Air  founded  1945年
+ TAP葡萄牙航空<br />TAP Air  key_people  [[Fernando Pinto]]，CEO
+ TAP葡萄牙航空<br />TAP Air  alliance  [[星空联盟]]
+ TAP葡萄牙航空<br />TAP Air  website  http://www.flytap.com
+ 羅馬尼亞航空TAROM airline  羅馬尼亞航空TAROM
+ 羅馬尼亞航空TAROM  image  TAROM logo new.svg
+ 羅馬尼亞航空TAROM  IATA  RO
+ 羅馬尼亞航空TAROM  ICAO  ROT
+ 羅馬尼亞航空TAROM  callsign  TAROM
+ 羅馬尼亞航空TAROM  founded  1920年
+ 羅馬尼亞航空TAROM  hubs  [[羅馬尼亞]][[布加勒斯特奥托佩尼－亨利·科安德国际机场|亨利科安德國際機場]]
+ 羅馬尼亞航空TAROM  frequent_flyer  {{lang|en|Flying Blue}}
+ 羅馬尼亞航空TAROM  alliance  [[天合聯盟]]
+ 羅馬尼亞航空TAROM  fleet_size  24
+ 羅馬尼亞航空TAROM  destinations  52
+ 羅馬尼亞航空TAROM  headquarters  羅馬尼亞亨利科安德國際機場
+ 羅馬尼亞航空TAROM  key_people  {{lang|ro|Werner Wilhelm Wolff}} （ {{lang|la|CEO}} ）
+ 羅馬尼亞航空TAROM  website  [http://www.tarom.ro/ tarom.ro]
+ 土耳其航空Turkish Airlines airline  土耳其航空Turkish Airlines
+ 土耳其航空Turkish Airlines  image  Turkish Airlines logo.svg
+ 土耳其航空Turkish Airlines  image_size  300px
+ 土耳其航空Turkish Airlines  IATA  TK
+ 土耳其航空Turkish Airlines  ICAO  THY
+ 土耳其航空Turkish Airlines  callsign  TURKISH
+ 土耳其航空Turkish Airlines  founded  1933年5月20日
+ 土耳其航空Turkish Airlines  frequent_flyer  {{lang|en|Miles&Smiles}}
+ 土耳其航空Turkish Airlines  alliance  [[星空聯盟]]
+ 土耳其航空Turkish Airlines  company_slogan  "{{lang|en|Widen Your World}}"
+ 土耳其航空Turkish Airlines  fleet_size  327
+ 土耳其航空Turkish Airlines  destinations  302
+ 土耳其航空Turkish Airlines  headquarters  {{TUR}} [[伊斯坦堡]]
+ 土耳其航空Turkish Airlines  key_people  {{lang|tr|İlker Aycı}} （董事長）<br/> {{lang|tr|Bilal Ekşi}} （副主席， {{lang|la|CEO}} ）
+ 土耳其航空Turkish Airlines  website  [http://turkishairlines.com]
+ TNT航空  TNT Airways airline  TNT航空  TNT Airways
+ TNT航空  TNT Airways  logo  TNT Airways logo.svg
+ TNT航空  TNT Airways  logo_size  150
+ TNT航空  TNT Airways  IATA  3V
+ TNT航空  TNT Airways  ICAO  TAY
+ TNT航空  TNT Airways  callsign  QUALITY
+ TNT航空  TNT Airways  parent  [[ASL愛爾蘭航空]]
+ TNT航空  TNT Airways  founded  1999年
+ TNT航空  TNT Airways  headquarters  [[比利時]][[列日]]
+ TNT航空  TNT Airways  key_people  Niky Terzakis (managing director)
+ TNT航空  TNT Airways  hubs  [[列日機場]]
+ TNT航空  TNT Airways  fleet_size  28
+ TNT航空  TNT Airways  destinations  70
+ TNT航空  TNT Airways  website  http://www.tntairways.com
+ 德国途易航空TUI fly Deutschland airline  德国途易航空TUI fly Deutschland
+ 德国途易航空TUI fly Deutschland  logo  Updated_TUI_fly_logo.png
+ 德国途易航空TUI fly Deutschland  IATA  X3
+ 德国途易航空TUI fly Deutschland  ICAO  TUI
+ 德国途易航空TUI fly Deutschland  callsign  TUIJET
+ 德国途易航空TUI fly Deutschland  parent  [[途易股份公司]]
+ 德国途易航空TUI fly Deutschland  founded  1972年 以赫伯罗特航空之名
+ 德国途易航空TUI fly Deutschland  headquarters  [[汉诺威]]
+ 德国途易航空TUI fly Deutschland  key_people  米歇尔·弗伦策尔博士（[[主席]]）
+ 德国途易航空TUI fly Deutschland  focus_cities  [[汉诺威－朗根哈根机场]]<br /> [[科隆－波恩机场]]<br /> [[杜塞尔多夫机场]]<br /> [[法兰克福机场]]<br /> [[汉堡机场]]<br /> [[慕尼黑机场]]<br /> [[斯图加特机场]]
+ 德国途易航空TUI fly Deutschland  frequent_flyer  老友薯条（曾用「蓝色里程」）
+ 德国途易航空TUI fly Deutschland  fleet_size  38
+ 德国途易航空TUI fly Deutschland  destinations  36
+ 德国途易航空TUI fly Deutschland  website  [http://www.tuifly.com]
+ 維珍航空Virgin Atlantic Airways airline  維珍航空Virgin Atlantic Airways
+ 維珍航空Virgin Atlantic Airways  logo  Virgin Atlantic logo.svg
+ 維珍航空Virgin Atlantic Airways  fleet_size  45
+ 維珍航空Virgin Atlantic Airways  destinations  33
+ 維珍航空Virgin Atlantic Airways  IATA  VS
+ 維珍航空Virgin Atlantic Airways  ICAO  VIR
+ 維珍航空Virgin Atlantic Airways  callsign  Virgin
+ 維珍航空Virgin Atlantic Airways  parent  [[達美航空]](49%)<br />[[法荷航集團]](31%)<br />[[維珍集團]](20%)
+ 維珍航空Virgin Atlantic Airways  founded  1984年
+ 維珍航空Virgin Atlantic Airways  headquarters  [[英國]][[克勞利]]
+ 維珍航空Virgin Atlantic Airways  key_people  [[理察·布蘭森]]
+ 維珍航空Virgin Atlantic Airways  hubs  [[倫敦希斯路機場]]<br />[[倫敦]][[格域機場]]
+ 維珍航空Virgin Atlantic Airways  focus_cities  [[曼徹斯特國際機場]]
+ 維珍航空Virgin Atlantic Airways  frequent_flyer  飛行會
+ 維珍航空Virgin Atlantic Airways  lounge  貴賓會所
+ 維珍航空Virgin Atlantic Airways  website  http://www.virgin-atlantic.com
+ 白色航空White Airways airline  白色航空White Airways
+ 白色航空White Airways  logo  White Airways logo.png
+ 白色航空White Airways  logo_size  250
+ 白色航空White Airways  fleet_size  12
+ 白色航空White Airways  destinations  27
+ 白色航空White Airways  IATA  WI
+ 白色航空White Airways  ICAO  WHT
+ 白色航空White Airways  callsign  WHITE JET
+ 白色航空White Airways  parent  <div>\n* Omni Aviation\n* Whitejets
+ 白色航空White Airways  company_slogan  WHITE coloured by you
+ 白色航空White Airways  founded  2005年
+ 白色航空White Airways  headquarters  {{POR}} [[奧埃拉什]]
+ 白色航空White Airways  key_people  Miguel Costa
+ 白色航空White Airways  hubs  {{POR}} [[里斯本機場|里斯本溫貝托·德爾加多機場]]
+ 白色航空White Airways  website  [http://www.flywhite.com flywhite.com]}
+ 快運航空TAP Express airline  快運航空TAP Express
+ 快運航空TAP Express  image  TAP_Portugal_Logo.svg
+ 快運航空TAP Express  IATA  TP
+ 快運航空TAP Express  ICAO  TAP
+ 快運航空TAP Express  callsign  AIR PORTUGAL
+ 快運航空TAP Express  founded  2016年
+ 快運航空TAP Express  hubs  {{POR}} [[里斯本機場]]
+ 快運航空TAP Express  focus_cities  {{POR}} [[波爾圖機場]]
+ 快運航空TAP Express  frequent_flyer  TAP Victoria
+ 快運航空TAP Express  alliance  [[星空聯盟]](子成員)
+ 快運航空TAP Express  subsidiaries  Portugália Airlines<br/>White Airways
+ 快運航空TAP Express  fleet_size  19
+ 快運航空TAP Express  destinations  23
+ 快運航空TAP Express  parent  [[TAP葡萄牙航空]]
+ 快運航空TAP Express  headquarters  {{POR}} [[里斯本]]
+ 快運航空TAP Express  website  [http://flytap.com]
+ 阿根廷航空Aerolíneas Argentinas airline  阿根廷航空Aerolíneas Argentinas
+ 阿根廷航空Aerolíneas Argentinas  logo  Aerolíneas Argentinas Logo 2010.svg
+ 阿根廷航空Aerolíneas Argentinas  logo_size  250
+ 阿根廷航空Aerolíneas Argentinas  IATA  AR
+ 阿根廷航空Aerolíneas Argentinas  ICAO  ARG
+ 阿根廷航空Aerolíneas Argentinas  callsign  Argentina
+ 阿根廷航空Aerolíneas Argentinas  founded  1950年
+ 阿根廷航空Aerolíneas Argentinas  headquarters  {{ARG}} [[布宜諾斯艾利斯]]
+ 阿根廷航空Aerolíneas Argentinas  key_people  Mariano Recalde（CEO）、Andrés Fabre（COO）
+ 阿根廷航空Aerolíneas Argentinas  hubs  {{ARG}} [[布宜諾斯艾利斯]][[乔治·纽伯里机场]]（國內及南美線） {{ARG}} [[布宜諾斯艾利斯]][[埃塞萨皮斯塔里尼部长国际机场]]（國際線）
+ 阿根廷航空Aerolíneas Argentinas  focus_cities  {{ARG}} [[他拉弗拉國際機場]]
+ 阿根廷航空Aerolíneas Argentinas  frequent_flyer  {{lang|es|Aerolíneas Plus}}
+ 阿根廷航空Aerolíneas Argentinas  lounge  VIP Lounge
+ 阿根廷航空Aerolíneas Argentinas  alliance  [[天合聯盟]]
+ 阿根廷航空Aerolíneas Argentinas  fleet_size  57
+ 阿根廷航空Aerolíneas Argentinas  destinations  56
+ 阿根廷航空Aerolíneas Argentinas  website  http://www.aerolineas.com.ar
+ 阿根廷南方航空  Austral Líneas Aéreas airline  阿根廷南方航空  Austral Líneas Aéreas
+ 阿根廷南方航空  Austral Líneas Aéreas  logo  Austral new logo.png
+ 阿根廷南方航空  Austral Líneas Aéreas  logo_size  250
+ 阿根廷南方航空  Austral Líneas Aéreas  fleet_size  26
+ 阿根廷南方航空  Austral Líneas Aéreas  destinations  22
+ 阿根廷南方航空  Austral Líneas Aéreas  IATA  AU
+ 阿根廷南方航空  Austral Líneas Aéreas  ICAO  AUT
+ 阿根廷南方航空  Austral Líneas Aéreas  callsign  AUSTRAL
+ 阿根廷南方航空  Austral Líneas Aéreas  parent  {{flagicon|ARG}} [[阿根廷航空]]
+ 阿根廷南方航空  Austral Líneas Aéreas  subsidiaries  Inter Austral (currently defunct)
+ 阿根廷南方航空  Austral Líneas Aéreas  founded  1957年<small>(as Compañía Austral de Transportes Aéreos)</small>
+ 阿根廷南方航空  Austral Líneas Aéreas  commenced  {{Start date|1958|1|df|=|y}}
+ 阿根廷南方航空  Austral Líneas Aéreas  headquarters  {{ARG}} [[布宜諾斯艾利斯]]
+ 阿根廷南方航空  Austral Líneas Aéreas  hubs  {{ARG}} [[布宜諾斯艾利斯]][[乔治·纽伯里机场]]
+ 阿根廷南方航空  Austral Líneas Aéreas  frequent_flyer  Aerolíneas Plus
+ 阿根廷南方航空  Austral Líneas Aéreas  key_people  "Mario DellAcqua <small>(President)</small>"
+ 阿根廷南方航空  Austral Líneas Aéreas  alliance  [[天合联盟]]
+ 阿根廷南方航空  Austral Líneas Aéreas  website  {{URL|www.austral.com.ar}}
+ 墨西哥國際航空  AeroMéxico airline  墨西哥國際航空  AeroMéxico
+ 墨西哥國際航空  AeroMéxico  logo  Aeromexico.svg
+ 墨西哥國際航空  AeroMéxico  logo_size  300px
+ 墨西哥國際航空  AeroMéxico  fleet_size  134
+ 墨西哥國際航空  AeroMéxico  destinations  84+3
+ 墨西哥國際航空  AeroMéxico  IATA  AM
+ 墨西哥國際航空  AeroMéxico  ICAO  AMX
+ 墨西哥國際航空  AeroMéxico  callsign  AEROMEXICO
+ 墨西哥國際航空  AeroMéxico  company_slogan  "Vámos por el mundo （我们飞往世界）"
+ 墨西哥國際航空  AeroMéxico  parent  Grupo Aeroméxico<br />[[達美航空]](持有49%股權)
+ 墨西哥國際航空  AeroMéxico  founded  1934年 （当时名为Aeronaves de México）
+ 墨西哥國際航空  AeroMéxico  headquarters  [[墨西哥]][[墨西哥城]]
+ 墨西哥國際航空  AeroMéxico  key_people  Andrés Conesa Labastida ([[CEO]])
+ 墨西哥國際航空  AeroMéxico  hubs  [[新墨西哥城國際機場]]（未来发展）<br />[[墨西哥城贝尼托·胡亚雷斯國際機場]]<br /> {{link-en|蒙特雷国际机场|Monterrey International Airport}}
+ 墨西哥國際航空  AeroMéxico  focus_cities  [[坎昆國際機場]]<br />[[蒂华纳国际机场]] {{link-en|瓜达拉哈拉国际机场|Guadalajara International Airport}}
+ 墨西哥國際航空  AeroMéxico  frequent_flyer  Club Premier
+ 墨西哥國際航空  AeroMéxico  lounge  Salón Premier
+ 墨西哥國際航空  AeroMéxico  alliance  [[天合聯盟]]
+ 墨西哥國際航空  AeroMéxico  website  http://www.aeromexico.com
+ 哥倫比亞航空Avianca airline  哥倫比亞航空Avianca
+ 哥倫比亞航空Avianca  IATA  AV
+ 哥倫比亞航空Avianca  ICAO  AVA
+ 哥倫比亞航空Avianca  callsign  AVIANCA
+ 哥倫比亞航空Avianca  founded  1919年12月5日
+ 哥倫比亞航空Avianca  hubs  [[埃爾多拉多國際機場]]（哥伦比亚航空）[[萨尔瓦多国际机场]]（萨尔瓦多哥伦比亚航空）[[豪尔赫·查韦斯国际机场]]（秘鲁哥伦比亚航空）
+ 哥倫比亞航空Avianca  focus_cities  麥德林科爾多瓦國際機場卡利阿拉貢國際機場卡塔赫努涅斯國際機場巴蘭基亞國際機場基多國際機場[[邁阿密國際機場]][[甘迺迪國際機場]][[巴西利亞－儒塞利諾·庫比契克總統國際機場|巴西利亞庫比契克國際機場]][[里約熱內盧/加利昂－安東尼奧·卡洛斯·若比姆國際機場|里約熱內盧若比姆國際機場]]
+ 哥倫比亞航空Avianca  frequent_flyer  LifeMiles
+ 哥倫比亞航空Avianca  lounge  Avianca VIP Lounges
+ 哥倫比亞航空Avianca  alliance  [[星空聯盟]]
+ 哥倫比亞航空Avianca  fleet_size  166
+ 哥倫比亞航空Avianca  destinations  121
+ 哥倫比亞航空Avianca  subsidiaries  [[阿根廷哥倫比亞航空]]
+ 哥倫比亞航空Avianca  headquarters  {{flag|Colombia}} [[波哥大]]
+ 哥倫比亞航空Avianca  key_people  Fabio Villegas Ramírez（该公司[[首席执行官]]）
+ 哥倫比亞航空Avianca  website  [http://www.avianca.com www.avianca.com]
+ 巴西哥倫比亞航空Avianca Brasil airline  巴西哥倫比亞航空Avianca Brasil
+ 巴西哥倫比亞航空Avianca Brasil  IATA  O6
+ 巴西哥倫比亞航空Avianca Brasil  ICAO  ONE
+ 巴西哥倫比亞航空Avianca Brasil  callsign  OCEAN AIR
+ 巴西哥倫比亞航空Avianca Brasil  founded  2002年
+ 巴西哥倫比亞航空Avianca Brasil  bases  [[巴西利亚-儒塞利诺·库比契克总统国际机场|巴西利亞]][[里约热内卢/加利昂-安东尼奥·卡洛斯·若比姆国际机场|-{里}-約熱內盧-加利昂]][[圣杜蒙特机场|-{里}-約熱內盧-聖杜蒙特]][[孔戈尼亚斯/圣保罗机场|聖保羅-孔戈尼亞斯]][[圣保罗/瓜鲁柳斯-安德烈·弗朗哥·蒙托罗州长国际机场|聖保羅-瓜魯柳斯]]
+ 巴西哥倫比亞航空Avianca Brasil  frequent_flyer  {{lang|pt|Amigo}}
+ 巴西哥倫比亞航空Avianca Brasil  alliance  [[星空聯盟]]（子公司）
+ 巴西哥倫比亞航空Avianca Brasil  parent  {{lang|en|Synergy Group}}
+ 巴西哥倫比亞航空Avianca Brasil  headquarters  {{flagicon image|Flag of Brazil.svg}} 巴西聖保羅
+ 巴西哥倫比亞航空Avianca Brasil  website  [https://avianca.com.br]
+ 秘魯哥倫比亞航空Avianca Perú airline  秘魯哥倫比亞航空Avianca Perú
+ 秘魯哥倫比亞航空Avianca Perú  IATA  T0
+ 秘魯哥倫比亞航空Avianca Perú  ICAO  TPU
+ 秘魯哥倫比亞航空Avianca Perú  callsign  AVIANCA PERÚ
+ 秘魯哥倫比亞航空Avianca Perú  founded  1999年7月
+ 秘魯哥倫比亞航空Avianca Perú  key_people  Daniel Ratti
+ 秘魯哥倫比亞航空Avianca Perú  parent  Daniel Ratti (51%)Synergy集團 (49%)
+ 秘魯哥倫比亞航空Avianca Perú  frequent_flyer  LifeMiles
+ 秘魯哥倫比亞航空Avianca Perú  alliance  [[星空聯盟]]
+ 秘魯哥倫比亞航空Avianca Perú  fleet_size  8
+ 秘魯哥倫比亞航空Avianca Perú  destinations  20
+ 秘魯哥倫比亞航空Avianca Perú  website  [http://www.taca.com/]
+ 加勒比海航空Air Caraïbes airline  加勒比海航空Air Caraïbes
+ 加勒比海航空Air Caraïbes fleet_size  8
+ 加勒比海航空Air Caraïbes  destinations  13
+ 加勒比海航空Air Caraïbes  IATA  TX
+ 加勒比海航空Air Caraïbes  ICAO  FWI
+ 加勒比海航空Air Caraïbes  callsign  FRENCH WEST
+ 加勒比海航空Air Caraïbes  parent  Groupe Dubreuil
+ 加勒比海航空Air Caraïbes  company_slogan  日曜全線Du Soleil sur toute la ligne
+ 加勒比海航空Air Caraïbes  founded  1969年
+ 加勒比海航空Air Caraïbes  commenced  2000年7月
+ 加勒比海航空Air Caraïbes  headquarters  [[薩萊比梅]]
+ 加勒比海航空Air Caraïbes  hubs  [[彭德-雅皮特國際機場]]
+ 加勒比海航空Air Caraïbes  secondary_hubs  [[馬丁尼克-亞米-凱薩國際機場]]
+ 加勒比海航空Air Caraïbes  frequent_flyer  Frequence Plus
+ 加勒比海航空Air Caraïbes  code_share  LIAT
+ 加勒比海航空Air Caraïbes  alliance  CaribSky
+ 加勒比海航空Air Caraïbes  website  [https://www.aircaraibes.com/ aircaraibes.com]
+ 巴拿馬航空Copa Airlines airline  巴拿馬航空Copa Airlines
+ 巴拿馬航空Copa Airlines  image  Copa737800howard.jpg
+ 巴拿馬航空Copa Airlines  IATA  CM
+ 巴拿馬航空Copa Airlines  ICAO  CMP
+ 巴拿馬航空Copa Airlines  callsign  COPA
+ 巴拿馬航空Copa Airlines  founded  1944年
+ 巴拿馬航空Copa Airlines  frequent_flyer  {{lang|en|ConnectMiles}}
+ 巴拿馬航空Copa Airlines  alliance  [[星空聯盟]]
+ 巴拿馬航空Copa Airlines  subsidiaries  [[哥倫比亞巴拿馬航空]][[溫戈航空]]
+ 巴拿馬航空Copa Airlines  fleet_size  95
+ 巴拿馬航空Copa Airlines  destinations  80
+ 巴拿馬航空Copa Airlines  parent  [[巴拿馬航空控股]]
+ 巴拿馬航空Copa Airlines  headquarters  {{flagicon image|Flag of Panama.svg}} 巴拿馬巴拿馬城
+ 巴拿馬航空Copa Airlines  key_people  {{lang|es|Pedro Heilbron}} （ {{lang|la|CEO}} ） {{lang|es|Jose Montero}} （ {{lang|la|CFO}} ）
+ 巴拿馬航空Copa Airlines  website  [https://www.copaair.com]
+ 哥倫比亞巴拿馬航空 airline  哥倫比亞巴拿馬航空
+ 哥倫比亞巴拿馬航空  IATA  P5/CM*
+ 哥倫比亞巴拿馬航空  ICAO  RPB
+ 哥倫比亞巴拿馬航空  callsign  AEROREPUBLICA
+ 哥倫比亞巴拿馬航空  parent  Copa Holdings
+ 哥倫比亞巴拿馬航空  company_slogan  連結一切可能（ {{lang|en|Connected everything is possible}} ）
+ 哥倫比亞巴拿馬航空  founded  1992年11月23日
+ 哥倫比亞巴拿馬航空  commenced  2010年10月6日
+ 哥倫比亞巴拿馬航空  ceased  2016年12月
+ 哥倫比亞巴拿馬航空  headquarters  {{COL}} [[波哥大]]
+ 哥倫比亞巴拿馬航空  key_people  愛德華多·隆巴納（ {{lang|es|Eduardo Lombana}} ）（[[CEO]]）
+ 哥倫比亞巴拿馬航空  hubs  <div>\n*[[埃爾多拉多國際機場]]\n</div>
+ 哥倫比亞巴拿馬航空  focus_cities  <div>\n*[[托庫門國際機場]]\n* {{tsl|en|Gustavo Rojas Pinilla International Airport|古斯塔沃·羅哈斯·皮尼利亞國際機場}} *[[何塞·瑪麗亞·科爾多瓦國際機場]]\n</div>
+ 哥倫比亞巴拿馬航空  frequent_flyer  ConnectMiles
+ 哥倫比亞巴拿馬航空  alliance  [[星空聯盟]]（會員）
+ 哥倫比亞巴拿馬航空  fleet_size  16架飛機
+ 哥倫比亞巴拿馬航空  destinations  20座
+ 哥倫比亞巴拿馬航空  website  [http://www.copaair.com/sites/co/EN/pages/homepage.aspx Copa Airlines Colombia]
+ 古巴航空Cubana de Aviación airline  古巴航空Cubana de Aviación
+ 古巴航空Cubana de Aviación  logo  Cubana Airlines logo.svg
+ 古巴航空Cubana de Aviación  logo_size  200
+ 古巴航空Cubana de Aviación  fleet_size  14
+ 古巴航空Cubana de Aviación  destinations  20
+ 古巴航空Cubana de Aviación  company_slogan  "古巴通往世界的大门 {{lang|es|Puerta de Cuba al Mundo}}  {{lang|en|Cubas Gateway to the World}}"
+ 古巴航空Cubana de Aviación  IATA  CU
+ 古巴航空Cubana de Aviación  ICAO  CUB
+ 古巴航空Cubana de Aviación  callsign  CUBANA
+ 古巴航空Cubana de Aviación  parent  古巴民航局
+ 古巴航空Cubana de Aviación  founded  1929年10月8日
+ 古巴航空Cubana de Aviación  hubs  <div>\n*[[何塞·馬蒂國際機場]]\n</div>\n</div>
+ 古巴航空Cubana de Aviación  focus_cities  {{unbulleted list|[[安東尼奧·馬塞奧機場]]|[[Juan Gualberto Gómez Airport]]|[[弗蘭克帕里斯機場]]}}
+ 古巴航空Cubana de Aviación  lounge  Club Tropical Lounge
+ 古巴航空Cubana de Aviación  website  [http://www.cubana.cu]
+ 智利南美航空LATAM Chile airline  智利南美航空LATAM Chile
+ 智利南美航空LATAM Chile  logo  Latam-logo -v (Indigo).svg
+ 智利南美航空LATAM Chile  logo_size  250
+ 智利南美航空LATAM Chile  IATA  LA
+ 智利南美航空LATAM Chile  ICAO  LAN
+ 智利南美航空LATAM Chile  callsign  LAN
+ 智利南美航空LATAM Chile  parent  {{flagicon|CHL}} {{flagicon|BRA}} [[南美航空集團]]
+ 智利南美航空LATAM Chile  founded  1929年3月5日
+ 智利南美航空LATAM Chile  headquarters  {{CHI}} [[聖地亞哥]]
+ 智利南美航空LATAM Chile  key_people  Enrique Cueto Plaza（[[CEO]]）、Sebastian Piñera
+ 智利南美航空LATAM Chile  hubs  {{CHI}} [[圣地亚哥]][[阿图罗·梅里诺·贝尼特斯准将国际机场]]
+ 智利南美航空LATAM Chile  focus_cities  {{nowrap|PER| [[豪爾赫·查韋斯國際機場]]}} <br /> {{PER}} [[豪爾赫·查韋斯國際機場]] {{ECU}} [[蘇克雷元帥國際機場]]<br /> {{ECU}} [[何塞·華金·德奧爾梅多國際機場]]<br /> {{ARG}} [[埃塞薩皮斯塔里尼部長國際機場]]<br /> {{ARG}} [[豪爾赫·紐伯里機場]]<br /> {{USA}} [[邁阿密國際機場]]
+ 智利南美航空LATAM Chile  frequent_flyer  LANPASS
+ 智利南美航空LATAM Chile  lounge  VIP Lounge Neruda／VIP Lounge Mistral
+ 智利南美航空LATAM Chile  alliance  [[寰宇一家]]
+ 智利南美航空LATAM Chile  fleet_size  126
+ 智利南美航空LATAM Chile  destinations  66
+ 智利南美航空LATAM Chile  website  http://www.lan.com
+ 阿根廷南美航空LATAM Argentina airline  阿根廷南美航空LATAM Argentina
+ 阿根廷南美航空LATAM Argentina  logo  Latam-logo -v (Indigo).svg
+ 阿根廷南美航空LATAM Argentina  logo_size  250
+ 阿根廷南美航空LATAM Argentina  IATA  4M
+ 阿根廷南美航空LATAM Argentina  ICAO  DSM
+ 阿根廷南美航空LATAM Argentina  callsign  LAN AR
+ 阿根廷南美航空LATAM Argentina  founded  2005年
+ 阿根廷南美航空LATAM Argentina  frequent_flyer  LANPASS
+ 阿根廷南美航空LATAM Argentina  alliance  [[寰宇一家]]
+ 阿根廷南美航空LATAM Argentina  fleet_size  13
+ 阿根廷南美航空LATAM Argentina  destinations  17
+ 阿根廷南美航空LATAM Argentina  parent  {{flagicon|CHI}} {{flagicon|BRA}} {{le|南美航空集團|LATAM Airlines Group}}
+ 阿根廷南美航空LATAM Argentina  headquarters  {{ARG}} [[布宜諾斯艾利斯]]
+ 阿根廷南美航空LATAM Argentina  key_people  Gustavo Lopetegui - 行政總裁
+ 阿根廷南美航空LATAM Argentina  website  http://www.lan.com
+ 巴西南美航空LATAM Brasil airline  巴西南美航空LATAM Brasil
+ 巴西南美航空LATAM Brasil  logo  Latam-logo -v (Indigo).svg
+ 巴西南美航空LATAM Brasil  logo_size  200
+ 巴西南美航空LATAM Brasil  fleet_size  146
+ 巴西南美航空LATAM Brasil  destinations  49（國際）27（國內）
+ 巴西南美航空LATAM Brasil  IATA  JJ
+ 巴西南美航空LATAM Brasil  ICAO  TAM
+ 巴西南美航空LATAM Brasil  callsign  TAM
+ 巴西南美航空LATAM Brasil  parent  {{flagicon|CHI}} {{flagicon|BRA}} {{le|南美航空集團|LATAM Airlines Group}}
+ 巴西南美航空LATAM Brasil  founded  1961年2月21日
+ 巴西南美航空LATAM Brasil  headquarters  {{BRA}} [[聖保羅 (巴西城市)|聖保羅]]
+ 巴西南美航空LATAM Brasil  key_people  創始人：[[羅林·阿多佛·阿馬羅]]（Rolim Adolfo Amaro）  [[CEO]]：[[馬可·安東尼奧·波隆尼亞]]（Marco Antonio Bologna）
+ 巴西南美航空LATAM Brasil  hubs  {{BRA}} [[孔戈尼亞斯國際機場]]<br /> {{BRA}} [[聖保羅國際機場]]
+ 巴西南美航空LATAM Brasil  frequent_flyer  Fidelidade
+ 巴西南美航空LATAM Brasil  alliance  [[寰宇一家]]
+ 巴西南美航空LATAM Brasil  website  http://www.lan.com
+ 厄瓜多爾南美航空LATAM Ecuador airline  厄瓜多爾南美航空LATAM Ecuador
+ 厄瓜多爾南美航空LATAM Ecuador  logo  Latam-logo -v (Indigo).svg
+ 厄瓜多爾南美航空LATAM Ecuador  logo_size  250
+ 厄瓜多爾南美航空LATAM Ecuador  IATA  XL
+ 厄瓜多爾南美航空LATAM Ecuador  ICAO  LNE
+ 厄瓜多爾南美航空LATAM Ecuador  callsign  LAN ECUADOR
+ 厄瓜多爾南美航空LATAM Ecuador  founded  2002年7月
+ 厄瓜多爾南美航空LATAM Ecuador  commenced  2003年4月28日
+ 厄瓜多爾南美航空LATAM Ecuador  frequent_flyer  LANPASS
+ 厄瓜多爾南美航空LATAM Ecuador  alliance  [[寰宇一家]]
+ 厄瓜多爾南美航空LATAM Ecuador  fleet_size  10
+ 厄瓜多爾南美航空LATAM Ecuador  destinations  7
+ 厄瓜多爾南美航空LATAM Ecuador  parent  {{flagicon|CHI}} {{flagicon|BRA}} {{le|南美航空集團|LATAM Airlines Group}}
+ 厄瓜多爾南美航空LATAM Ecuador  headquarters  {{ECU}} [[瓜亞基爾]]
+ 厄瓜多爾南美航空LATAM Ecuador  key_people  澤維爾里維拉 - [[主席]]Jorge Dahik - [[行政總裁]]
+ 厄瓜多爾南美航空LATAM Ecuador  website  http://www.lan.com
+ 秘魯南美航空  LATAM Perú airline  秘魯南美航空  LATAM Perú
+ 秘魯南美航空  LATAM Perú  logo  Latam-logo -v (Indigo).svg
+ 秘魯南美航空  LATAM Perú  logo_size  250
+ 秘魯南美航空  LATAM Perú  IATA  LP
+ 秘魯南美航空  LATAM Perú  ICAO  LPE
+ 秘魯南美航空  LATAM Perú  callsign  LAN PERU
+ 秘魯南美航空  LATAM Perú  parent  {{flagicon|CHI}} {{flagicon|BRA}} {{le|南美航空集團|LATAM Airlines Group}}
+ 秘魯南美航空  LATAM Perú  founded  1998年
+ 秘魯南美航空  LATAM Perú  headquarters  {{PER}} [[利马]]
+ 秘魯南美航空  LATAM Perú  key_people  Félix Antelo
+ 秘魯南美航空  LATAM Perú  hubs  {{PER}} [[利马]][[豪尔赫·查韦斯国际机场]]
+ 秘魯南美航空  LATAM Perú  focus_cities  {{PER}} [[库斯科]] {{Tsl|en|Alejandro Velasco Astete International Airport|亚历杭德罗·韦拉斯科阿斯泰特国际机场}}  {{PER}} [[阿雷基帕]] {{Tsl|en|Rodríguez Ballón International Airport|罗德里格斯巴隆国际机场}}
+ 秘魯南美航空  LATAM Perú  frequent_flyer  LANPASS
+ 秘魯南美航空  LATAM Perú  alliance  [[寰宇一家]]
+ 秘魯南美航空  LATAM Perú  fleet_size  33
+ 秘魯南美航空  LATAM Perú  destinations  32
+ 秘魯南美航空  LATAM Perú  website  http://www.lan.com
+ 巴拉圭南美航空LATAM Airlines Paraguay airline  巴拉圭南美航空LATAM Airlines Paraguay
+ 巴拉圭南美航空LATAM Airlines Paraguay  usual_name 巴拉圭天马航空
+ 巴拉圭南美航空LATAM Airlines Paraguay  IATA  PZ
+ 巴拉圭南美航空LATAM Airlines Paraguay  ICAO  LAP
+ 巴拉圭南美航空LATAM Airlines Paraguay  callsign  PARAGUAYA
+ 巴拉圭南美航空LATAM Airlines Paraguay  founded  1962年
+ 巴拉圭南美航空LATAM Airlines Paraguay  frequent_flyer  LANPASS
+ 巴拉圭南美航空LATAM Airlines Paraguay  alliance  [[寰宇一家]]
+ 巴拉圭南美航空LATAM Airlines Paraguay  fleet_size  10
+ 巴拉圭南美航空LATAM Airlines Paraguay  destinations  7
+ 巴拉圭南美航空LATAM Airlines Paraguay  parent  {{flagicon|CHI}} {{flagicon|BRA}} {{le|南美航空集團|LATAM Airlines Group}}
+ 巴拉圭南美航空LATAM Airlines Paraguay  headquarters  {{PRY}} [[亚松森]]
+ 巴拉圭南美航空LATAM Airlines Paraguay  key_people  澤維爾里維拉 - [[主席]]Jorge Dahik - [[行政總裁]]
+ 巴拉圭南美航空LATAM Airlines Paraguay  website  http://www.lan.com
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir airline  墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  image  Latam-logo -v (Indigo).svg
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  IATA  M7
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  ICAO  MAA
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  callsign  MAS CARGA
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  founded  1992年
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  commenced  1992年4月
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  hubs  {{nowrap | |MEX| [[墨西哥城貝尼托·胡亞雷斯國際機場]]}} {{MEX}} [[墨西哥城貝尼托·胡亞雷斯國際機場]]
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  secondary_hubs  {{USA}} [[洛杉磯國際機場]]  {{USA}} [[邁阿密國際機場]]
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  fleet_size  3
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  destinations  {{USA}} 洛杉磯、邁阿密  {{MEX}} 瓜達拉哈拉  {{COL}} 波哥大、麥德林  {{ECU}} 基多
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  parent  {{flagicon|CHI}} {{flagicon|BRA}} {{le|南美航空集團|LATAM Airlines Group}}
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  headquarters  {{MEX}} [[墨西哥城]]
+ 墨西哥南美货运航空  LATAM Cargo México  馬斯航空  MasAir  website  http://www.masair.com
+ 蘇里南航空Surinam Airways airline  蘇里南航空Surinam Airways
+ 蘇里南航空Surinam Airways  image  Surinam Airways Logo.svg
+ 蘇里南航空Surinam Airways  IATA  PY
+ 蘇里南航空Surinam Airways  ICAO  SLM
+ 蘇里南航空Surinam Airways  callsign  SURINAM
+ 蘇里南航空Surinam Airways  founded  1955年
+ 蘇里南航空Surinam Airways  hubs  {{flagicon image|Flag of Suriname.svg}} [[約翰·阿道夫·彭格爾國際機場]]
+ 蘇里南航空Surinam Airways  fleet_size  2
+ 蘇里南航空Surinam Airways  destinations  10
+ 蘇里南航空Surinam Airways  company_slogan  "{{lang|en|Flying on Trusted Wings}}"
+ 蘇里南航空Surinam Airways  headquarters  {{flagicon image|Flag of Suriname.svg}} [[帕拉马里博]]
+ 蘇里南航空Surinam Airways  website  ://www.flyslm.com/
+ 厄瓜多航空  TAME Línea Aérea del Ecuador airline  厄瓜多航空  TAME Línea Aérea del Ecuador
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  fleet_size  9
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  destinations  14
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  IATA  EQ
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  ICAO  TAE
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  callsign  TAME
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  parent  厄瓜多空軍
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  founded  1962
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  key_people  Fernando Guerrero
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  frequent_flyer  Distancia TAME
+ 厄瓜多航空  TAME Línea Aérea del Ecuador  website  [http://www.tame.com.ec]
+ 高爾航空  Gol Transportes Aéreos airline  高爾航空  Gol Transportes Aéreos
+ 高爾航空  Gol Transportes Aéreos  logo  Gol new logo.png
+ 高爾航空  Gol Transportes Aéreos  logo_size  200
+ 高爾航空  Gol Transportes Aéreos  fleet_size  119
+ 高爾航空  Gol Transportes Aéreos  destinations  61
+ 高爾航空  Gol Transportes Aéreos  IATA  G3
+ 高爾航空  Gol Transportes Aéreos  ICAO  GLO
+ 高爾航空  Gol Transportes Aéreos  callsign  GOL TRANSPORTE
+ 高爾航空  Gol Transportes Aéreos  company_slogan  在這裡，人人都可以飛行。  Aqui todo mundo pode voar.
+ 高爾航空  Gol Transportes Aéreos  parent  [[Grupo Áurea]]
+ 高爾航空  Gol Transportes Aéreos  founded  2000年
+ 高爾航空  Gol Transportes Aéreos  headquarters  {{BRA}} [[里约热内卢]]
+ 高爾航空  Gol Transportes Aéreos  key_people  [[Constantino de Oliveira]]（Junior）
+ 高爾航空  Gol Transportes Aéreos  hubs  {{BRA}} [[孔戈尼亞斯/聖保羅機場]]
+ 高爾航空  Gol Transportes Aéreos  frequent_flyer  Smiles S.A.
+ 高爾航空  Gol Transportes Aéreos  website  http://www.voegol.com/
+ 因瑟尔航空  Insel Air airline  因瑟尔航空  Insel Air
+ 因瑟尔航空  Insel Air  logo  Insel Air logo.svg
+ 因瑟尔航空  Insel Air  logo_size  250px
+ 因瑟尔航空  Insel Air  fleet_size  18
+ 因瑟尔航空  Insel Air  destinations  23
+ 因瑟尔航空  Insel Air  IATA  7I8I
+ 因瑟尔航空  Insel Air  ICAO  INCNLU
+ 因瑟尔航空  Insel Air  callsign  INSELAIRINSEL ARUBA
+ 因瑟尔航空  Insel Air  company_name  因瑟尔航空 {{lang|nl|Insel Air}}
+ 因瑟尔航空  Insel Air  founded  1993年
+ 因瑟尔航空  Insel Air  commenced  2006年
+ 因瑟尔航空  Insel Air  ceased  2019年2月16日
+ 因瑟尔航空  Insel Air  headquarters  [[庫拉索]][[威廉斯塔德]]
+ 因瑟尔航空  Insel Air  key_people  H·A·范·德·克瓦斯特（主席）阿爾伯特·克來法（行政總裁）
+ 因瑟尔航空  Insel Air  hubs  [[庫拉索國際機場]] [[貝婭特麗克絲女王國際機場]]
+ 因瑟尔航空  Insel Air  focus_cities  [[博奈尔]][[弗拉明戈国际机场]] [[邁阿密國際機場]] [[朱麗安娜公主國際機場]]
+ 因瑟尔航空  Insel Air  frequent_flyer  因瑟尔星星里程計劃
+ 因瑟尔航空  Insel Air  lounge  帕斯曼貴賓室
+ 因瑟尔航空  Insel Air  website  http://www.fly-inselair.com/
+ 埃及航空 airline  埃及航空
+ 埃及航空  logo  Egyptair.svg
+ 埃及航空  IATA  MS
+ 埃及航空  ICAO  MSR
+ 埃及航空  callsign  EgyptAir
+ 埃及航空  company_slogan  享受天空。  Enjoy The Sky
+ 埃及航空  founded  1932年
+ 埃及航空  key_people  Eng Atef Abd El Hamid（[[CEO]]）
+ 埃及航空  frequent_flyer  EgyptAir Plus
+ 埃及航空  alliance  [[星空聯盟]]
+ 埃及航空  fleet_size  66
+ 埃及航空  destinations  75
+ 埃及航空  website  http://www.egyptair.de
+ 阿聯酋航空 Emirates airline  阿聯酋航空 Emirates
+ 阿聯酋航空 Emirates   IATA  EK
+ 阿聯酋航空 Emirates  ICAO  UAE
+ 阿聯酋航空 Emirates  callsign  EMIRATES
+ 阿聯酋航空 Emirates  parent  阿聯酋航空集團 (杜拜政府投資公司全資擁有）
+ 阿聯酋航空 Emirates  lounge  Emirates Worldwide First and Business Class Lounges
+ 阿聯酋航空 Emirates  founded  1985
+ 阿聯酋航空 Emirates  frequent_flyer  Skywards
+ 阿聯酋航空 Emirates  company_slogan  和阿联酋航空一起飞行，向明天问好。  Fly Emirates. Hello Tomorrow.
+ 阿聯酋航空 Emirates  key_people  [[Sheikh Ahmed bin Saeed Al Maktoum]]（[[首席执行官]]）  [[Maurice Flanagan]]（[[执行副主席]]）  Tim Clark（[[总裁]]）
+ 阿聯酋航空 Emirates  fleet_size  253（+257订购中）
+ 阿聯酋航空 Emirates  destinations  142
+ 阿聯酋航空 Emirates  website  https://www.emirates.com
+ 阿提哈德航空Etihad Airways airline  阿提哈德航空Etihad Airways
+ 阿提哈德航空Etihad Airways  logo  EY-Etihad-Airways-new-logo-En.jpg
+ 阿提哈德航空Etihad Airways  logo_size  280px
+ 阿提哈德航空Etihad Airways  fleet_size  120
+ 阿提哈德航空Etihad Airways  destinations  [http
+ 阿提哈德航空Etihad Airways  IATA  EY
+ 阿提哈德航空Etihad Airways  ICAO  ETD
+ 阿提哈德航空Etihad Airways  ICAO country prefix  A6
+ 阿提哈德航空Etihad Airways  callsign  ETIHAD
+ 阿提哈德航空Etihad Airways  company_slogan  From Abu Dhabi to the World.The World Is Our Home You Are Our Guests.
+ 阿提哈德航空Etihad Airways  founded  2003年7月
+ 阿提哈德航空Etihad Airways  commenced  2003年11月12日
+ 阿提哈德航空Etihad Airways  key_people  穆罕默德·穆巴拉克·馬茲魯伊（[[董事長]]）詹姆斯·霍根（[[首席執行官]]）
+ 阿提哈德航空Etihad Airways  frequent_flyer  Etihad Guest
+ 阿提哈德航空Etihad Airways  lounge  Etihad Premium Lounge
+ 阿提哈德航空Etihad Airways  website  http://www.etihad.com/zh-cn/
+ 海灣航空Gulf Air airline  海灣航空Gulf Air
+ 海灣航空Gulf Air  logo  Gulf Air Logo.svg
+ 海灣航空Gulf Air  IATA  GF
+ 海灣航空Gulf Air  ICAO  GFA
+ 海灣航空Gulf Air  callsign  Gulf Air
+ 海灣航空Gulf Air  founded  1950年
+ 海灣航空Gulf Air  hubs  [[巴林國際機場]]
+ 海灣航空Gulf Air  frequent_flyer  海灣航空飛行常客獎勵計劃
+ 海灣航空Gulf Air  fleet_size  27
+ 海灣航空Gulf Air  destinations  40
+ 海灣航空Gulf Air  website  http://www.gulfair.com
+ 伊朗航空Iran Air airline  伊朗航空Iran Air
+ 伊朗航空Iran Air  logo  Iran Air logo.svg
+ 伊朗航空Iran Air  logo_size  200px
+ 伊朗航空Iran Air  IATA  IR
+ 伊朗航空Iran Air  ICAO  IRA
+ 伊朗航空Iran Air  callsign  IRANAIR
+ 伊朗航空Iran Air  founded  1944年
+ 伊朗航空Iran Air  frequent_flyer  {{lang|en|SkyGift}}
+ 伊朗航空Iran Air  fleet_size  35
+ 伊朗航空Iran Air  destinations  68
+ 伊朗航空Iran Air  headquarters  {{flagicon image|Flag of Iran.svg}} 伊朗德黑蘭
+ 伊朗航空Iran Air  website  [http://www.iranair.com/ iranair.com]
+ 伊朗阿塞曼航空 airline  伊朗阿塞曼航空
+ 伊朗阿塞曼航空  IATA  EP
+ 伊朗阿塞曼航空  ICAO  IRC
+ 伊朗阿塞曼航空  callsign  ASEMAN
+ 伊朗阿塞曼航空  founded  {{Start date and years ago|1970}} 以帕斯航空身份运营
+ 伊朗阿塞曼航空  commenced  {{Start date and years ago|1980}} 以伊朗阿塞曼航空身份运营
+ 伊朗阿塞曼航空  hubs  * [[梅赫拉巴德國際機場|德黑蘭-梅赫拉巴德]]\n* [[沙希德·哈希米内贾德国际机场|馬什哈德]]\n* [[沙希德·阿亚图拉·达斯特盖卜国际机场|設拉子]]
+ 伊朗阿塞曼航空  focus_cities  <div> \n* [[伊玛目霍梅尼国际机场|德黑蘭-伊瑪目霍梅尼]]
+ 伊朗阿塞曼航空  fleet_size  26
+ 伊朗阿塞曼航空  destinations  [[Iran Aseman Airlines destinations|47]]
+ 伊朗阿塞曼航空  parent  伊朗民間養老基金投資公司
+ 伊朗阿塞曼航空  company_slogan  We Guarantee Your Safety in The Sky
+ 伊朗阿塞曼航空  headquarters  [[伊朗]][[德黑兰]][[梅赫拉巴德國際機場]]
+ 伊朗阿塞曼航空  key_people  [[Hossein Alaei]] (CEO)
+ 伊朗阿塞曼航空  website  [http://www.iaa.ir/ iaa.ir]
+ 半岛航空 airline  半岛航空
+ 半岛航空  IATA  J9
+ 半岛航空  ICAO  JZR
+ 半岛航空  callsign  JAZEERA
+ 半岛航空  founded  2005年
+ 半岛航空  hubs  [[科威特国际机场]]<br />[[迪拜国际机场]]
+ 半岛航空  fleet_size  8（+32订购）
+ 半岛航空  destinations  23
+ 半岛航空  parent  The Boodai Group
+ 半岛航空  headquarters  [[科威特]][[科威特城]]
+ 半岛航空  key_people  Marwan Boodai（[[董事长]]兼[[CEO]]）
+ 半岛航空  website  http://www.jazeeraairways.com/
+ 約旦航空Jordan Aviation airline  約旦航空Jordan Aviation
+ 約旦航空Jordan Aviation  logo  Jordan_Aviation.png
+ 約旦航空Jordan Aviation  logo_size  100px
+ 約旦航空Jordan Aviation  IATA  R5
+ 約旦航空Jordan Aviation  ICAO  JAV
+ 約旦航空Jordan Aviation  callsign  JORDAN AVIATION
+ 約旦航空Jordan Aviation  founded  2000年
+ 約旦航空Jordan Aviation  alliance  [[阿拉伯航空運輸組織]]
+ 約旦航空Jordan Aviation  fleet_size  11
+ 約旦航空Jordan Aviation  destinations  7
+ 約旦航空Jordan Aviation  key_people  "Mohd Al-Khashman"
+ 約旦航空Jordan Aviation  website  http://www.jordanaviation.jo
+ 科威特航空 airline  科威特航空
+ 科威特航空  logo  Kuwait Airways Logo.svg
+ 科威特航空  IATA  KU
+ 科威特航空  ICAO  KAC
+ 科威特航空  callsign  KUWAITI
+ 科威特航空  founded  1954年
+ 科威特航空  hubs  [[科威特国际机场]]
+ 科威特航空  frequent_flyer  绿洲俱乐部（Oasis Club）
+ 科威特航空  lounge  达斯曼休息室（Dasman Lounge）
+ 科威特航空  fleet_size  29
+ 科威特航空  destinations  34
+ 科威特航空  company_slogan  Earning Your Trust Fly Safely
+ 科威特航空  headquarters  [[科威特]][[科威特城]]
+ 科威特航空  key_people  优素福·A·胡迈迪（[[主席]]）
+ 科威特航空  website  http://www.kuwaitairways.com/
+ 利比亞航空 airline  利比亞航空
+ 利比亞航空  fleet_size  13
+ 利比亞航空  destinations  29
+ 利比亞航空  IATA  LN
+ 利比亞航空  ICAO  LAA
+ 利比亞航空  callsign  LIBYAN
+ 利比亞航空  parent  利比亞泛非航空控股公司
+ 利比亞航空  founded  1964年
+ 利比亞航空  commenced  1965年
+ 利比亞航空  headquarters  {{LBY}} [[的黎波里]]
+ 利比亞航空  hubs  {{LBY}} [[的黎波里國際機場]]
+ 利比亞航空  focus_cities  {{LBY}} [[貝尼納國際機場]]
+ 馬漢航空 Mahan Air airline  馬漢航空 Mahan Air
+ 馬漢航空 Mahan Air  image  Mahan Air Logo.svg
+ 馬漢航空 Mahan Air  image_size  250px
+ 馬漢航空 Mahan Air  IATA  W5
+ 馬漢航空 Mahan Air  ICAO  IRM
+ 馬漢航空 Mahan Air  callsign  MAHAN
+ 馬漢航空 Mahan Air  founded  1992年
+ 馬漢航空 Mahan Air  hubs  {{IRN}} [[德黑蘭]][[梅赫拉巴德國際機場]]
+ 馬漢航空 Mahan Air  frequent_flyer  "Mahan & Miles"
+ 馬漢航空 Mahan Air  fleet_size  54
+ 馬漢航空 Mahan Air  destinations  28
+ 馬漢航空 Mahan Air  company_slogan  "卓越精神The Spirit of Excellence"
+ 馬漢航空 Mahan Air  parent  Mol-Al-Movahedin 信用聯合控股
+ 馬漢航空 Mahan Air  headquarters  {{IRN}} [[德黑兰]]
+ 馬漢航空 Mahan Air  website  {{url|http://www.mahan.aero/}}
+ 中东航空Middle East Airlines airline  中东航空Middle East Airlines
+ 中东航空Middle East Airlines  image  MEAlogo.svg
+ 中东航空Middle East Airlines  IATA  ME
+ 中东航空Middle East Airlines  ICAO  MEA
+ 中东航空Middle East Airlines  callsign  CEDAR JET
+ 中东航空Middle East Airlines  founded  1945年
+ 中东航空Middle East Airlines  website  [https://www.mea.com.lb/ mea.com.lb]
+ 阿曼航空 airline  阿曼航空
+ 阿曼航空  logo  Oman Air Logo.svg
+ 阿曼航空  logo_size  250px
+ 阿曼航空  IATA  WY
+ 阿曼航空  ICAO  OMA
+ 阿曼航空  callsign  OMAN AIR
+ 阿曼航空  founded  1993年6月4日
+ 阿曼航空  commenced  1993年6月4日
+ 阿曼航空  hubs  [[馬斯喀特國際機場]]
+ 阿曼航空  focus_cities  [[塞拉莱机场]]
+ 阿曼航空  frequent_flyer  辛巴达常旅客
+ 阿曼航空  lounge  阿曼航空休息室
+ 阿曼航空  fleet_size  53
+ 阿曼航空  destinations  50
+ 阿曼航空  parent  阿曼政府
+ 阿曼航空  company_slogan  Modern Vision Timeless Traditions..
+ 阿曼航空  headquarters  [[阿曼]][[馬斯喀特]]
+ 阿曼航空  key_people  彼得·希尔（[[CEO]]）
+ 阿曼航空  website  http://www.omanair.com/en/
+ 卡塔尔航空Qatar Airways airline  卡塔尔航空Qatar Airways
+ 卡塔尔航空Qatar Airways  logo  Qatar Airways Logo.svg
+ 卡塔尔航空Qatar Airways  logo_size  200px
+ 卡塔尔航空Qatar Airways  fleet_size  219(含貨機)
+ 卡塔尔航空Qatar Airways  destinations  多於150
+ 卡塔尔航空Qatar Airways  IATA  QR
+ 卡塔尔航空Qatar Airways  IATA Number  157
+ 卡塔尔航空Qatar Airways  ICAO  QTR
+ 卡塔尔航空Qatar Airways  ICAO country prefix  OT = Qatar
+ 卡塔尔航空Qatar Airways  callsign  Qatari
+ 卡塔尔航空Qatar Airways  parent  Qatar Airways Group
+ 卡塔尔航空Qatar Airways  founded  1993年
+ 卡塔尔航空Qatar Airways  headquarters  [[卡塔尔|卡塔爾]][[杜哈]]
+ 卡塔尔航空Qatar Airways  key_people  [[Akbar Al Baker]] ([[CEO]])
+ 卡塔尔航空Qatar Airways  hubs  [[哈馬德國際機場]]
+ 卡塔尔航空Qatar Airways  frequent_flyer  卡塔爾航空優惠俱樂部
+ 卡塔尔航空Qatar Airways  alliance  [[寰宇一家]]
+ 卡塔尔航空Qatar Airways  website  http://www.qatarairways.com/
+ 摩洛哥皇家航空 airline  摩洛哥皇家航空
+ 摩洛哥皇家航空  logo  Logo Royal Air Maroc.svg
+ 摩洛哥皇家航空  logo_size  180
+ 摩洛哥皇家航空  IATA  AT
+ 摩洛哥皇家航空  ICAO  RAM
+ 摩洛哥皇家航空  callsign  ROYAL AIR MAROC
+ 摩洛哥皇家航空  founded  1957年
+ 摩洛哥皇家航空  hubs  {{MAR}} [[穆罕默德五世国际机场]]
+ 摩洛哥皇家航空  frequent_flyer  Safar Flyer
+ 摩洛哥皇家航空  lounge  Casablanca Lounge
+ 摩洛哥皇家航空  alliance  [[寰宇一家]]（將於2020年中生效）
+ 摩洛哥皇家航空  fleet_size  55（+9订购）
+ 摩洛哥皇家航空  destinations  94
+ 摩洛哥皇家航空  parent  {{MAR}} 摩洛哥皇家航空集团
+ 摩洛哥皇家航空  headquarters  {{MAR}} [[达尔贝达]]
+ 摩洛哥皇家航空  key_people  Driss Benhima（[[首席执行官]]）
+ 摩洛哥皇家航空  website  http://www.royalairmaroc.com/
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}} airline  皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  logo  Royal Jordanian.svg
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  logo_size  200px
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  fleet_size  31（+8訂購中，16選擇權）
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  destinations  56
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  IATA  RJ
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  ICAO  RJA
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  callsign  JORDANIAN
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  founded  1963年
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  key_people  Samer A. Majali（[[CEO]]）
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  frequent_flyer  Royal Plus
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  lounge  Crown Lounge
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  alliance  [[寰宇一家]]
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  company_slogan  "{{lang|en|Youre there}}"
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  subsidiaries  [[皇翼航空]]皇家約旦航空貨運皇家約旦航空地勤
+ 皇家約旦航空 {{lang|en|Royal Jordanian Airlines}}  website  http://www.rja.com.jo/
+ 沙特阿拉伯航空Saudia airline  沙特阿拉伯航空Saudia
+ 沙特阿拉伯航空Saudia  image  Saudia Logo.svg
+ 沙特阿拉伯航空Saudia  IATA  SV
+ 沙特阿拉伯航空Saudia  ICAO  SVA
+ 沙特阿拉伯航空Saudia  callsign  SAUDIA
+ 沙特阿拉伯航空Saudia  founded  1945年
+ 沙特阿拉伯航空Saudia  hubs  [[阿卜杜勒-阿齐兹国王国际机场]]<br/>[[哈立德国王国际机场]]<br/>[[法赫德国王国际机场]]
+ 沙特阿拉伯航空Saudia  frequent_flyer  {{lang|la|Alfursan}}
+ 沙特阿拉伯航空Saudia  alliance  [[天合聯盟]]
+ 沙特阿拉伯航空Saudia  fleet_size  184
+ 沙特阿拉伯航空Saudia  destinations  89
+ 沙特阿拉伯航空Saudia  parent  {{flagicon image|Flag of Saudi Arabia.svg}} 沙特阿拉伯政府
+ 沙特阿拉伯航空Saudia  headquarters  [[沙特阿拉伯]][[吉達]]及利雅德分部
+ 沙特阿拉伯航空Saudia  website  [https//www.saudia.com]
+ 萨菲航空 airline  萨菲航空
+ 萨菲航空  Fleet  3
+ 萨菲航空  destinations  9
+ 萨菲航空  IATA  4Q
+ 萨菲航空  ICAO  SFW
+ 萨菲航空  callsign  SAFI
+ 萨菲航空  parent  萨菲航空有限公司
+ 萨菲航空  company_slogan  阿富汗的国际航空公司  The International Airline of Afghanistan
+ 萨菲航空  founded  2006年
+ 萨菲航空  headquarters  {{阿富汗}} [[喀布尔]]  {{阿联酋}} [[迪拜]]
+ 萨菲航空  key_people  吴拉姆·哈兹拉特·萨菲（[[总裁]]） 宰丹·哈利法特（[[副总裁]]） 约书亚·比斯托（[[首席商务官]]） )
+ 萨菲航空  bases  {{nowrap | |阿富汗| [[哈米德·卡尔扎伊国际机场]]}} {{阿富汗}} [[哈米德·卡尔扎伊国际机场]]
+ 萨菲航空  secondary_hubs  {{阿联酋}} [[迪拜国际机场]]
+ 萨菲航空  focus_cities  {{阿富汗}} [[哈米德·卡尔扎伊国际机场]]  {{阿联酋}} [[迪拜国际机场]]  {{IND}} [[新德里]][[英迪拉·甘地国际机场]]  {{沙特}} [[吉达]][[阿卜杜勒-阿齐兹国王国际机场]]
+ 萨菲航空  frequent_flyer  藏红花飞机奖励
+ 萨菲航空  website  {{url|http://www.safiairways.com/}}
+ 苏丹航空Sudan Airways airline  苏丹航空Sudan Airways
+ 苏丹航空Sudan Airways  logo  Sudan Airways Logo.svg
+ 苏丹航空Sudan Airways  IATA  SD
+ 苏丹航空Sudan Airways  ICAO  SUD
+ 苏丹航空Sudan Airways  callsign  SUDANAIR
+ 苏丹航空Sudan Airways  founded  1947年
+ 苏丹航空Sudan Airways  hubs  {{SUD}} [[喀土穆国际机场]]
+ 苏丹航空Sudan Airways  fleet_size  8
+ 苏丹航空Sudan Airways  destinations  19
+ 苏丹航空Sudan Airways  key_people  Mr. Elsharif A.O Badr（[[CEO]]）
+ 苏丹航空Sudan Airways  website  http://www.sudanair.com/
+ 叙利亚航空 airline  叙利亚航空
+ 叙利亚航空  IATA  RB
+ 叙利亚航空  ICAO  SYR
+ 叙利亚航空  callsign  SYRIANAIR
+ 叙利亚航空  founded  1946年
+ 叙利亚航空  hubs  * [[大马士革国际机场]]\n* [[巴塞勒·阿薩德國際機場]]
+ 叙利亚航空  frequent_flyer  叙利亚航空常旅客
+ 叙利亚航空  fleet_size  9
+ 叙利亚航空  destinations  42
+ 叙利亚航空  headquarters  [[叙利亚]][[大马士革]]
+ 叙利亚航空  key_people  Mrs. Ghaida Abdullatif（[[CEO]]）
+ 叙利亚航空  website  http://www.syriaair.com/
+ 突尼斯航空 TunisAir airline  突尼斯航空 TunisAir
+ 突尼斯航空 TunisAir  logo  TunisAir Logo.svg
+ 突尼斯航空 TunisAir  IATA  TU
+ 突尼斯航空 TunisAir  ICAO  TAR
+ 突尼斯航空 TunisAir  callsign  TUNAIR
+ 突尼斯航空 TunisAir  founded  1948年
+ 突尼斯航空 TunisAir  hubs  {{TUN}} [[突尼斯—迦太基国际机场]]
+ 突尼斯航空 TunisAir  frequent_flyer  Fidelys
+ 突尼斯航空 TunisAir  lounge  Espace Previlige
+ 突尼斯航空 TunisAir  fleet_size  32（+14订购）
+ 突尼斯航空 TunisAir  destinations  53
+ 突尼斯航空 TunisAir  headquarters  {{TUN}} [[突尼斯市]]
+ 突尼斯航空 TunisAir  key_people  Nabil Chateoui（[[首席执行官]]）
+ 突尼斯航空 TunisAir  website  https://www.tunisair.com/
+ 也門航空 airline  也門航空
+ 也門航空  logo  Yemenialogo.png
+ 也門航空  logo_size  94px
+ 也門航空  IATA  IY
+ 也門航空  ICAO  IYE
+ 也門航空  callsign  YEMENi
+ 也門航空  founded  1961年
+ 也門航空  key_people  Capt. Abdulkalek Saleh Al-Kadi（[[主席]]）
+ 也門航空  headquarters  [[也門]][[薩那]]
+ 也門航空  hubs  [[薩那國際機場]][[亞丁國際機場]]
+ 也門航空  focus_cities  [[亞丁國際機場]][[迪拜國際機場]]
+ 也門航空  frequent_flyer  The Arabia Felix Club
+ 也門航空  lounge  離境貴賓室
+ 也門航空  fleet_size  10（+18架訂購中）
+ 也門航空  destinations  29
+ 也門航空  website  http://www.yemenia.com
+ 加拿大航空Air Canada airline  加拿大航空Air Canada
+ 加拿大航空Air Canada   fleet_size  183+100（訂購中）
+ 加拿大航空Air Canada  destinations  178
+ 加拿大航空Air Canada  IATA  AC
+ 加拿大航空Air Canada  ICAO  ACA
+ 加拿大航空Air Canada  callsign  Air Canada
+ 加拿大航空Air Canada  parent  ACE Aviation Holdings
+ 加拿大航空Air Canada  founded  1936年4月11日
+ 加拿大航空Air Canada  commenced  1965年1月1日
+ 加拿大航空Air Canada  headquarters  {{CAN}} [[蒙特利尔]]
+ 加拿大航空Air Canada  key_people  Calin Rovinescu （總裁及[[CEO]]）
+ 加拿大航空Air Canada  company_slogan  "Fly The Flag !"
+ 加拿大航空Air Canada  hubs  {{CAN}} [[多倫多皮爾遜國際機場]] {{CAN}} [[溫哥華國際機場]] {{CAN}} [[蒙特利尔特鲁多国际机场]] {{CAN}} [[卡加利國際機場]]
+ 加拿大航空Air Canada  focus_cities  {{CAN}} [[渥太華麥克唐納－卡蒂埃國際機場]] {{CAN}} [[哈利法克斯羅伯特·洛恩·斯坦菲爾德國際機場]] {{CAN}} [[埃德蒙顿国际机场]] {{CAN}} [[温尼伯詹姆斯·阿姆斯特朗·理查森国际机场]]
+ 加拿大航空Air Canada  frequent_flyer  AeroplanAir Canada Altitude
+ 加拿大航空Air Canada  lounge  枫叶休息室（Maple Leaf Lounge）
+ 加拿大航空Air Canada  alliance  [[星空聯盟]]
+ 加拿大航空Air Canada  revenue  {{increase}} [[加拿大元|CAN$]]121.2亿元 (2012)
+ 加拿大航空Air Canada  operating_income  {{increase}} CAN$4.37亿元 (2012)
+ 加拿大航空Air Canada  net_income  {{increase}} CAN$1.31亿元 (2012)
+ 加拿大航空Air Canada  assets  {{decrease}} CAN$90.60亿元 (2012)
+ 加拿大航空Air Canada  equity  {{increase}} CAN$ -3.406亿元 (2012)
+ 加拿大航空Air Canada  num_employees  27000 (2012)
+ 加拿大航空Air Canada  website  http://www.aircanada.com
+ 加拿大越洋航空  Air Transat airline  加拿大越洋航空  Air Transat
+ 加拿大越洋航空  Air Transat  logo  Air transat logo.svg
+ 加拿大越洋航空  Air Transat  fleet_size  44
+ 加拿大越洋航空  Air Transat  destinations  63
+ 加拿大越洋航空  Air Transat  IATA  TS
+ 加拿大越洋航空  Air Transat  ICAO  TSC
+ 加拿大越洋航空  Air Transat  callsign  TRANSAT
+ 加拿大越洋航空  Air Transat  parent  [[Transat A.T.|Transat A.T. Inc.]]
+ 加拿大越洋航空  Air Transat  founded  1986年
+ 加拿大越洋航空  Air Transat  headquarters  [[魁北克省]][[蒙特利尔]]
+ 加拿大越洋航空  Air Transat  key_people  Allen Graham（主席兼行政总裁）
+ 加拿大越洋航空  Air Transat  hubs  [[蒙特利尔皮埃尔·埃利奥特·特鲁多国际机场]][[多伦多皮尔逊国际机场]][[温哥华国际机场]]
+ 加拿大越洋航空  Air Transat  focus_cities  [[魁北克让·勒萨热国际机场]][[卡尔加里国际机场]]
+ 加拿大越洋航空  Air Transat  website  http://www.airtransat.com
+ 阿拉斯加航空<br />Alaska Airlines airline  阿拉斯加航空<br />Alaska Airlines
+ 阿拉斯加航空<br />Alaska Airlines  logo  Alaska Airlines Logo.svg
+ 阿拉斯加航空<br />Alaska Airlines  fleet_size  313
+ 阿拉斯加航空<br />Alaska Airlines  destinations  118
+ 阿拉斯加航空<br />Alaska Airlines  IATA  AS
+ 阿拉斯加航空<br />Alaska Airlines  ICAO  ASA
+ 阿拉斯加航空<br />Alaska Airlines  callsign  ALASKA
+ 阿拉斯加航空<br />Alaska Airlines  founded  1932年（as McGee Airways）
+ 阿拉斯加航空<br />Alaska Airlines  commenced  1944年5月6日
+ 阿拉斯加航空<br />Alaska Airlines  key_people  William "Bill" Ayer（[[首席执行官]]）
+ 阿拉斯加航空<br />Alaska Airlines  frequent_flyer  Mileage Plan
+ 阿拉斯加航空<br />Alaska Airlines  lounge  Board Room
+ 阿拉斯加航空<br />Alaska Airlines  subsidiaries  [[地平線航空]]
+ 阿拉斯加航空<br />Alaska Airlines  website  [https://www.alaskaair.com]
+ 美國航空American Airlines airline  美國航空American Airlines
+ 美國航空American Airlines  fleet_size  955
+ 美國航空American Airlines  destinations  350
+ 美國航空American Airlines  IATA  AA
+ 美國航空American Airlines  ICAO  AAL
+ 美國航空American Airlines  callsign  American
+ 美國航空American Airlines  parent  {{link-en|美國航空集團|American Airlines Group}}
+ 美國航空American Airlines  founded  1930年
+ 美國航空American Airlines  commenced  1934年
+ 美國航空American Airlines  headquarters  {{USA}} [[德州]][[沃斯堡]]
+ 美國航空American Airlines  key_people  Tom Horton（[[董事長]])
+ 美國航空American Airlines  hubs  {{flag|USA}} [[达拉斯－沃思堡国际机场]] {{flag|USA}} [[甘迺迪國際機場]]（纽约） {{flag|USA}} [[洛杉磯國際機場]] {{flag|USA}} [[邁亞密國際機場]] {{flag|USA}} [[奧黑爾國際機場]]（芝加哥） {{flag|USA}} [[费城国际机场]] {{flag|USA}} [[凤凰城天港国际机场]] {{flag|USA}} [[罗纳德·里根华盛顿国家机场]]
+ 美國航空American Airlines  focus_cities  {{flag|USA}} [[拉瓜地亞機場]]（纽约）
+ 美國航空American Airlines  frequent_flyer  AAdvantage
+ 美國航空American Airlines  lounge  Flagship LoungeAdmirals Club（上將俱樂部）
+ 美國航空American Airlines  alliance  [[寰宇一家]]
+ 美國航空American Airlines  company_slogan  "{{lang|en|The new American is arriving.}}"
+ 美國航空American Airlines  revenue  {{nowrap|increase| 257.6亿美元 <small>(2013)}}
+ 美國航空American Airlines  operating_income  {{increase}} 15.34亿美元 <small>(2013)</small>
+ 美國航空American Airlines  net_income  {{decrease}} 15.26亿美元 <small>(2013)</small>
+ 美國航空American Airlines  assets  {{increase}} 256.12亿美元 <small>(2012)</small>
+ 美國航空American Airlines   equity  {{decrease}} 96.6亿美元 <small>(2012)</small>
+ 美國航空American Airlines  website  {{URL|https://www.aa.com}}
+ 亚特拉斯航空  Atlas Air airline  亚特拉斯航空  Atlas Air
+ 亚特拉斯航空  Atlas Air  logo  Atlas Air Logo.svg
+ 亚特拉斯航空  Atlas Air  logo_size  250px
+ 亚特拉斯航空  Atlas Air  IATA  5Y
+ 亚特拉斯航空  Atlas Air  ICAO  GTI
+ 亚特拉斯航空  Atlas Air  callsign  GIANT
+ 亚特拉斯航空  Atlas Air  founded  1992年
+ 亚特拉斯航空  Atlas Air  fleet_size  21
+ 亚特拉斯航空  Atlas Air  destinations  101
+ 亚特拉斯航空  Atlas Air  website  http://www.atlasairworldwide.com
+ 美國大陸航空Continental Airlines airline  美國大陸航空Continental Airlines
+ 美國大陸航空Continental Airlines  logo  Continental Airlines.svg
+ 美國大陸航空Continental Airlines  logo_size  250px
+ 美國大陸航空Continental Airlines  IATA  CO
+ 美國大陸航空Continental Airlines  ICAO  COA
+ 美國大陸航空Continental Airlines  callsign  Continental
+ 美國大陸航空Continental Airlines  parent  Continental Airlines
+ 美國大陸航空Continental Airlines  founded  1934年（Varney Speed Lines）
+ 美國大陸航空Continental Airlines  ceased  2012年3月3日（與[[美国聯合航空]]合併）
+ 美國大陸航空Continental Airlines  key_people  拉里·凱爾納（[[首席执行官]]）傑夫·米斯納（[[财务总监]]）
+ 美國大陸航空Continental Airlines  frequent_flyer  翼通天下（OnePass）
+ 美國大陸航空Continental Airlines  lounge  Presidents Club
+ 美國大陸航空Continental Airlines  alliance  [[星空聯盟]]
+ 美國大陸航空Continental Airlines  fleet_size  360
+ 美國大陸航空Continental Airlines  destinations  280
+ 達美航空Delta Air lines airline  達美航空Delta Air lines
+ 達美航空Delta Air lines  fleet_size  874+308（已訂購）
+ 達美航空Delta Air lines  destinations  325
+ 達美航空Delta Air lines  IATA  DL
+ 達美航空Delta Air lines  ICAO  DAL
+ 達美航空Delta Air lines  callsign  DELTA
+ 達美航空Delta Air lines  company_slogan  "Keep Climbing"
+ 達美航空Delta Air lines  founded  1924年5月30日 1929年6月17日开航 2007年新达美航空成立
+ 達美航空Delta Air lines  headquarters  {{USA}} [[亞特蘭大]]
+ 達美航空Delta Air lines  key_people  Richard Anderson（[[CEO]]）
+ 達美航空Delta Air lines  hubs  {{flag|USA}} [[亞特蘭大哈茲菲爾德-傑克遜國際機場]]<br /> {{flag|USA}} [[底特律都會韋恩縣機場]]<br /> {{flag|USA}} [[洛杉矶国际机场|洛杉矶]] <br /> {{flag|USA}} [[明尼阿波利斯-聖保羅國際機場]]<br /> {{flag|USA}} [[紐約甘迺迪國際機場]]<br /> {{flag|USA}} [[拉瓜地亞機場]]<br />[[盐湖城国际机场]]<br /> {{flag|USA}} [[西雅图-塔科马国际机场]]
+ 達美航空Delta Air lines  focus_cities  *[[洛根国际机场|波士頓]] \n*[[辛辛那堤/北肯塔基國際機場|辛辛那堤/北肯塔基]] \n*[[羅利達拉姆國際機場|羅利/達拉姆]]
+ 達美航空Delta Air lines  frequent_flyer  SkyMiles<br/>飛凡哩程常客計劃
+ 達美航空Delta Air lines  lounge  Delta Sky Club<br/>達美飛凡貴賓室
+ 達美航空Delta Air lines  alliance  [[天合聯盟]]
+ 達美航空Delta Air lines  subsidiaries  {{flagicon|南非}} [[南非商务航空]]<br /> {{flagicon|USA}} [[达美快线航空]]<br /> {{flagicon|USA}} [[达美连接航空]]<br /> {{flagicon|USA}} [[達美私人飛機航空]]<br /> {{flagicon|英国}} [[維珍航空]]（持有49%股權）\n<br /> {{flagicon|AUS}} [[維珍澳洲航空]] {{flagicon|BRA}} [[高爾航空]]（持有9.5%股權）<br /> {{flagicon|MEX}} [[墨西哥國際航空]]（持有49%股權）
+ 達美航空Delta Air lines  revenue  {{increase}} 351.15億美元（2011財年）
+ 達美航空Delta Air lines  operating_income  {{decrease}} 19億美元（2011財年）
+ 達美航空Delta Air lines  net_income  {{increase}} 8.54億美元（2011財年）
+ 達美航空Delta Air lines  assets  {{increase}} 434.9億美元（2011財年）
+ 達美航空Delta Air lines  equity  {{decrease}} -13.9億美元（2011財年）
+ 達美航空Delta Air lines  num_employees  80646
+ 達美航空Delta Air lines  website  [https://www.delta.com delta.com]
+ 夏威夷航空Hawaiian Airlines airline  夏威夷航空Hawaiian Airlines
+ 夏威夷航空Hawaiian Airlines  logo  Hawaiian Airlines logo.svg
+ 夏威夷航空Hawaiian Airlines  logo_size  250px
+ 夏威夷航空Hawaiian Airlines  fleet_size  55
+ 夏威夷航空Hawaiian Airlines  destinations  28
+ 夏威夷航空Hawaiian Airlines  IATA  HA
+ 夏威夷航空Hawaiian Airlines  ICAO  HAL
+ 夏威夷航空Hawaiian Airlines  callsign  Hawaiian
+ 夏威夷航空Hawaiian Airlines  parent  夏威夷控股有限公司
+ 夏威夷航空Hawaiian Airlines  company_slogan  "Hawaii flies with us"
+ 夏威夷航空Hawaiian Airlines  founded  1929年（稱為島際航空）
+ 夏威夷航空Hawaiian Airlines  headquarters  [[美國]][[檀香山]]
+ 夏威夷航空Hawaiian Airlines  key_people  Mark Dunkerley（總裁兼[[CEO]]）<br />Jake Brace（[[CFO]]）
+ 夏威夷航空Hawaiian Airlines  hubs  <div>\n*[[丹尼爾·井上國際機場]]\n* {{Interlanguage link|en|卡胡盧伊機場|Kahului Airport|卡胡盧伊機場}} </div>
+ 夏威夷航空Hawaiian Airlines  frequent_flyer  HawaiianMiles
+ 夏威夷航空Hawaiian Airlines  lounge  Premier Club
+ 夏威夷航空Hawaiian Airlines  website  {{URL|https://www.hawaiianairlines.com}}
+ 捷藍航空JetBlue Airways airline  捷藍航空JetBlue Airways
+ 捷藍航空JetBlue Airways  logo  JetBlue Airways Logo.svg
+ 捷藍航空JetBlue Airways  logo_size  200px
+ 捷藍航空JetBlue Airways  fleet_size  243
+ 捷藍航空JetBlue Airways  destinations  101
+ 捷藍航空JetBlue Airways  IATA  B6
+ 捷藍航空JetBlue Airways  ICAO  JBU
+ 捷藍航空JetBlue Airways  callsign  JetBlue
+ 捷藍航空JetBlue Airways  parent  JetBlue Airways Corp.
+ 捷藍航空JetBlue Airways  founded  1998年8月
+ 捷藍航空JetBlue Airways  headquarters  [[紐約市]][[長島市]]
+ 捷藍航空JetBlue Airways  Long Island City\nkey_people  [[羅賓·海斯]]（[[CEO]]）
+ 捷藍航空JetBlue Airways  hubs  [[紐約]][[甘迺迪國際機場]]
+ 捷藍航空JetBlue Airways  focus_cities  [[長堤機場]][[勞德代爾堡荷李活國際機場]][[華盛頓哥倫比亞特區|華盛頓]][[杜勒斯國際機場]][[奥克兰国际机场 (美国)|奥克兰国际机场]][[波士頓]][[羅根國際機場]][[圣胡安]][[路易斯·穆尼奥斯·马林国际机场]]
+ 捷藍航空JetBlue Airways  frequent_flyer  trueBlue Flight Gratitude
+ 捷藍航空JetBlue Airways  website  http://www.jetblue.com/
+ 捷藍航空JetBlue Airways  stock symbol  JBLU
+ 聯合航空United Airlines airline  聯合航空United Airlines
+ 聯合航空United Airlines  fleet_size  754+233（已訂購）
+ 聯合航空United Airlines  destinations  342
+ 聯合航空United Airlines  IATA  UA
+ 聯合航空United Airlines  ICAO  UAL
+ 聯合航空United Airlines  callsign  United
+ 聯合航空United Airlines  parent  {{link-en|聯合大陸控股|United Continental Holdings}} （United Continental Holdings）
+ 聯合航空United Airlines  founded  1926年（瓦尼航空）
+ 聯合航空United Airlines  commenced  1934年（公司成立）
+ 聯合航空United Airlines  headquarters  {{USA}} [[伊利諾州]][[芝加哥]]
+ 聯合航空United Airlines  key_people  [[奥斯卡·穆诺兹]]（[[CEO]]）
+ 聯合航空United Airlines  hubs  {{flag|USA}} [[芝加哥奥黑尔国际机场]]<br /> {{flag|USA}} [[丹佛國際機場]]<br /> {{flag|Guam}} [[安东尼奥·汪帕特国际机场]]<br /> {{flag|USA}} [[休士頓]][[喬治·布什洲際機場]]<br /> {{flag|USA}} [[洛杉磯國際機場]]<br /> {{flag|USA}} [[紐華克自由國際機場]]<br /> {{flag|USA}} [[舊金山國際機場]]<br /> {{flag|Japan}} [[東京成田国际机场]]<br/> {{flag|USA}} [[杜勒斯國際機場]]
+ 聯合航空United Airlines  frequent_flyer  [[前程萬里]]（MileagePlus）
+ 聯合航空United Airlines  lounge  北極星貴賓室（United Polaris Lounge）聯合航空貴賓室（United Club）
+ 聯合航空United Airlines  alliance  [[星空聯盟]]
+ 聯合航空United Airlines  company_slogan  "翱遊天際，友善體驗（ {{lang|en|Fly the friendly skies}} ）"
+ 聯合航空United Airlines  market_information  {{otcbb|UAL}}
+ 聯合航空United Airlines  revenue  {{increase}} US$37110&nbsp;million <small>(2011)</small>
+ 聯合航空United Airlines  operating_income  {{increase}} US$1822&nbsp;million <small>(2011)</small>
+ 聯合航空United Airlines  net_income  {{increase}} US$840&nbsp;million <small>(2011)</small>
+ 聯合航空United Airlines  assets  {{increase}} US$37988&nbsp;million <small>(2011)</small>
+ 聯合航空United Airlines  equity  {{increase}} US$1806&nbsp;million <small>(2011)</small>
+ 聯合航空United Airlines  website  {{url|https://www.united.com/}}
+ 联合包裹服务航空  UPS Airlines airline  联合包裹服务航空  UPS Airlines
+ 联合包裹服务航空  UPS Airlines  logo  UPS.svg
+ 联合包裹服务航空  UPS Airlines  logo_size  96
+ 联合包裹服务航空  UPS Airlines  fleet_size  242
+ 联合包裹服务航空  UPS Airlines  destinations  727
+ 联合包裹服务航空  UPS Airlines  IATA  5X
+ 联合包裹服务航空  UPS Airlines  ICAO  UPS
+ 联合包裹服务航空  UPS Airlines  callsign  UPS
+ 联合包裹服务航空  UPS Airlines  founded  1988年
+ 联合包裹服务航空  UPS Airlines  parent  联合包裹服务公司
+ 联合包裹服务航空  UPS Airlines  hubs  "<div>\n“世界港”\n*[[路易维尔国际机场]]\n<div>\n亚洲/太平洋：\n*[[香港国际机场]] *[[吉隆坡国际机场]] *[[上海浦東國際機場]] *[[深圳宝安国际机场]] <div>\n美国：\n<div>\n*[[费城国际机场]]\n*[[洛杉矶/安大略国际机场]]\n*[[布拉德利國際機場]]\n*[[达拉斯－沃思堡国际机场]]\n*[[芝加哥洛克福德国际机场]]\n*[[哥伦比亚都会机场]]\n\n拉丁美洲－加勒比：\n*[[迈阿密国际机场]]\n欧洲：\n*[[科隆/波恩机场]]\n加拿大：\n*[[约翰·卡尔·芒罗哈密尔顿国际机场]]\n</div>"
+ 联合包裹服务航空  UPS Airlines  website  [https://www.ups.com]
+ 联合包裹服务航空  UPS Airlines  key_people  David Abney（[[总裁]]）
+ 全美航空US Airways airline  全美航空US Airways
+ 全美航空US Airways  logo  US Airways Logo.svg
+ 全美航空US Airways  logo_size  200px
+ 全美航空US Airways  fleet_size  358
+ 全美航空US Airways  destinations  176
+ 全美航空US Airways  IATA  <br />US(1997-2015)
+ 全美航空US Airways  ICAO  USA (1997-2008) <br />AWE (2008-2015)
+ 全美航空US Airways  callsign  US AIR (1997-2008) <br />CACTUS (2008-2015)
+ 全美航空US Airways  founded  1939年（為All American Aviation Company，中文譯名由來）
+ 全美航空US Airways  ceased  2015年10月17日（與[[美國航空]]合併）
+ 全美航空US Airways  frequent_flyer  Dividend Miles
+ 全美航空US Airways  alliance  [[寰宇一家]]（2014年－2015年，聯屬成員）
+ 全美航空US Airways  slogan  Fly with US
+ 俄罗斯航空 airline  俄罗斯航空
+ 俄罗斯航空  IATA  SU
+ 俄罗斯航空  ICAO  AFL
+ 俄罗斯航空  callsign  AEROFLOT
+ 俄罗斯航空  founded  1923年2月9日（当时称 {{link-en|俄羅斯志願航空隊協會|Dobrolyot|Dobrolyot}} ）
+ 俄罗斯航空  commenced  1923年7月15日
+ 俄罗斯航空  hubs  [[谢列梅捷沃国际机场]]
+ 俄罗斯航空  alliance  [[天合聯盟]]
+ 俄罗斯航空  subsidiaries  * [[阿芙羅拉航空]]<small>（51%）</small>\n* [[勝利航空]]\n* [[俄羅斯國家航空]]
+ 俄罗斯航空  frequent_flyer  Aeroflot Bonus
+ 俄罗斯航空  fleet_size  242
+ 俄罗斯航空  destinations  129
+ 俄罗斯航空  headquarters  {{nowrap|RUS|[[莫斯科]]}} {{RUS}} [[莫斯科]]
+ 俄罗斯航空  key_people  {{link-en|維塔利·薩維利耶夫|Vitaly Savelyev}} （[[CEO]]）
+ 俄罗斯航空  company_slogan  "Sincerely Yours"
+ 俄罗斯航空  parent  [[俄罗斯政府]
+ 俄罗斯航空  website  {{URL|http://www.aeroflot.ru/}}
+ 空中世界航空  Аеросвіт авіаланії airline  空中世界航空  Аеросвіт авіаланії
+ 空中世界航空  Аеросвіт авіаланії  fleet_size  18架（订购17架，意向9架）
+ 空中世界航空  Аеросвіт авіаланії  destinations  60
+ 空中世界航空  Аеросвіт авіаланії  IATA  VV
+ 空中世界航空  Аеросвіт авіаланії  ICAO  AEW
+ 空中世界航空  Аеросвіт авіаланії  callsign  AEROSVIT
+ 空中世界航空  Аеросвіт авіаланії  founded  1994年3月25日
+ 空中世界航空  Аеросвіт авіаланії  headquarters  {{flag|乌克兰}} [[基辅]]
+ 空中世界航空  Аеросвіт авіаланії  hubs  {{flag|乌克兰}} [[鲍里斯波尔国际机场]]
+ 空中世界航空  Аеросвіт авіаланії  website  http://www.aerosvit.com/
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}} airline  阿斯塔纳航空<br/> {{lang|en|Air Astana}}
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  image  Air Astana logo.svg
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  IATA  KC
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  ICAO  KZR
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  callsign  ASTANALINE
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  founded  2001年9月14日
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  commenced  2002年5月15日
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  hubs  {{KAZ}} [[阿拉木图国际机场]] <br /> {{KAZ}} [[努尔苏丹·纳扎尔巴耶夫国际机场]]
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  frequent_flyer  Nomad Club
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  fleet_size  33
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  destinations  28
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  parent  政府持股51%，[[英國航太系統]]持股49%
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  company_slogan  来自于欧亚的中心(From the Heart of Eurasia)
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  headquarters  {{KAZ}} [[阿拉木图]]
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  key_people  Peter Foster
+ 阿斯塔纳航空<br/> {{lang|en|Air Astana}}  website  http://www.airastana.com/
+ 摩爾多瓦航空Air Moldova airline  摩爾多瓦航空Air Moldova
+ 摩爾多瓦航空Air Moldova  image  Air Moldova Logo.svg
+ 摩爾多瓦航空Air Moldova  IATA  9U
+ 摩爾多瓦航空Air Moldova  ICAO  MLD
+ 摩爾多瓦航空Air Moldova  callsign  AIR MOLDOVA
+ 摩爾多瓦航空Air Moldova  founded  1993年
+ 摩爾多瓦航空Air Moldova  hubs  {{flag|摩爾多瓦}} [[基希訥烏國際機場]]
+ 摩爾多瓦航空Air Moldova  frequent_flyer  摩爾多瓦航空會
+ 摩爾多瓦航空Air Moldova  fleet_size  5
+ 摩爾多瓦航空Air Moldova  destinations  17
+ 摩爾多瓦航空Air Moldova  company_slogan  "{{lang|en|Born to fly}}"
+ 摩爾多瓦航空Air Moldova  headquarters  {{flag|摩爾多瓦}} [[基希讷乌]]
+ 摩爾多瓦航空Air Moldova  key_people  {{lang|ro|Iulian Scorpan}}
+ 摩爾多瓦航空Air Moldova  website  [http://www.airmoldova.md]
+ 亚美尼亚航空Armavia airline  亚美尼亚航空Armavia
+ 亚美尼亚航空Armavia  logo  Armavia Airline Logo.gif
+ 亚美尼亚航空Armavia  logo_size  190px
+ 亚美尼亚航空Armavia  IATA  U8
+ 亚美尼亚航空Armavia  ICAO  RNV
+ 亚美尼亚航空Armavia  callsign  ARMAVIA
+ 亚美尼亚航空Armavia  founded  1996年
+ 亚美尼亚航空Armavia  ceased  2013年
+ 亚美尼亚航空Armavia  hubs  [[兹瓦尔特诺茨国际机场]]
+ 亚美尼亚航空Armavia  headquarters  {{flagicon image|Flag of Armenia.svg}} 亚美尼亚埃里温
+ 阿塞拜疆航空Azerbaijan Airlines airline  阿塞拜疆航空Azerbaijan Airlines
+ 阿塞拜疆航空Azerbaijan Airlines  image  Azerbaijan Airlines logo.svg
+ 阿塞拜疆航空Azerbaijan Airlines  image_size  150
+ 阿塞拜疆航空Azerbaijan Airlines  IATA  J2
+ 阿塞拜疆航空Azerbaijan Airlines  ICAO  AHY
+ 阿塞拜疆航空Azerbaijan Airlines  callsign  AZAL
+ 阿塞拜疆航空Azerbaijan Airlines  founded  1992年4月7日
+ 阿塞拜疆航空Azerbaijan Airlines  hubs  {{AZE}} [[巴库]][[蓋達爾·阿利耶夫國際機場]]
+ 阿塞拜疆航空Azerbaijan Airlines  frequent_flyer  {{lang|en|AZAL Miles}}
+ 阿塞拜疆航空Azerbaijan Airlines  subsidiaries  布塔航空（ {{lang|en|Buta Airways}} ）
+ 阿塞拜疆航空Azerbaijan Airlines  fleet_size  22
+ 阿塞拜疆航空Azerbaijan Airlines  destinations  26
+ 阿塞拜疆航空Azerbaijan Airlines  headquarters  {{AZE}} [[巴庫]]
+ 阿塞拜疆航空Azerbaijan Airlines  website  [https://www.azal.az]
+ 白俄羅斯航空Belavia airline  白俄羅斯航空Belavia
+ 白俄羅斯航空Belavia   fleet_size  32
+ 白俄羅斯航空Belavia  destinations  40
+ 白俄羅斯航空Belavia  IATA  B2
+ 白俄羅斯航空Belavia  ICAO  BRU
+ 白俄羅斯航空Belavia  callsign  BELARUS AVIA
+ 白俄羅斯航空Belavia  parent  [[白俄羅斯政府]]
+ 白俄羅斯航空Belavia  founded  1996年3月5日
+ 白俄羅斯航空Belavia  headquarters  {{BLR}} [[明斯克]]
+ 白俄羅斯航空Belavia  key_people  Anatoliy Nikolaevich Gusarov
+ 白俄羅斯航空Belavia  hubs  {{BLR}} [[明斯克國際機場]]
+ 白俄羅斯航空Belavia  frequent_flyer  Belavia Leader
+ 白俄羅斯航空Belavia  website  [http://www.belavia.by]
+ 北方航空 Nordavia airline  北方航空 Nordavia
+ 北方航空 Nordavia   IATA  5N
+ 北方航空 Nordavia  ICAO  AUL
+ 北方航空 Nordavia  callsign  ARCHANGELSK AIR
+ 北方航空 Nordavia  founded  1963年
+ 北方航空 Nordavia  commenced  1963年
+ 北方航空 Nordavia  hubs  {{nowrap|RUS| [[莫斯科]][[謝列梅捷沃國際機場]]}}  {{RUS}} [[莫斯科]][[謝列梅捷沃國際機場]] {{nowrap|RUS| [[阿爾漢格爾斯克]][[塔拉基機場]]}} {{RUS}} [[阿爾漢格爾斯克]][[塔拉基機場]]
+ 北方航空 Nordavia  focus_cities  {{nowrap|RUS| [[圣彼得堡]][[普爾科沃機場]]}} {{RUS}} [[圣彼得堡]][[普爾科沃機場]]
+ 北方航空 Nordavia  fleet_size  9
+ 北方航空 Nordavia  headquarters  {{RUS}} [[阿爾漢格爾斯克]]
+ 北方航空 Nordavia  website  [https://www.nordavia.ru]
+ 格鲁吉亚航空Georgian Airways airline  格鲁吉亚航空Georgian Airways
+ 格鲁吉亚航空Georgian Airways  image  Airzena Boeing 737-500 Nikiforov.jpg
+ 格鲁吉亚航空Georgian Airways  IATA  A9
+ 格鲁吉亚航空Georgian Airways  ICAO  TGZ
+ 格鲁吉亚航空Georgian Airways  callsign  TAMAZI
+ 格鲁吉亚航空Georgian Airways  founded  1994年
+ 格鲁吉亚航空Georgian Airways  hubs  [[格鲁吉亚]][[第比利斯国际机场]]
+ 格鲁吉亚航空Georgian Airways  fleet_size  9
+ 格鲁吉亚航空Georgian Airways  destinations  22
+ 格鲁吉亚航空Georgian Airways  headquarters  [[格鲁吉亚]][[第比利斯]]
+ 格鲁吉亚航空Georgian Airways  website  [https://www.georgian-airways.com]
+ 俄罗斯国家航空 airline  俄罗斯国家航空
+ 俄罗斯国家航空  IATA  FV
+ 俄罗斯国家航空  ICAO  SDM
+ 俄罗斯国家航空  callsign  RUSSIA
+ 俄罗斯国家航空  founded  1932年6月24日
+ 俄罗斯国家航空  hubs  {{Unbulleted list|RUS| [[圣彼得堡普尔科沃机场]]|RUS| |link-en|顿河畔罗斯托夫机场|Rostov-on-Don Airport|RUS| [[莫斯科]][[伏努科沃国际机场]]|RUS| [[奥伦堡特森特拉尼机场]]}} {{RUS}} [[圣彼得堡普尔科沃机场]] {{RUS}} {{link-en|顿河畔罗斯托夫机场|Rostov-on-Don Airport}} {{RUS}} [[莫斯科]][[伏努科沃国际机场]] {{RUS}} [[奥伦堡特森特拉尼机场]]
+ 俄罗斯国家航空  fleet_size  61
+ 俄罗斯国家航空  destinations  58
+ 俄罗斯国家航空  parent  {{flagicon|RUS}} [[俄罗斯航空]]
+ 俄罗斯国家航空  headquarters  {{RUS}} [[圣彼得堡]]
+ 俄罗斯国家航空  key_people  Dmitrii Saprykin
+ 俄罗斯国家航空  frequent_flyer  Aeroflot Bonus
+ 俄罗斯国家航空  website  {{URL|http://www.rossiya-airlines.com/}}
+ 北风航空Nordwind Airlines airline  北风航空Nordwind Airlines
+ 北风航空Nordwind Airlines  logo  Nordwind Airlines logo.svg
+ 北风航空Nordwind Airlines  fleet_size  29
+ 北风航空Nordwind Airlines  IATA  N4
+ 北风航空Nordwind Airlines  ICAO  NWS
+ 北风航空Nordwind Airlines  callsign  NORDWIND
+ 北风航空Nordwind Airlines  company_slogan  "Red and Strong"
+ 北风航空Nordwind Airlines  founded  2008年8月
+ 北风航空Nordwind Airlines  headquarters  {{RUS}} [[莫斯科]]
+ 北风航空Nordwind Airlines  key_people  Andrey Lengarov（首席执行官）
+ 北风航空Nordwind Airlines  bases  {{RUS}} [[莫斯科]][[谢列梅捷沃国际机场]]
+ 北风航空Nordwind Airlines  website  [http://www.nordwindairlines.ru]
+ 西伯利亚航空S7 Airlines airline  西伯利亚航空S7 Airlines
+ 西伯利亚航空S7 Airlines  logo  S7 new logo.svg
+ 西伯利亚航空S7 Airlines  logo_size  250px
+ 西伯利亚航空S7 Airlines  IATA  S7
+ 西伯利亚航空S7 Airlines  ICAO  SBI
+ 西伯利亚航空S7 Airlines  callsign  SIBERIAN AIRLINES
+ 西伯利亚航空S7 Airlines  founded  1992年5月
+ 西伯利亚航空S7 Airlines  hubs  [[托尔马切沃机场]][[莫斯科多莫杰多沃机场]]
+ 西伯利亚航空S7 Airlines  frequent_flyer  {{lang|en|S7 Priority}}
+ 西伯利亚航空S7 Airlines  alliance  [[寰宇一家]]
+ 西伯利亚航空S7 Airlines  fleet_size  87
+ 西伯利亚航空S7 Airlines  destinations  146
+ 西伯利亚航空S7 Airlines  company_slogan  "{{lang|en|Freedom to choose}}"
+ 西伯利亚航空S7 Airlines  headquarters  {{flagicon image|Flag of Russia.svg}} 俄羅斯新西伯利亞
+ 西伯利亚航空S7 Airlines  key_people  {{lang|la|Vladimir Obyedkov}}
+ 西伯利亚航空S7 Airlines  website  [https://www.s7.ru/]
+ 烏克蘭國際航空Ukraine International Airlines airline  烏克蘭國際航空Ukraine International Airlines
+ 烏克蘭國際航空Ukraine International Airlines  image  UIA Logo.svg
+ 烏克蘭國際航空Ukraine International Airlines  image_size  200px
+ 烏克蘭國際航空Ukraine International Airlines  IATA  PS
+ 烏克蘭國際航空Ukraine International Airlines  ICAO  AUI
+ 烏克蘭國際航空Ukraine International Airlines  callsign  UKRAINE INTERNATIONAL
+ 烏克蘭國際航空Ukraine International Airlines  founded  1992年10月1日
+ 烏克蘭國際航空Ukraine International Airlines  hubs  {{flagicon image|Flag of Ukraine.svg}} [[基輔]][[鮑里斯波爾國際機場]]
+ 烏克蘭國際航空Ukraine International Airlines  frequent_flyer  {{lang|en|Panorama Club}}
+ 烏克蘭國際航空Ukraine International Airlines  fleet_size  43
+ 烏克蘭國際航空Ukraine International Airlines  destinations  88
+ 烏克蘭國際航空Ukraine International Airlines  parent  {{nowrap|lang|en|Capital Investment Project LLC|（74%）}} {{lang|en|Capital Investment Project LLC}} （74%）
+ 烏克蘭國際航空Ukraine International Airlines  headquarters  {{flagicon image|Flag of Ukraine.svg}} [[基輔]]
+ 烏克蘭國際航空Ukraine International Airlines  key_people  {{lang|la|Yuri Miroshnikov}}
+ 烏克蘭國際航空Ukraine International Airlines  website  [http://www.flyuia.com/ flyuia.com]
+ 乌塔航空 airline  乌塔航空
+ 乌塔航空  fleet_size  65
+ 乌塔航空  destinations  72
+ 乌塔航空  IATA  UT
+ 乌塔航空  ICAO  UTA
+ 乌塔航空  callsign  UTAIR
+ 乌塔航空  company_slogan  "Cosy Sky {{lang-ru|Уютное небо}} "
+ 乌塔航空  founded  1967年
+ 乌塔航空  headquarters  {{RUS}} [[汉特-曼西自治区]] {{link-en|漢特-曼西斯克機場|Khanty-Mansiysk Airport}}
+ 乌塔航空  key_people  Andrei Martirosov ([[CEO]]) Igor Petrov ([[CFO]])
+ 乌塔航空  hubs  {{RUS}} [[伏努科沃國際机场]]  {{RUS}} {{link-en|蘇爾古特國際機場|Surgut International Airport}}
+ 乌塔航空  frequent_flyer  [http://www.utair.ru/en/transp/status/ STATUS]
+ 乌塔航空  subsidiaries  {{flagicon|RUS}} [[烏塔貨運航空]]
+ 乌塔航空  website  [http://www.utair.ru/en/ www.utair.ru]
+ 海参崴航空Vladivostok Air airline  海参崴航空Vladivostok Air
+ 海参崴航空Vladivostok Air  IATA  XF
+ 海参崴航空Vladivostok Air  ICAO  VLK
+ 海参崴航空Vladivostok Air  callsign  VLADAIR
+ 海参崴航空Vladivostok Air  parent  {{flagicon|RUS}} [[俄羅斯航空]]
+ 海参崴航空Vladivostok Air  founded  1932年
+ 海参崴航空Vladivostok Air  ceased  2014年
+ 海参崴航空Vladivostok Air  headquarters  {{RUS}} [[海参崴]]
+ 海参崴航空Vladivostok Air  hubs  {{RUS}} [[海参崴国际机场]]  {{RUS}} [[伯力新机场]]  {{nowrap | |RUS| [[莫斯科]][[谢列梅捷沃国际机场]]}} {{RUS}} [[莫斯科]][[谢列梅捷沃国际机场]]
+ 海参崴航空Vladivostok Air  website  http://www.vladavia.ru/
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines airline  伏爾加-第聶伯航空 Volga-Dnepr Airlines
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  image  Volga-Dnepr Group logo.svg
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  IATA  VI
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  ICAO  VDA
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  callsign  Volga-Dnepr
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  founded  1990年
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  commenced  1991年
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  hubs  {{nowrap|RUS| [[烏里揚諾夫斯克東方港機場]]}} {{RUS}} [[烏里揚諾夫斯克東方港機場]]
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  subsidiaries  {{flagicon|DEU}} [[德國貨運航空]]  {{flagicon|RUS}} [[空橋貨運航空]]  {{flagicon|RUS}} [[横越货运航空]]
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  fleet_size  24（另有12架訂單）
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  headquarters  {{RUS}} [[乌里扬诺夫斯克]]
+ 伏爾加-第聶伯航空 Volga-Dnepr Airlines  website  [http://www.volga-dnepr.com/ volga-dnepr.com]
+ 雅庫特航空Yakutia Airlines airline  雅庫特航空Yakutia Airlines
+ 雅庫特航空Yakutia Airlines  IATA  R3
+ 雅庫特航空Yakutia Airlines  ICAO  SYL
+ 雅庫特航空Yakutia Airlines  callsign  AIR YAKUTIA
+ 雅庫特航空Yakutia Airlines  founded  2002年
+ 雅庫特航空Yakutia Airlines  headquarters  {{RUS}} [[雅庫次克]]
+ 雅庫特航空Yakutia Airlines  hubs  {{RUS}} [[雅庫次克機場]]
+ 雅庫特航空Yakutia Airlines  secondary_hubs  {{RUS}} [[伏努科沃國際機場]]
+ 雅庫特航空Yakutia Airlines  focus_cities  {{RUS}} [[伊爾庫茨克國際機場]]  {{RUS}} [[托爾馬切沃機場]]  {{RUS}} [[伯力新機場]]
+ 雅庫特航空Yakutia Airlines  fleet_size  12
+ 雅庫特航空Yakutia Airlines  destinations  40
+ 雅庫特航空Yakutia Airlines  key_people  Ivan Prostit（[[董事長]]）
+ 雅庫特航空Yakutia Airlines  website  [http://www.yakutia.aero/en/index.php www.yakutia.aero]
