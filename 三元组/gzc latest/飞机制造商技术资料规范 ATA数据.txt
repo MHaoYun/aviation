@@ -1,0 +1,2196 @@
+﻿1100	Compon_Name	PLACARDS AND MARKINGS         
+1210	Compon_Name	FUEL SERVICING                
+1220	Compon_Name	OIL SERVICING                 
+1230	Compon_Name	HYDRAULIC FLUID SERVICING     
+1240	Compon_Name	COOLANT SERVICING             
+1400	Compon_Name	MISC HARDWARE                 
+1410	Compon_Name	HOSES AND TUBES               
+1420	Compon_Name	ELECTRICAL CONNECTORS         
+1430	Compon_Name	FASTNERS                      
+1497	Compon_Name	MISC WIRING                   
+1800	Compon_Name	HELICOPTER VIB/NOISE ANALYSIS 
+1810	Compon_Name	HELICOPTER VIBRATION ANALYSIS 
+1820	Compon_Name	HELICOPTER NOISE ANALYSIS     
+1897	Compon_Name	HELI VIBRATION SYS WIRING     
+2100	Compon_Name	AIR CONDITIONING SYTEM        
+2110	Compon_Name	COMPRESSOR SYSTEM             
+2120	Compon_Name	AIR DISTRIBUTION SYSTEM       
+2121	Compon_Name	AIR DISTRIBUTION FAN          
+2130	Compon_Name	PRESSURIZATION CONTROL SYSTEM 
+2131	Compon_Name	PRESSURE CONTROLLER           
+2132	Compon_Name	PRESSURE INDICATOR            
+2133	Compon_Name	REGULATOR-OUTFLOW VALVE       
+2134	Compon_Name	PRESSURE SENSOR               
+2140	Compon_Name	HEATING SYSTEM                
+2150	Compon_Name	COOLING SYS (AIR/VAPOR CYCLE) 
+2160	Compon_Name	TEMPERATURE CONTROL SYSTEM    
+2161	Compon_Name	TEMPERATURE CONTROLLER        
+2162	Compon_Name	CABIN TEMPERATURE INDICATOR   
+2163	Compon_Name	CABIN TEMPERATURE SENSOR      
+2170	Compon_Name	HUMIDITY CONTROL SYSTEM       
+2197	Compon_Name	AIR COND SYS WIRING           
+2200	Compon_Name	AUTO FLIGHT SYSTEM            
+2210	Compon_Name	AUTOPILOT SYSTEM              
+2211	Compon_Name	AUTOPILOT COMPUTER            
+2212	Compon_Name	ALTITUDE CONTROLLER           
+2213	Compon_Name	FLIGHT CONTROLLER             
+2214	Compon_Name	AUTOPILOT TRIM INDICATOR      
+2215	Compon_Name	AUTOPILOT MAIN SERVO          
+2216	Compon_Name	AUTOPILOT TRIM SERVO          
+2220	Compon_Name	SPEED-ATTITUDE CORRECTION SYS 
+2230	Compon_Name	AUTO THROTTLE SYSTEM          
+2250	Compon_Name	AERODYNAMIC LOAD ALLEVIATING  
+2297	Compon_Name	AUTOFLIGHT SYS WIRING         
+2300	Compon_Name	COMMUNICATIONS SYSTEM         
+2310	Compon_Name	HF COMMUNICATION SYSTEM       
+2311	Compon_Name	UHF COMMUNICATION SYSTEM      
+2312	Compon_Name	VHF COMMUNICATION SYSTEM      
+2315	Compon_Name	SATELLITE COMMUNICATION       
+2320	Compon_Name	DATA TRANSMISSION AUTO CALL   
+2330	Compon_Name	PA & ENTERTAINMENT SYSTEM     
+2340	Compon_Name	INTERPHONE                    
+2350	Compon_Name	AUDIO INTEGRATING             
+2360	Compon_Name	STATIC DISCHARGE SYSTEM       
+2370	Compon_Name	AUDIO & VIDEO MONITORING      
+2397	Compon_Name	COMM SYS WIRING               
+2400	Compon_Name	ELECTRICAL POWER SYSTEM       
+2410	Compon_Name	ALTERNATOR-GENERATOR DRIVE SYS
+2420	Compon_Name	AC GENERATION SYSTEM          
+2421	Compon_Name	AC GENERATOR-ALTERNATOR       
+2422	Compon_Name	AC INVERTER                   
+2423	Compon_Name	PHASE ADAPTER                 
+2424	Compon_Name	AC REGULATOR                  
+2425	Compon_Name	AC INDICATING SYSTEMS         
+2430	Compon_Name	DC GENERATION SYSTEM          
+2431	Compon_Name	BATTERY OVERHEAT WARNING SYS  
+2432	Compon_Name	BATTERY/CHARGER               
+2433	Compon_Name	DC RECTIFIER-CONVERTER        
+2434	Compon_Name	DC GENERATOR-ALTERNATOR       
+2435	Compon_Name	STARTER-GENERATOR             
+2436	Compon_Name	DC REGULATOR                  
+2437	Compon_Name	DC INDICATING SYSTEM          
+2440	Compon_Name	EXTERNAL POWER SYSTEM         
+2450	Compon_Name	AC POWER DISTRIBUTION SYSTEM  
+2460	Compon_Name	DC POWER DISTRIBUTION SYSTEM  
+2497	Compon_Name	ELE PWR SYS WIRING            
+2500	Compon_Name	EQUIPMENT/FURNISHINGS         
+2510	Compon_Name	FLIGHT COMPARTMENT EQUIPMENT  
+2520	Compon_Name	PASSENGER COMPARTMENT EQUIP   
+2530	Compon_Name	BUFFET/GALLEYS                
+2540	Compon_Name	LAVATORIES                    
+2550	Compon_Name	CARGO COMPARTMENTS            
+2551	Compon_Name	AGRICULTURAL/EXTERNAL LOAD SYS
+2560	Compon_Name	EMERGENCY EQUIPMENT           
+2561	Compon_Name	LIFE JACKET                   
+2562	Compon_Name	EMERGENCY LOCATOR BEACON      
+2563	Compon_Name	PARACHUTE                     
+2564	Compon_Name	LIFE RAFT                     
+2565	Compon_Name	ESCAPE SLIDE                  
+2570	Compon_Name	ACCESSORY COMPARTMENTS        
+2571	Compon_Name	BATTERY BOX STRUCTURE         
+2572	Compon_Name	ELECTRONIC SHELF SECTION      
+2597	Compon_Name	EQU/FUR SYS WIRING            
+2600	Compon_Name	FIRE PROTECTION SYSTEM        
+2610	Compon_Name	DETECTION SYSTEM              
+2611	Compon_Name	SMOKE, DETECTION              
+2612	Compon_Name	FIRE, DETECTION               
+2613	Compon_Name	OVERHEAT, DETECTION           
+2620	Compon_Name	EXTINGUISHING SYSTEM          
+2621	Compon_Name	FIRE BOTTLE, FIXED            
+2622	Compon_Name	FIRE BOTTLE, PORTABLE         
+2697	Compon_Name	FIRE PROT SYS WIRING          
+2700	Compon_Name	FLIGHT CONTROL SYSTEM         
+2701	Compon_Name	CONTROL COLUMN SECTION        
+2710	Compon_Name	AILERON CONTROL SYSTEM        
+2711	Compon_Name	AILERON TAB CONTROL SYSTEM    
+2720	Compon_Name	RUDDER CONTROL SYSTEM         
+2721	Compon_Name	RUDDER TAB CONTROL SYSTEM     
+2722	Compon_Name	RUDDER ACTUATOR               
+2730	Compon_Name	ELEVATOR CONTROL SYSTEM       
+2731	Compon_Name	ELEVATOR TAB CONTROL SYSTEM   
+2740	Compon_Name	STABILIZER CONTROL SYSTEM     
+2741	Compon_Name	STABILIZER POSITION IND SYSTEM
+2742	Compon_Name	STABILIZER ACTUATOR           
+2750	Compon_Name	TE FLAP CONTROL SYSTEM        
+2751	Compon_Name	TE FLAP POSITION IND SYSTEM   
+2752	Compon_Name	TE FLAP ACTUATOR              
+2760	Compon_Name	DRAG CONTROL SYSTEM           
+2761	Compon_Name	DRAG CONTROL ACTUATOR         
+2770	Compon_Name	GUST LOCK-DAMPER SYSTEM       
+2780	Compon_Name	LE FLAP CONTROL SYSTEM        
+2781	Compon_Name	LE FLAP POSITION IND SYSTEM   
+2782	Compon_Name	LE FLAP ACTUATOR              
+2797	Compon_Name	FLT CNTL SYS WIRING           
+2800	Compon_Name	FUEL SYSTEM                   
+2810	Compon_Name	FUEL STORAGE                  
+2820	Compon_Name	FUEL DISTRIBUTION             
+2821	Compon_Name	FUEL FILTER-STRAINER          
+2822	Compon_Name	FUEL PUMPS                    
+2823	Compon_Name	FUEL SELECTOR/SHUTOFF VALVE   
+2824	Compon_Name	FUEL TRANSFER VALVE           
+2830	Compon_Name	FUEL DUMP                     
+2840	Compon_Name	FUEL INDICATION SYSTEM        
+2841	Compon_Name	FUEL QUANTITY INDICATOR       
+2842	Compon_Name	FUEL QUANTITY SENSOR          
+2843	Compon_Name	FUEL TEMPERATURE              
+2844	Compon_Name	FUEL PRESSURE                 
+2897	Compon_Name	FUEL SYS WIRING               
+2900	Compon_Name	HYDRAULIC POWER SYSTEM        
+2910	Compon_Name	HYDRAULIC, MAIN SYSTEM        
+2911	Compon_Name	ACCUMULATOR, MAIN             
+2912	Compon_Name	FILTER, MAIN                  
+2913	Compon_Name	PUMP, MAIN                    
+2914	Compon_Name	HANDPUMP, MAIN                
+2915	Compon_Name	PRESSURE RELIEF, MAIN         
+2916	Compon_Name	RESERVOIR, MAIN               
+2917	Compon_Name	PRESSURE REGULATOR, MAIN      
+2920	Compon_Name	HYDRAULIC, AUXILIARY SYSTEM   
+2921	Compon_Name	ACCUMULATOR, AUXILIARY        
+2922	Compon_Name	FILTER, AUXILIARY             
+2923	Compon_Name	PUMP, AUXILIARY               
+2924	Compon_Name	HANDPUMP, AUXILIARY           
+2925	Compon_Name	PRESSURE RELIEF, AUXILIARY    
+2926	Compon_Name	RESERVOIR, AUXILIARY          
+2927	Compon_Name	PRESSURE REGULATOR, AUXILIARY 
+2930	Compon_Name	HYDRAULIC, INDICATING SYSTEM  
+2931	Compon_Name	PRESSURE INDICATOR            
+2932	Compon_Name	PRESSURE SENSOR               
+2933	Compon_Name	QUANTITY INDICATOR            
+2934	Compon_Name	QUANTITY SENSOR               
+2997	Compon_Name	HYD PWR SYS WIRING            
+3000	Compon_Name	ICE/RAIN PROTECTION SYSTEM    
+3010	Compon_Name	AIRFOIL ANTI-ICE, DEICE       
+3020	Compon_Name	INTAKE ANTI-ICE, DEICE        
+3030	Compon_Name	PITOT/STATIC ANTI-ICE         
+3040	Compon_Name	WINDOWS/WINDSHIELDS & DOORS   
+3050	Compon_Name	ANTENNA/RADOME ANTI-ICE       
+3060	Compon_Name	PROP/ROTOR ANTI-ICE, DEICE    
+3070	Compon_Name	WATER LINE ANTI-ICE           
+3080	Compon_Name	ICE DETECTION                 
+3097	Compon_Name	ICE/RAIN PROT SYS WIRING      
+3100	Compon_Name	INDICATING/RECORDING SYSTEMS  
+3110	Compon_Name	INSTRUMENT PANEL              
+3120	Compon_Name	INDEP INSTRUMENT (CLOCK, ETC) 
+3130	Compon_Name	DATA RECORDERS (FLIGHT/MAINT) 
+3140	Compon_Name	CENTRAL COMPUTERS (e.g. EICAS)
+3150	Compon_Name	CENTRAL WARNING               
+3160	Compon_Name	CENTRAL DISPLAY               
+3170	Compon_Name	AUTOMATIC DATA                
+3197	Compon_Name	INSTRUMENT WIRING             
+3200	Compon_Name	LANDING GEAR SYSTEM           
+3201	Compon_Name	LANDING GEAR/WHEEL FAIRING    
+3210	Compon_Name	MAIN LANDING GEAR             
+3211	Compon_Name	MAIN LANDING GEAR ATTACH SEC  
+3212	Compon_Name	EMERGENCY FLOATATION SECTION  
+3213	Compon_Name	MAIN GEAR STRUT/AXLE/TRUCK    
+3220	Compon_Name	NOSE/TAIL LANDING GEAR        
+3221	Compon_Name	NOSE/TAIL GEAR ATTACH SECTION 
+3222	Compon_Name	NOSE/TAIL GEAR STRUT/AXLE     
+3230	Compon_Name	GEAR EXTENSION AND RETRACT SYS
+3231	Compon_Name	LANDING GEAR DOOR RETRACT SEC 
+3232	Compon_Name	LANDING GEAR DOOR ACTUATOR    
+3233	Compon_Name	LANDING GEAR ACTUATOR         
+3234	Compon_Name	LANDING GEAR SELECTOR         
+3240	Compon_Name	LANDING GEAR BRAKES SYSTEM    
+3241	Compon_Name	ANTI-SKID SECTION             
+3242	Compon_Name	BRAKE                         
+3243	Compon_Name	MASTER CYLINDER/BRAKE VALVE   
+3244	Compon_Name	TIRE CASING                   
+3245	Compon_Name	TUBE                          
+3246	Compon_Name	WHEEL/SKI/FLOAT               
+3250	Compon_Name	LANDING GEAR STEERING SYSTEM  
+3251	Compon_Name	STEERING UNIT                 
+3252	Compon_Name	SHIMMY DAMPER                 
+3260	Compon_Name	LG POSITION AND WARNING       
+3270	Compon_Name	AUX GEAR (TAIL/ROTORCRFT SKID)
+3297	Compon_Name	LAND GEAR SYS WIRING          
+3300	Compon_Name	LIGHTING SYSTEM               
+3310	Compon_Name	FLIGHT COMPARTMENT LIGHTING   
+3320	Compon_Name	PASSENGER COMPARTMENT LIGHTING
+3330	Compon_Name	CARGO COMPARTMENT LIGHTING    
+3340	Compon_Name	EXTERIOR LIGHTING             
+3350	Compon_Name	EMERGENCY LIGHTING            
+3397	Compon_Name	LIGHT WIRING                  
+3400	Compon_Name	NAVIGATION SYSTEM             
+3410	Compon_Name	FLIGHT ENVIRONMENT DATA       
+3411	Compon_Name	PITOT/STATIC SYSTEM           
+3412	Compon_Name	AIR TEMPERATURE/THRUST LIMIT  
+3413	Compon_Name	RATE OF CLIMB                 
+3414	Compon_Name	AIRSPEED/MACH INDICATING      
+3415	Compon_Name	HIGH SPEED WARNING            
+3416	Compon_Name	ALTIMETER, BAROMETRIC/ENCODER 
+3417	Compon_Name	AIR DATA COMPUTER             
+3418	Compon_Name	STALL WARNING SYSTEM          
+3420	Compon_Name	ATTITUDE & DIRECTION          
+3421	Compon_Name	ATTITUDE GYRO & INDICATION    
+3422	Compon_Name	DIRECTIONAL GYRO & INDICATION 
+3423	Compon_Name	MAGNETIC COMPASS              
+3424	Compon_Name	TURN AND BANK/RATE OF TURN    
+3425	Compon_Name	INTEGRATED FLIGHT DIRECTOR SYS
+3430	Compon_Name	LANDING AND TAXI AIDS         
+3431	Compon_Name	LOCALIZER/VOR SYSTEM          
+3432	Compon_Name	GLIDE SLOPE SYSTEM            
+3433	Compon_Name	MICROWAVE LANDING SYSTEM      
+3434	Compon_Name	MARKER BEACON SYSTEM          
+3435	Compon_Name	HEADS UP DISPLAY SYSTEM       
+3436	Compon_Name	WIND SHEAR DETECTION SYSTEM   
+3440	Compon_Name	INDEP POSITION DETERMINING SYS
+3441	Compon_Name	INERTIAL GUIDANCE SYSTEM      
+3442	Compon_Name	WEATHER RADAR SYSTEM          
+3443	Compon_Name	DOPPLER SYSTEM                
+3444	Compon_Name	GROUND PROXIMITY SYSTEM       
+3445	Compon_Name	AIR COLLISION AVOIDANCE (TCAS)
+3446	Compon_Name	NON RADAR WEATHER SYSTEM      
+3450	Compon_Name	DEPENDENT POSITION DETERMINING
+3451	Compon_Name	DME/TACAN SYSTEM              
+3452	Compon_Name	ATC TRANSPONDER SYSTEM        
+3453	Compon_Name	LORAN SYSTEM                  
+3454	Compon_Name	VOR SYSTEM                    
+3455	Compon_Name	ADF SYSTEM                    
+3456	Compon_Name	OMEGA NAVIGATION SYSTEM       
+3457	Compon_Name	GLOBAL POSITIONING SYSTEM     
+3460	Compon_Name	FLT MANAGEMENT COMPUTING SYS  
+3461	Compon_Name	FLT MGMT COMPUTING SOFTWARE   
+3497	Compon_Name	NAV SYS WIRING                
+3500	Compon_Name	OXYGEN SYSTEM                 
+3510	Compon_Name	CREW OXYGEN SYSTEM            
+3520	Compon_Name	PASSENGER OXYGEN SYSTEM       
+3530	Compon_Name	PORTABLE OXYGEN SYSTEM        
+3597	Compon_Name	OXYGEN SYS WIRING             
+3600	Compon_Name	PNEUMATIC SYSTEM              
+3610	Compon_Name	PNEUMATIC DISTRIBUTION SYSTEM 
+3620	Compon_Name	PNEUMATIC INDICATING SYSTEM   
+3697	Compon_Name	PNUMATIC SYS WIRING           
+3700	Compon_Name	VACUUM SYSTEM                 
+3710	Compon_Name	VACUUM DISTRIBUTION SYSTEM    
+3720	Compon_Name	VACUUM INDICATING SYSTEM      
+3797	Compon_Name	VACUUM SYS WIRING             
+3800	Compon_Name	WATER AND WASTE SYSTEM        
+3810	Compon_Name	POTABLE WATER SYSTEM          
+3820	Compon_Name	WASH WATER SYSTEM             
+3830	Compon_Name	WASTE DISPOSAL SYSTEM         
+3840	Compon_Name	AIR SUPPLY (WATER PRESS SYS)  
+3897	Compon_Name	WATER/WASTE SYS WIRING        
+4500	Compon_Name	CENTRAL MAINTENANCE COMPUTER  
+4597	Compon_Name	CENT MAINT CMP WIRING         
+4900	Compon_Name	AIRBORNE APU SYSTEM           
+4910	Compon_Name	APU ASSEMBLY AND COWL         
+4920	Compon_Name	APU CORE ENGINE               
+4930	Compon_Name	APU ENGINE FUEL AND CONTROL   
+4940	Compon_Name	APU START/IGNITION SYSTEM     
+4950	Compon_Name	APU BLEED AIR SYSTEM          
+4960	Compon_Name	APU CONTROLS                  
+4970	Compon_Name	APU INDICATING SYSTEM         
+4980	Compon_Name	APU EXHAUST SYSTEM            
+4990	Compon_Name	APU OIL SYSTEM                
+4997	Compon_Name	APU SYS WIRING                
+5100	Compon_Name	STANDARD PRACTICES/STRUCTURES 
+5101	Compon_Name	AIRCRAFT STRUCTURES           
+5102	Compon_Name	BALLOON/DIRIGIBLE REPORTS     
+5200	Compon_Name	DOORS                         
+5210	Compon_Name	PASSENGER/CREW DOORS          
+5220	Compon_Name	EMERGENCY EXIT                
+5230	Compon_Name	CARGO/BAGGAGE DOORS           
+5240	Compon_Name	SERVICE DOORS                 
+5241	Compon_Name	GALLEY DOORS                  
+5242	Compon_Name	ELECT/ELECTRONIC COMP DOORS   
+5243	Compon_Name	HYDRAULIC COMPARTMENT DOORS   
+5244	Compon_Name	ACCESSORY COMPARTMENT DOORS   
+5245	Compon_Name	AIR CONDITIONING COMP DOORS   
+5246	Compon_Name	FLUID SERVICE DOORS           
+5247	Compon_Name	AUXILIARY POWER UNIT DOOR     
+5248	Compon_Name	TAIL CONE DOOR                
+5250	Compon_Name	FIXED INNER DOORS             
+5260	Compon_Name	ENTRANCE STAIRS               
+5270	Compon_Name	DOOR WARNING                  
+5280	Compon_Name	LANDING GEAR DOORS            
+5297	Compon_Name	DOOR WIRING                   
+5300	Compon_Name	FUSELAGE                      
+5301	Compon_Name	AERIAL TOW EQUIPMENT SECTION  
+5302	Compon_Name	ROTORCRAFT TAIL BOOM          
+5310	Compon_Name	FUSELAGE MAIN STRUCTURE       
+5311	Compon_Name	FRAMES (MAIN FUSELAGE)        
+5312	Compon_Name	BULKHEADS (MAIN FUSELAGE)     
+5313	Compon_Name	LONGERONS/STRINGERS (MAIN FUS)
+5314	Compon_Name	KEELS (MAIN FUSELAGE)         
+5315	Compon_Name	FLOOR BEAMS (MAIN FUSELAGE)   
+5320	Compon_Name	FUSELAGE AUXILIARY STRUCTURE  
+5321	Compon_Name	FLOOR PANELS (AUX FUSELAGE)   
+5322	Compon_Name	INTERNAL MOUNT STRUC (AUX FUS)
+5323	Compon_Name	INTERNAL STAIRS (AUX FUS)     
+5324	Compon_Name	FIXED PARTITIONS (AUX FUS)    
+5330	Compon_Name	PLATES/SKINS (AUX FUSELAGE)   
+5340	Compon_Name	FUSELAGE ATTACH FITTINGS SYS  
+5341	Compon_Name	WING ATTACH FITTINGS (ON FUS) 
+5342	Compon_Name	STAB ATTACH FITTINGS (ON FUS) 
+5343	Compon_Name	GEAR ATTACH FITTINGS (ON FUS) 
+5344	Compon_Name	DOOR HINGE (ON FUSELAGE)      
+5345	Compon_Name	EQUIP ATTACH FITTINGS (ON FUS)
+5346	Compon_Name	ENGINE ATTACH FITTING (ON FUS)
+5347	Compon_Name	SEAT/CARGO ATTACH FITTING     
+5350	Compon_Name	AERODYNAMIC FAIRINGS STRUCTURE
+5397	Compon_Name	FUSELAGE WIRING               
+5400	Compon_Name	NACELLES/PYLONS STRUCTURE     
+5410	Compon_Name	MAIN FRAME (ON NACELLES/PYLON)
+5411	Compon_Name	FRAMES (ON NACELLES/PYLON)    
+5412	Compon_Name	BULKHEAD/FIREWALLS (NAC/PYLON)
+5413	Compon_Name	LONGERON/STRINGERS (NAC/PYLON)
+5414	Compon_Name	PLATES/SKINS (NACELLE/PYLON)  
+5415	Compon_Name	ATTACH FITTINGS (NAC/PYLON)   
+5420	Compon_Name	NACELLE/PYLON MISC STRU       
+5497	Compon_Name	NACELL/PYLON WIRING           
+5500	Compon_Name	EMPENNAGE STRUCTURE           
+5510	Compon_Name	HORIZONTAL STABILIZER         
+5511	Compon_Name	SPARS/RIBS (HORIZONTAL STAB)  
+5512	Compon_Name	PLATES/SKINS (HORIZONTAL STAB)
+5513	Compon_Name	TAB STRUC (HORIZONTAL STAB)   
+5514	Compon_Name	HORIZ STAB MISC STRU          
+5520	Compon_Name	ELEVATORS                     
+5521	Compon_Name	SPARS/RIBS (ON ELEVATOR)      
+5522	Compon_Name	PLATES/SKINS (ON ELEVATOR)    
+5523	Compon_Name	TAB STRUCTURE (ON ELEVATOR)   
+5524	Compon_Name	ELEVATOR MISC STRU            
+5530	Compon_Name	VERTICAL STABILIZER           
+5531	Compon_Name	SPARS/RIBS (ON VERT STAB)     
+5532	Compon_Name	PLATES/SKINS (ON VERT STAB)   
+5533	Compon_Name	VENTRAL STRUC (ON VERT STAB)  
+5534	Compon_Name	VERTICAL STAB MISC STRU       
+5540	Compon_Name	RUDDER                        
+5541	Compon_Name	SPARS/RIBS (ON RUDDER)        
+5542	Compon_Name	PLATES/SKINS (ON RUDDER)      
+5543	Compon_Name	TAB STRUCTURE (ON RUDDER)     
+5544	Compon_Name	RUDDER MISC STRU              
+5550	Compon_Name	ATTACH FITTINGS (FLT CONTROLS)
+5551	Compon_Name	HORIZONTAL STAB ATTACH FITTING
+5552	Compon_Name	ELEVATOR/TAB ATTACH FITTING   
+5553	Compon_Name	VERTICAL STAB ATTACH FITTING  
+5554	Compon_Name	RUDDER/TAB ATTACH FITTING     
+5597	Compon_Name	STABILIZER SYS WIRING         
+5600	Compon_Name	WINDOWS-WINDSHIELD SYSTEM     
+5610	Compon_Name	FLIGHT COMPARTMENT WINDOWS    
+5620	Compon_Name	PASSENGER COMPARTMENT WINDOWS 
+5630	Compon_Name	DOOR WINDOWS                  
+5640	Compon_Name	INSPECTION WINDOWS            
+5697	Compon_Name	WINDOW WIRING                 
+5700	Compon_Name	WING STRUCTURE                
+5710	Compon_Name	MAIN FRAME (ON WING)          
+5711	Compon_Name	SPAR (ON WING)                
+5712	Compon_Name	RIBS/BULKHEADS (ON WING)      
+5713	Compon_Name	LONGERONS/STRINGERS (ON WING) 
+5714	Compon_Name	CENTER WING BOX (ON WING)     
+5720	Compon_Name	WING AUXILIARY STRUCTURE      
+5730	Compon_Name	PLATES/SKINS (ON WING)        
+5740	Compon_Name	ATTACH FITTINGS (ON WING)     
+5741	Compon_Name	FUS (ATTACH FITTING ON WING)  
+5742	Compon_Name	NAC/PYLON (FITTING ON WING)   
+5743	Compon_Name	LANDING GEAR (FITTING ON WING)
+5744	Compon_Name	CONT SURFACE (FITTING ON WING)
+5750	Compon_Name	FLIGHT SURFACES (WING)        
+5751	Compon_Name	AILERONS                      
+5752	Compon_Name	AILERON TABS                  
+5753	Compon_Name	TRAILING EDGE FLAPS           
+5754	Compon_Name	LEADING EDGE DEVICES          
+5755	Compon_Name	SPOILERS                      
+5797	Compon_Name	WING WIRING                   
+6100	Compon_Name	PROPELLER SYSTEM              
+6110	Compon_Name	PROPELLER ASSEMBLY            
+6111	Compon_Name	PROPELLER BLADE SECTION       
+6112	Compon_Name	PROP DEICE BOOT SECTION       
+6113	Compon_Name	PROP/SPINNER SECTION          
+6114	Compon_Name	PROPELLER HUB SECTION         
+6120	Compon_Name	PROPELLER CONTROLLING SYSTEM  
+6121	Compon_Name	PROP SYNCHRONIZER SECTION     
+6122	Compon_Name	PROPELLER GOVERNOR            
+6123	Compon_Name	PROPELLER FEATHER/REVERSING   
+6130	Compon_Name	PROPELLER BRAKING             
+6140	Compon_Name	PROPELLER INDICATING SYSTEM   
+6197	Compon_Name	PROPELLER/PROPULSOR WIRE      
+6200	Compon_Name	MAIN ROTOR SYSTEM             
+6210	Compon_Name	MAIN ROTOR BLADE SYSTEM       
+6220	Compon_Name	MAIN ROTOR HEAD SYSTEM        
+6230	Compon_Name	MAIN ROTOR MAST/SWASHPLATE    
+6240	Compon_Name	MAIN ROTOR INDICATING SYSTEM  
+6297	Compon_Name	MAIN ROTOR SYS WIRING         
+6300	Compon_Name	MAIN ROTOR DRIVE              
+6310	Compon_Name	ENGINE/TRANSMISSION COUPLING  
+6320	Compon_Name	MAIN ROTOR GEARBOX            
+6321	Compon_Name	MAIN ROTOR BRAKE              
+6322	Compon_Name	ROTORCRAFT COOLING FAN SYSTEM 
+6330	Compon_Name	MAIN ROTOR TRANS MOUNT        
+6340	Compon_Name	ROTOR/DRIVE INDICATING SYSTEM 
+6397	Compon_Name	MAIN ROTOR DRIVE WIRING       
+6400	Compon_Name	TAIL ROTOR                    
+6410	Compon_Name	TAIL ROTOR BLADE              
+6420	Compon_Name	TAIL ROTOR HEAD               
+6440	Compon_Name	TAIL ROTOR INDICATING SYSTEM  
+6497	Compon_Name	T/R SYS WIRING                
+6500	Compon_Name	TAIL ROTOR DRIVE SYSTEM       
+6510	Compon_Name	TAIL ROTOR DRIVE SHAFT        
+6520	Compon_Name	TAIL ROTOR GEARBOX            
+6540	Compon_Name	TAIL ROTOR DRIVE IND SYSTEM   
+6597	Compon_Name	T/R DRIVE SYS WIRING          
+6700	Compon_Name	ROTORCRAFT FLIGHT CONTROL     
+6710	Compon_Name	MAIN ROTOR CONTROL            
+6711	Compon_Name	TILT ROTOR FLIGHT CONTROL     
+6720	Compon_Name	TAIL ROTOR CONTROL SYSTEM     
+6730	Compon_Name	ROTORCRAFT SERVO SYSTEM       
+6797	Compon_Name	ROTORS FLT CNTL SYS WIRE      
+7100	Compon_Name	POWER PLANT                   
+7110	Compon_Name	ENGINE COWLING SYSTEM         
+7111	Compon_Name	COWL FLAP SYSTEM (RECIP. ONLY)
+7112	Compon_Name	ENG AIR BAFFLE SEC (RECIP.)   
+7120	Compon_Name	MOUNTS                        
+7130	Compon_Name	FIRESEALS                     
+7160	Compon_Name	AIR INTAKE                    
+7170	Compon_Name	ENGINE DRAINS                 
+7197	Compon_Name	POWERPLANT WIRING             
+7200	Compon_Name	ENGINE (TURBINE/TURBOPROP)    
+7210	Compon_Name	REDUCTION GEAR AND SHAFT      
+7220	Compon_Name	AIR INLET SECTION (CORE ENG)  
+7230	Compon_Name	COMPRESSOR SECTION            
+7240	Compon_Name	COMBUSTION SECTION            
+7250	Compon_Name	TURBINE SECTION               
+7260	Compon_Name	ACCESSORY DRIVES              
+7261	Compon_Name	OIL SYSTEM                    
+7270	Compon_Name	BYPASS SECTION                
+7297	Compon_Name	TURB ENG WIRING               
+7300	Compon_Name	ENGINE FUEL AND CONTROL       
+7310	Compon_Name	FUEL DISTRIBUTION             
+7311	Compon_Name	FUEL OIL COOLER               
+7312	Compon_Name	FUEL HEATER                   
+7313	Compon_Name	FUEL INJECTOR NOZZLE          
+7314	Compon_Name	FUEL PUMP                     
+7320	Compon_Name	FUEL CONTROLLING SYSTEM       
+7321	Compon_Name	FUEL CONTROL ELECTRONIC       
+7322	Compon_Name	FUEL CONTROL/CARBURETOR       
+7323	Compon_Name	TURBINE GOVERNOR              
+7324	Compon_Name	FUEL DIVIDER                  
+7330	Compon_Name	FUEL INDICATING SYSTEM        
+7331	Compon_Name	FUEL FLOW INDICATING          
+7332	Compon_Name	FUEL PRESSURE INDICATING      
+7333	Compon_Name	FUEL FLOW SENSOR              
+7334	Compon_Name	FUEL PRESS SENSOR             
+7397	Compon_Name	ENG FUEL SYS WIRING           
+7400	Compon_Name	IGNITION SYSTEM               
+7410	Compon_Name	IGNITION POWER SUPPLY         
+7411	Compon_Name	LOW TENSION COIL              
+7412	Compon_Name	EXCITER                       
+7413	Compon_Name	INDUCTION VIBRATOR            
+7414	Compon_Name	MAGNETO/DISTRIBUTOR           
+7420	Compon_Name	DIST (IGNITION HARNESS)       
+7421	Compon_Name	SPARK PLUGS/IGNITERS          
+7430	Compon_Name	SWITCHING                     
+7497	Compon_Name	ING SYS WIRING                
+7500	Compon_Name	ENGINE BLEED AIR SYSTEM       
+7510	Compon_Name	ENGINE ANTI-ICING SYSTEM      
+7520	Compon_Name	ENGINE COOLING SYSTEM         
+7530	Compon_Name	COMPRESSOR BLEED CONTROL      
+7531	Compon_Name	COMPRESSOR BLEED GOVERNOR     
+7532	Compon_Name	COMPRESSOR BLEED VALVE        
+7540	Compon_Name	INDICATING SYSTEM             
+7597	Compon_Name	AIR SYS WIRING                
+7600	Compon_Name	ENGINE CONTROLS               
+7601	Compon_Name	ENGINE SYNCHRONIZING          
+7602	Compon_Name	MIXTURE CONTROL               
+7603	Compon_Name	POWER LEVER                   
+7620	Compon_Name	EMERGENCY SHUTDOWN SYSTEM     
+7697	Compon_Name	ENG CNTL SYS WIRING           
+7700	Compon_Name	ENGINE INDICATING SYSTEM      
+7710	Compon_Name	POWER INDICATING SYSTEM       
+7711	Compon_Name	ENGINE PRESSURE RATIO (EPR)   
+7712	Compon_Name	BMEP/TORQUE                   
+7713	Compon_Name	MANIFOLD PRESSURE (MP)        
+7714	Compon_Name	RPM                           
+7720	Compon_Name	TEMPERATURE INDICATING SYSTEM 
+7721	Compon_Name	CYLINDER HEAD TEMP (CHT)      
+7722	Compon_Name	EGT/TIT                       
+7730	Compon_Name	ANALYZERS                     
+7731	Compon_Name	IGNITION ANALYZER             
+7732	Compon_Name	VIBRATION ANALYZER            
+7740	Compon_Name	INTEGRATED ENGINE INST SYSTEM 
+7797	Compon_Name	ENG IND SYS WIRING            
+7800	Compon_Name	ENGINE EXHAUST                
+7810	Compon_Name	COLLECTOR/NOZZLE              
+7820	Compon_Name	NOISE SUPPRESSOR              
+7830	Compon_Name	THRUST REVERSER               
+7897	Compon_Name	ENG EXHST SYS WIRING          
+7900	Compon_Name	ENG OIL SYS (AIRFRAME FURNISH)
+7910	Compon_Name	OIL STORAGE (AIRFRAME FURNISH)
+7920	Compon_Name	ENG OIL DIST (AIRFRAME FURN)  
+7921	Compon_Name	COOLER                        
+7922	Compon_Name	TEMPERATURE REGULATOR         
+7923	Compon_Name	OFF VALVE                     
+7930	Compon_Name	ENGINE OIL INDICATING SYSTEM  
+7931	Compon_Name	PRESSURE                      
+7932	Compon_Name	QUANTITY                      
+7933	Compon_Name	TEMPERATURE                   
+7997	Compon_Name	ENG OIL SYS WIRING            
+8000	Compon_Name	ENGINE STARTING               
+8010	Compon_Name	CRANKING                      
+8011	Compon_Name	STARTER                       
+8012	Compon_Name	VALVES/CONTROLS               
+8097	Compon_Name	ENG START SYS WIRING          
+8100	Compon_Name	TURBINE SYSTEM (RECIP. ONLY)  
+8110	Compon_Name	POWER RECOVERY TURBINE        
+8120	Compon_Name	TURBO/SUPERCHARGER            
+8197	Compon_Name	TURBOCHARG SYS WIRING         
+8200	Compon_Name	WATER INJECTION               
+8297	Compon_Name	WATER INJ SYS WIRING          
+8300	Compon_Name	ACCESSORY GEAR-BOXES          
+8397	Compon_Name	ASSY G/B WIRING               
+8500	Compon_Name	ENGINE (RECIPROCATING)        
+8510	Compon_Name	RECIP ENG FRONT SECTION       
+8520	Compon_Name	RECIP ENG PWR SECTION         
+8530	Compon_Name	RECIP ENG CYL SECTION         
+8540	Compon_Name	RECIP ENG REAR SECTION        
+8550	Compon_Name	RECIP ENG OIL SYS             
+8560	Compon_Name	RECIP ENG SUPERCHARGER        
+8570	Compon_Name	RECIP ENG LIQUID COOLING      
+8597	Compon_Name	RECIP ENG WIRING              
+1100	Seg_Code	1
+1210	Seg_Code	1
+1220	Seg_Code	1
+1230	Seg_Code	1
+1240	Seg_Code	1
+1400	Seg_Code	1
+1410	Seg_Code	1
+1420	Seg_Code	1
+1430	Seg_Code	1
+1497	Seg_Code	1
+1800	Seg_Code	1
+1810	Seg_Code	1
+1820	Seg_Code	1
+1897	Seg_Code	1
+2100	Seg_Code	1
+2110	Seg_Code	1
+2120	Seg_Code	1
+2121	Seg_Code	1
+2130	Seg_Code	1
+2131	Seg_Code	1
+2132	Seg_Code	1
+2133	Seg_Code	1
+2134	Seg_Code	1
+2140	Seg_Code	1
+2150	Seg_Code	1
+2160	Seg_Code	1
+2161	Seg_Code	1
+2162	Seg_Code	1
+2163	Seg_Code	1
+2170	Seg_Code	1
+2197	Seg_Code	1
+2200	Seg_Code	4
+2210	Seg_Code	4
+2211	Seg_Code	4
+2212	Seg_Code	4
+2213	Seg_Code	4
+2214	Seg_Code	4
+2215	Seg_Code	4
+2216	Seg_Code	4
+2220	Seg_Code	4
+2230	Seg_Code	4
+2250	Seg_Code	4
+2297	Seg_Code	4
+2300	Seg_Code	4
+2310	Seg_Code	4
+2311	Seg_Code	4
+2312	Seg_Code	4
+2315	Seg_Code	4
+2320	Seg_Code	4
+2330	Seg_Code	4
+2340	Seg_Code	4
+2350	Seg_Code	4
+2360	Seg_Code	4
+2370	Seg_Code	4
+2397	Seg_Code	4
+2400	Seg_Code	1
+2410	Seg_Code	1
+2420	Seg_Code	1
+2421	Seg_Code	1
+2422	Seg_Code	1
+2423	Seg_Code	1
+2424	Seg_Code	1
+2425	Seg_Code	1
+2430	Seg_Code	1
+2431	Seg_Code	1
+2432	Seg_Code	1
+2433	Seg_Code	1
+2434	Seg_Code	1
+2435	Seg_Code	1
+2436	Seg_Code	1
+2437	Seg_Code	1
+2440	Seg_Code	1
+2450	Seg_Code	1
+2460	Seg_Code	1
+2497	Seg_Code	1
+2500	Seg_Code	1
+2510	Seg_Code	1
+2520	Seg_Code	1
+2530	Seg_Code	1
+2540	Seg_Code	1
+2550	Seg_Code	1
+2551	Seg_Code	1
+2560	Seg_Code	1
+2561	Seg_Code	4
+2562	Seg_Code	4
+2563	Seg_Code	4
+2564	Seg_Code	4
+2565	Seg_Code	4
+2570	Seg_Code	1
+2571	Seg_Code	1
+2572	Seg_Code	1
+2597	Seg_Code	1
+2600	Seg_Code	1
+2610	Seg_Code	1
+2611	Seg_Code	1
+2612	Seg_Code	1
+2613	Seg_Code	1
+2620	Seg_Code	1
+2621	Seg_Code	1
+2622	Seg_Code	1
+2697	Seg_Code	1
+2700	Seg_Code	1
+2701	Seg_Code	1
+2710	Seg_Code	1
+2711	Seg_Code	1
+2720	Seg_Code	1
+2721	Seg_Code	1
+2722	Seg_Code	1
+2730	Seg_Code	1
+2731	Seg_Code	1
+2740	Seg_Code	1
+2741	Seg_Code	1
+2742	Seg_Code	1
+2750	Seg_Code	1
+2751	Seg_Code	1
+2752	Seg_Code	1
+2760	Seg_Code	1
+2761	Seg_Code	1
+2770	Seg_Code	1
+2780	Seg_Code	1
+2781	Seg_Code	1
+2782	Seg_Code	1
+2797	Seg_Code	1
+2800	Seg_Code	1
+2810	Seg_Code	1
+2820	Seg_Code	1
+2821	Seg_Code	1
+2822	Seg_Code	1
+2823	Seg_Code	1
+2824	Seg_Code	1
+2830	Seg_Code	1
+2840	Seg_Code	1
+2841	Seg_Code	1
+2842	Seg_Code	1
+2843	Seg_Code	1
+2844	Seg_Code	1
+2897	Seg_Code	1
+2900	Seg_Code	1
+2910	Seg_Code	1
+2911	Seg_Code	1
+2912	Seg_Code	1
+2913	Seg_Code	1
+2914	Seg_Code	1
+2915	Seg_Code	1
+2916	Seg_Code	1
+2917	Seg_Code	1
+2920	Seg_Code	1
+2921	Seg_Code	1
+2922	Seg_Code	1
+2923	Seg_Code	1
+2924	Seg_Code	1
+2925	Seg_Code	1
+2926	Seg_Code	1
+2927	Seg_Code	1
+2930	Seg_Code	1
+2931	Seg_Code	1
+2932	Seg_Code	1
+2933	Seg_Code	1
+2934	Seg_Code	1
+2997	Seg_Code	1
+3000	Seg_Code	1
+3010	Seg_Code	1
+3020	Seg_Code	1
+3030	Seg_Code	1
+3040	Seg_Code	1
+3050	Seg_Code	1
+3060	Seg_Code	1
+3070	Seg_Code	1
+3080	Seg_Code	1
+3097	Seg_Code	1
+3100	Seg_Code	4
+3110	Seg_Code	1
+3120	Seg_Code	4
+3130	Seg_Code	4
+3140	Seg_Code	4
+3150	Seg_Code	1
+3160	Seg_Code	4
+3170	Seg_Code	4
+3197	Seg_Code	4
+3200	Seg_Code	1
+3201	Seg_Code	1
+3210	Seg_Code	1
+3211	Seg_Code	1
+3212	Seg_Code	1
+3213	Seg_Code	1
+3220	Seg_Code	1
+3221	Seg_Code	1
+3222	Seg_Code	1
+3230	Seg_Code	1
+3231	Seg_Code	1
+3232	Seg_Code	1
+3233	Seg_Code	1
+3234	Seg_Code	1
+3240	Seg_Code	1
+3241	Seg_Code	1
+3242	Seg_Code	1
+3243	Seg_Code	1
+3244	Seg_Code	1
+3245	Seg_Code	1
+3246	Seg_Code	1
+3250	Seg_Code	1
+3251	Seg_Code	1
+3252	Seg_Code	1
+3260	Seg_Code	1
+3270	Seg_Code	1
+3297	Seg_Code	1
+3300	Seg_Code	1
+3310	Seg_Code	1
+3320	Seg_Code	1
+3330	Seg_Code	1
+3340	Seg_Code	1
+3350	Seg_Code	1
+3397	Seg_Code	1
+3400	Seg_Code	4
+3410	Seg_Code	4
+3411	Seg_Code	1
+3412	Seg_Code	1
+3413	Seg_Code	4
+3414	Seg_Code	4
+3415	Seg_Code	4
+3416	Seg_Code	4
+3417	Seg_Code	4
+3418	Seg_Code	4
+3420	Seg_Code	4
+3421	Seg_Code	4
+3422	Seg_Code	4
+3423	Seg_Code	4
+3424	Seg_Code	4
+3425	Seg_Code	4
+3430	Seg_Code	4
+3431	Seg_Code	4
+3432	Seg_Code	4
+3433	Seg_Code	4
+3434	Seg_Code	4
+3435	Seg_Code	4
+3436	Seg_Code	4
+3440	Seg_Code	4
+3441	Seg_Code	4
+3442	Seg_Code	4
+3443	Seg_Code	4
+3444	Seg_Code	4
+3445	Seg_Code	4
+3446	Seg_Code	4
+3450	Seg_Code	4
+3451	Seg_Code	4
+3452	Seg_Code	4
+3453	Seg_Code	4
+3454	Seg_Code	4
+3455	Seg_Code	4
+3456	Seg_Code	4
+3457	Seg_Code	4
+3460	Seg_Code	4
+3461	Seg_Code	4
+3497	Seg_Code	4
+3500	Seg_Code	1
+3510	Seg_Code	1
+3520	Seg_Code	1
+3530	Seg_Code	1
+3597	Seg_Code	1
+3600	Seg_Code	1
+3610	Seg_Code	1
+3620	Seg_Code	1
+3697	Seg_Code	1
+3700	Seg_Code	1
+3710	Seg_Code	1
+3720	Seg_Code	1
+3797	Seg_Code	1
+3800	Seg_Code	1
+3810	Seg_Code	1
+3820	Seg_Code	1
+3830	Seg_Code	1
+3840	Seg_Code	1
+3897	Seg_Code	1
+4500	Seg_Code	4
+4597	Seg_Code	4
+4900	Seg_Code	1
+4910	Seg_Code	1
+4920	Seg_Code	1
+4930	Seg_Code	1
+4940	Seg_Code	1
+4950	Seg_Code	1
+4960	Seg_Code	1
+4970	Seg_Code	1
+4980	Seg_Code	1
+4990	Seg_Code	1
+4997	Seg_Code	1
+5100	Seg_Code	1
+5101	Seg_Code	1
+5102	Seg_Code	1
+5200	Seg_Code	1
+5210	Seg_Code	1
+5220	Seg_Code	1
+5230	Seg_Code	1
+5240	Seg_Code	1
+5241	Seg_Code	1
+5242	Seg_Code	1
+5243	Seg_Code	1
+5244	Seg_Code	1
+5245	Seg_Code	1
+5246	Seg_Code	1
+5247	Seg_Code	1
+5248	Seg_Code	1
+5250	Seg_Code	1
+5260	Seg_Code	1
+5270	Seg_Code	1
+5280	Seg_Code	1
+5297	Seg_Code	1
+5300	Seg_Code	1
+5301	Seg_Code	4
+5302	Seg_Code	1
+5310	Seg_Code	1
+5311	Seg_Code	1
+5312	Seg_Code	1
+5313	Seg_Code	1
+5314	Seg_Code	1
+5315	Seg_Code	1
+5320	Seg_Code	1
+5321	Seg_Code	1
+5322	Seg_Code	1
+5323	Seg_Code	1
+5324	Seg_Code	1
+5330	Seg_Code	1
+5340	Seg_Code	1
+5341	Seg_Code	1
+5342	Seg_Code	1
+5343	Seg_Code	1
+5344	Seg_Code	1
+5345	Seg_Code	1
+5346	Seg_Code	1
+5347	Seg_Code	1
+5350	Seg_Code	1
+5397	Seg_Code	1
+5400	Seg_Code	1
+5410	Seg_Code	1
+5411	Seg_Code	1
+5412	Seg_Code	1
+5413	Seg_Code	1
+5414	Seg_Code	1
+5415	Seg_Code	1
+5420	Seg_Code	1
+5497	Seg_Code	1
+5500	Seg_Code	1
+5510	Seg_Code	1
+5511	Seg_Code	1
+5512	Seg_Code	1
+5513	Seg_Code	1
+5514	Seg_Code	1
+5520	Seg_Code	1
+5521	Seg_Code	1
+5522	Seg_Code	1
+5523	Seg_Code	1
+5524	Seg_Code	1
+5530	Seg_Code	1
+5531	Seg_Code	1
+5532	Seg_Code	1
+5533	Seg_Code	1
+5534	Seg_Code	1
+5540	Seg_Code	1
+5541	Seg_Code	1
+5542	Seg_Code	1
+5543	Seg_Code	1
+5544	Seg_Code	1
+5550	Seg_Code	1
+5551	Seg_Code	1
+5552	Seg_Code	1
+5553	Seg_Code	1
+5554	Seg_Code	1
+5597	Seg_Code	1
+5600	Seg_Code	1
+5610	Seg_Code	1
+5620	Seg_Code	1
+5630	Seg_Code	1
+5640	Seg_Code	1
+5697	Seg_Code	1
+5700	Seg_Code	1
+5710	Seg_Code	1
+5711	Seg_Code	1
+5712	Seg_Code	1
+5713	Seg_Code	1
+5714	Seg_Code	1
+5720	Seg_Code	1
+5730	Seg_Code	1
+5740	Seg_Code	1
+5741	Seg_Code	1
+5742	Seg_Code	1
+5743	Seg_Code	1
+5744	Seg_Code	1
+5750	Seg_Code	1
+5751	Seg_Code	1
+5752	Seg_Code	1
+5753	Seg_Code	1
+5754	Seg_Code	1
+5755	Seg_Code	1
+5797	Seg_Code	1
+6100	Seg_Code	1
+6110	Seg_Code	3
+6111	Seg_Code	3
+6112	Seg_Code	3
+6113	Seg_Code	4
+6114	Seg_Code	3
+6120	Seg_Code	1
+6121	Seg_Code	1
+6122	Seg_Code	4
+6123	Seg_Code	1
+6130	Seg_Code	1
+6140	Seg_Code	3
+6197	Seg_Code	3
+6200	Seg_Code	1
+6210	Seg_Code	1
+6220	Seg_Code	1
+6230	Seg_Code	1
+6240	Seg_Code	1
+6297	Seg_Code	1
+6300	Seg_Code	1
+6310	Seg_Code	1
+6320	Seg_Code	1
+6321	Seg_Code	1
+6322	Seg_Code	1
+6330	Seg_Code	1
+6340	Seg_Code	1
+6397	Seg_Code	1
+6400	Seg_Code	1
+6410	Seg_Code	1
+6420	Seg_Code	1
+6440	Seg_Code	1
+6497	Seg_Code	1
+6500	Seg_Code	1
+6510	Seg_Code	1
+6520	Seg_Code	1
+6540	Seg_Code	1
+6597	Seg_Code	1
+6700	Seg_Code	1
+6710	Seg_Code	1
+6711	Seg_Code	1
+6720	Seg_Code	1
+6730	Seg_Code	1
+6797	Seg_Code	1
+7100	Seg_Code	1
+7110	Seg_Code	1
+7111	Seg_Code	1
+7112	Seg_Code	1
+7120	Seg_Code	1
+7130	Seg_Code	1
+7160	Seg_Code	1
+7170	Seg_Code	1
+7197	Seg_Code	1
+7200	Seg_Code	2
+7210	Seg_Code	2
+7220	Seg_Code	2
+7230	Seg_Code	2
+7240	Seg_Code	2
+7250	Seg_Code	2
+7260	Seg_Code	2
+7261	Seg_Code	2
+7270	Seg_Code	2
+7297	Seg_Code	2
+7300	Seg_Code	2
+7310	Seg_Code	2
+7311	Seg_Code	2
+7312	Seg_Code	1
+7313	Seg_Code	2
+7314	Seg_Code	2
+7320	Seg_Code	2
+7321	Seg_Code	2
+7322	Seg_Code	2
+7323	Seg_Code	2
+7324	Seg_Code	2
+7330	Seg_Code	1
+7331	Seg_Code	1
+7332	Seg_Code	1
+7333	Seg_Code	1
+7334	Seg_Code	1
+7397	Seg_Code	2
+7400	Seg_Code	1
+7410	Seg_Code	1
+7411	Seg_Code	2
+7412	Seg_Code	2
+7413	Seg_Code	2
+7414	Seg_Code	2
+7420	Seg_Code	2
+7421	Seg_Code	2
+7430	Seg_Code	1
+7497	Seg_Code	2
+7500	Seg_Code	1
+7510	Seg_Code	2
+7520	Seg_Code	2
+7530	Seg_Code	2
+7531	Seg_Code	2
+7532	Seg_Code	2
+7540	Seg_Code	1
+7597	Seg_Code	2
+7600	Seg_Code	1
+7601	Seg_Code	1
+7602	Seg_Code	1
+7603	Seg_Code	1
+7620	Seg_Code	1
+7697	Seg_Code	1
+7700	Seg_Code	1
+7710	Seg_Code	1
+7711	Seg_Code	1
+7712	Seg_Code	1
+7713	Seg_Code	1
+7714	Seg_Code	1
+7720	Seg_Code	1
+7721	Seg_Code	1
+7722	Seg_Code	1
+7730	Seg_Code	1
+7731	Seg_Code	1
+7732	Seg_Code	1
+7740	Seg_Code	1
+7797	Seg_Code	1
+7800	Seg_Code	1
+7810	Seg_Code	1
+7820	Seg_Code	1
+7830	Seg_Code	1
+7897	Seg_Code	1
+7900	Seg_Code	1
+7910	Seg_Code	1
+7920	Seg_Code	1
+7921	Seg_Code	1
+7922	Seg_Code	1
+7923	Seg_Code	1
+7930	Seg_Code	1
+7931	Seg_Code	1
+7932	Seg_Code	1
+7933	Seg_Code	1
+7997	Seg_Code	1
+8000	Seg_Code	1
+8010	Seg_Code	1
+8011	Seg_Code	1
+8012	Seg_Code	1
+8097	Seg_Code	1
+8100	Seg_Code	1
+8110	Seg_Code	1
+8120	Seg_Code	1
+8197	Seg_Code	1
+8200	Seg_Code	1
+8297	Seg_Code	1
+8300	Seg_Code	4
+8397	Seg_Code	4
+8500	Seg_Code	2
+8510	Seg_Code	2
+8520	Seg_Code	2
+8530	Seg_Code	2
+8540	Seg_Code	2
+8550	Seg_Code	2
+8560	Seg_Code	2
+8570	Seg_Code	2
+8597	Seg_Code	2
+1100	Seg_Suff	1
+1210	Seg_Suff	1
+1220	Seg_Suff	1
+1230	Seg_Suff	1
+1240	Seg_Suff	1
+1400	Seg_Suff	1
+1410	Seg_Suff	1
+1420	Seg_Suff	1
+1430	Seg_Suff	1
+1497	Seg_Suff	1
+1800	Seg_Suff	1
+1810	Seg_Suff	1
+1820	Seg_Suff	1
+1897	Seg_Suff	1
+2100	Seg_Suff	1
+2110	Seg_Suff	1
+2120	Seg_Suff	1
+2121	Seg_Suff	1
+2130	Seg_Suff	1
+2131	Seg_Suff	1
+2132	Seg_Suff	1
+2133	Seg_Suff	1
+2134	Seg_Suff	1
+2140	Seg_Suff	1
+2150	Seg_Suff	1
+2160	Seg_Suff	1
+2161	Seg_Suff	1
+2162	Seg_Suff	1
+2163	Seg_Suff	1
+2170	Seg_Suff	1
+2197	Seg_Suff	1
+2200	Seg_Suff	1
+2210	Seg_Suff	1
+2211	Seg_Suff	4
+2212	Seg_Suff	5
+2213	Seg_Suff	5
+2214	Seg_Suff	5
+2215	Seg_Suff	5
+2216	Seg_Suff	5
+2220	Seg_Suff	4
+2230	Seg_Suff	1
+2250	Seg_Suff	1
+2297	Seg_Suff	4
+2300	Seg_Suff	5
+2310	Seg_Suff	5
+2311	Seg_Suff	5
+2312	Seg_Suff	5
+2315	Seg_Suff	5
+2320	Seg_Suff	4
+2330	Seg_Suff	5
+2340	Seg_Suff	5
+2350	Seg_Suff	5
+2360	Seg_Suff	1
+2370	Seg_Suff	5
+2397	Seg_Suff	5
+2400	Seg_Suff	1
+2410	Seg_Suff	1
+2420	Seg_Suff	1
+2421	Seg_Suff	1
+2422	Seg_Suff	1
+2423	Seg_Suff	1
+2424	Seg_Suff	1
+2425	Seg_Suff	1
+2430	Seg_Suff	1
+2431	Seg_Suff	1
+2432	Seg_Suff	1
+2433	Seg_Suff	1
+2434	Seg_Suff	1
+2435	Seg_Suff	1
+2436	Seg_Suff	1
+2437	Seg_Suff	1
+2440	Seg_Suff	1
+2450	Seg_Suff	1
+2460	Seg_Suff	1
+2497	Seg_Suff	1
+2500	Seg_Suff	1
+2510	Seg_Suff	1
+2520	Seg_Suff	1
+2530	Seg_Suff	1
+2540	Seg_Suff	1
+2550	Seg_Suff	1
+2551	Seg_Suff	1
+2560	Seg_Suff	1
+2561	Seg_Suff	5
+2562	Seg_Suff	5
+2563	Seg_Suff	5
+2564	Seg_Suff	5
+2565	Seg_Suff	5
+2570	Seg_Suff	1
+2571	Seg_Suff	1
+2572	Seg_Suff	1
+2597	Seg_Suff	1
+2600	Seg_Suff	1
+2610	Seg_Suff	1
+2611	Seg_Suff	1
+2612	Seg_Suff	1
+2613	Seg_Suff	1
+2620	Seg_Suff	1
+2621	Seg_Suff	1
+2622	Seg_Suff	5
+2697	Seg_Suff	1
+2700	Seg_Suff	1
+2701	Seg_Suff	1
+2710	Seg_Suff	1
+2711	Seg_Suff	1
+2720	Seg_Suff	1
+2721	Seg_Suff	1
+2722	Seg_Suff	1
+2730	Seg_Suff	1
+2731	Seg_Suff	1
+2740	Seg_Suff	1
+2741	Seg_Suff	1
+2742	Seg_Suff	1
+2750	Seg_Suff	1
+2751	Seg_Suff	1
+2752	Seg_Suff	1
+2760	Seg_Suff	1
+2761	Seg_Suff	1
+2770	Seg_Suff	1
+2780	Seg_Suff	1
+2781	Seg_Suff	1
+2782	Seg_Suff	1
+2797	Seg_Suff	1
+2800	Seg_Suff	1
+2810	Seg_Suff	1
+2820	Seg_Suff	1
+2821	Seg_Suff	1
+2822	Seg_Suff	1
+2823	Seg_Suff	1
+2824	Seg_Suff	1
+2830	Seg_Suff	1
+2840	Seg_Suff	1
+2841	Seg_Suff	1
+2842	Seg_Suff	1
+2843	Seg_Suff	1
+2844	Seg_Suff	1
+2897	Seg_Suff	1
+2900	Seg_Suff	1
+2910	Seg_Suff	1
+2911	Seg_Suff	1
+2912	Seg_Suff	1
+2913	Seg_Suff	1
+2914	Seg_Suff	1
+2915	Seg_Suff	1
+2916	Seg_Suff	1
+2917	Seg_Suff	1
+2920	Seg_Suff	1
+2921	Seg_Suff	1
+2922	Seg_Suff	1
+2923	Seg_Suff	1
+2924	Seg_Suff	1
+2925	Seg_Suff	1
+2926	Seg_Suff	1
+2927	Seg_Suff	1
+2930	Seg_Suff	1
+2931	Seg_Suff	1
+2932	Seg_Suff	1
+2933	Seg_Suff	1
+2934	Seg_Suff	1
+2997	Seg_Suff	1
+3000	Seg_Suff	1
+3010	Seg_Suff	1
+3020	Seg_Suff	1
+3030	Seg_Suff	1
+3040	Seg_Suff	1
+3050	Seg_Suff	1
+3060	Seg_Suff	1
+3070	Seg_Suff	1
+3080	Seg_Suff	1
+3097	Seg_Suff	1
+3100	Seg_Suff	5
+3110	Seg_Suff	1
+3120	Seg_Suff	5
+3130	Seg_Suff	1
+3140	Seg_Suff	1
+3150	Seg_Suff	1
+3160	Seg_Suff	1
+3170	Seg_Suff	1
+3197	Seg_Suff	1
+3200	Seg_Suff	1
+3201	Seg_Suff	1
+3210	Seg_Suff	1
+3211	Seg_Suff	1
+3212	Seg_Suff	1
+3213	Seg_Suff	1
+3220	Seg_Suff	1
+3221	Seg_Suff	1
+3222	Seg_Suff	1
+3230	Seg_Suff	1
+3231	Seg_Suff	1
+3232	Seg_Suff	1
+3233	Seg_Suff	1
+3234	Seg_Suff	1
+3240	Seg_Suff	1
+3241	Seg_Suff	1
+3242	Seg_Suff	1
+3243	Seg_Suff	1
+3244	Seg_Suff	5
+3245	Seg_Suff	5
+3246	Seg_Suff	5
+3250	Seg_Suff	1
+3251	Seg_Suff	1
+3252	Seg_Suff	1
+3260	Seg_Suff	1
+3270	Seg_Suff	1
+3297	Seg_Suff	1
+3300	Seg_Suff	1
+3310	Seg_Suff	1
+3320	Seg_Suff	1
+3330	Seg_Suff	1
+3340	Seg_Suff	1
+3350	Seg_Suff	1
+3397	Seg_Suff	1
+3400	Seg_Suff	5
+3410	Seg_Suff	5
+3411	Seg_Suff	1
+3412	Seg_Suff	5
+3413	Seg_Suff	5
+3414	Seg_Suff	5
+3415	Seg_Suff	5
+3416	Seg_Suff	5
+3417	Seg_Suff	5
+3418	Seg_Suff	1
+3420	Seg_Suff	5
+3421	Seg_Suff	5
+3422	Seg_Suff	5
+3423	Seg_Suff	5
+3424	Seg_Suff	5
+3425	Seg_Suff	5
+3430	Seg_Suff	5
+3431	Seg_Suff	5
+3432	Seg_Suff	5
+3433	Seg_Suff	5
+3434	Seg_Suff	5
+3435	Seg_Suff	5
+3436	Seg_Suff	5
+3440	Seg_Suff	5
+3441	Seg_Suff	5
+3442	Seg_Suff	5
+3443	Seg_Suff	5
+3444	Seg_Suff	4
+3445	Seg_Suff	5
+3446	Seg_Suff	5
+3450	Seg_Suff	5
+3451	Seg_Suff	5
+3452	Seg_Suff	5
+3453	Seg_Suff	5
+3454	Seg_Suff	5
+3455	Seg_Suff	5
+3456	Seg_Suff	5
+3457	Seg_Suff	5
+3460	Seg_Suff	5
+3461	Seg_Suff	5
+3497	Seg_Suff	5
+3500	Seg_Suff	1
+3510	Seg_Suff	1
+3520	Seg_Suff	1
+3530	Seg_Suff	1
+3597	Seg_Suff	1
+3600	Seg_Suff	1
+3610	Seg_Suff	1
+3620	Seg_Suff	1
+3697	Seg_Suff	1
+3700	Seg_Suff	1
+3710	Seg_Suff	1
+3720	Seg_Suff	1
+3797	Seg_Suff	1
+3800	Seg_Suff	1
+3810	Seg_Suff	1
+3820	Seg_Suff	1
+3830	Seg_Suff	1
+3840	Seg_Suff	1
+3897	Seg_Suff	1
+4500	Seg_Suff	5
+4597	Seg_Suff	1
+4900	Seg_Suff	1
+4910	Seg_Suff	1
+4920	Seg_Suff	5
+4930	Seg_Suff	1
+4940	Seg_Suff	5
+4950	Seg_Suff	1
+4960	Seg_Suff	1
+4970	Seg_Suff	1
+4980	Seg_Suff	1
+4990	Seg_Suff	5
+4997	Seg_Suff	1
+5100	Seg_Suff	1
+5101	Seg_Suff	1
+5102	Seg_Suff	1
+5200	Seg_Suff	1
+5210	Seg_Suff	1
+5220	Seg_Suff	1
+5230	Seg_Suff	1
+5240	Seg_Suff	1
+5241	Seg_Suff	1
+5242	Seg_Suff	1
+5243	Seg_Suff	1
+5244	Seg_Suff	1
+5245	Seg_Suff	1
+5246	Seg_Suff	1
+5247	Seg_Suff	1
+5248	Seg_Suff	1
+5250	Seg_Suff	1
+5260	Seg_Suff	1
+5270	Seg_Suff	1
+5280	Seg_Suff	1
+5297	Seg_Suff	1
+5300	Seg_Suff	1
+5301	Seg_Suff	5
+5302	Seg_Suff	1
+5310	Seg_Suff	1
+5311	Seg_Suff	1
+5312	Seg_Suff	1
+5313	Seg_Suff	1
+5314	Seg_Suff	1
+5315	Seg_Suff	1
+5320	Seg_Suff	1
+5321	Seg_Suff	1
+5322	Seg_Suff	1
+5323	Seg_Suff	1
+5324	Seg_Suff	1
+5330	Seg_Suff	1
+5340	Seg_Suff	1
+5341	Seg_Suff	1
+5342	Seg_Suff	1
+5343	Seg_Suff	1
+5344	Seg_Suff	1
+5345	Seg_Suff	1
+5346	Seg_Suff	1
+5347	Seg_Suff	1
+5350	Seg_Suff	1
+5397	Seg_Suff	1
+5400	Seg_Suff	1
+5410	Seg_Suff	1
+5411	Seg_Suff	1
+5412	Seg_Suff	1
+5413	Seg_Suff	1
+5414	Seg_Suff	1
+5415	Seg_Suff	1
+5420	Seg_Suff	1
+5497	Seg_Suff	1
+5500	Seg_Suff	1
+5510	Seg_Suff	1
+5511	Seg_Suff	1
+5512	Seg_Suff	1
+5513	Seg_Suff	1
+5514	Seg_Suff	1
+5520	Seg_Suff	1
+5521	Seg_Suff	1
+5522	Seg_Suff	1
+5523	Seg_Suff	1
+5524	Seg_Suff	1
+5530	Seg_Suff	1
+5531	Seg_Suff	1
+5532	Seg_Suff	1
+5533	Seg_Suff	1
+5534	Seg_Suff	1
+5540	Seg_Suff	1
+5541	Seg_Suff	1
+5542	Seg_Suff	1
+5543	Seg_Suff	1
+5544	Seg_Suff	1
+5550	Seg_Suff	1
+5551	Seg_Suff	1
+5552	Seg_Suff	1
+5553	Seg_Suff	1
+5554	Seg_Suff	1
+5597	Seg_Suff	1
+5600	Seg_Suff	1
+5610	Seg_Suff	1
+5620	Seg_Suff	1
+5630	Seg_Suff	1
+5640	Seg_Suff	1
+5697	Seg_Suff	1
+5700	Seg_Suff	1
+5710	Seg_Suff	1
+5711	Seg_Suff	1
+5712	Seg_Suff	1
+5713	Seg_Suff	1
+5714	Seg_Suff	1
+5720	Seg_Suff	1
+5730	Seg_Suff	1
+5740	Seg_Suff	1
+5741	Seg_Suff	1
+5742	Seg_Suff	1
+5743	Seg_Suff	1
+5744	Seg_Suff	1
+5750	Seg_Suff	1
+5751	Seg_Suff	1
+5752	Seg_Suff	1
+5753	Seg_Suff	1
+5754	Seg_Suff	1
+5755	Seg_Suff	1
+5797	Seg_Suff	1
+6100	Seg_Suff	1
+6110	Seg_Suff	3
+6111	Seg_Suff	3
+6112	Seg_Suff	3
+6113	Seg_Suff	5
+6114	Seg_Suff	3
+6120	Seg_Suff	1
+6121	Seg_Suff	1
+6122	Seg_Suff	5
+6123	Seg_Suff	1
+6130	Seg_Suff	1
+6140	Seg_Suff	1
+6197	Seg_Suff	3
+6200	Seg_Suff	1
+6210	Seg_Suff	1
+6220	Seg_Suff	1
+6230	Seg_Suff	1
+6240	Seg_Suff	1
+6297	Seg_Suff	1
+6300	Seg_Suff	1
+6310	Seg_Suff	1
+6320	Seg_Suff	1
+6321	Seg_Suff	1
+6322	Seg_Suff	1
+6330	Seg_Suff	1
+6340	Seg_Suff	1
+6397	Seg_Suff	1
+6400	Seg_Suff	1
+6410	Seg_Suff	1
+6420	Seg_Suff	1
+6440	Seg_Suff	1
+6497	Seg_Suff	1
+6500	Seg_Suff	1
+6510	Seg_Suff	1
+6520	Seg_Suff	1
+6540	Seg_Suff	1
+6597	Seg_Suff	1
+6700	Seg_Suff	1
+6710	Seg_Suff	1
+6711	Seg_Suff	1
+6720	Seg_Suff	1
+6730	Seg_Suff	1
+6797	Seg_Suff	1
+7100	Seg_Suff	1
+7110	Seg_Suff	1
+7111	Seg_Suff	1
+7112	Seg_Suff	1
+7120	Seg_Suff	1
+7130	Seg_Suff	1
+7160	Seg_Suff	1
+7170	Seg_Suff	1
+7197	Seg_Suff	1
+7200	Seg_Suff	2
+7210	Seg_Suff	2
+7220	Seg_Suff	2
+7230	Seg_Suff	2
+7240	Seg_Suff	2
+7250	Seg_Suff	2
+7260	Seg_Suff	2
+7261	Seg_Suff	2
+7270	Seg_Suff	2
+7297	Seg_Suff	2
+7300	Seg_Suff	2
+7310	Seg_Suff	2
+7311	Seg_Suff	2
+7312	Seg_Suff	1
+7313	Seg_Suff	2
+7314	Seg_Suff	2
+7320	Seg_Suff	2
+7321	Seg_Suff	2
+7322	Seg_Suff	2
+7323	Seg_Suff	2
+7324	Seg_Suff	2
+7330	Seg_Suff	1
+7331	Seg_Suff	1
+7332	Seg_Suff	1
+7333	Seg_Suff	1
+7334	Seg_Suff	1
+7397	Seg_Suff	2
+7400	Seg_Suff	1
+7410	Seg_Suff	1
+7411	Seg_Suff	5
+7412	Seg_Suff	5
+7413	Seg_Suff	5
+7414	Seg_Suff	5
+7420	Seg_Suff	5
+7421	Seg_Suff	5
+7430	Seg_Suff	5
+7497	Seg_Suff	5
+7500	Seg_Suff	1
+7510	Seg_Suff	2
+7520	Seg_Suff	1
+7530	Seg_Suff	2
+7531	Seg_Suff	2
+7532	Seg_Suff	2
+7540	Seg_Suff	1
+7597	Seg_Suff	2
+7600	Seg_Suff	1
+7601	Seg_Suff	1
+7602	Seg_Suff	1
+7603	Seg_Suff	1
+7620	Seg_Suff	1
+7697	Seg_Suff	1
+7700	Seg_Suff	1
+7710	Seg_Suff	1
+7711	Seg_Suff	1
+7712	Seg_Suff	1
+7713	Seg_Suff	1
+7714	Seg_Suff	1
+7720	Seg_Suff	1
+7721	Seg_Suff	1
+7722	Seg_Suff	1
+7730	Seg_Suff	1
+7731	Seg_Suff	1
+7732	Seg_Suff	1
+7740	Seg_Suff	1
+7797	Seg_Suff	1
+7800	Seg_Suff	1
+7810	Seg_Suff	1
+7820	Seg_Suff	1
+7830	Seg_Suff	1
+7897	Seg_Suff	1
+7900	Seg_Suff	1
+7910	Seg_Suff	1
+7920	Seg_Suff	1
+7921	Seg_Suff	1
+7922	Seg_Suff	1
+7923	Seg_Suff	1
+7930	Seg_Suff	1
+7931	Seg_Suff	1
+7932	Seg_Suff	1
+7933	Seg_Suff	1
+7997	Seg_Suff	1
+8000	Seg_Suff	1
+8010	Seg_Suff	1
+8011	Seg_Suff	1
+8012	Seg_Suff	1
+8097	Seg_Suff	1
+8100	Seg_Suff	1
+8110	Seg_Suff	1
+8120	Seg_Suff	1
+8197	Seg_Suff	1
+8200	Seg_Suff	1
+8297	Seg_Suff	1
+8300	Seg_Suff	5
+8397	Seg_Suff	5
+8500	Seg_Suff	2
+8510	Seg_Suff	2
+8520	Seg_Suff	2
+8530	Seg_Suff	2
+8540	Seg_Suff	2
+8550	Seg_Suff	2
+8560	Seg_Suff	2
+8570	Seg_Suff	2
+8597	Seg_Suff	2
+1100	Severity_Factor	1
+1210	Severity_Factor	1
+1220	Severity_Factor	1
+1230	Severity_Factor	1
+1240	Severity_Factor	1
+1400	Severity_Factor	2
+1410	Severity_Factor	2
+1420	Severity_Factor	2
+1430	Severity_Factor	2
+1497	Severity_Factor	1
+1800	Severity_Factor	4
+1810	Severity_Factor	4
+1820	Severity_Factor	4
+1897	Severity_Factor	2
+2100	Severity_Factor	1
+2110	Severity_Factor	1
+2120	Severity_Factor	1
+2121	Severity_Factor	1
+2130	Severity_Factor	1
+2131	Severity_Factor	1
+2132	Severity_Factor	1
+2133	Severity_Factor	1
+2134	Severity_Factor	1
+2140	Severity_Factor	1
+2150	Severity_Factor	1
+2160	Severity_Factor	1
+2161	Severity_Factor	1
+2162	Severity_Factor	1
+2163	Severity_Factor	1
+2170	Severity_Factor	1
+2197	Severity_Factor	1
+2200	Severity_Factor	1
+2210	Severity_Factor	1
+2211	Severity_Factor	1
+2212	Severity_Factor	1
+2213	Severity_Factor	1
+2214	Severity_Factor	1
+2215	Severity_Factor	1
+2216	Severity_Factor	1
+2220	Severity_Factor	1
+2230	Severity_Factor	1
+2250	Severity_Factor	1
+2297	Severity_Factor	1
+2300	Severity_Factor	1
+2310	Severity_Factor	1
+2311	Severity_Factor	1
+2312	Severity_Factor	1
+2315	Severity_Factor	1
+2320	Severity_Factor	1
+2330	Severity_Factor	1
+2340	Severity_Factor	1
+2350	Severity_Factor	1
+2360	Severity_Factor	1
+2370	Severity_Factor	1
+2397	Severity_Factor	1
+2400	Severity_Factor	1
+2410	Severity_Factor	1
+2420	Severity_Factor	2
+2421	Severity_Factor	2
+2422	Severity_Factor	2
+2423	Severity_Factor	1
+2424	Severity_Factor	1
+2425	Severity_Factor	1
+2430	Severity_Factor	2
+2431	Severity_Factor	1
+2432	Severity_Factor	2
+2433	Severity_Factor	2
+2434	Severity_Factor	2
+2435	Severity_Factor	2
+2436	Severity_Factor	2
+2437	Severity_Factor	2
+2440	Severity_Factor	1
+2450	Severity_Factor	2
+2460	Severity_Factor	2
+2497	Severity_Factor	2
+2500	Severity_Factor	2
+2510	Severity_Factor	2
+2520	Severity_Factor	1
+2530	Severity_Factor	1
+2540	Severity_Factor	1
+2550	Severity_Factor	1
+2551	Severity_Factor	2
+2560	Severity_Factor	2
+2561	Severity_Factor	2
+2562	Severity_Factor	2
+2563	Severity_Factor	2
+2564	Severity_Factor	2
+2565	Severity_Factor	2
+2570	Severity_Factor	1
+2571	Severity_Factor	1
+2572	Severity_Factor	1
+2597	Severity_Factor	1
+2600	Severity_Factor	1
+2610	Severity_Factor	1
+2611	Severity_Factor	1
+2612	Severity_Factor	1
+2613	Severity_Factor	1
+2620	Severity_Factor	2
+2621	Severity_Factor	1
+2622	Severity_Factor	1
+2697	Severity_Factor	1
+2700	Severity_Factor	1
+2701	Severity_Factor	1
+2710	Severity_Factor	3
+2711	Severity_Factor	3
+2720	Severity_Factor	2
+2721	Severity_Factor	2
+2722	Severity_Factor	2
+2730	Severity_Factor	2
+2731	Severity_Factor	2
+2740	Severity_Factor	1
+2741	Severity_Factor	1
+2742	Severity_Factor	1
+2750	Severity_Factor	2
+2751	Severity_Factor	1
+2752	Severity_Factor	2
+2760	Severity_Factor	1
+2761	Severity_Factor	1
+2770	Severity_Factor	3
+2780	Severity_Factor	1
+2781	Severity_Factor	1
+2782	Severity_Factor	1
+2797	Severity_Factor	2
+2800	Severity_Factor	1
+2810	Severity_Factor	5
+2820	Severity_Factor	4
+2821	Severity_Factor	4
+2822	Severity_Factor	4
+2823	Severity_Factor	4
+2824	Severity_Factor	4
+2830	Severity_Factor	1
+2840	Severity_Factor	2
+2841	Severity_Factor	2
+2842	Severity_Factor	2
+2843	Severity_Factor	2
+2844	Severity_Factor	2
+2897	Severity_Factor	2
+2900	Severity_Factor	2
+2910	Severity_Factor	2
+2911	Severity_Factor	2
+2912	Severity_Factor	2
+2913	Severity_Factor	2
+2914	Severity_Factor	2
+2915	Severity_Factor	2
+2916	Severity_Factor	2
+2917	Severity_Factor	2
+2920	Severity_Factor	2
+2921	Severity_Factor	2
+2922	Severity_Factor	2
+2923	Severity_Factor	2
+2924	Severity_Factor	2
+2925	Severity_Factor	2
+2926	Severity_Factor	2
+2927	Severity_Factor	2
+2930	Severity_Factor	1
+2931	Severity_Factor	1
+2932	Severity_Factor	1
+2933	Severity_Factor	1
+2934	Severity_Factor	1
+2997	Severity_Factor	2
+3000	Severity_Factor	1
+3010	Severity_Factor	1
+3020	Severity_Factor	1
+3030	Severity_Factor	2
+3040	Severity_Factor	1
+3050	Severity_Factor	1
+3060	Severity_Factor	1
+3070	Severity_Factor	1
+3080	Severity_Factor	1
+3097	Severity_Factor	1
+3100	Severity_Factor	1
+3110	Severity_Factor	1
+3120	Severity_Factor	1
+3130	Severity_Factor	1
+3140	Severity_Factor	1
+3150	Severity_Factor	1
+3160	Severity_Factor	1
+3170	Severity_Factor	1
+3197	Severity_Factor	1
+3200	Severity_Factor	1
+3201	Severity_Factor	1
+3210	Severity_Factor	4
+3211	Severity_Factor	4
+3212	Severity_Factor	2
+3213	Severity_Factor	4
+3220	Severity_Factor	1
+3221	Severity_Factor	2
+3222	Severity_Factor	2
+3230	Severity_Factor	5
+3231	Severity_Factor	2
+3232	Severity_Factor	2
+3233	Severity_Factor	5
+3234	Severity_Factor	5
+3240	Severity_Factor	5
+3241	Severity_Factor	1
+3242	Severity_Factor	5
+3243	Severity_Factor	5
+3244	Severity_Factor	5
+3245	Severity_Factor	5
+3246	Severity_Factor	5
+3250	Severity_Factor	3
+3251	Severity_Factor	3
+3252	Severity_Factor	3
+3260	Severity_Factor	2
+3270	Severity_Factor	1
+3297	Severity_Factor	5
+3300	Severity_Factor	1
+3310	Severity_Factor	1
+3320	Severity_Factor	1
+3330	Severity_Factor	1
+3340	Severity_Factor	2
+3350	Severity_Factor	1
+3397	Severity_Factor	1
+3400	Severity_Factor	1
+3410	Severity_Factor	2
+3411	Severity_Factor	2
+3412	Severity_Factor	2
+3413	Severity_Factor	2
+3414	Severity_Factor	2
+3415	Severity_Factor	2
+3416	Severity_Factor	2
+3417	Severity_Factor	2
+3418	Severity_Factor	2
+3420	Severity_Factor	1
+3421	Severity_Factor	1
+3422	Severity_Factor	1
+3423	Severity_Factor	1
+3424	Severity_Factor	1
+3425	Severity_Factor	1
+3430	Severity_Factor	1
+3431	Severity_Factor	1
+3432	Severity_Factor	2
+3433	Severity_Factor	1
+3434	Severity_Factor	1
+3435	Severity_Factor	1
+3436	Severity_Factor	1
+3440	Severity_Factor	1
+3441	Severity_Factor	1
+3442	Severity_Factor	1
+3443	Severity_Factor	1
+3444	Severity_Factor	1
+3445	Severity_Factor	1
+3446	Severity_Factor	1
+3450	Severity_Factor	1
+3451	Severity_Factor	2
+3452	Severity_Factor	1
+3453	Severity_Factor	1
+3454	Severity_Factor	1
+3455	Severity_Factor	1
+3456	Severity_Factor	1
+3457	Severity_Factor	1
+3460	Severity_Factor	1
+3461	Severity_Factor	1
+3497	Severity_Factor	2
+3500	Severity_Factor	1
+3510	Severity_Factor	1
+3520	Severity_Factor	1
+3530	Severity_Factor	1
+3597	Severity_Factor	1
+3600	Severity_Factor	1
+3610	Severity_Factor	1
+3620	Severity_Factor	1
+3697	Severity_Factor	1
+3700	Severity_Factor	1
+3710	Severity_Factor	1
+3720	Severity_Factor	1
+3797	Severity_Factor	1
+3800	Severity_Factor	1
+3810	Severity_Factor	1
+3820	Severity_Factor	1
+3830	Severity_Factor	1
+3840	Severity_Factor	1
+3897	Severity_Factor	1
+4500	Severity_Factor	1
+4597	Severity_Factor	1
+4900	Severity_Factor	1
+4910	Severity_Factor	1
+4920	Severity_Factor	1
+4930	Severity_Factor	1
+4940	Severity_Factor	1
+4950	Severity_Factor	1
+4960	Severity_Factor	1
+4970	Severity_Factor	1
+4980	Severity_Factor	1
+4990	Severity_Factor	1
+4997	Severity_Factor	1
+5100	Severity_Factor	1
+5101	Severity_Factor	1
+5102	Severity_Factor	2
+5200	Severity_Factor	1
+5210	Severity_Factor	1
+5220	Severity_Factor	1
+5230	Severity_Factor	1
+5240	Severity_Factor	1
+5241	Severity_Factor	1
+5242	Severity_Factor	1
+5243	Severity_Factor	1
+5244	Severity_Factor	1
+5245	Severity_Factor	1
+5246	Severity_Factor	1
+5247	Severity_Factor	1
+5248	Severity_Factor	1
+5250	Severity_Factor	1
+5260	Severity_Factor	1
+5270	Severity_Factor	1
+5280	Severity_Factor	1
+5297	Severity_Factor	1
+5300	Severity_Factor	2
+5301	Severity_Factor	1
+5302	Severity_Factor	2
+5310	Severity_Factor	2
+5311	Severity_Factor	2
+5312	Severity_Factor	2
+5313	Severity_Factor	2
+5314	Severity_Factor	2
+5315	Severity_Factor	2
+5320	Severity_Factor	2
+5321	Severity_Factor	2
+5322	Severity_Factor	2
+5323	Severity_Factor	2
+5324	Severity_Factor	2
+5330	Severity_Factor	2
+5340	Severity_Factor	2
+5341	Severity_Factor	2
+5342	Severity_Factor	2
+5343	Severity_Factor	2
+5344	Severity_Factor	2
+5345	Severity_Factor	2
+5346	Severity_Factor	2
+5347	Severity_Factor	2
+5350	Severity_Factor	1
+5397	Severity_Factor	2
+5400	Severity_Factor	1
+5410	Severity_Factor	1
+5411	Severity_Factor	1
+5412	Severity_Factor	1
+5413	Severity_Factor	1
+5414	Severity_Factor	1
+5415	Severity_Factor	1
+5420	Severity_Factor	1
+5497	Severity_Factor	1
+5500	Severity_Factor	2
+5510	Severity_Factor	2
+5511	Severity_Factor	2
+5512	Severity_Factor	2
+5513	Severity_Factor	2
+5514	Severity_Factor	2
+5520	Severity_Factor	2
+5521	Severity_Factor	2
+5522	Severity_Factor	2
+5523	Severity_Factor	2
+5524	Severity_Factor	2
+5530	Severity_Factor	2
+5531	Severity_Factor	2
+5532	Severity_Factor	2
+5533	Severity_Factor	1
+5534	Severity_Factor	1
+5540	Severity_Factor	2
+5541	Severity_Factor	2
+5542	Severity_Factor	2
+5543	Severity_Factor	2
+5544	Severity_Factor	2
+5550	Severity_Factor	2
+5551	Severity_Factor	2
+5552	Severity_Factor	2
+5553	Severity_Factor	2
+5554	Severity_Factor	2
+5597	Severity_Factor	2
+5600	Severity_Factor	1
+5610	Severity_Factor	2
+5620	Severity_Factor	1
+5630	Severity_Factor	1
+5640	Severity_Factor	1
+5697	Severity_Factor	1
+5700	Severity_Factor	1
+5710	Severity_Factor	4
+5711	Severity_Factor	4
+5712	Severity_Factor	4
+5713	Severity_Factor	4
+5714	Severity_Factor	4
+5720	Severity_Factor	4
+5730	Severity_Factor	4
+5740	Severity_Factor	4
+5741	Severity_Factor	4
+5742	Severity_Factor	4
+5743	Severity_Factor	4
+5744	Severity_Factor	4
+5750	Severity_Factor	4
+5751	Severity_Factor	2
+5752	Severity_Factor	1
+5753	Severity_Factor	1
+5754	Severity_Factor	1
+5755	Severity_Factor	1
+5797	Severity_Factor	4
+6100	Severity_Factor	1
+6110	Severity_Factor	4
+6111	Severity_Factor	4
+6112	Severity_Factor	3
+6113	Severity_Factor	1
+6114	Severity_Factor	4
+6120	Severity_Factor	3
+6121	Severity_Factor	3
+6122	Severity_Factor	3
+6123	Severity_Factor	3
+6130	Severity_Factor	1
+6140	Severity_Factor	1
+6197	Severity_Factor	4
+6200	Severity_Factor	4
+6210	Severity_Factor	5
+6220	Severity_Factor	5
+6230	Severity_Factor	5
+6240	Severity_Factor	5
+6297	Severity_Factor	5
+6300	Severity_Factor	4
+6310	Severity_Factor	5
+6320	Severity_Factor	5
+6321	Severity_Factor	3
+6322	Severity_Factor	3
+6330	Severity_Factor	2
+6340	Severity_Factor	1
+6397	Severity_Factor	4
+6400	Severity_Factor	4
+6410	Severity_Factor	5
+6420	Severity_Factor	5
+6440	Severity_Factor	4
+6497	Severity_Factor	4
+6500	Severity_Factor	4
+6510	Severity_Factor	5
+6520	Severity_Factor	5
+6540	Severity_Factor	4
+6597	Severity_Factor	5
+6700	Severity_Factor	4
+6710	Severity_Factor	5
+6711	Severity_Factor	4
+6720	Severity_Factor	5
+6730	Severity_Factor	3
+6797	Severity_Factor	4
+7100	Severity_Factor	1
+7110	Severity_Factor	5
+7111	Severity_Factor	2
+7112	Severity_Factor	2
+7120	Severity_Factor	2
+7130	Severity_Factor	1
+7160	Severity_Factor	5
+7170	Severity_Factor	1
+7197	Severity_Factor	3
+7200	Severity_Factor	5
+7210	Severity_Factor	2
+7220	Severity_Factor	5
+7230	Severity_Factor	5
+7240	Severity_Factor	3
+7250	Severity_Factor	2
+7260	Severity_Factor	2
+7261	Severity_Factor	2
+7270	Severity_Factor	1
+7297	Severity_Factor	4
+7300	Severity_Factor	1
+7310	Severity_Factor	2
+7311	Severity_Factor	2
+7312	Severity_Factor	2
+7313	Severity_Factor	2
+7314	Severity_Factor	2
+7320	Severity_Factor	4
+7321	Severity_Factor	4
+7322	Severity_Factor	4
+7323	Severity_Factor	4
+7324	Severity_Factor	2
+7330	Severity_Factor	1
+7331	Severity_Factor	1
+7332	Severity_Factor	1
+7333	Severity_Factor	1
+7334	Severity_Factor	1
+7397	Severity_Factor	3
+7400	Severity_Factor	4
+7410	Severity_Factor	4
+7411	Severity_Factor	4
+7412	Severity_Factor	4
+7413	Severity_Factor	4
+7414	Severity_Factor	4
+7420	Severity_Factor	4
+7421	Severity_Factor	4
+7430	Severity_Factor	4
+7497	Severity_Factor	4
+7500	Severity_Factor	1
+7510	Severity_Factor	2
+7520	Severity_Factor	2
+7530	Severity_Factor	1
+7531	Severity_Factor	1
+7532	Severity_Factor	1
+7540	Severity_Factor	1
+7597	Severity_Factor	1
+7600	Severity_Factor	1
+7601	Severity_Factor	3
+7602	Severity_Factor	4
+7603	Severity_Factor	4
+7620	Severity_Factor	1
+7697	Severity_Factor	2
+7700	Severity_Factor	1
+7710	Severity_Factor	1
+7711	Severity_Factor	1
+7712	Severity_Factor	1
+7713	Severity_Factor	1
+7714	Severity_Factor	2
+7720	Severity_Factor	1
+7721	Severity_Factor	1
+7722	Severity_Factor	1
+7730	Severity_Factor	1
+7731	Severity_Factor	1
+7732	Severity_Factor	1
+7740	Severity_Factor	1
+7797	Severity_Factor	2
+7800	Severity_Factor	1
+7810	Severity_Factor	3
+7820	Severity_Factor	2
+7830	Severity_Factor	1
+7897	Severity_Factor	1
+7900	Severity_Factor	1
+7910	Severity_Factor	2
+7920	Severity_Factor	3
+7921	Severity_Factor	3
+7922	Severity_Factor	3
+7923	Severity_Factor	3
+7930	Severity_Factor	2
+7931	Severity_Factor	2
+7932	Severity_Factor	2
+7933	Severity_Factor	1
+7997	Severity_Factor	3
+8000	Severity_Factor	1
+8010	Severity_Factor	1
+8011	Severity_Factor	1
+8012	Severity_Factor	1
+8097	Severity_Factor	1
+8100	Severity_Factor	1
+8110	Severity_Factor	1
+8120	Severity_Factor	2
+8197	Severity_Factor	2
+8200	Severity_Factor	1
+8297	Severity_Factor	1
+8300	Severity_Factor	1
+8397	Severity_Factor	1
+8500	Severity_Factor	5
+8510	Severity_Factor	2
+8520	Severity_Factor	5
+8530	Severity_Factor	5
+8540	Severity_Factor	3
+8550	Severity_Factor	2
+8560	Severity_Factor	4
+8570	Severity_Factor	2
+8597	Severity_Factor	3

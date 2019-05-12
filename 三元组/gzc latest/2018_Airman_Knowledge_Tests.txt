@@ -1,0 +1,136 @@
+﻿Aircraft Dispatcher	Exam Code	ADX
+Airline Transport Pilot - Multiengine	Exam Code	ATM
+Airline Transport Pilot - Single Engine	Exam Code	ATS
+Airline Transport Pilot Airplane Canadian Conversion - Multiengine	Exam Code	ACM
+Airline Transport Pilot Helicopter (14 CFR part 135)	Exam Code	ATH
+Airline Transport Pilot Helicopter (14 CFR part 135) (Added Rating)	Exam Code	ARH
+Airline Transport Pilot Helicopter Canadian Conversion	Exam Code	ACH
+Aviation Maintenance Technician Airframe	Exam Code	AMA
+Aviation Maintenance Technician General	Exam Code	AMG
+Aviation Maintenance Technician Powerplant	Exam Code	AMP
+Commercial Pilot Airplane	Exam Code	CAX
+Commercial Pilot Airplane Canadian Conversion	Exam Code	CCP
+Commercial Pilot Balloon - Hot Air	Exam Code	CBH
+Commercial Pilot Glider	Exam Code	CGX
+Commercial Pilot Gyroplane	Exam Code	CRG
+Commercial Pilot Helicopter	Exam Code	CRH
+Commercial Pilot Helicopter Canadian Conversion	Exam Code	CCH
+Flight Engineer Reciprocating Engine (Added Rating)	Exam Code	FER
+Flight Engineer Reciprocating Engine (Basic)	Exam Code	FEN
+Flight Engineer Turbojet (Added Rating)	Exam Code	FEJ
+Flight Engineer Turbojet (Basic)	Exam Code	FEX
+Flight Engineer Turboprop (Added Rating)	Exam Code	FEP
+Flight Engineer Turboprop (Basic)	Exam Code	FET
+Flight Instructor Airplane	Exam Code	FIA
+Flight Instructor Airplane (Added Rating)	Exam Code	AFA
+Flight Instructor Glider	Exam Code	FIG
+Flight Instructor Glider (Added Rating)	Exam Code	AFG
+Flight Instructor Gyroplane	Exam Code	FRG
+Flight Instructor Gyroplane (Added Rating)	Exam Code	GFA
+Flight Instructor Helicopter	Exam Code	FRH
+Flight Instructor Helicopter (Added Rating)	Exam Code	HFA
+Flight Instructor Instrument Airplane	Exam Code	FII
+Flight Instructor Instrument Airplane (Added Rating)	Exam Code	AIF
+Flight Instructor Instrument Helicopter	Exam Code	FIH
+Aircraft Dispatcher	Volume	1,444
+Airline Transport Pilot - Multiengine	Volume	6,605
+Airline Transport Pilot - Single Engine	Volume	54
+Airline Transport Pilot Airplane Canadian Conversion - Multiengine	Volume	29
+Airline Transport Pilot Helicopter (14 CFR part 135)	Volume	268
+Airline Transport Pilot Helicopter (14 CFR part 135) (Added Rating)	Volume	12
+Airline Transport Pilot Helicopter Canadian Conversion	Volume	11
+Aviation Maintenance Technician Airframe	Volume	9,471
+Aviation Maintenance Technician General	Volume	11,400
+Aviation Maintenance Technician Powerplant	Volume	9,511
+Commercial Pilot Airplane	Volume	12,694
+Commercial Pilot Airplane Canadian Conversion	Volume	77
+Commercial Pilot Balloon - Hot Air	Volume	43
+Commercial Pilot Glider	Volume	63
+Commercial Pilot Gyroplane	Volume	2
+Commercial Pilot Helicopter	Volume	659
+Commercial Pilot Helicopter Canadian Conversion	Volume	36
+Flight Engineer Reciprocating Engine (Added Rating)	Volume	1
+Flight Engineer Reciprocating Engine (Basic)	Volume	6
+Flight Engineer Turbojet (Added Rating)	Volume	2
+Flight Engineer Turbojet (Basic)	Volume	21
+Flight Engineer Turboprop (Added Rating)	Volume	2
+Flight Engineer Turboprop (Basic)	Volume	10
+Flight Instructor Airplane	Volume	6,157
+Flight Instructor Airplane (Added Rating)	Volume	62
+Flight Instructor Glider	Volume	53
+Flight Instructor Glider (Added Rating)	Volume	64
+Flight Instructor Gyroplane	Volume	6
+Flight Instructor Gyroplane (Added Rating)	Volume	7
+Flight Instructor Helicopter	Volume	407
+Flight Instructor Helicopter (Added Rating)	Volume	28
+Flight Instructor Instrument Airplane	Volume	5,007
+Flight Instructor Instrument Airplane (Added Rating)	Volume	66
+Flight Instructor Instrument Helicopter	Volume	315
+Aircraft Dispatcher	Pass Rate	73.89%
+Airline Transport Pilot - Multiengine	Pass Rate	99.33%
+Airline Transport Pilot - Single Engine	Pass Rate	94.44%
+Airline Transport Pilot Airplane Canadian Conversion - Multiengine	Pass Rate	100.00%
+Airline Transport Pilot Helicopter (14 CFR part 135)	Pass Rate	98.88%
+Airline Transport Pilot Helicopter (14 CFR part 135) (Added Rating)	Pass Rate	100.00%
+Airline Transport Pilot Helicopter Canadian Conversion	Pass Rate	100.00%
+Aviation Maintenance Technician Airframe	Pass Rate	84.39%
+Aviation Maintenance Technician General	Pass Rate	78.63%
+Aviation Maintenance Technician Powerplant	Pass Rate	78.35%
+Commercial Pilot Airplane	Pass Rate	94.59%
+Commercial Pilot Airplane Canadian Conversion	Pass Rate	93.51%
+Commercial Pilot Balloon - Hot Air	Pass Rate	95.35%
+Commercial Pilot Glider	Pass Rate	98.41%
+Commercial Pilot Gyroplane	Pass Rate	100.00%
+Commercial Pilot Helicopter	Pass Rate	96.05%
+Commercial Pilot Helicopter Canadian Conversion	Pass Rate	100.00%
+Flight Engineer Reciprocating Engine (Added Rating)	Pass Rate	100.00%
+Flight Engineer Reciprocating Engine (Basic)	Pass Rate	100.00%
+Flight Engineer Turbojet (Added Rating)	Pass Rate	100.00%
+Flight Engineer Turbojet (Basic)	Pass Rate	95.24%
+Flight Engineer Turboprop (Added Rating)	Pass Rate	100.00%
+Flight Engineer Turboprop (Basic)	Pass Rate	100.00%
+Flight Instructor Airplane	Pass Rate	94.41%
+Flight Instructor Airplane (Added Rating)	Pass Rate	88.71%
+Flight Instructor Glider	Pass Rate	100.00%
+Flight Instructor Glider (Added Rating)	Pass Rate	95.31%
+Flight Instructor Gyroplane	Pass Rate	66.67%
+Flight Instructor Gyroplane (Added Rating)	Pass Rate	100.00%
+Flight Instructor Helicopter	Pass Rate	98.53%
+Flight Instructor Helicopter (Added Rating)	Pass Rate	100.00%
+Flight Instructor Instrument Airplane	Pass Rate	98.68%
+Flight Instructor Instrument Airplane (Added Rating)	Pass Rate	93.94%
+Flight Instructor Instrument Helicopter	Pass Rate	98.41%
+Aircraft Dispatcher	Average Score	76.63
+Airline Transport Pilot - Multiengine	Average Score	91.9
+Airline Transport Pilot - Single Engine	Average Score	81.54
+Airline Transport Pilot Airplane Canadian Conversion - Multiengine	Average Score	86.1
+Airline Transport Pilot Helicopter (14 CFR part 135)	Average Score	91.98
+Airline Transport Pilot Helicopter (14 CFR part 135) (Added Rating)	Average Score	84.83
+Airline Transport Pilot Helicopter Canadian Conversion	Average Score	83.45
+Aviation Maintenance Technician Airframe	Average Score	79.83
+Aviation Maintenance Technician General	Average Score	76.4
+Aviation Maintenance Technician Powerplant	Average Score	76.84
+Commercial Pilot Airplane	Average Score	84.5
+Commercial Pilot Airplane Canadian Conversion	Average Score	84.06
+Commercial Pilot Balloon - Hot Air	Average Score	82.98
+Commercial Pilot Glider	Average Score	87.94
+Commercial Pilot Gyroplane	Average Score	87
+Commercial Pilot Helicopter	Average Score	84.09
+Commercial Pilot Helicopter Canadian Conversion	Average Score	83.03
+Flight Engineer Reciprocating Engine (Added Rating)	Average Score	92
+Flight Engineer Reciprocating Engine (Basic)	Average Score	94.33
+Flight Engineer Turbojet (Added Rating)	Average Score	84
+Flight Engineer Turbojet (Basic)	Average Score	85.76
+Flight Engineer Turboprop (Added Rating)	Average Score	83
+Flight Engineer Turboprop (Basic)	Average Score	86.3
+Flight Instructor Airplane	Average Score	86.94
+Flight Instructor Airplane (Added Rating)	Average Score	84.71
+Flight Instructor Glider	Average Score	87.62
+Flight Instructor Glider (Added Rating)	Average Score	85.69
+Flight Instructor Gyroplane	Average Score	77
+Flight Instructor Gyroplane (Added Rating)	Average Score	89.14
+Flight Instructor Helicopter	Average Score	88.22
+Flight Instructor Helicopter (Added Rating)	Average Score	90.86
+Flight Instructor Instrument Airplane	Average Score	90
+Flight Instructor Instrument Airplane (Added Rating)	Average Score	85.3
+Flight Instructor Instrument Helicopter	Average Score	88.27
