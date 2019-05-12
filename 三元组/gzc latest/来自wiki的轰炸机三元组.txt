@@ -1,0 +1,3690 @@
+﻿AEG G.I	Type	heavy bomber
+AEG G.II	Type	heavy bomber
+AEG G.III	Type	heavy bomber
+AEG G.IV	Type	heavy bomber
+AEG G.V	Type	heavy bomber
+AEG N.I	Type	night bomber
+AEG R.I	Type	heavy bomber
+Aero A.11	Type	reconnaissance bomber
+Aero A.12	Type	reconnaissance bomber
+Aero A.24	Type	bomber
+Aero A.30	Type	light bomber
+Aero A.42	Type	bomber
+Aero A.100	Type	reconnaissance bomber
+Aero A.101	Type	reconnaissance bomber
+Aero A.304	Type	bomber
+Aichi B7A	Type	torpedo/dive bomber
+Aichi D1A	Type	dive bomber
+Aichi D3A	Type	dive bomber
+Aichi M6A	Type	torpedo bomber
+Airco DH.3	Type	heavy bomber
+Airco DH.4	Type	bomber
+Airco DH.9	Type	bomber
+Airco DH.9A	Type	bomber
+Airco DH.10	Type	heavy bomber
+Airco DH.11	Type	bomber
+Airspeed Oxford	Type	bomber/trainer
+Albatros C.III	Type	light bomber
+Albatros C.VII/N.I	Type	night bomber
+Albatros G.I	Type	heavy bomber
+Albatros G.II	Type	heavy bomber
+Albatros G.III	Type	heavy bomber
+Amiot 143M	Type	medium bomber
+Amiot 354	Type	medium bomber
+ANF Les Mureaux 110	Type	reconnaissance bomber
+Arado Ar 234	Type	reconnaissance bomber
+Archangelski Ar-2	Type	dive bomber
+Armstrong Whitworth Albemarle	Type	bomber/transport
+Armstrong Whitworth Atlas	Type	reconnaissance bomber
+Armstrong Whitworth A.W.19	Type	multi-role bomber
+Armstrong Whitworth AW.23	Type	heavy bomber
+Armstrong Whitworth F.K.8	Type	reconnaissance bomber
+Armstrong Whitworth Whitley	Type	bomber/maritime patrol
+Avro 504	Type	bomber/trainer
+Avro 523 Pike	Type	heavy bomber
+Avro 529	Type	heavy bomber
+Avro 533 Manchester	Type	heavy bomber
+Avro 549 Aldershot	Type	heavy bomber
+Avro 604 Antelope	Type	reconnaissance bomber
+Avro Anson	Type	maritime patrol
+Avro Lancaster	Type	heavy bomber/maritime patrol
+Avro Lincoln	Type	heavy bomber
+Avro Manchester	Type	heavy bomber
+Beardmore W.B.1	Type	bomber
+Beardmore W.B.VI	Type	torpedo bomber
+Beechcraft XA-38 Grizzly	Type	attack
+Bellanca 77-140	Type	bomber
+Beriev Be-4	Type	maritime patrol
+Beriev MBR-2	Type	maritime patrol flying boat
+Blackburn B-3	Type	torpedo bomber
+Blackburn B-7	Type	dive bomber
+Blackburn Baffin	Type	torpedo bomber
+Blackburn Beagle	Type	torpedo bomber
+Blackburn Blackburd	Type	torpedo bomber
+Blackburn Botha	Type	torpedo bomber
+Blackburn Cubaroo	Type	torpedo bomber
+Blackburn Dart	Type	torpedo bomber
+Blackburn Firebrand	Type	torpedo bomber/fighter
+Blackburn Iris	Type	maritime patrol flying boat
+Blackburn Kangaroo	Type	maritime patrol/heavy bomber
+Blackburn Perth	Type	maritime patrol flying boat
+Blackburn Ripon	Type	torpedo bomber
+Blackburn Shark	Type	torpedo bomber
+Blackburn Skua	Type	dive bomber
+Blackburn Velos	Type	torpedo bomber
+Bleriot XI	Type	reconnaissance bomber
+Bl茅riot 127	Type	heavy bomber
+Bloch MB.131	Type	reconnaissance bomber
+Bloch MB.174	Type	reconnaissance bomber
+Bloch MB.200	Type	heavy bomber
+Boeing B-17 Flying Fortress	Type	heavy bomber
+Boeing B-29 Superfortress/Washington	Type	heavy bomber
+Boeing Model 306	Type	heavy bomber
+Boeing XB-15	Type	heavy bomber
+Boeing XB-38 Flying Fortress	Type	heavy bomber
+Boeing XB-39 Superfortress	Type	heavy bomber
+Boeing XF8B	Type	fighter/bomber
+Boeing XPBB Sea Ranger	Type	maritime patrol
+Boeing YB-9	Type	heavy bomber
+Bolkhovitinov DB-A	Type	heavy bomber
+Boulton Paul Bodmin	Type	heavy bomber
+Boulton & Paul Bolton	Type	heavy bomber
+Boulton Paul Bourges	Type	heavy bomber
+Boulton & Paul Bugle	Type	heavy bomber
+Boulton Paul P.32	Type	night bomber
+Boulton Paul Sidestrand	Type	heavy bomber
+Boulton Paul Overstrand	Type	heavy bomber
+Breda A.8	Type	night bomber
+Breda A.14	Type	night bomber
+Breda Ba.46	Type	bomber/transport
+Breda Ba.64	Type	attack
+Breda Ba.65	Type	attack
+Breda Ba.88	Type	attack
+Breguet Bre.4	Type	bomber
+Breguet Bre.5 & 6	Type	bomber
+Breguet 14	Type	reconnaissance bomber
+Breguet 16	Type	night bomber
+Breguet 19	Type	reconnaissance bomber
+Breguet 270 Series	Type	reconnaissance bomber
+Breguet 521	Type	maritime patrol flying boat
+Breguet 693	Type	attack
+Brewster SB2A Buccaneer	Type	bomber
+Bristol Type 148	Type	reconnaissance bomber
+Bristol Beaufighter	Type	fighter bomber/torpedo bomber
+Bristol Beaufort	Type	torpedo bomber
+Bristol Berkeley	Type	heavy bomber
+Bristol Blenheim	Type	medium bomber
+Bristol Bombay	Type	heavy bomber/transport
+Bristol Buckingham	Type	medium bomber
+Bristol Braemar	Type	heavy bomber
+Bristol TB.8	Type	bomber
+CAC Woomera	Type	attack
+CAMS 33	Type	maritime patrol flying boat
+CAMS 37	Type	maritime patrol flying boat
+CAMS 55	Type	maritime patrol flying boat
+CANSA FC.20bis	Type	bomber
+CANT Z.501	Type	maritime patrol flying boat
+CANT Z.506	Type	maritime patrol
+CANT Z.1007	Type	heavy bomber
+CANT Z.1018	Type	medium bomber
+Caproni Ca.1	Type	heavy bomber
+Caproni Ca.2	Type	heavy bomber
+Caproni Ca.3	Type	heavy bomber
+Caproni Ca.4	Type	heavy bomber
+Caproni Ca.5	Type	heavy bomber
+Caproni A.P.1	Type	attack
+Caproni Ca.73	Type	bomber/transport
+Caproni Ca.90	Type	heavy bomber
+Caproni Ca.101	Type	bomber/transport
+Caproni Ca.111	Type	reconnaissance bomber
+Caproni Ca.310	Type	reconnaissance bomber
+Caproni Ca.311	Type	reconnaissance bomber
+Caproni Ca.313	Type	reconnaissance bomber
+Caproni Ca.314	Type	torpedo bomber
+Caproni Ca.316	Type	maritime patrol
+Caproni Ca.355	Type	dive bomber
+Caudron G.4	Type	bomber
+Caudron R.4	Type	reconnaissance bomber
+Chyetverikov ARK-3	Type	maritime patrol
+Chyetverikov MDR-3	Type	maritime patrol flying boat
+Chyetverikov MDR-6	Type	maritime patrol
+Consolidated B-24 Liberator	Type	heavy bomber
+Consolidated B-32 Dominator	Type	heavy bomber
+Consolidated P2Y	Type	maritime patrol flying boat
+Consolidated PBY Catalina	Type	maritime patrol flying boat/amphibian
+Consolidated PB2Y Coronado	Type	maritime patrol flying boat
+Consolidated PB4Y-2 Privateer	Type	maritime patrol
+Consolidated XP4Y Corregidor	Type	maritime patrol flying boat
+Curtiss A-3/A-4 Falcon	Type	attack
+Curtiss A-8	Type	attack
+Curtiss A-12 Shrike	Type	attack
+Curtiss XA-14	Type	attack
+Curtiss A-18 Shrike	Type	attack
+Curtiss B-2 Condor	Type	heavy bomber
+Curtiss BF2C Goshawk	Type	fighter/bomber
+Curtiss CS	Type	torpedo bomber
+Curtiss F5L	Type	maritime patrol flying boat
+Curtiss Model H	Type	maritime patrol flying boat
+Curtiss HS	Type	maritime patrol flying boat
+Curtiss SBC Helldiver	Type	dive bomber
+Curtiss T-32 Condor II	Type	bomber/transport
+Curtiss SB2C Helldiver/A-25 Shrike	Type	dive bomber
+Curtiss XBTC	Type	torpedo bomber
+Curtiss XSB3C	Type	dive bomber
+DAR 10	Type	reconnaissance bomber
+de Havilland DH.14 Okapi	Type	heavy bomber
+de Havilland DH.27 Derby	Type	heavy bomber
+de Havilland DH.65 Hound	Type	reconnaissance bomber
+de Havilland DH.72	Type	night bomber
+De Havilland DH.98 Mosquito	Type	fighter bomber
+De Havilland DH.100 Vampire	Type	fighter bomber
+DFW R.I	Type	heavy bomber
+DFW R.II	Type	heavy bomber
+DFW R.III	Type	heavy bomber
+Dornier Do N	Type	bomber
+Dornier Do 11	Type	heavy bomber
+Dornier Do 17	Type	bomber
+Dornier Do 22	Type	torpedo bomber
+Dornier Do 23	Type	heavy bomber
+Dornier Do 24	Type	maritime patrol
+Dornier Do 215	Type	medium bomber
+Dornier Do 217	Type	heavy bomber
+Douglas A-1 Skyraider	Type	attack
+Douglas A-20 Havoc	Type	attack
+Douglas A-26 Invader	Type	attack
+Douglas B-18 Bolo	Type	maritime patrol/medium bomber
+Douglas B-23 Dragon	Type	bomber/transport
+Douglas BTD Destroyer	Type	torpedo/dive bomber
+Douglas DT	Type	torpedo bomber
+Douglas SBD Dauntless	Type	dive bomber
+Douglas TBD Devastator	Type	torpedo bomber
+Douglas XB-19	Type	heavy bomber
+Douglas XB-22	Type	medium bomber
+Douglas XTB2D Skypirate	Type	torpedo bomber
+Douglas Y1B-7	Type	heavy bomber
+Fairey III	Type	reconnaissance bomber
+Fairey Albacore	Type	torpedo bomber
+Fairey Barracuda	Type	torpedo/dive bomber
+Fairey Battle	Type	medium bomber
+Fairey Campania	Type	maritime patrol
+Fairey Fawn	Type	reconnaissance bomber
+Fairey Ferret	Type	reconnaissance bomber
+Fairey Fox	Type	reconnaissance bomber
+Fairey G.4/31	Type	bomber
+Fairey Gordon	Type	reconnaissance bomber
+Fairey Hendon	Type	heavy bomber
+Fairey P.4/34	Type	reconnaissance bomber
+Fairey Seal	Type	reconnaissance bomber
+Fairey Swordfish	Type	torpedo bomber
+Farman F.50	Type	night bomber
+Farman F.60 Goliath	Type	heavy bomber
+Farman F.140 Super Goliath	Type	night bomber
+Farman F.150	Type	heavy bomber
+Farman F.160	Type	heavy bomber
+Farman F.220	Type	heavy bomber
+Felixstowe F.2	Type	maritime patrol flying boat
+Felixstowe F.3	Type	maritime patrol flying boat
+Felixstowe F.5	Type	maritime patrol flying boat
+Felixstowe Fury	Type	maritime patrol flying boat
+Fiat BR	Type	bomber
+Fiat BRG	Type	bomber
+Fiat Br.20	Type	medium bomber
+Fiat RS.14	Type	maritime patrol
+Fieseler Fi 98	Type	dive bomber
+Fieseler Fi 167	Type	torpedo bomber
+FMA AeMB.2	Type	reconnaissance bomber
+Focke-Wulf Fw 42	Type	medium bomber
+Focke-Wulf Fw 200 Condor	Type	maritime patrol/transport
+Focke-Wulf Fw 300	Type	heavy bomber
+Focke-Wulf Ta 400	Type	heavy bomber
+Fokker C.V	Type	reconnaissance bomber
+Fokker C.X	Type	reconnaissance bomber
+Fokker K.I	Type	bomber
+Fokker T.IV	Type	maritime patrol torpedo bomber
+Fokker T.V	Type	torpedo bomber
+Fokker T.VIII	Type	torpedo bomber
+Fokker XB-8	Type	heavy bomber
+Friedrichshafen FF.41	Type	reconnaissance bomber
+Friedrichshafen G.I	Type	heavy bomber
+Friedrichshafen G.II	Type	heavy bomber
+Friedrichshafen G.III	Type	heavy bomber
+Friedrichshafen G.IV	Type	heavy bomber
+Friedrichshafen G.V	Type	heavy bomber
+Gloster Goral	Type	reconnaissance bomber
+Gloster TSR.38	Type	torpedo bomber
+Gotha G.I	Type	heavy bomber
+Gotha G.II	Type	heavy bomber
+Gotha G.III	Type	heavy bomber
+Gotha G.IV	Type	heavy bomber
+Gotha G.V	Type	heavy bomber
+Gotha G.VI	Type	heavy bomber
+Gotha GL.VII	Type	medium bomber
+Gotha G.VIII	Type	heavy bomber
+Gotha G.IX	Type	heavy bomber
+Gotha G.X	Type	heavy bomber
+Grahame-White Ganymede	Type	heavy bomber
+Great Lakes BG	Type	dive bomber
+Grigorovich TB-5	Type	heavy bomber
+Grumman AF Guardian	Type	maritime patrol
+Grumman TBF Avenger	Type	torpedo bomber
+Grumman XTB2F	Type	torpedo bomber
+Hall XPTBH	Type	torpedo bomber
+Handley Page Type O	Type	heavy bomber
+Handley Page V/1500	Type	heavy bomber
+Handley Page H.P.19 Hanley	Type	torpedo bomber
+Handley Page H.P.24 Hyderabad	Type	heavy bomber
+Handley Page H.P.25 Hendon	Type	torpedo bomber
+Handley Page H.P.28 Handcross	Type	heavy bomber
+Handley Page H.P.31 Harrow	Type	torpedo bomber
+Handley Page H.P.33 Hinaidi	Type	heavy bomber
+Handley Page H.P.34 Hare	Type	bomber
+Handley Page H.P.43	Type	bomber/transport
+Handley Page H.P.46	Type	torpedo bomber
+Handley Page H.P.47	Type	torpedo bomber
+Handley Page H.P.50 Heyford	Type	heavy bomber
+Handley Page H.P.51	Type	bomber/transport
+Handley Page Halifax	Type	heavy bomber
+Handley Page Hampden/Hereford	Type	medium bomber
+Handley Page Harrow	Type	bomber/transport
+Hawker Audax	Type	reconnaissance bomber
+Hawker Hardy	Type	reconnaissance bomber
+Hawker Hart	Type	reconnaissance bomber
+Hawker Hector	Type	reconnaissance bomber
+Hawker Henley	Type	reconnaissance bomber
+Hawker Hind	Type	reconnaissance bomber
+Hawker Horsley/Dantorp	Type	torpedo bomber
+Hawker Typhoon	Type	fighter/bomber
+Heinkel He 45	Type	reconnaissance bomber
+Heinkel He 50	Type	dive bomber
+Heinkel He 59	Type	torpedo bomber
+Heinkel He 70	Type	medium bomber
+Heinkel He 111	Type	heavy bomber
+Heinkel He 115	Type	maritime patrol
+Heinkel He 177	Type	heavy bomber
+Heinkel He 274	Type	heavy bomber
+Heinkel He 277	Type	heavy bomber
+Henschel Hs 123	Type	dive bomber
+Henschel Hs 129	Type	attack
+Hiro G2H	Type	heavy bomber
+Hiro H1H	Type	maritime patrol flying boat
+Hiro H2H	Type	maritime patrol flying boat
+Hiro H4H	Type	maritime patrol flying boat
+Huff-Daland XB-1	Type	heavy bomber
+Ilyushin DB-3	Type	heavy bomber
+Ilyushin Il-2	Type	attack
+Ilyushin Il-4	Type	medium bomber
+Ilyushin Il-10 & Avia B-33	Type	attack
+Junkers A 35	Type	reconnaissance bomber
+Junkers Ju 52	Type	bomber/transport
+Junkers Ju 86	Type	reconnaissance bomber
+Junkers Ju 87	Type	dive bomber
+Junkers Ju 88	Type	medium bomber
+Junkers Ju 89	Type	heavy bomber
+Junkers Ju 188	Type	medium bomber
+Junkers Ju 287	Type	bomber
+Junkers Ju 288	Type	bomber
+Junkers Ju 290	Type	maritime patrol/heavy bomber
+Junkers Ju 388	Type	reconnaissance bomber
+Junkers Ju 488	Type	bomber
+Junkers Ju 390	Type	maritime patrol/transport
+Junkers K 37	Type	heavy bomber
+Junkers K 43	Type	bomber/transport
+Junkers K 47	Type	dive bomber
+Junkers R 42/JuG-1	Type	bomber/transport
+Kaiser-Fleetwings XBTK	Type	torpedo/dive bomber
+Kalinin K-7	Type	heavy bomber
+Kawanishi E7K	Type	reconnaissance bomber
+Kawanishi H6K	Type	maritime patrol flying boat
+Kawanishi H8K	Type	maritime patrol flying boat
+Kawasaki Ki-3	Type	reconnaissance bomber
+Kawasaki Ki-32	Type	reconnaissance bomber
+Kawasaki Ki-48	Type	reconnaissance bomber
+Kawasaki Ki-102	Type	attack
+Kennedy Giant	Type	heavy bomber
+Keystone B-3	Type	reconnaissance bomber
+Keystone B-4	Type	heavy bomber
+Keystone B-5	Type	heavy bomber
+Keystone B-6	Type	heavy bomber
+Kharkov KhAI-5	Type	reconnaissance bomber
+Kyushu Q1W	Type	maritime patrol
+LACAB GR.8	Type	heavy bomber
+Lat茅co猫re 290	Type	torpedo bomber
+Lat茅co猫re 298	Type	torpedo bomber
+Lat茅co猫re 302	Type	torpedo bomber flying boat
+Lat茅co猫re 381	Type	maritime patrol flying boat
+Lat茅co猫re 521 & 523	Type	maritime patrol flying boat
+Lat茅co猫re 550	Type	torpedo bomber
+Lat茅co猫re 570	Type	medium bomber
+Lat茅co猫re 582	Type	torpedo bomber
+Lat茅co猫re 611	Type	maritime patrol flying boat
+Letov 艩-6	Type	reconnaissance bomber
+Letov 艩-16	Type	reconnaissance bomber
+Letov 艩-28, 128, 228, 328, 428 & 528	Type	reconnaissance bomber
+Letov 艩-33	Type	reconnaissance bomber
+Levasseur PL.2	Type	torpedo bomber
+Levasseur PL.7	Type	torpedo bomber
+Levasseur PL.14	Type	torpedo bomber
+Levasseur PL.15	Type	torpedo bomber
+Levasseur PL.107	Type	torpedo bomber
+Linke-Hofmann R.I	Type	heavy bomber
+Linke-Hofmann R.II	Type	heavy bomber
+Lior茅 et Olivier LeO H-13	Type	night bomber
+Lior茅 et Olivier LeO 20	Type	night bomber
+Lior茅 et Olivier LeO 25	Type	heavy bomber
+Lior茅 et Olivier LeO 45	Type	medium bomber
+Loire 70	Type	maritime patrol flying boat
+Lockheed Hudson	Type	maritime patrol
+Lockheed P2V Neptune	Type	maritime patrol
+Lockheed Ventura/Harpoon	Type	maritime patrol
+Lockheed XB-30	Type	heavy bomber - project
+LWS-6 Zubr	Type	medium bomber
+Macchi MC.99	Type	maritime patrol
+Martin AM Mauler	Type	attack
+Martin B-10 & related	Type	heavy bomber
+Martin B-26 Marauder	Type	medium bomber
+Martin Baltimore	Type	medium bomber
+Martin Maryland	Type	medium bomber
+Martin MBT/MT	Type	bomber
+Martin NBS-1	Type	night bomber
+Martin PBM Mariner	Type	maritime patrol
+Martin T3M	Type	torpedo bomber
+Martin T4M	Type	torpedo bomber
+Martin XB-27	Type	heavy bomber
+Martin XB-33 Super Marauder	Type	heavy bomber
+Martinsyde G.100 and 102 Elephant	Type	reconnaissance bomber
+Messerschmitt Me 262	Type	fighter bomber
+Messerschmitt Me 264	Type	maritime patrol/heavy bomber
+Mitsubishi 1MT	Type	torpedo bomber
+Mitsubishi 2MB1	Type	reconnaissance bomber
+Mitsubishi 3MT5	Type	torpedo bomber
+Mitsubishi B1M	Type	torpedo bomber
+Mitsubishi B2M	Type	torpedo bomber
+Mitsubishi B5M	Type	torpedo bomber
+Mitsubishi G1M	Type	heavy bomber
+Mitsubishi G3M	Type	attack
+Mitsubishi G4M	Type	heavy bomber
+Mitsubishi Ki-1	Type	heavy bomber
+Mitsubishi Ki-2	Type	heavy bomber
+Mitsubishi Ki-20	Type	heavy bomber
+Mitsubishi Ki-21	Type	heavy bomber
+Mitsubishi Ki-30	Type	reconnaissance bomber
+Mitsubishi Ki-51	Type	dive bomber
+Mitsubishi Ki-67	Type	heavy bomber
+Morane-Saulnier S	Type	heavy bomber
+Morane-Saulnier T	Type	heavy bomber
+Morane-Saulnier TRK	Type	heavy bomber
+Nakajima B5N	Type	torpedo bomber
+Nakajima B6N	Type	torpedo bomber
+Nakajima E4N	Type	reconnaissance bomber
+Nakajima E8N	Type	reconnaissance bomber
+Nakajima G5N	Type	heavy bomber
+Nakajima G8N	Type	heavy bomber
+Nakajima G10N	Type	heavy bomber
+Nakajima Ki-4	Type	reconnaissance bomber
+Nakajima Ki-19	Type	heavy bomber
+Nakajima Ki-49	Type	heavy bomber
+Nakajima LB-2	Type	heavy bomber
+Naval Aircraft Factory SBN	Type	dive bomber
+Nieuport 15	Type	heavy bomber
+Nieuport 18 and 19	Type	heavy bomber
+Nieuport London	Type	night bomber
+Nieuport-Delage NiD 30B	Type	heavy bomber
+Norman Thompson N.T.4	Type	maritime patrol flying boat
+North American A-27	Type	attack
+North American T-6 Texan	Type	attack
+North American XB-21	Type	medium bomber
+North American B-25 Mitchell	Type	medium bomber
+North American XB-28	Type	medium bomber
+Northrop A-17	Type	reconnaissance bomber
+Northrop BT	Type	dive bomber
+Northrop N-3PB	Type	maritime patrol bomber
+Parnall G.4/31	Type	reconnaissance bomber
+Parnall Pike	Type	reconnaissance bomber
+Parnall Possum	Type	heavy bomber
+Paul Schmitt PS.6	Type	reconnaissance bomber
+Paul Schmitt PS.7	Type	reconnaissance bomber
+Petlyakov Pe-2	Type	dive bomber
+Petlyakov Pe-8	Type	heavy bomber
+Piaggio P.108	Type	heavy bomber
+Piaggio P.133	Type	heavy bomber
+Polikarpov R-5	Type	reconnaissance bomber
+Polikarpov R-Z	Type	reconnaissance bomber
+Polikarpov TB-2	Type	heavy bomber
+Potez 15	Type	reconnaissance bomber
+Potez 25	Type	reconnaissance bomber
+Potez 540	Type	reconnaissance bomber
+Potez 633	Type	reconnaissance bomber
+PZL.23 Kara艣	Type	reconnaissance bomber
+PZL.37 Los	Type	medium bomber
+PZL.43 Kara艣	Type	reconnaissance bomber
+Republic P-47	Type	fighter/bomber
+Royal Aircraft Factory B.E.2	Type	reconnaissance bomber
+Royal Aircraft Factory F.E.2	Type	reconnaissance bomber
+Royal Aircraft Factory R.E.5	Type	reconnaissance bomber
+Royal Aircraft Factory R.E.7	Type	reconnaissance bomber
+Royal Aircraft Factory R.E.8	Type	reconnaissance bomber
+Rumpler G.I, II & III	Type	heavy bomber
+Rumpler Taube	Type	reconnaissance bomber
+Saab 17	Type	dive bomber
+Saab 18	Type	medium bomber
+SAB AB-20	Type	heavy bomber
+SAB AB-80	Type	bomber
+Sablatnig N.I	Type	night bomber
+Saro A.33	Type	maritime patrol flying boat
+Saro Lerwick	Type	maritime patrol flying boat
+Saro London	Type	maritime patrol
+Saunders Severn	Type	maritime patrol flying boat
+Saunders Valkyrie	Type	maritime patrol flying boat
+Savoia-Marchetti S.55	Type	maritime patrol flying boat
+Savoia-Marchetti S.59	Type	maritime patrol flying boat
+Savoia-Marchetti SM.78	Type	maritime patrol flying boat
+Savoia-Marchetti SM.79	Type	heavy bomber
+Savoia-Marchetti SM.81	Type	bomber/transport
+Savoia-Marchetti SM.82	Type	bomber/transport
+Savoia-Marchetti SM.84	Type	torpedo bomber
+Short Bomber	Type	heavy bomber
+Short N.2B	Type	bomber
+Short Shirl	Type	torpedo bomber
+Short Type 81	Type	maritime patrol
+Short Type 166	Type	maritime patrol
+Short Type 184	Type	maritime patrol
+Short Type 320	Type	maritime patrol
+Short Type 827 & 830	Type	maritime patrol
+Short Empire	Type	maritime patrol/transport flying boat
+Short Knuckleduster	Type	maritime patrol flying boat
+Short Rangoon	Type	maritime patrol flying boat
+Short Sarafand	Type	maritime patrol flying boat
+Short Seaford	Type	maritime patrol flying boat
+Short Shetland	Type	maritime patrol flying boat
+Short Singapore	Type	maritime patrol flying boat
+Short Stirling	Type	heavy bomber
+Short Sunderland	Type	maritime patrol flying boat
+SIAI S.16	Type	maritime patrol flying boat
+Siddeley-Deasy Siniai	Type	heavy bomber
+Siemens-Schuckert R.I	Type	heavy bomber
+Siemens-Schuckert R.II	Type	heavy bomber
+Siemens-Schuckert R.III	Type	heavy bomber
+Siemens-Schuckert R.IV	Type	heavy bomber
+Siemens-Schuckert R.V	Type	heavy bomber
+Siemens-Schuckert R.VI	Type	heavy bomber
+Siemens-Schuckert R.VII	Type	heavy bomber
+Siemens-Schuckert R.VIII	Type	heavy bomber
+Siemens-Schuckert R.IX	Type	heavy bomber
+Sikorsky Ilya Muromets	Type	heavy bomber
+Sopwith 1陆 Strutter	Type	reconnaissance bomber
+Sopwith B.1	Type	torpedo bomber
+Sopwith Cuckoo	Type	torpedo bomber
+Sopwith Rhino	Type	attack
+Sopwith Special torpedo seaplane Type C	Type	torpedo bomber
+Sopwith Type 860	Type	torpedo bomber
+Sukhoi Su-2	Type	reconnaissance bomber
+Supermarine B.12/36	Type	heavy bomber
+Supermarine Type 322	Type	torpedo/dive bomber
+Supermarine Nanok	Type	torpedo bomber flying boat
+Supermarine Scapa	Type	maritime patrol flying boat
+Supermarine Southampton	Type	maritime patrol flying boat
+Supermarine Stranraer	Type	maritime patrol flying boat
+Tachikawa Ki-36	Type	reconnaissance bomber
+Tachikawa Ki-74	Type	reconnaissance bomber
+Tarrant Tabor	Type	heavy bomber
+Tupolev SB	Type	medium bomber
+Tupolev TB-1	Type	heavy bomber
+Tupolev TB-3	Type	heavy bomber
+Tupolev TB-4	Type	heavy bomber
+Tupolev TB-6	Type	heavy bomber
+Tupolev Tu-2	Type	medium bomber
+Vickers Type 207	Type	torpedo bomber
+Vickers Type 253	Type	reconnaissance bomber
+Vickers Valentia	Type	bomber/transport
+Vickers Valiant	Type	reconnaissance bomber
+Vickers Valparaiso	Type	reconnaissance bomber
+Vickers Vanox	Type	heavy bomber
+Vickers Victory Bomber	Type	heavy bomber
+Vickers Vincent and Vildebeest	Type	torpedo bomber
+Vickers Vimy	Type	heavy bomber
+Vickers Virginia	Type	heavy bomber
+Vickers Vixen	Type	reconnaissance bomber
+Vickers Warwick	Type	maritime patrol
+Vickers Wellesley	Type	reconnaissance bomber
+Vickers Wellington	Type	medium bomber
+Vickers Windsor	Type	heavy bomber
+Voisin III	Type	reconnaissance bomber
+Voisin V	Type	reconnaissance bomber
+Voisin VIII	Type	reconnaissance bomber
+Voisin X	Type	reconnaissance bomber
+Voisin XI	Type	reconnaissance bomber
+Voisin XII	Type	night bomber
+Vought F4U Corsair	Type	fighter/bomber
+Vought SB2U Vindicator/Chesapeake	Type	dive bomber
+Vought TBU/Consolidated TBY Sea Wolf	Type	torpedo bomber
+Vultee V-11	Type	attack
+Vultee Vengeance	Type	dive bomber
+Weiss WM-21 S贸lyom	Type	reconnaissance bomber
+Westland Lysander	Type	reconnaissance bomber
+Westland PV-3	Type	torpedo bomber
+Westland Wallace	Type	reconnaissance bomber
+Westland Wapiti	Type	reconnaissance bomber
+Westland Witch	Type	reconnaissance bomber
+Wight Seaplane	Type	maritime patrol
+Witteman-Lewis XNBL-1 (Barling Bomber)	Type	heavy bomber
+Yermolayev Yer-2	Type	medium bomber
+Yokosuka B3Y	Type	torpedo bomber
+Yokosuka B4Y	Type	torpedo bomber
+Yokosuka D4Y	Type	dive bomber
+Yokosuka E1Y	Type	reconnaissance bomber
+Yokosuka P1Y	Type	bomber
+Zeppelin-Lindau Rs.I	Type	maritime patrol flying boat
+Zeppelin-Lindau Rs.II	Type	maritime patrol flying boat
+Zeppelin-Lindau Rs.III	Type	maritime patrol flying boat
+Zeppelin-Lindau Rs.IV	Type	maritime patrol flying boat
+Zeppelin-Staaken VGO.I	Type	heavy bomber
+Zeppelin-Staaken VGO.II	Type	heavy bomber
+Zeppelin-Staaken VGO.III/R.III	Type	heavy bomber
+Zeppelin-Staaken R.IV	Type	heavy bomber
+Zeppelin-Staaken R.V	Type	heavy bomber
+Zeppelin-Staaken R.VI	Type	heavy bomber
+Zeppelin-Staaken R.VII	Type	heavy bomber
+Zeppelin-Staaken R.XV	Type	heavy bomber
+Zeppelin-Staaken R.XVI	Type	heavy bomber
+Zeppelin-Staaken R.XIV	Type	heavy bomber
+Aermacchi MB-326	Type	trainer/attack
+Aermacchi MB-339	Type	trainer/attack
+Aero L-159 Alca	Type	trainer/attack
+Avro Shackleton	Type	maritime patrol
+Avro Vulcan	Type	heavy bomber
+BAC Jet Provost	Type	trainer/attack
+BAC Strikemaster	Type	trainer/attack
+BAC TSR-2	Type	reconnaissance bomber
+Beriev Be-6	Type	maritime patrol
+Beriev Be-10	Type	maritime patrol
+Beriev Be-12	Type	maritime patrol
+Boeing B-47 Stratojet	Type	heavy bomber
+Boeing B-50 Superfortress	Type	heavy bomber
+Boeing B-52 Stratofortress	Type	heavy bomber
+Boeing XB-54	Type	heavy bomber
+Boeing P-8 Poseidon	Type	maritime patrol
+Boeing XB-56	Type	heavy bomber
+Boeing XB-59	Type	heavy bomber
+Breguet Aliz茅	Type	maritime patrol
+Breguet Atlantique	Type	maritime patrol
+Breguet Taon	Type	fighter/bomber
+Breguet Vultur	Type	attack
+Blackburn B-48 Firecrest	Type	fighter/bomber
+Blackburn Buccaneer	Type	attack
+British Aerospace Harrier II	Type	attack
+Canadair CL-41 Tebuan	Type	trainer/attack
+Canadair CP-107 Argus	Type	maritime patrol
+CASA CN-235MPA	Type	maritime patrol
+Cessna A-37 Dragonfly	Type	attack
+Convair B-36	Type	heavy bomber
+Convair B-58 Hustler	Type	heavy bomber
+Convair XB-46	Type	heavy bomber
+Convair YB-60	Type	heavy bomber
+Dassault/Dornier Alpha Jet	Type	attack
+Dassault-Breguet Super 脡tendard	Type	attack
+Dassault Mirage IV	Type	heavy bomber
+Dassault Mirage 2000N/2000D	Type	nuclear strike/strike
+Dassault Ouragan	Type	fighter/bomber
+de Havilland Venom	Type	fighter/bomber
+Dornier Do 28	Type	maritime patrol
+Dornier Do 228	Type	maritime patrol
+Douglas A2D Skyshark	Type	attack
+Douglas A-3 Skywarrior	Type	heavy bomber
+Douglas A-4 Skyhawk	Type	attack aircraft
+Douglas B-66 Destroyer	Type	medium bomber
+EADS-CASA C295MP	Type	maritime patrol
+Embraer EMB 312 Tucano	Type	trainer/attack
+Embraer EMB 314 Super Tucano	Type	trainer/attack
+English Electric Canberra	Type	reconnaissance bomber
+Fairchild Republic A-10 Thunderbolt II	Type	attack
+Fairey Gannet	Type	maritime patrol
+Fiat G.91	Type	attack
+Fiat G.91Y	Type	attack
+FMA IA 58 Pucar谩	Type	attack
+Fokker F-27 maritime	Type	maritime patrol
+Fouga CM.170 Magister	Type	trainer/attack
+General Dynamics F-111	Type	bomber
+Grumman A-6 Intruder	Type	attack
+Grumman F9F Panther	Type	fighter/bomber
+Grumman OV-1 Mohawk	Type	reconnaissance bomber
+Grumman S-2 Tracker	Type	maritime patrol
+HAL HF-24 Marut	Type	fighter/bomber
+HAL HJT-16 Kiran	Type	trainer/attack
+Handley Page Victor	Type	heavy bomber
+Harbin H-5	Type	medium bomber
+Harbin H-7	Type	medium bomber
+Harbin SH-5	Type	maritime patrol flying boat
+Hawker Hunter	Type	fighter/bomber
+Hawker Siddeley Harrier	Type	attack
+Hawker-Siddeley Hawk	Type	attack
+Hawker-Siddeley Nimrod	Type	maritime patrol
+Hispano HA-200	Type	attack
+I.Ae. 24 Calquin	Type	bomber
+Ilyushin Il-28	Type	medium bomber
+Ilyushin Il-38	Type	maritime patrol
+Ilyushin Il-54	Type	medium bomber
+Kawasaki P-1	Type	maritime patrol
+Lockheed F-117 Nighthawk	Type	bomber (stealth)
+Lockheed P-3 Orion/CP-140 Aurora/Arcturus	Type	maritime patrol
+Lockheed S-3 Viking	Type	maritime patrol
+Martin B-57 Canberra	Type	reconnaissance bomber
+Martin P4M Mercator	Type	maritime patrol
+Martin P5M Marlin	Type	maritime patrol
+Martin P6M SeaMaster	Type	heavy bomber
+Martin XB-48	Type	medium bomber
+Martin XB-51	Type	attack
+McDonnell Douglas A-12 Avenger II	Type	attack
+McDonnell Douglas AV-8B Harrier II	Type	attack
+McDonnell Douglas F-4 Phantom II	Type	fighter/bomber
+McDonnell Douglas F/A-18 Hornet	Type	fighter/bomber
+Mikoyan MiG-27	Type	attack
+Morane-Saulnier Epervier	Type	attack
+Myasishchev M-4	Type	heavy bomber
+Myasishchev M-50	Type	heavy bomber
+Nanchang Q-5	Type	attack
+Nanchang Q-6	Type	attack
+North American A-5 Vigilante	Type	reconnaissance bomber
+North American AJ/A-2 Savage	Type	heavy bomber
+North American B-45 Tornado	Type	reconnaissance bomber
+North American Rockwell OV-10 Bronco	Type	reconnaissance bomber
+North American T-28 Trojan	Type	trainer/attack
+North American XA2J Super Savage	Type	bomber
+North American XB-70 Valkyrie	Type	heavy bomber
+Northrop Grumman B-2 Spirit	Type	bomber (stealth)
+Northrop YA-9	Type	attack
+Northrop YB-35	Type	heavy bomber
+Northrop YB-49	Type	heavy bomber
+PAK DA	Type	attack
+Panavia Tornado	Type	fighter/bomber
+Percival Provost	Type	trainer/attack
+Piper PA-48 Enforcer	Type	attack
+PZL I-22 Iryda	Type	trainer/attack
+Republic F-84 Thunderjet	Type	fighter/bomber
+Republic F-84F Thunderstreak	Type	fighter/bomber
+Republic F-105 Thunderchief	Type	fighter/bomber
+Rockwell B-1 Lancer	Type	heavy bomber
+Saab 105	Type	trainer/attack
+Saab Safari	Type	trainer/attack
+SEPECAT Jaguar	Type	attack
+Shin Meiwa PS-1	Type	maritime patrol flying boat
+Short Seamew	Type	maritime patrol
+Short Sperrin	Type	heavy bomber
+Short Sturgeon	Type	reconnaissance bomber
+SNCASE Baroudeur	Type	fighter/bomber
+Soko G-4 Super Galeb	Type	attack
+Soko J-22 Orao & IAR-93	Type	attack
+Sud Aviation Vautour	Type	medium bomber
+Sukhoi Su-7	Type	fighter/bomber
+Sukhoi Su-17	Type	fighter/bomber
+Sukhoi Su-24	Type	attack
+Sukhoi Su-25	Type	attack
+Sukhoi Su-34	Type	fighter/bomber
+Sukhoi T-4	Type	heavy bomber
+Tupolev Tu-4	Type	heavy bomber
+Tupolev Tu-14	Type	torpedo bomber
+Tupolev Tu-16	Type	heavy bomber
+Tupolev Tu-22	Type	medium bomber
+Tupolev Tu-22M	Type	heavy bomber
+Tupolev Tu-85	Type	heavy bomber
+Tupolev Tu-95	Type	heavy bomber
+Tupolev Tu-142	Type	maritime patrol
+Tupolev Tu-160	Type	heavy bomber
+Vickers Valiant	Type	heavy bomber
+LTV A-7 Corsair II	Type	attack
+Xian H-6	Type	medium bomber
+Xian H-8	Type	bomber
+Xian JH-7	Type	fighter/bomber
+Yakovlev Yak-26	Type	tactical bomber
+Yakovlev Yak-28	Type	reconnaissance bomber
+AEG G.I	Made in	Germany
+AEG G.II	Made in	Germany
+AEG G.III	Made in	Germany
+AEG G.IV	Made in	Germany
+AEG G.V	Made in	Germany
+AEG N.I	Made in	Germany
+AEG R.I	Made in	Germany
+Aero A.11	Made in	Czechoslovakia
+Aero A.12	Made in	Czechoslovakia
+Aero A.24	Made in	Czechoslovakia
+Aero A.30	Made in	Czechoslovakia
+Aero A.42	Made in	Czechoslovakia
+Aero A.100	Made in	Czechoslovakia
+Aero A.101	Made in	Czechoslovakia
+Aero A.304	Made in	Czechoslovakia
+Aichi B7A	Made in	Japan
+Aichi D1A	Made in	Japan
+Aichi D3A	Made in	Japan
+Aichi M6A	Made in	Japan
+Airco DH.3	Made in	UK
+Airco DH.4	Made in	UK
+Airco DH.9	Made in	UK
+Airco DH.9A	Made in	UK
+Airco DH.10	Made in	UK
+Airco DH.11	Made in	UK
+Airspeed Oxford	Made in	UK
+Albatros C.III	Made in	Germany
+Albatros C.VII/N.I	Made in	Germany
+Albatros G.I	Made in	Germany
+Albatros G.II	Made in	Germany
+Albatros G.III	Made in	Germany
+Amiot 143M	Made in	France
+Amiot 354	Made in	France
+ANF Les Mureaux 110	Made in	France
+Arado Ar 234	Made in	Germany
+Archangelski Ar-2	Made in	USSR
+Armstrong Whitworth Albemarle	Made in	UK
+Armstrong Whitworth Atlas	Made in	UK
+Armstrong Whitworth A.W.19	Made in	UK
+Armstrong Whitworth AW.23	Made in	UK
+Armstrong Whitworth F.K.8	Made in	UK
+Armstrong Whitworth Whitley	Made in	UK
+Avro 504	Made in	UK
+Avro 523 Pike	Made in	UK
+Avro 529	Made in	UK
+Avro 533 Manchester	Made in	UK
+Avro 549 Aldershot	Made in	UK
+Avro 604 Antelope	Made in	UK
+Avro Anson	Made in	UK
+Avro Lancaster	Made in	UK
+Avro Lincoln	Made in	UK
+Avro Manchester	Made in	UK
+Beardmore W.B.1	Made in	UK
+Beardmore W.B.VI	Made in	UK
+Beechcraft XA-38 Grizzly	Made in	US
+Bellanca 77-140	Made in	US
+Beriev Be-4	Made in	USSR
+Beriev MBR-2	Made in	USSR
+Blackburn B-3	Made in	UK
+Blackburn B-7	Made in	UK
+Blackburn Baffin	Made in	UK
+Blackburn Beagle	Made in	UK
+Blackburn Blackburd	Made in	UK
+Blackburn Botha	Made in	UK
+Blackburn Cubaroo	Made in	UK
+Blackburn Dart	Made in	UK
+Blackburn Firebrand	Made in	UK
+Blackburn Iris	Made in	UK
+Blackburn Kangaroo	Made in	UK
+Blackburn Perth	Made in	UK
+Blackburn Ripon	Made in	UK
+Blackburn Shark	Made in	UK
+Blackburn Skua	Made in	UK
+Blackburn Velos	Made in	UK
+Bleriot XI	Made in	France
+Bl茅riot 127	Made in	France
+Bloch MB.131	Made in	France
+Bloch MB.174	Made in	France
+Bloch MB.200	Made in	France
+Boeing B-17 Flying Fortress	Made in	US
+Boeing B-29 Superfortress/Washington	Made in	US
+Boeing Model 306	Made in	US
+Boeing XB-15	Made in	US
+Boeing XB-38 Flying Fortress	Made in	US
+Boeing XB-39 Superfortress	Made in	US
+Boeing XF8B	Made in	US
+Boeing XPBB Sea Ranger	Made in	US
+Boeing YB-9	Made in	US
+Bolkhovitinov DB-A	Made in	USSR
+Boulton Paul Bodmin	Made in	UK
+Boulton & Paul Bolton	Made in	UK
+Boulton Paul Bourges	Made in	UK
+Boulton & Paul Bugle	Made in	UK
+Boulton Paul P.32	Made in	UK
+Boulton Paul Sidestrand	Made in	UK
+Boulton Paul Overstrand	Made in	UK
+Breda A.8	Made in	Italy
+Breda A.14	Made in	Italy
+Breda Ba.46	Made in	Italy
+Breda Ba.64	Made in	Italy
+Breda Ba.65	Made in	Italy
+Breda Ba.88	Made in	Italy
+Breguet Bre.4	Made in	France
+Breguet Bre.5 & 6	Made in	France
+Breguet 14	Made in	France
+Breguet 16	Made in	France
+Breguet 19	Made in	France
+Breguet 270 Series	Made in	France
+Breguet 521	Made in	France
+Breguet 693	Made in	France
+Brewster SB2A Buccaneer	Made in	US
+Bristol Type 148	Made in	UK
+Bristol Beaufighter	Made in	UK
+Bristol Beaufort	Made in	UK
+Bristol Berkeley	Made in	UK
+Bristol Blenheim	Made in	UK
+Bristol Bombay	Made in	UK
+Bristol Buckingham	Made in	UK
+Bristol Braemar	Made in	UK
+Bristol TB.8	Made in	UK
+CAC Woomera	Made in	Australia
+CAMS 33	Made in	France
+CAMS 37	Made in	France
+CAMS 55	Made in	France
+CANSA FC.20bis	Made in	Italy
+CANT Z.501	Made in	Italy
+CANT Z.506	Made in	Italy
+CANT Z.1007	Made in	Italy
+CANT Z.1018	Made in	Italy
+Caproni Ca.1	Made in	Italy
+Caproni Ca.2	Made in	Italy
+Caproni Ca.3	Made in	Italy
+Caproni Ca.4	Made in	Italy
+Caproni Ca.5	Made in	Italy
+Caproni A.P.1	Made in	Italy
+Caproni Ca.73	Made in	Italy
+Caproni Ca.90	Made in	Italy
+Caproni Ca.101	Made in	Italy
+Caproni Ca.111	Made in	Italy
+Caproni Ca.310	Made in	Italy
+Caproni Ca.311	Made in	Italy
+Caproni Ca.313	Made in	Italy
+Caproni Ca.314	Made in	Italy
+Caproni Ca.316	Made in	Italy
+Caproni Ca.355	Made in	Italy
+Caudron G.4	Made in	France
+Caudron R.4	Made in	France
+Chyetverikov ARK-3	Made in	USSR
+Chyetverikov MDR-3	Made in	USSR
+Chyetverikov MDR-6	Made in	USSR
+Consolidated B-24 Liberator	Made in	US
+Consolidated B-32 Dominator	Made in	US
+Consolidated P2Y	Made in	US
+Consolidated PBY Catalina	Made in	US
+Consolidated PB2Y Coronado	Made in	US
+Consolidated PB4Y-2 Privateer	Made in	US
+Consolidated XP4Y Corregidor	Made in	US
+Curtiss A-3/A-4 Falcon	Made in	US
+Curtiss A-8	Made in	US
+Curtiss A-12 Shrike	Made in	US
+Curtiss XA-14	Made in	US
+Curtiss A-18 Shrike	Made in	US
+Curtiss B-2 Condor	Made in	US
+Curtiss BF2C Goshawk	Made in	US
+Curtiss CS	Made in	US
+Curtiss F5L	Made in	US
+Curtiss Model H	Made in	US
+Curtiss HS	Made in	US
+Curtiss SBC Helldiver	Made in	US
+Curtiss T-32 Condor II	Made in	US
+Curtiss SB2C Helldiver/A-25 Shrike	Made in	US
+Curtiss XBTC	Made in	US
+Curtiss XSB3C	Made in	US
+DAR 10	Made in	Bulgaria
+de Havilland DH.14 Okapi	Made in	UK
+de Havilland DH.27 Derby	Made in	UK
+de Havilland DH.65 Hound	Made in	UK
+de Havilland DH.72	Made in	UK
+De Havilland DH.98 Mosquito	Made in	UK
+De Havilland DH.100 Vampire	Made in	UK
+DFW R.I	Made in	Germany
+DFW R.II	Made in	Germany
+DFW R.III	Made in	Germany
+Dornier Do N	Made in	Germany
+Dornier Do 11	Made in	Germany
+Dornier Do 17	Made in	Germany
+Dornier Do 22	Made in	Germany
+Dornier Do 23	Made in	Germany
+Dornier Do 24	Made in	Germany
+Dornier Do 215	Made in	Germany
+Dornier Do 217	Made in	Germany
+Douglas A-1 Skyraider	Made in	US
+Douglas A-20 Havoc	Made in	US
+Douglas A-26 Invader	Made in	US
+Douglas B-18 Bolo	Made in	US
+Douglas B-23 Dragon	Made in	US
+Douglas BTD Destroyer	Made in	US
+Douglas DT	Made in	US
+Douglas SBD Dauntless	Made in	US
+Douglas TBD Devastator	Made in	US
+Douglas XB-19	Made in	US
+Douglas XB-22	Made in	US
+Douglas XTB2D Skypirate	Made in	US
+Douglas Y1B-7	Made in	US
+Fairey III	Made in	UK
+Fairey Albacore	Made in	UK
+Fairey Barracuda	Made in	UK
+Fairey Battle	Made in	UK
+Fairey Campania	Made in	UK
+Fairey Fawn	Made in	UK
+Fairey Ferret	Made in	UK
+Fairey Fox	Made in	UK
+Fairey G.4/31	Made in	UK
+Fairey Gordon	Made in	UK
+Fairey Hendon	Made in	UK
+Fairey P.4/34	Made in	UK
+Fairey Seal	Made in	UK
+Fairey Swordfish	Made in	UK
+Farman F.50	Made in	France
+Farman F.60 Goliath	Made in	France
+Farman F.140 Super Goliath	Made in	France
+Farman F.150	Made in	France
+Farman F.160	Made in	France
+Farman F.220	Made in	France
+Felixstowe F.2	Made in	UK
+Felixstowe F.3	Made in	UK
+Felixstowe F.5	Made in	UK
+Felixstowe Fury	Made in	UK
+Fiat BR	Made in	Italy
+Fiat BRG	Made in	Italy
+Fiat Br.20	Made in	Italy
+Fiat RS.14	Made in	Italy
+Fieseler Fi 98	Made in	Germany
+Fieseler Fi 167	Made in	Germany
+FMA AeMB.2	Made in	Argentina
+Focke-Wulf Fw 42	Made in	Germany
+Focke-Wulf Fw 200 Condor	Made in	Germany
+Focke-Wulf Fw 300	Made in	Germany
+Focke-Wulf Ta 400	Made in	Germany
+Fokker C.V	Made in	Netherlands
+Fokker C.X	Made in	Netherlands
+Fokker K.I	Made in	Germany
+Fokker T.IV	Made in	Netherlands
+Fokker T.V	Made in	Netherlands
+Fokker T.VIII	Made in	Netherlands
+Fokker XB-8	Made in	US
+Friedrichshafen FF.41	Made in	Germany
+Friedrichshafen G.I	Made in	Germany
+Friedrichshafen G.II	Made in	Germany
+Friedrichshafen G.III	Made in	Germany
+Friedrichshafen G.IV	Made in	Germany
+Friedrichshafen G.V	Made in	Germany
+Gloster Goral	Made in	UK
+Gloster TSR.38	Made in	UK
+Gotha G.I	Made in	Germany
+Gotha G.II	Made in	Germany
+Gotha G.III	Made in	Germany
+Gotha G.IV	Made in	Germany
+Gotha G.V	Made in	Germany
+Gotha G.VI	Made in	Germany
+Gotha GL.VII	Made in	Germany
+Gotha G.VIII	Made in	Germany
+Gotha G.IX	Made in	Germany
+Gotha G.X	Made in	Germany
+Grahame-White Ganymede	Made in	UK
+Great Lakes BG	Made in	US
+Grigorovich TB-5	Made in	USSR
+Grumman AF Guardian	Made in	US
+Grumman TBF Avenger	Made in	US
+Grumman XTB2F	Made in	US
+Hall XPTBH	Made in	US
+Handley Page Type O	Made in	UK
+Handley Page V/1500	Made in	UK
+Handley Page H.P.19 Hanley	Made in	UK
+Handley Page H.P.24 Hyderabad	Made in	UK
+Handley Page H.P.25 Hendon	Made in	UK
+Handley Page H.P.28 Handcross	Made in	UK
+Handley Page H.P.31 Harrow	Made in	UK
+Handley Page H.P.33 Hinaidi	Made in	UK
+Handley Page H.P.34 Hare	Made in	UK
+Handley Page H.P.43	Made in	UK
+Handley Page H.P.46	Made in	UK
+Handley Page H.P.47	Made in	UK
+Handley Page H.P.50 Heyford	Made in	UK
+Handley Page H.P.51	Made in	UK
+Handley Page Halifax	Made in	UK
+Handley Page Hampden/Hereford	Made in	UK
+Handley Page Harrow	Made in	UK
+Hawker Audax	Made in	UK
+Hawker Hardy	Made in	UK
+Hawker Hart	Made in	UK
+Hawker Hector	Made in	UK
+Hawker Henley	Made in	UK
+Hawker Hind	Made in	UK
+Hawker Horsley/Dantorp	Made in	UK
+Hawker Typhoon	Made in	UK
+Heinkel He 45	Made in	Germany
+Heinkel He 50	Made in	Germany
+Heinkel He 59	Made in	Germany
+Heinkel He 70	Made in	Germany
+Heinkel He 111	Made in	Germany
+Heinkel He 115	Made in	Germany
+Heinkel He 177	Made in	Germany
+Heinkel He 274	Made in	Germany
+Heinkel He 277	Made in	Germany
+Henschel Hs 123	Made in	Germany
+Henschel Hs 129	Made in	Germany
+Hiro G2H	Made in	Japan
+Hiro H1H	Made in	Japan
+Hiro H2H	Made in	Japan
+Hiro H4H	Made in	Japan
+Huff-Daland XB-1	Made in	US
+Ilyushin DB-3	Made in	USSR
+Ilyushin Il-2	Made in	USSR
+Ilyushin Il-4	Made in	USSR
+Ilyushin Il-10 & Avia B-33	Made in	USSR
+Junkers A 35	Made in	Germany
+Junkers Ju 52	Made in	Germany
+Junkers Ju 86	Made in	Germany
+Junkers Ju 87	Made in	Germany
+Junkers Ju 88	Made in	Germany
+Junkers Ju 89	Made in	Germany
+Junkers Ju 188	Made in	Germany
+Junkers Ju 287	Made in	Germany
+Junkers Ju 288	Made in	Germany
+Junkers Ju 290	Made in	Germany
+Junkers Ju 388	Made in	Germany
+Junkers Ju 488	Made in	Germany
+Junkers Ju 390	Made in	Germany
+Junkers K 37	Made in	Germany
+Junkers K 43	Made in	Germany
+Junkers K 47	Made in	Germany
+Junkers R 42/JuG-1	Made in	Germany
+Kaiser-Fleetwings XBTK	Made in	US
+Kalinin K-7	Made in	USSR
+Kawanishi E7K	Made in	Japan
+Kawanishi H6K	Made in	Japan
+Kawanishi H8K	Made in	Japan
+Kawasaki Ki-3	Made in	Japan
+Kawasaki Ki-32	Made in	Japan
+Kawasaki Ki-48	Made in	Japan
+Kawasaki Ki-102	Made in	Japan
+Kennedy Giant	Made in	UK
+Keystone B-3	Made in	US
+Keystone B-4	Made in	US
+Keystone B-5	Made in	US
+Keystone B-6	Made in	US
+Kharkov KhAI-5	Made in	USSR
+Kyushu Q1W	Made in	Japan
+LACAB GR.8	Made in	Belgium
+Lat茅co猫re 290	Made in	France
+Lat茅co猫re 298	Made in	France
+Lat茅co猫re 302	Made in	France
+Lat茅co猫re 381	Made in	France
+Lat茅co猫re 521 & 523	Made in	France
+Lat茅co猫re 550	Made in	France
+Lat茅co猫re 570	Made in	France
+Lat茅co猫re 582	Made in	France
+Lat茅co猫re 611	Made in	France
+Letov 艩-6	Made in	Czechoslovakia
+Letov 艩-16	Made in	Czechoslovakia
+Letov 艩-28, 128, 228, 328, 428 & 528	Made in	Czechoslovakia
+Letov 艩-33	Made in	Czechoslovakia
+Levasseur PL.2	Made in	France
+Levasseur PL.7	Made in	France
+Levasseur PL.14	Made in	France
+Levasseur PL.15	Made in	France
+Levasseur PL.107	Made in	France
+Linke-Hofmann R.I	Made in	Germany
+Linke-Hofmann R.II	Made in	Germany
+Lior茅 et Olivier LeO H-13	Made in	France
+Lior茅 et Olivier LeO 20	Made in	France
+Lior茅 et Olivier LeO 25	Made in	France
+Lior茅 et Olivier LeO 45	Made in	France
+Loire 70	Made in	France
+Lockheed Hudson	Made in	US
+Lockheed P2V Neptune	Made in	US
+Lockheed Ventura/Harpoon	Made in	US
+Lockheed XB-30	Made in	US
+LWS-6 Zubr	Made in	Poland
+Macchi MC.99	Made in	Italy
+Martin AM Mauler	Made in	US
+Martin B-10 & related	Made in	US
+Martin B-26 Marauder	Made in	US
+Martin Baltimore	Made in	US
+Martin Maryland	Made in	US
+Martin MBT/MT	Made in	US
+Martin NBS-1	Made in	US
+Martin PBM Mariner	Made in	US
+Martin T3M	Made in	US
+Martin T4M	Made in	US
+Martin XB-27	Made in	US
+Martin XB-33 Super Marauder	Made in	US
+Martinsyde G.100 and 102 Elephant	Made in	UK
+Messerschmitt Me 262	Made in	Germany
+Messerschmitt Me 264	Made in	Germany
+Mitsubishi 1MT	Made in	Japan
+Mitsubishi 2MB1	Made in	Japan
+Mitsubishi 3MT5	Made in	Japan
+Mitsubishi B1M	Made in	Japan
+Mitsubishi B2M	Made in	Japan
+Mitsubishi B5M	Made in	Japan
+Mitsubishi G1M	Made in	Japan
+Mitsubishi G3M	Made in	Japan
+Mitsubishi G4M	Made in	Japan
+Mitsubishi Ki-1	Made in	Japan
+Mitsubishi Ki-2	Made in	Japan
+Mitsubishi Ki-20	Made in	Japan
+Mitsubishi Ki-21	Made in	Japan
+Mitsubishi Ki-30	Made in	Japan
+Mitsubishi Ki-51	Made in	Japan
+Mitsubishi Ki-67	Made in	Japan
+Morane-Saulnier S	Made in	France
+Morane-Saulnier T	Made in	France
+Morane-Saulnier TRK	Made in	France
+Nakajima B5N	Made in	Japan
+Nakajima B6N	Made in	Japan
+Nakajima E4N	Made in	Japan
+Nakajima E8N	Made in	Japan
+Nakajima G5N	Made in	Japan
+Nakajima G8N	Made in	Japan
+Nakajima G10N	Made in	Japan
+Nakajima Ki-4	Made in	Japan
+Nakajima Ki-19	Made in	Japan
+Nakajima Ki-49	Made in	Japan
+Nakajima LB-2	Made in	Japan
+Naval Aircraft Factory SBN	Made in	US
+Nieuport 15	Made in	France
+Nieuport 18 and 19	Made in	France
+Nieuport London	Made in	UK
+Nieuport-Delage NiD 30B	Made in	France
+Norman Thompson N.T.4	Made in	UK
+North American A-27	Made in	US
+North American T-6 Texan	Made in	US
+North American XB-21	Made in	US
+North American B-25 Mitchell	Made in	US
+North American XB-28	Made in	US
+Northrop A-17	Made in	US
+Northrop BT	Made in	US
+Northrop N-3PB	Made in	US
+Parnall G.4/31	Made in	UK
+Parnall Pike	Made in	UK
+Parnall Possum	Made in	UK
+Paul Schmitt PS.6	Made in	France
+Paul Schmitt PS.7	Made in	France
+Petlyakov Pe-2	Made in	USSR
+Petlyakov Pe-8	Made in	USSR
+Piaggio P.108	Made in	Italy
+Piaggio P.133	Made in	Italy
+Polikarpov R-5	Made in	USSR
+Polikarpov R-Z	Made in	USSR
+Polikarpov TB-2	Made in	USSR
+Potez 15	Made in	France
+Potez 25	Made in	France
+Potez 540	Made in	France
+Potez 633	Made in	France
+PZL.23 Kara艣	Made in	Poland
+PZL.37 Los	Made in	Poland
+PZL.43 Kara艣	Made in	Poland
+Republic P-47	Made in	US
+Royal Aircraft Factory B.E.2	Made in	UK
+Royal Aircraft Factory F.E.2	Made in	UK
+Royal Aircraft Factory R.E.5	Made in	UK
+Royal Aircraft Factory R.E.7	Made in	UK
+Royal Aircraft Factory R.E.8	Made in	UK
+Rumpler G.I, II & III	Made in	Germany
+Rumpler Taube	Made in	Germany
+Saab 17	Made in	Sweden
+Saab 18	Made in	Sweden
+SAB AB-20	Made in	France
+SAB AB-80	Made in	France
+Sablatnig N.I	Made in	Germany
+Saro A.33	Made in	UK
+Saro Lerwick	Made in	UK
+Saro London	Made in	UK
+Saunders Severn	Made in	UK
+Saunders Valkyrie	Made in	UK
+Savoia-Marchetti S.55	Made in	Italy
+Savoia-Marchetti S.59	Made in	Italy
+Savoia-Marchetti SM.78	Made in	Italy
+Savoia-Marchetti SM.79	Made in	Italy
+Savoia-Marchetti SM.81	Made in	Italy
+Savoia-Marchetti SM.82	Made in	Italy
+Savoia-Marchetti SM.84	Made in	Italy
+Short Bomber	Made in	UK
+Short N.2B	Made in	UK
+Short Shirl	Made in	UK
+Short Type 81	Made in	UK
+Short Type 166	Made in	UK
+Short Type 184	Made in	UK
+Short Type 320	Made in	UK
+Short Type 827 & 830	Made in	UK
+Short Empire	Made in	UK
+Short Knuckleduster	Made in	UK
+Short Rangoon	Made in	UK
+Short Sarafand	Made in	UK
+Short Seaford	Made in	UK
+Short Shetland	Made in	UK
+Short Singapore	Made in	UK
+Short Stirling	Made in	UK
+Short Sunderland	Made in	UK
+SIAI S.16	Made in	Italy
+Siddeley-Deasy Siniai	Made in	UK
+Siemens-Schuckert R.I	Made in	Germany
+Siemens-Schuckert R.II	Made in	Germany
+Siemens-Schuckert R.III	Made in	Germany
+Siemens-Schuckert R.IV	Made in	Germany
+Siemens-Schuckert R.V	Made in	Germany
+Siemens-Schuckert R.VI	Made in	Germany
+Siemens-Schuckert R.VII	Made in	Germany
+Siemens-Schuckert R.VIII	Made in	Germany
+Siemens-Schuckert R.IX	Made in	Germany
+Sikorsky Ilya Muromets	Made in	Russia
+Sopwith 1陆 Strutter	Made in	UK
+Sopwith B.1	Made in	UK
+Sopwith Cuckoo	Made in	UK
+Sopwith Rhino	Made in	UK
+Sopwith Special torpedo seaplane Type C	Made in	UK
+Sopwith Type 860	Made in	UK
+Sukhoi Su-2	Made in	USSR
+Supermarine B.12/36	Made in	UK
+Supermarine Type 322	Made in	UK
+Supermarine Nanok	Made in	UK
+Supermarine Scapa	Made in	UK
+Supermarine Southampton	Made in	UK
+Supermarine Stranraer	Made in	UK
+Tachikawa Ki-36	Made in	Japan
+Tachikawa Ki-74	Made in	Japan
+Tarrant Tabor	Made in	UK
+Tupolev SB	Made in	USSR
+Tupolev TB-1	Made in	USSR
+Tupolev TB-3	Made in	USSR
+Tupolev TB-4	Made in	USSR
+Tupolev TB-6	Made in	USSR
+Tupolev Tu-2	Made in	USSR
+Vickers Type 207	Made in	UK
+Vickers Type 253	Made in	UK
+Vickers Valentia	Made in	UK
+Vickers Valiant	Made in	UK
+Vickers Valparaiso	Made in	UK
+Vickers Vanox	Made in	UK
+Vickers Victory Bomber	Made in	UK
+Vickers Vincent and Vildebeest	Made in	UK
+Vickers Vimy	Made in	UK
+Vickers Virginia	Made in	UK
+Vickers Vixen	Made in	UK
+Vickers Warwick	Made in	UK
+Vickers Wellesley	Made in	UK
+Vickers Wellington	Made in	UK
+Vickers Windsor	Made in	UK
+Voisin III	Made in	France
+Voisin V	Made in	France
+Voisin VIII	Made in	France
+Voisin X	Made in	France
+Voisin XI	Made in	France
+Voisin XII	Made in	France
+Vought F4U Corsair	Made in	US
+Vought SB2U Vindicator/Chesapeake	Made in	US
+Vought TBU/Consolidated TBY Sea Wolf	Made in	US
+Vultee V-11	Made in	US
+Vultee Vengeance	Made in	US
+Weiss WM-21 S贸lyom	Made in	Hungary
+Westland Lysander	Made in	UK
+Westland PV-3	Made in	UK
+Westland Wallace	Made in	UK
+Westland Wapiti	Made in	UK
+Westland Witch	Made in	UK
+Wight Seaplane	Made in	UK
+Witteman-Lewis XNBL-1 (Barling Bomber)	Made in	US
+Yermolayev Yer-2	Made in	USSR
+Yokosuka B3Y	Made in	Japan
+Yokosuka B4Y	Made in	Japan
+Yokosuka D4Y	Made in	Japan
+Yokosuka E1Y	Made in	Japan
+Yokosuka P1Y	Made in	Japan
+Zeppelin-Lindau Rs.I	Made in	Germany
+Zeppelin-Lindau Rs.II	Made in	Germany
+Zeppelin-Lindau Rs.III	Made in	Germany
+Zeppelin-Lindau Rs.IV	Made in	Germany
+Zeppelin-Staaken VGO.I	Made in	Germany
+Zeppelin-Staaken VGO.II	Made in	Germany
+Zeppelin-Staaken VGO.III/R.III	Made in	Germany
+Zeppelin-Staaken R.IV	Made in	Germany
+Zeppelin-Staaken R.V	Made in	Germany
+Zeppelin-Staaken R.VI	Made in	Germany
+Zeppelin-Staaken R.VII	Made in	Germany
+Zeppelin-Staaken R.XV	Made in	Germany
+Zeppelin-Staaken R.XVI	Made in	Germany
+Zeppelin-Staaken R.XIV	Made in	Germany
+Aermacchi MB-326	Made in	Italy
+Aermacchi MB-339	Made in	Italy
+Aero L-159 Alca	Made in	Czech Republic
+Avro Shackleton	Made in	UK
+Avro Vulcan	Made in	UK
+BAC Jet Provost	Made in	UK
+BAC Strikemaster	Made in	UK
+BAC TSR-2	Made in	UK
+Beriev Be-6	Made in	USSR
+Beriev Be-10	Made in	USSR
+Beriev Be-12	Made in	USSR
+Boeing B-47 Stratojet	Made in	US
+Boeing B-50 Superfortress	Made in	US
+Boeing B-52 Stratofortress	Made in	US
+Boeing XB-54	Made in	US
+Boeing P-8 Poseidon	Made in	US
+Boeing XB-56	Made in	US
+Boeing XB-59	Made in	US
+Breguet Aliz茅	Made in	France
+Breguet Atlantique	Made in	France
+Breguet Taon	Made in	France
+Breguet Vultur	Made in	France
+Blackburn B-48 Firecrest	Made in	UK
+Blackburn Buccaneer	Made in	UK
+British Aerospace Harrier II	Made in	UK
+Canadair CL-41 Tebuan	Made in	Canada
+Canadair CP-107 Argus	Made in	Canada
+CASA CN-235MPA	Made in	Spain
+Cessna A-37 Dragonfly	Made in	US
+Convair B-36	Made in	US
+Convair B-58 Hustler	Made in	US
+Convair XB-46	Made in	US
+Convair YB-60	Made in	US
+Dassault/Dornier Alpha Jet	Made in	France/Germany
+Dassault-Breguet Super 脡tendard	Made in	France
+Dassault Mirage IV	Made in	France
+Dassault Mirage 2000N/2000D	Made in	France
+Dassault Ouragan	Made in	France
+de Havilland Venom	Made in	UK
+Dornier Do 28	Made in	Germany
+Dornier Do 228	Made in	Germany
+Douglas A2D Skyshark	Made in	US
+Douglas A-3 Skywarrior	Made in	US
+Douglas A-4 Skyhawk	Made in	US
+Douglas B-66 Destroyer	Made in	US
+EADS-CASA C295MP	Made in	Spain
+Embraer EMB 312 Tucano	Made in	Brazil
+Embraer EMB 314 Super Tucano	Made in	Brazil
+English Electric Canberra	Made in	UK
+Fairchild Republic A-10 Thunderbolt II	Made in	US
+Fairey Gannet	Made in	UK
+Fiat G.91	Made in	Italy
+Fiat G.91Y	Made in	Italy
+FMA IA 58 Pucar谩	Made in	Argentina
+Fokker F-27 maritime	Made in	Netherlands
+Fouga CM.170 Magister	Made in	France
+General Dynamics F-111	Made in	US
+Grumman A-6 Intruder	Made in	US
+Grumman F9F Panther	Made in	US
+Grumman OV-1 Mohawk	Made in	US
+Grumman S-2 Tracker	Made in	US
+HAL HF-24 Marut	Made in	India
+HAL HJT-16 Kiran	Made in	India
+Handley Page Victor	Made in	UK
+Harbin H-5	Made in	USSR/China
+Harbin H-7	Made in	China
+Harbin SH-5	Made in	China
+Hawker Hunter	Made in	UK
+Hawker Siddeley Harrier	Made in	UK
+Hawker-Siddeley Hawk	Made in	UK
+Hawker-Siddeley Nimrod	Made in	UK
+Hispano HA-200	Made in	Spain
+I.Ae. 24 Calquin	Made in	Argentina
+Ilyushin Il-28	Made in	USSR
+Ilyushin Il-38	Made in	USSR
+Ilyushin Il-54	Made in	USSR
+Kawasaki P-1	Made in	Japan
+Lockheed F-117 Nighthawk	Made in	US
+Lockheed P-3 Orion/CP-140 Aurora/Arcturus	Made in	US
+Lockheed S-3 Viking	Made in	US
+Martin B-57 Canberra	Made in	US
+Martin P4M Mercator	Made in	US
+Martin P5M Marlin	Made in	US
+Martin P6M SeaMaster	Made in	US
+Martin XB-48	Made in	US
+Martin XB-51	Made in	US
+McDonnell Douglas A-12 Avenger II	Made in	US
+McDonnell Douglas AV-8B Harrier II	Made in	US
+McDonnell Douglas F-4 Phantom II	Made in	US
+McDonnell Douglas F/A-18 Hornet	Made in	US
+Mikoyan MiG-27	Made in	USSR
+Morane-Saulnier Epervier	Made in	France
+Myasishchev M-4	Made in	USSR
+Myasishchev M-50	Made in	USSR
+Nanchang Q-5	Made in	China
+Nanchang Q-6	Made in	China
+North American A-5 Vigilante	Made in	US
+North American AJ/A-2 Savage	Made in	US
+North American B-45 Tornado	Made in	US
+North American Rockwell OV-10 Bronco	Made in	US
+North American T-28 Trojan	Made in	US
+North American XA2J Super Savage	Made in	US
+North American XB-70 Valkyrie	Made in	US
+Northrop Grumman B-2 Spirit	Made in	US
+Northrop YA-9	Made in	US
+Northrop YB-35	Made in	US
+Northrop YB-49	Made in	US
+PAK DA	Made in	Russia
+Panavia Tornado	Made in	Germany/Italy/UK
+Percival Provost	Made in	UK
+Piper PA-48 Enforcer	Made in	US
+PZL I-22 Iryda	Made in	Poland
+Republic F-84 Thunderjet	Made in	US
+Republic F-84F Thunderstreak	Made in	US
+Republic F-105 Thunderchief	Made in	US
+Rockwell B-1 Lancer	Made in	US
+Saab 105	Made in	Sweden
+Saab Safari	Made in	Sweden
+SEPECAT Jaguar	Made in	UK/France
+Shin Meiwa PS-1	Made in	Japan
+Short Seamew	Made in	UK
+Short Sperrin	Made in	UK
+Short Sturgeon	Made in	UK
+SNCASE Baroudeur	Made in	France
+Soko G-4 Super Galeb	Made in	Yugoslavia
+Soko J-22 Orao & IAR-93	Made in	Yugoslavia/Romania
+Sud Aviation Vautour	Made in	France
+Sukhoi Su-7	Made in	USSR
+Sukhoi Su-17	Made in	USSR
+Sukhoi Su-24	Made in	USSR
+Sukhoi Su-25	Made in	USSR
+Sukhoi Su-34	Made in	USSR
+Sukhoi T-4	Made in	USSR
+Tupolev Tu-4	Made in	USSR
+Tupolev Tu-14	Made in	USSR
+Tupolev Tu-16	Made in	USSR
+Tupolev Tu-22	Made in	USSR
+Tupolev Tu-22M	Made in	USSR
+Tupolev Tu-85	Made in	USSR
+Tupolev Tu-95	Made in	USSR
+Tupolev Tu-142	Made in	USSR
+Tupolev Tu-160	Made in	USSR
+Vickers Valiant	Made in	UK
+LTV A-7 Corsair II	Made in	US
+Xian H-6	Made in	China
+Xian H-8	Made in	China
+Xian JH-7	Made in	China
+Yakovlev Yak-26	Made in	USSR
+Yakovlev Yak-28	Made in	USSR
+AEG G.I	First flight at	1915
+AEG G.II	First flight at	1915
+AEG G.III	First flight at	1915
+AEG G.IV	First flight at	1916
+AEG G.V	First flight at	1918
+AEG N.I	First flight at	1918
+AEG R.I	First flight at	1916
+Aero A.11	First flight at	1925
+Aero A.12	First flight at	1923
+Aero A.24	First flight at	1924
+Aero A.30	First flight at	1927
+Aero A.42	First flight at	1929
+Aero A.100	First flight at	1933
+Aero A.101	First flight at	1934
+Aero A.304	First flight at	1937
+Aichi B7A	First flight at	1942
+Aichi D1A	First flight at	1934
+Aichi D3A	First flight at	1938
+Aichi M6A	First flight at	1943
+Airco DH.3	First flight at	1916
+Airco DH.4	First flight at	1916
+Airco DH.9	First flight at	1917
+Airco DH.9A	First flight at	1918
+Airco DH.10	First flight at	1918
+Airco DH.11	First flight at	1919
+Airspeed Oxford	First flight at	1937
+Albatros C.III	First flight at	1915
+Albatros C.VII/N.I	First flight at	1916
+Albatros G.I	First flight at	1916
+Albatros G.II	First flight at	1916
+Albatros G.III	First flight at	1915
+Amiot 143M	First flight at	1931
+Amiot 354	First flight at	1940
+ANF Les Mureaux 110	First flight at	1931
+Arado Ar 234	First flight at	1943
+Archangelski Ar-2	First flight at	1940
+Armstrong Whitworth Albemarle	First flight at	1940
+Armstrong Whitworth Atlas	First flight at	1925
+Armstrong Whitworth A.W.19	First flight at	1934
+Armstrong Whitworth AW.23	First flight at	1935
+Armstrong Whitworth F.K.8	First flight at	1916
+Armstrong Whitworth Whitley	First flight at	1936
+Avro 504	First flight at	1913
+Avro 523 Pike	First flight at	1916
+Avro 529	First flight at	1917
+Avro 533 Manchester	First flight at	1918
+Avro 549 Aldershot	First flight at	1921
+Avro 604 Antelope	First flight at	1928
+Avro Anson	First flight at	1935
+Avro Lancaster	First flight at	1941
+Avro Lincoln	First flight at	1944
+Avro Manchester	First flight at	1939
+Beardmore W.B.1	First flight at	1917
+Beardmore W.B.VI	First flight at	n/a
+Beechcraft XA-38 Grizzly	First flight at	1944
+Bellanca 77-140	First flight at	1934
+Beriev Be-4	First flight at	1940
+Beriev MBR-2	First flight at	1931
+Blackburn B-3	First flight at	1932
+Blackburn B-7	First flight at	1934
+Blackburn Baffin	First flight at	1932
+Blackburn Beagle	First flight at	1928
+Blackburn Blackburd	First flight at	1918
+Blackburn Botha	First flight at	1938
+Blackburn Cubaroo	First flight at	1924
+Blackburn Dart	First flight at	1921
+Blackburn Firebrand	First flight at	1942
+Blackburn Iris	First flight at	1926
+Blackburn Kangaroo	First flight at	1918
+Blackburn Perth	First flight at	1933
+Blackburn Ripon	First flight at	1926
+Blackburn Shark	First flight at	1933
+Blackburn Skua	First flight at	1937
+Blackburn Velos	First flight at	1925
+Bleriot XI	First flight at	1909
+Bl茅riot 127	First flight at	1926
+Bloch MB.131	First flight at	1936
+Bloch MB.174	First flight at	1939
+Bloch MB.200	First flight at	1933
+Boeing B-17 Flying Fortress	First flight at	1935
+Boeing B-29 Superfortress/Washington	First flight at	1942
+Boeing Model 306	First flight at	n/a
+Boeing XB-15	First flight at	1937
+Boeing XB-38 Flying Fortress	First flight at	1943
+Boeing XB-39 Superfortress	First flight at	1944
+Boeing XF8B	First flight at	1944
+Boeing XPBB Sea Ranger	First flight at	1942
+Boeing YB-9	First flight at	1931
+Bolkhovitinov DB-A	First flight at	1935
+Boulton Paul Bodmin	First flight at	1924
+Boulton & Paul Bolton	First flight at	1922
+Boulton Paul Bourges	First flight at	1919
+Boulton & Paul Bugle	First flight at	1923
+Boulton Paul P.32	First flight at	1931
+Boulton Paul Sidestrand	First flight at	1926
+Boulton Paul Overstrand	First flight at	1933
+Breda A.8	First flight at	1927
+Breda A.14	First flight at	1928
+Breda Ba.46	First flight at	1934
+Breda Ba.64	First flight at	1934
+Breda Ba.65	First flight at	1935
+Breda Ba.88	First flight at	1935
+Breguet Bre.4	First flight at	1914
+Breguet Bre.5 & 6	First flight at	1915
+Breguet 14	First flight at	1916
+Breguet 16	First flight at	1918
+Breguet 19	First flight at	1922
+Breguet 270 Series	First flight at	1929
+Breguet 521	First flight at	1933
+Breguet 693	First flight at	1938
+Brewster SB2A Buccaneer	First flight at	1941
+Bristol Type 148	First flight at	1937
+Bristol Beaufighter	First flight at	1939
+Bristol Beaufort	First flight at	1938
+Bristol Berkeley	First flight at	1925
+Bristol Blenheim	First flight at	1935
+Bristol Bombay	First flight at	1935
+Bristol Buckingham	First flight at	1943
+Bristol Braemar	First flight at	1918
+Bristol TB.8	First flight at	1913
+CAC Woomera	First flight at	1941
+CAMS 33	First flight at	1923
+CAMS 37	First flight at	1926
+CAMS 55	First flight at	1928
+CANSA FC.20bis	First flight at	1941
+CANT Z.501	First flight at	1934
+CANT Z.506	First flight at	1935
+CANT Z.1007	First flight at	1937
+CANT Z.1018	First flight at	1939
+Caproni Ca.1	First flight at	1914
+Caproni Ca.2	First flight at	1915
+Caproni Ca.3	First flight at	1916
+Caproni Ca.4	First flight at	1917
+Caproni Ca.5	First flight at	1917
+Caproni A.P.1	First flight at	1934
+Caproni Ca.73	First flight at	1924
+Caproni Ca.90	First flight at	1929
+Caproni Ca.101	First flight at	1928
+Caproni Ca.111	First flight at	1932
+Caproni Ca.310	First flight at	1937
+Caproni Ca.311	First flight at	1939
+Caproni Ca.313	First flight at	1939
+Caproni Ca.314	First flight at	1939
+Caproni Ca.316	First flight at	1940
+Caproni Ca.355	First flight at	1941
+Caudron G.4	First flight at	1915
+Caudron R.4	First flight at	1915
+Chyetverikov ARK-3	First flight at	1936
+Chyetverikov MDR-3	First flight at	1936
+Chyetverikov MDR-6	First flight at	1937
+Consolidated B-24 Liberator	First flight at	1939
+Consolidated B-32 Dominator	First flight at	1942
+Consolidated P2Y	First flight at	1929
+Consolidated PBY Catalina	First flight at	1935
+Consolidated PB2Y Coronado	First flight at	1937
+Consolidated PB4Y-2 Privateer	First flight at	1943
+Consolidated XP4Y Corregidor	First flight at	1939
+Curtiss A-3/A-4 Falcon	First flight at	1924
+Curtiss A-8	First flight at	1931
+Curtiss A-12 Shrike	First flight at	1933
+Curtiss XA-14	First flight at	1935
+Curtiss A-18 Shrike	First flight at	1935
+Curtiss B-2 Condor	First flight at	1929
+Curtiss BF2C Goshawk	First flight at	1933
+Curtiss CS	First flight at	1923
+Curtiss F5L	First flight at	1918
+Curtiss Model H	First flight at	1917
+Curtiss HS	First flight at	1917
+Curtiss SBC Helldiver	First flight at	1935
+Curtiss T-32 Condor II	First flight at	1933
+Curtiss SB2C Helldiver/A-25 Shrike	First flight at	1940
+Curtiss XBTC	First flight at	1945
+Curtiss XSB3C	First flight at	n/a
+DAR 10	First flight at	1941
+de Havilland DH.14 Okapi	First flight at	1919
+de Havilland DH.27 Derby	First flight at	1922
+de Havilland DH.65 Hound	First flight at	1926
+de Havilland DH.72	First flight at	1931
+De Havilland DH.98 Mosquito	First flight at	1940
+De Havilland DH.100 Vampire	First flight at	1943
+DFW R.I	First flight at	1916
+DFW R.II	First flight at	1918
+DFW R.III	First flight at	n/a
+Dornier Do N	First flight at	1928
+Dornier Do 11	First flight at	1932
+Dornier Do 17	First flight at	1934
+Dornier Do 22	First flight at	1935
+Dornier Do 23	First flight at	1934
+Dornier Do 24	First flight at	1937
+Dornier Do 215	First flight at	1938
+Dornier Do 217	First flight at	1938
+Douglas A-1 Skyraider	First flight at	1945
+Douglas A-20 Havoc	First flight at	1939
+Douglas A-26 Invader	First flight at	1942
+Douglas B-18 Bolo	First flight at	1935
+Douglas B-23 Dragon	First flight at	1939
+Douglas BTD Destroyer	First flight at	1943
+Douglas DT	First flight at	1921
+Douglas SBD Dauntless	First flight at	1940
+Douglas TBD Devastator	First flight at	1935
+Douglas XB-19	First flight at	1941
+Douglas XB-22	First flight at	n/a
+Douglas XTB2D Skypirate	First flight at	1945
+Douglas Y1B-7	First flight at	1931
+Fairey III	First flight at	1917
+Fairey Albacore	First flight at	1938
+Fairey Barracuda	First flight at	1940
+Fairey Battle	First flight at	1936
+Fairey Campania	First flight at	1917
+Fairey Fawn	First flight at	1923
+Fairey Ferret	First flight at	1925
+Fairey Fox	First flight at	1925
+Fairey G.4/31	First flight at	1934
+Fairey Gordon	First flight at	1931
+Fairey Hendon	First flight at	1930
+Fairey P.4/34	First flight at	1937
+Fairey Seal	First flight at	1930
+Fairey Swordfish	First flight at	1934
+Farman F.50	First flight at	1918
+Farman F.60 Goliath	First flight at	1919
+Farman F.140 Super Goliath	First flight at	1924
+Farman F.150	First flight at	1926
+Farman F.160	First flight at	1928
+Farman F.220	First flight at	1932
+Felixstowe F.2	First flight at	1917
+Felixstowe F.3	First flight at	1917
+Felixstowe F.5	First flight at	1918
+Felixstowe Fury	First flight at	1918
+Fiat BR	First flight at	1919
+Fiat BRG	First flight at	1931
+Fiat Br.20	First flight at	1936
+Fiat RS.14	First flight at	1939
+Fieseler Fi 98	First flight at	1935
+Fieseler Fi 167	First flight at	1938
+FMA AeMB.2	First flight at	1935
+Focke-Wulf Fw 42	First flight at	n/a
+Focke-Wulf Fw 200 Condor	First flight at	1937
+Focke-Wulf Fw 300	First flight at	n/a
+Focke-Wulf Ta 400	First flight at	n/a
+Fokker C.V	First flight at	1924
+Fokker C.X	First flight at	1934
+Fokker K.I	First flight at	1915
+Fokker T.IV	First flight at	1927
+Fokker T.V	First flight at	1938
+Fokker T.VIII	First flight at	1938
+Fokker XB-8	First flight at	1929
+Friedrichshafen FF.41	First flight at	1917
+Friedrichshafen G.I	First flight at	1915
+Friedrichshafen G.II	First flight at	1916
+Friedrichshafen G.III	First flight at	1917
+Friedrichshafen G.IV	First flight at	1918
+Friedrichshafen G.V	First flight at	1918
+Gloster Goral	First flight at	1927
+Gloster TSR.38	First flight at	1932
+Gotha G.I	First flight at	1915
+Gotha G.II	First flight at	1916
+Gotha G.III	First flight at	1916
+Gotha G.IV	First flight at	1916
+Gotha G.V	First flight at	1917
+Gotha G.VI	First flight at	1918
+Gotha GL.VII	First flight at	1918
+Gotha G.VIII	First flight at	1918
+Gotha G.IX	First flight at	1918
+Gotha G.X	First flight at	1918
+Grahame-White Ganymede	First flight at	1919
+Great Lakes BG	First flight at	1933
+Grigorovich TB-5	First flight at	1931
+Grumman AF Guardian	First flight at	1945
+Grumman TBF Avenger	First flight at	1941
+Grumman XTB2F	First flight at	n/a
+Hall XPTBH	First flight at	1937
+Handley Page Type O	First flight at	1915
+Handley Page V/1500	First flight at	1918
+Handley Page H.P.19 Hanley	First flight at	1922
+Handley Page H.P.24 Hyderabad	First flight at	1925
+Handley Page H.P.25 Hendon	First flight at	1924
+Handley Page H.P.28 Handcross	First flight at	1924
+Handley Page H.P.31 Harrow	First flight at	1926
+Handley Page H.P.33 Hinaidi	First flight at	1927
+Handley Page H.P.34 Hare	First flight at	1928
+Handley Page H.P.43	First flight at	1932
+Handley Page H.P.46	First flight at	1932
+Handley Page H.P.47	First flight at	1934
+Handley Page H.P.50 Heyford	First flight at	1930
+Handley Page H.P.51	First flight at	1935
+Handley Page Halifax	First flight at	1939
+Handley Page Hampden/Hereford	First flight at	1936
+Handley Page Harrow	First flight at	1936
+Hawker Audax	First flight at	1931
+Hawker Hardy	First flight at	1934
+Hawker Hart	First flight at	1928
+Hawker Hector	First flight at	1936
+Hawker Henley	First flight at	1937
+Hawker Hind	First flight at	1935
+Hawker Horsley/Dantorp	First flight at	1925
+Hawker Typhoon	First flight at	1940
+Heinkel He 45	First flight at	1931
+Heinkel He 50	First flight at	1931
+Heinkel He 59	First flight at	1931
+Heinkel He 70	First flight at	1932
+Heinkel He 111	First flight at	1935
+Heinkel He 115	First flight at	1937
+Heinkel He 177	First flight at	1939
+Heinkel He 274	First flight at	1945
+Heinkel He 277	First flight at	n/a
+Henschel Hs 123	First flight at	1935
+Henschel Hs 129	First flight at	1939
+Hiro G2H	First flight at	1933
+Hiro H1H	First flight at	1927
+Hiro H2H	First flight at	1930
+Hiro H4H	First flight at	1931
+Huff-Daland XB-1	First flight at	1927
+Ilyushin DB-3	First flight at	1935
+Ilyushin Il-2	First flight at	1939
+Ilyushin Il-4	First flight at	1936
+Ilyushin Il-10 & Avia B-33	First flight at	1944
+Junkers A 35	First flight at	1926
+Junkers Ju 52	First flight at	1930
+Junkers Ju 86	First flight at	1934
+Junkers Ju 87	First flight at	1935
+Junkers Ju 88	First flight at	1936
+Junkers Ju 89	First flight at	1937
+Junkers Ju 188	First flight at	1940
+Junkers Ju 287	First flight at	1944
+Junkers Ju 288	First flight at	1940
+Junkers Ju 290	First flight at	1942
+Junkers Ju 388	First flight at	1943
+Junkers Ju 488	First flight at	n/a
+Junkers Ju 390	First flight at	1943
+Junkers K 37	First flight at	1927
+Junkers K 43	First flight at	1926
+Junkers K 47	First flight at	1929
+Junkers R 42/JuG-1	First flight at	1924
+Kaiser-Fleetwings XBTK	First flight at	1945
+Kalinin K-7	First flight at	1933
+Kawanishi E7K	First flight at	1933
+Kawanishi H6K	First flight at	1936
+Kawanishi H8K	First flight at	1941
+Kawasaki Ki-3	First flight at	1933
+Kawasaki Ki-32	First flight at	1937
+Kawasaki Ki-48	First flight at	1939
+Kawasaki Ki-102	First flight at	1944
+Kennedy Giant	First flight at	1917
+Keystone B-3	First flight at	1929
+Keystone B-4	First flight at	1930
+Keystone B-5	First flight at	1929
+Keystone B-6	First flight at	1931
+Kharkov KhAI-5	First flight at	1936
+Kyushu Q1W	First flight at	1943
+LACAB GR.8	First flight at	1936
+Lat茅co猫re 290	First flight at	1931
+Lat茅co猫re 298	First flight at	1936
+Lat茅co猫re 302	First flight at	1931
+Lat茅co猫re 381	First flight at	1930
+Lat茅co猫re 521 & 523	First flight at	1935
+Lat茅co猫re 550	First flight at	1933
+Lat茅co猫re 570	First flight at	1939
+Lat茅co猫re 582	First flight at	1935
+Lat茅co猫re 611	First flight at	1939
+Letov 艩-6	First flight at	1923
+Letov 艩-16	First flight at	1926
+Letov 艩-28, 128, 228, 328, 428 & 528	First flight at	1929
+Letov 艩-33	First flight at	1930
+Levasseur PL.2	First flight at	1922
+Levasseur PL.7	First flight at	1928
+Levasseur PL.14	First flight at	1929
+Levasseur PL.15	First flight at	1932
+Levasseur PL.107	First flight at	1937
+Linke-Hofmann R.I	First flight at	1917
+Linke-Hofmann R.II	First flight at	1919
+Lior茅 et Olivier LeO H-13	First flight at	1922
+Lior茅 et Olivier LeO 20	First flight at	1927
+Lior茅 et Olivier LeO 25	First flight at	1928
+Lior茅 et Olivier LeO 45	First flight at	1937
+Loire 70	First flight at	1933
+Lockheed Hudson	First flight at	1938
+Lockheed P2V Neptune	First flight at	1945
+Lockheed Ventura/Harpoon	First flight at	1941
+Lockheed XB-30	First flight at	n/a
+LWS-6 Zubr	First flight at	1936
+Macchi MC.99	First flight at	1937
+Martin AM Mauler	First flight at	1944
+Martin B-10 & related	First flight at	1932
+Martin B-26 Marauder	First flight at	1940
+Martin Baltimore	First flight at	1941
+Martin Maryland	First flight at	1939
+Martin MBT/MT	First flight at	1918
+Martin NBS-1	First flight at	1920
+Martin PBM Mariner	First flight at	1939
+Martin T3M	First flight at	1926
+Martin T4M	First flight at	1927
+Martin XB-27	First flight at	n/a
+Martin XB-33 Super Marauder	First flight at	n/a
+Martinsyde G.100 and 102 Elephant	First flight at	1915
+Messerschmitt Me 262	First flight at	1942
+Messerschmitt Me 264	First flight at	1942
+Mitsubishi 1MT	First flight at	1922
+Mitsubishi 2MB1	First flight at	1926
+Mitsubishi 3MT5	First flight at	1932
+Mitsubishi B1M	First flight at	1923
+Mitsubishi B2M	First flight at	1929
+Mitsubishi B5M	First flight at	1937
+Mitsubishi G1M	First flight at	1934
+Mitsubishi G3M	First flight at	1935
+Mitsubishi G4M	First flight at	1939
+Mitsubishi Ki-1	First flight at	1932
+Mitsubishi Ki-2	First flight at	1933
+Mitsubishi Ki-20	First flight at	1932
+Mitsubishi Ki-21	First flight at	1936
+Mitsubishi Ki-30	First flight at	1937
+Mitsubishi Ki-51	First flight at	1939
+Mitsubishi Ki-67	First flight at	1941
+Morane-Saulnier S	First flight at	1915
+Morane-Saulnier T	First flight at	1916
+Morane-Saulnier TRK	First flight at	1916
+Nakajima B5N	First flight at	1937
+Nakajima B6N	First flight at	1941
+Nakajima E4N	First flight at	1930
+Nakajima E8N	First flight at	1934
+Nakajima G5N	First flight at	1941
+Nakajima G8N	First flight at	1944
+Nakajima G10N	First flight at	n/a
+Nakajima Ki-4	First flight at	1933
+Nakajima Ki-19	First flight at	1937
+Nakajima Ki-49	First flight at	1939
+Nakajima LB-2	First flight at	1936
+Naval Aircraft Factory SBN	First flight at	1936
+Nieuport 15	First flight at	1916
+Nieuport 18 and 19	First flight at	n/a
+Nieuport London	First flight at	1920
+Nieuport-Delage NiD 30B	First flight at	n/a
+Norman Thompson N.T.4	First flight at	1916
+North American A-27	First flight at	1940
+North American T-6 Texan	First flight at	1940
+North American XB-21	First flight at	1936
+North American B-25 Mitchell	First flight at	1940
+North American XB-28	First flight at	1942
+Northrop A-17	First flight at	1935
+Northrop BT	First flight at	1935
+Northrop N-3PB	First flight at	1940
+Parnall G.4/31	First flight at	1935
+Parnall Pike	First flight at	1927
+Parnall Possum	First flight at	1923
+Paul Schmitt PS.6	First flight at	1914
+Paul Schmitt PS.7	First flight at	1915
+Petlyakov Pe-2	First flight at	1939
+Petlyakov Pe-8	First flight at	1936
+Piaggio P.108	First flight at	1939
+Piaggio P.133	First flight at	n/a
+Polikarpov R-5	First flight at	1928
+Polikarpov R-Z	First flight at	1935
+Polikarpov TB-2	First flight at	1930
+Potez 15	First flight at	1921
+Potez 25	First flight at	1924
+Potez 540	First flight at	1933
+Potez 633	First flight at	1937
+PZL.23 Kara艣	First flight at	1936
+PZL.37 Los	First flight at	1936
+PZL.43 Kara艣	First flight at	1937
+Republic P-47	First flight at	1941
+Royal Aircraft Factory B.E.2	First flight at	1912
+Royal Aircraft Factory F.E.2	First flight at	1914
+Royal Aircraft Factory R.E.5	First flight at	1914
+Royal Aircraft Factory R.E.7	First flight at	1915
+Royal Aircraft Factory R.E.8	First flight at	1916
+Rumpler G.I, II & III	First flight at	1915
+Rumpler Taube	First flight at	1910
+Saab 17	First flight at	1940
+Saab 18	First flight at	1942
+SAB AB-20	First flight at	1932
+SAB AB-80	First flight at	1934
+Sablatnig N.I	First flight at	1918
+Saro A.33	First flight at	1938
+Saro Lerwick	First flight at	1938
+Saro London	First flight at	1934
+Saunders Severn	First flight at	1930
+Saunders Valkyrie	First flight at	1926
+Savoia-Marchetti S.55	First flight at	1924
+Savoia-Marchetti S.59	First flight at	1925
+Savoia-Marchetti SM.78	First flight at	1932
+Savoia-Marchetti SM.79	First flight at	1934
+Savoia-Marchetti SM.81	First flight at	1934
+Savoia-Marchetti SM.82	First flight at	1939
+Savoia-Marchetti SM.84	First flight at	1940
+Short Bomber	First flight at	1915
+Short N.2B	First flight at	1917
+Short Shirl	First flight at	1918
+Short Type 81	First flight at	1913
+Short Type 166	First flight at	1916
+Short Type 184	First flight at	1915
+Short Type 320	First flight at	1916
+Short Type 827 & 830	First flight at	1914
+Short Empire	First flight at	1936
+Short Knuckleduster	First flight at	1933
+Short Rangoon	First flight at	1930
+Short Sarafand	First flight at	1932
+Short Seaford	First flight at	1944
+Short Shetland	First flight at	1944
+Short Singapore	First flight at	1934
+Short Stirling	First flight at	1939
+Short Sunderland	First flight at	1937
+SIAI S.16	First flight at	1919
+Siddeley-Deasy Siniai	First flight at	1921
+Siemens-Schuckert R.I	First flight at	1915
+Siemens-Schuckert R.II	First flight at	1915
+Siemens-Schuckert R.III	First flight at	1915
+Siemens-Schuckert R.IV	First flight at	1916
+Siemens-Schuckert R.V	First flight at	1916
+Siemens-Schuckert R.VI	First flight at	1916
+Siemens-Schuckert R.VII	First flight at	1917
+Siemens-Schuckert R.VIII	First flight at	n/a
+Siemens-Schuckert R.IX	First flight at	n/a
+Sikorsky Ilya Muromets	First flight at	1913
+Sopwith 1陆 Strutter	First flight at	1915
+Sopwith B.1	First flight at	1917
+Sopwith Cuckoo	First flight at	1918
+Sopwith Rhino	First flight at	1918
+Sopwith Special torpedo seaplane Type C	First flight at	1914
+Sopwith Type 860	First flight at	1914
+Sukhoi Su-2	First flight at	1937
+Supermarine B.12/36	First flight at	n/a
+Supermarine Type 322	First flight at	1943
+Supermarine Nanok	First flight at	1927
+Supermarine Scapa	First flight at	1932
+Supermarine Southampton	First flight at	1925
+Supermarine Stranraer	First flight at	1934
+Tachikawa Ki-36	First flight at	1938
+Tachikawa Ki-74	First flight at	1944
+Tarrant Tabor	First flight at	1919
+Tupolev SB	First flight at	1934
+Tupolev TB-1	First flight at	1925
+Tupolev TB-3	First flight at	1930
+Tupolev TB-4	First flight at	1933
+Tupolev TB-6	First flight at	n/a
+Tupolev Tu-2	First flight at	1941
+Vickers Type 207	First flight at	1933
+Vickers Type 253	First flight at	1934
+Vickers Valentia	First flight at	1934
+Vickers Valiant	First flight at	1927
+Vickers Valparaiso	First flight at	1923
+Vickers Vanox	First flight at	1929
+Vickers Victory Bomber	First flight at	n/a
+Vickers Vincent and Vildebeest	First flight at	1928
+Vickers Vimy	First flight at	1917
+Vickers Virginia	First flight at	1922
+Vickers Vixen	First flight at	1923
+Vickers Warwick	First flight at	1939
+Vickers Wellesley	First flight at	1935
+Vickers Wellington	First flight at	1936
+Vickers Windsor	First flight at	1943
+Voisin III	First flight at	1914
+Voisin V	First flight at	1915
+Voisin VIII	First flight at	1916
+Voisin X	First flight at	1917
+Voisin XI	First flight at	1918
+Voisin XII	First flight at	1918
+Vought F4U Corsair	First flight at	1940
+Vought SB2U Vindicator/Chesapeake	First flight at	1936
+Vought TBU/Consolidated TBY Sea Wolf	First flight at	1941
+Vultee V-11	First flight at	1935
+Vultee Vengeance	First flight at	1941
+Weiss WM-21 S贸lyom	First flight at	1937
+Westland Lysander	First flight at	1936
+Westland PV-3	First flight at	1931
+Westland Wallace	First flight at	1931
+Westland Wapiti	First flight at	1927
+Westland Witch	First flight at	1928
+Wight Seaplane	First flight at	1915
+Witteman-Lewis XNBL-1 (Barling Bomber)	First flight at	1923
+Yermolayev Yer-2	First flight at	1940
+Yokosuka B3Y	First flight at	1933
+Yokosuka B4Y	First flight at	1935
+Yokosuka D4Y	First flight at	1940
+Yokosuka E1Y	First flight at	1923
+Yokosuka P1Y	First flight at	1943
+Zeppelin-Lindau Rs.I	First flight at	n/a
+Zeppelin-Lindau Rs.II	First flight at	1916
+Zeppelin-Lindau Rs.III	First flight at	1917
+Zeppelin-Lindau Rs.IV	First flight at	1918
+Zeppelin-Staaken VGO.I	First flight at	1915
+Zeppelin-Staaken VGO.II	First flight at	1915
+Zeppelin-Staaken VGO.III/R.III	First flight at	1915
+Zeppelin-Staaken R.IV	First flight at	1915
+Zeppelin-Staaken R.V	First flight at	1917
+Zeppelin-Staaken R.VI	First flight at	1916
+Zeppelin-Staaken R.VII	First flight at	1917
+Zeppelin-Staaken R.XV	First flight at	1918
+Zeppelin-Staaken R.XVI	First flight at	1918
+Zeppelin-Staaken R.XIV	First flight at	1919
+Aermacchi MB-326	First flight at	1957
+Aermacchi MB-339	First flight at	1976
+Aero L-159 Alca	First flight at	1997
+Avro Shackleton	First flight at	1949
+Avro Vulcan	First flight at	1952
+BAC Jet Provost	First flight at	1954
+BAC Strikemaster	First flight at	1967
+BAC TSR-2	First flight at	1964
+Beriev Be-6	First flight at	1949
+Beriev Be-10	First flight at	1956
+Beriev Be-12	First flight at	1960
+Boeing B-47 Stratojet	First flight at	1947
+Boeing B-50 Superfortress	First flight at	1947
+Boeing B-52 Stratofortress	First flight at	1952
+Boeing XB-54	First flight at	n/a
+Boeing P-8 Poseidon	First flight at	2009
+Boeing XB-56	First flight at	n/a
+Boeing XB-59	First flight at	n/a
+Breguet Aliz茅	First flight at	1956
+Breguet Atlantique	First flight at	1961
+Breguet Taon	First flight at	1957
+Breguet Vultur	First flight at	1951
+Blackburn B-48 Firecrest	First flight at	1947
+Blackburn Buccaneer	First flight at	1958
+British Aerospace Harrier II	First flight at	1985
+Canadair CL-41 Tebuan	First flight at	1960
+Canadair CP-107 Argus	First flight at	1957
+CASA CN-235MPA	First flight at	1983
+Cessna A-37 Dragonfly	First flight at	1963
+Convair B-36	First flight at	1946
+Convair B-58 Hustler	First flight at	1956
+Convair XB-46	First flight at	1947
+Convair YB-60	First flight at	1952
+Dassault/Dornier Alpha Jet	First flight at	1973
+Dassault-Breguet Super 脡tendard	First flight at	1974
+Dassault Mirage IV	First flight at	1959
+Dassault Mirage 2000N/2000D	First flight at	1986
+Dassault Ouragan	First flight at	1949
+de Havilland Venom	First flight at	1949
+Dornier Do 28	First flight at	1959
+Dornier Do 228	First flight at	1981
+Douglas A2D Skyshark	First flight at	1950
+Douglas A-3 Skywarrior	First flight at	1956
+Douglas A-4 Skyhawk	First flight at	1954
+Douglas B-66 Destroyer	First flight at	1954
+EADS-CASA C295MP	First flight at	1997
+Embraer EMB 312 Tucano	First flight at	1980
+Embraer EMB 314 Super Tucano	First flight at	1999
+English Electric Canberra	First flight at	1949
+Fairchild Republic A-10 Thunderbolt II	First flight at	1972
+Fairey Gannet	First flight at	1949
+Fiat G.91	First flight at	1956
+Fiat G.91Y	First flight at	1966
+FMA IA 58 Pucar谩	First flight at	1969
+Fokker F-27 maritime	First flight at	1955
+Fouga CM.170 Magister	First flight at	1952
+General Dynamics F-111	First flight at	1967
+Grumman A-6 Intruder	First flight at	1960
+Grumman F9F Panther	First flight at	1947
+Grumman OV-1 Mohawk	First flight at	1959
+Grumman S-2 Tracker	First flight at	1952
+HAL HF-24 Marut	First flight at	1961
+HAL HJT-16 Kiran	First flight at	1964
+Handley Page Victor	First flight at	1952
+Harbin H-5	First flight at	1948
+Harbin H-7	First flight at	n/a
+Harbin SH-5	First flight at	1976
+Hawker Hunter	First flight at	1951
+Hawker Siddeley Harrier	First flight at	1974
+Hawker-Siddeley Hawk	First flight at	1974
+Hawker-Siddeley Nimrod	First flight at	1967
+Hispano HA-200	First flight at	1955
+I.Ae. 24 Calquin	First flight at	1946
+Ilyushin Il-28	First flight at	1948
+Ilyushin Il-38	First flight at	1967
+Ilyushin Il-54	First flight at	1955
+Kawasaki P-1	First flight at	2007
+Lockheed F-117 Nighthawk	First flight at	1981
+Lockheed P-3 Orion/CP-140 Aurora/Arcturus	First flight at	1959
+Lockheed S-3 Viking	First flight at	1972
+Martin B-57 Canberra	First flight at	1953
+Martin P4M Mercator	First flight at	1946
+Martin P5M Marlin	First flight at	1948
+Martin P6M SeaMaster	First flight at	1955
+Martin XB-48	First flight at	1947
+Martin XB-51	First flight at	1949
+McDonnell Douglas A-12 Avenger II	First flight at	n/a
+McDonnell Douglas AV-8B Harrier II	First flight at	1978
+McDonnell Douglas F-4 Phantom II	First flight at	1958
+McDonnell Douglas F/A-18 Hornet	First flight at	1978
+Mikoyan MiG-27	First flight at	1970
+Morane-Saulnier Epervier	First flight at	1958
+Myasishchev M-4	First flight at	1953
+Myasishchev M-50	First flight at	1959
+Nanchang Q-5	First flight at	1965
+Nanchang Q-6	First flight at	n/a
+North American A-5 Vigilante	First flight at	1958
+North American AJ/A-2 Savage	First flight at	1948
+North American B-45 Tornado	First flight at	1947
+North American Rockwell OV-10 Bronco	First flight at	1965
+North American T-28 Trojan	First flight at	1949
+North American XA2J Super Savage	First flight at	1952
+North American XB-70 Valkyrie	First flight at	1964
+Northrop Grumman B-2 Spirit	First flight at	1989
+Northrop YA-9	First flight at	1972
+Northrop YB-35	First flight at	1946
+Northrop YB-49	First flight at	1947
+PAK DA	First flight at	n/a
+Panavia Tornado	First flight at	1974
+Percival Provost	First flight at	1950
+Piper PA-48 Enforcer	First flight at	1971
+PZL I-22 Iryda	First flight at	1985
+Republic F-84 Thunderjet	First flight at	1946
+Republic F-84F Thunderstreak	First flight at	1954
+Republic F-105 Thunderchief	First flight at	1955
+Rockwell B-1 Lancer	First flight at	1974
+Saab 105	First flight at	1963
+Saab Safari	First flight at	1969
+SEPECAT Jaguar	First flight at	1968
+Shin Meiwa PS-1	First flight at	1967
+Short Seamew	First flight at	1953
+Short Sperrin	First flight at	1951
+Short Sturgeon	First flight at	1946
+SNCASE Baroudeur	First flight at	1953
+Soko G-4 Super Galeb	First flight at	1978
+Soko J-22 Orao & IAR-93	First flight at	1974
+Sud Aviation Vautour	First flight at	1958
+Sukhoi Su-7	First flight at	1955
+Sukhoi Su-17	First flight at	1966
+Sukhoi Su-24	First flight at	1967
+Sukhoi Su-25	First flight at	1975
+Sukhoi Su-34	First flight at	1990
+Sukhoi T-4	First flight at	1972
+Tupolev Tu-4	First flight at	1947
+Tupolev Tu-14	First flight at	1949
+Tupolev Tu-16	First flight at	1952
+Tupolev Tu-22	First flight at	1962
+Tupolev Tu-22M	First flight at	1969
+Tupolev Tu-85	First flight at	1951
+Tupolev Tu-95	First flight at	1952
+Tupolev Tu-142	First flight at	1968
+Tupolev Tu-160	First flight at	1981
+Vickers Valiant	First flight at	1951
+LTV A-7 Corsair II	First flight at	1965
+Xian H-6	First flight at	1959
+Xian H-8	First flight at	1978
+Xian JH-7	First flight at	1988
+Yakovlev Yak-26	First flight at	1956
+Yakovlev Yak-28	First flight at	1958
+AEG G.I	Status	retired prototype
+AEG G.II	Status	retired
+AEG G.III	Status	retired
+AEG G.IV	Status	retired 1918
+AEG G.V	Status	retired 1918
+AEG N.I	Status	retired 1918
+AEG R.I	Status	retired prototype
+Aero A.11	Status	retired 1940
+Aero A.12	Status	retired
+Aero A.24	Status	retired prototype
+Aero A.30	Status	retired
+Aero A.42	Status	retired prototype
+Aero A.100	Status	retired 1942
+Aero A.101	Status	retired
+Aero A.304	Status	retired
+Aichi B7A	Status	retired 1945
+Aichi D1A	Status	retired 1942
+Aichi D3A	Status	retired 1945
+Aichi M6A	Status	retired 1945
+Airco DH.3	Status	retired prototype
+Airco DH.4	Status	retired
+Airco DH.9	Status	retired
+Airco DH.9A	Status	retired
+Airco DH.10	Status	retired
+Airco DH.11	Status	retired prototype
+Airspeed Oxford	Status	retired 1956
+Albatros C.III	Status	retired 1918
+Albatros C.VII/N.I	Status	retired 1918
+Albatros G.I	Status	retired prototype
+Albatros G.II	Status	retired prototype
+Albatros G.III	Status	retired 1918
+Amiot 143M	Status	retired 1944
+Amiot 354	Status	retired
+ANF Les Mureaux 110	Status	retired 1940
+Arado Ar 234	Status	retired 1945
+Archangelski Ar-2	Status	retired 1944
+Armstrong Whitworth Albemarle	Status	retired 1946
+Armstrong Whitworth Atlas	Status	retired 1942
+Armstrong Whitworth A.W.19	Status	retired prototype
+Armstrong Whitworth AW.23	Status	retired prototype
+Armstrong Whitworth F.K.8	Status	retired
+Armstrong Whitworth Whitley	Status	retired 1945
+Avro 504	Status	retired
+Avro 523 Pike	Status	retired prototype
+Avro 529	Status	retired prototype
+Avro 533 Manchester	Status	retired prototype
+Avro 549 Aldershot	Status	retired 1925
+Avro 604 Antelope	Status	retired prototype
+Avro Anson	Status	retired 1968
+Avro Lancaster	Status	retired 1964
+Avro Lincoln	Status	retired 1967
+Avro Manchester	Status	retired 1942
+Beardmore W.B.1	Status	retired prototype
+Beardmore W.B.VI	Status	cancelled project
+Beechcraft XA-38 Grizzly	Status	retired prototype
+Bellanca 77-140	Status	retired 1942
+Beriev Be-4	Status	retired
+Beriev MBR-2	Status	retired
+Blackburn B-3	Status	retired prototype
+Blackburn B-7	Status	retired prototype
+Blackburn Baffin	Status	retired 1941
+Blackburn Beagle	Status	retired prototype
+Blackburn Blackburd	Status	retired prototype
+Blackburn Botha	Status	retired 1944
+Blackburn Cubaroo	Status	retired prototype
+Blackburn Dart	Status	retired 1933
+Blackburn Firebrand	Status	retired 1953
+Blackburn Iris	Status	retired 1934
+Blackburn Kangaroo	Status	retired 1929
+Blackburn Perth	Status	retired 1938
+Blackburn Ripon	Status	retired 1944
+Blackburn Shark	Status	retired 1945
+Blackburn Skua	Status	retired 1945
+Blackburn Velos	Status	retired 1936
+Bleriot XI	Status	retired
+Bl茅riot 127	Status	retired 1934
+Bloch MB.131	Status	retired
+Bloch MB.174	Status	retired 1950
+Bloch MB.200	Status	retired 1941
+Boeing B-17 Flying Fortress	Status	retired 1968
+Boeing B-29 Superfortress/Washington	Status	retired 1960
+Boeing Model 306	Status	abandoned 1935 project
+Boeing XB-15	Status	retired prototype
+Boeing XB-38 Flying Fortress	Status	retired prototype
+Boeing XB-39 Superfortress	Status	retired prototype
+Boeing XF8B	Status	retired prototype
+Boeing XPBB Sea Ranger	Status	retired prototype
+Boeing YB-9	Status	retired 1935
+Bolkhovitinov DB-A	Status	retired
+Boulton Paul Bodmin	Status	retired prototype
+Boulton & Paul Bolton	Status	retired prototype
+Boulton Paul Bourges	Status	retired prototype
+Boulton & Paul Bugle	Status	retired
+Boulton Paul P.32	Status	retired prototype
+Boulton Paul Sidestrand	Status	retired 1936
+Boulton Paul Overstrand	Status	retired 1941
+Breda A.8	Status	retired prototype
+Breda A.14	Status	retired prototype
+Breda Ba.46	Status	retired prototype
+Breda Ba.64	Status	retired 1939
+Breda Ba.65	Status	retired 1941
+Breda Ba.88	Status	retired 1941
+Breguet Bre.4	Status	retired
+Breguet Bre.5 & 6	Status	retired
+Breguet 14	Status	retired
+Breguet 16	Status	retired
+Breguet 19	Status	retired 1945
+Breguet 270 Series	Status	retired 1939
+Breguet 521	Status	retired 1944
+Breguet 693	Status	retired 1942
+Brewster SB2A Buccaneer	Status	retired 1944
+Bristol Type 148	Status	retired prototype
+Bristol Beaufighter	Status	retired 1960
+Bristol Beaufort	Status	retired 1944
+Bristol Berkeley	Status	retired prototype
+Bristol Blenheim	Status	retired 1956
+Bristol Bombay	Status	retired 1944
+Bristol Buckingham	Status	retired
+Bristol Braemar	Status	retired prototype
+Bristol TB.8	Status	retired
+CAC Woomera	Status	retired prototype
+CAMS 33	Status	retired
+CAMS 37	Status	retired 1942
+CAMS 55	Status	retired 1941
+CANSA FC.20bis	Status	retired prototype
+CANT Z.501	Status	retired 1950
+CANT Z.506	Status	retired 1959
+CANT Z.1007	Status	retired
+CANT Z.1018	Status	retired prototype
+Caproni Ca.1	Status	retired
+Caproni Ca.2	Status	retired
+Caproni Ca.3	Status	retired
+Caproni Ca.4	Status	retired
+Caproni Ca.5	Status	retired
+Caproni A.P.1	Status	retired 1942
+Caproni Ca.73	Status	retired 1934
+Caproni Ca.90	Status	retired prototype
+Caproni Ca.101	Status	retired
+Caproni Ca.111	Status	retired
+Caproni Ca.310	Status	retired 1948
+Caproni Ca.311	Status	retired
+Caproni Ca.313	Status	retired
+Caproni Ca.314	Status	retired 1945
+Caproni Ca.316	Status	retired
+Caproni Ca.355	Status	abandoned
+Caudron G.4	Status	retired
+Caudron R.4	Status	retired
+Chyetverikov ARK-3	Status	retired prototype
+Chyetverikov MDR-3	Status	retired prototype
+Chyetverikov MDR-6	Status	retired 1942
+Consolidated B-24 Liberator	Status	retired 1968
+Consolidated B-32 Dominator	Status	retired 1945
+Consolidated P2Y	Status	retired 1941
+Consolidated PBY Catalina	Status	retired 1980s
+Consolidated PB2Y Coronado	Status	retired 1945
+Consolidated PB4Y-2 Privateer	Status	retired 1962
+Consolidated XP4Y Corregidor	Status	retired prototype
+Curtiss A-3/A-4 Falcon	Status	retired 1937
+Curtiss A-8	Status	retired 1939
+Curtiss A-12 Shrike	Status	retired 1942
+Curtiss XA-14	Status	retired prototype
+Curtiss A-18 Shrike	Status	retired 1943
+Curtiss B-2 Condor	Status	retired 1934
+Curtiss BF2C Goshawk	Status	retired 1949
+Curtiss CS	Status	retired
+Curtiss F5L	Status	retired
+Curtiss Model H	Status	retired
+Curtiss HS	Status	retired
+Curtiss SBC Helldiver	Status	retired 1943
+Curtiss T-32 Condor II	Status	retired
+Curtiss SB2C Helldiver/A-25 Shrike	Status	retired 1959
+Curtiss XBTC	Status	retired prototype
+Curtiss XSB3C	Status	abandoned 1941 project
+DAR 10	Status	retired prototype
+de Havilland DH.14 Okapi	Status	retired prototype
+de Havilland DH.27 Derby	Status	retired prototype
+de Havilland DH.65 Hound	Status	retired prototype
+de Havilland DH.72	Status	retired prototype
+De Havilland DH.98 Mosquito	Status	retired 1960s
+De Havilland DH.100 Vampire	Status	retired 1979
+DFW R.I	Status	retired prototype
+DFW R.II	Status	retired prototype
+DFW R.III	Status	cancelled project
+Dornier Do N	Status	retired
+Dornier Do 11	Status	retired 1936
+Dornier Do 17	Status	retired 1952
+Dornier Do 22	Status	retired 1945
+Dornier Do 23	Status	retired
+Dornier Do 24	Status	retired 1967
+Dornier Do 215	Status	retired 1944
+Dornier Do 217	Status	retired 1945
+Douglas A-1 Skyraider	Status	retired 1985
+Douglas A-20 Havoc	Status	retired 1949
+Douglas A-26 Invader	Status	retired 1980
+Douglas B-18 Bolo	Status	retired 1946
+Douglas B-23 Dragon	Status	retired
+Douglas BTD Destroyer	Status	retired 1945
+Douglas DT	Status	retired
+Douglas SBD Dauntless	Status	retired 1959
+Douglas TBD Devastator	Status	retired 1944
+Douglas XB-19	Status	retired prototype
+Douglas XB-22	Status	abandoned project
+Douglas XTB2D Skypirate	Status	retired prototype
+Douglas Y1B-7	Status	retired prototype
+Fairey III	Status	retired 1941
+Fairey Albacore	Status	retired 1946
+Fairey Barracuda	Status	retired 1960s
+Fairey Battle	Status	retired 1949
+Fairey Campania	Status	retired
+Fairey Fawn	Status	retired 1929
+Fairey Ferret	Status	retired prototype
+Fairey Fox	Status	retired 1945
+Fairey G.4/31	Status	retired prototype
+Fairey Gordon	Status	retired 1941
+Fairey Hendon	Status	retired 1939
+Fairey P.4/34	Status	retired prototype
+Fairey Seal	Status	retired 1943
+Fairey Swordfish	Status	retired 1946
+Farman F.50	Status	retired 1922
+Farman F.60 Goliath	Status	retired prototype
+Farman F.140 Super Goliath	Status	retired 1930
+Farman F.150	Status	retired prototype
+Farman F.160	Status	retired
+Farman F.220	Status	retired
+Felixstowe F.2	Status	retired
+Felixstowe F.3	Status	retired
+Felixstowe F.5	Status	retired
+Felixstowe Fury	Status	retired prototype
+Fiat BR	Status	retired
+Fiat BRG	Status	retired prototype
+Fiat Br.20	Status	retired 1945
+Fiat RS.14	Status	retired
+Fieseler Fi 98	Status	retired prototype
+Fieseler Fi 167	Status	retired
+FMA AeMB.2	Status	retired 1945
+Focke-Wulf Fw 42	Status	abandoned project
+Focke-Wulf Fw 200 Condor	Status	retired 1945
+Focke-Wulf Fw 300	Status	abandoned 1941 project
+Focke-Wulf Ta 400	Status	abandoned 1943 project
+Fokker C.V	Status	retired 1945
+Fokker C.X	Status	retired 1958
+Fokker K.I	Status	retired prototype
+Fokker T.IV	Status	retired 1942
+Fokker T.V	Status	retired 1940
+Fokker T.VIII	Status	retired 1943
+Fokker XB-8	Status	retired prototype
+Friedrichshafen FF.41	Status	retired
+Friedrichshafen G.I	Status	retired prototype
+Friedrichshafen G.II	Status	retired 1918
+Friedrichshafen G.III	Status	retired 1918
+Friedrichshafen G.IV	Status	retired prototype
+Friedrichshafen G.V	Status	retired prototype
+Gloster Goral	Status	retired prototype
+Gloster TSR.38	Status	retired prototype
+Gotha G.I	Status	retired 1917
+Gotha G.II	Status	retired 1917
+Gotha G.III	Status	retired 1917
+Gotha G.IV	Status	retired 1918
+Gotha G.V	Status	retired 1918
+Gotha G.VI	Status	retired prototype
+Gotha GL.VII	Status	retired 1918
+Gotha G.VIII	Status	retired prototype
+Gotha G.IX	Status	retired 1918
+Gotha G.X	Status	retired prototype
+Grahame-White Ganymede	Status	retired prototype
+Great Lakes BG	Status	retired 1941
+Grigorovich TB-5	Status	retired prototype
+Grumman AF Guardian	Status	retired 1955
+Grumman TBF Avenger	Status	retired 1966
+Grumman XTB2F	Status	abandoned 1944 project
+Hall XPTBH	Status	retired prototype
+Handley Page Type O	Status	retired 1921
+Handley Page V/1500	Status	retired
+Handley Page H.P.19 Hanley	Status	retired prototype
+Handley Page H.P.24 Hyderabad	Status	retired 1933
+Handley Page H.P.25 Hendon	Status	retired prototype
+Handley Page H.P.28 Handcross	Status	retired prototype
+Handley Page H.P.31 Harrow	Status	retired prototype
+Handley Page H.P.33 Hinaidi	Status	retired
+Handley Page H.P.34 Hare	Status	retired prototype
+Handley Page H.P.43	Status	retired prototype
+Handley Page H.P.46	Status	retired prototype
+Handley Page H.P.47	Status	retired prototype
+Handley Page H.P.50 Heyford	Status	retired 1941
+Handley Page H.P.51	Status	retired prototype
+Handley Page Halifax	Status	retired 1961
+Handley Page Hampden/Hereford	Status	retired 1945
+Handley Page Harrow	Status	retired 1945
+Hawker Audax	Status	retired 1945
+Hawker Hardy	Status	retired 1941
+Hawker Hart	Status	retired 1943
+Hawker Hector	Status	retired 1942
+Hawker Henley	Status	retired 1945
+Hawker Hind	Status	retired 1957
+Hawker Horsley/Dantorp	Status	retired 1940
+Hawker Typhoon	Status	retired 1945
+Heinkel He 45	Status	retired
+Heinkel He 50	Status	retired 1944
+Heinkel He 59	Status	retired 1944
+Heinkel He 70	Status	retired 1954
+Heinkel He 111	Status	retired 1958
+Heinkel He 115	Status	retired 1952
+Heinkel He 177	Status	retired 1945
+Heinkel He 274	Status	retired prototype
+Heinkel He 277	Status	abandoned 1943 project
+Henschel Hs 123	Status	retired 1945
+Henschel Hs 129	Status	retired 1945
+Hiro G2H	Status	retired
+Hiro H1H	Status	retired
+Hiro H2H	Status	retired
+Hiro H4H	Status	retired
+Huff-Daland XB-1	Status	retired prototype
+Ilyushin DB-3	Status	retired
+Ilyushin Il-2	Status	retired 1954
+Ilyushin Il-4	Status	retired 1945 ca.
+Ilyushin Il-10 & Avia B-33	Status	retired 1962
+Junkers A 35	Status	retired prototype
+Junkers Ju 52	Status	retired 1982
+Junkers Ju 86	Status	retired 1958
+Junkers Ju 87	Status	retired 1945
+Junkers Ju 88	Status	retired 1951
+Junkers Ju 89	Status	retired prototype
+Junkers Ju 188	Status	retired 1951
+Junkers Ju 287	Status	retired prototype
+Junkers Ju 288	Status	retired prototypes
+Junkers Ju 290	Status	retired 1945
+Junkers Ju 388	Status	retired 1945
+Junkers Ju 488	Status	retired prototype
+Junkers Ju 390	Status	retired prototype
+Junkers K 37	Status	retired prototype
+Junkers K 43	Status	retired prototype
+Junkers K 47	Status	retired
+Junkers R 42/JuG-1	Status	retired
+Kaiser-Fleetwings XBTK	Status	retired prototype
+Kalinin K-7	Status	retired prototype
+Kawanishi E7K	Status	retired 1943
+Kawanishi H6K	Status	retired 1945
+Kawanishi H8K	Status	retired 1945
+Kawasaki Ki-3	Status	retired
+Kawasaki Ki-32	Status	retired 1942
+Kawasaki Ki-48	Status	retired 1952
+Kawasaki Ki-102	Status	retired 1952
+Kennedy Giant	Status	retired prototype
+Keystone B-3	Status	retired 1940
+Keystone B-4	Status	retired
+Keystone B-5	Status	retired
+Keystone B-6	Status	retired
+Kharkov KhAI-5	Status	retired
+Kyushu Q1W	Status	retired 1945
+LACAB GR.8	Status	retired prototype
+Lat茅co猫re 290	Status	retired 1940
+Lat茅co猫re 298	Status	retired 1951
+Lat茅co猫re 302	Status	retired prototype
+Lat茅co猫re 381	Status	retired prototype
+Lat茅co猫re 521 & 523	Status	retired prototype
+Lat茅co猫re 550	Status	retired prototype
+Lat茅co猫re 570	Status	retired prototype
+Lat茅co猫re 582	Status	retired prototype
+Lat茅co猫re 611	Status	retired prototype
+Letov 艩-6	Status	retired
+Letov 艩-16	Status	retired
+Letov 艩-28, 128, 228, 328, 428 & 528	Status	retired 1944
+Letov 艩-33	Status	retired prototype
+Levasseur PL.2	Status	retired 1932
+Levasseur PL.7	Status	retired 1940
+Levasseur PL.14	Status	retired 1937
+Levasseur PL.15	Status	retired 1940
+Levasseur PL.107	Status	retired prototype
+Linke-Hofmann R.I	Status	retired prototype
+Linke-Hofmann R.II	Status	retired prototype
+Lior茅 et Olivier LeO H-13	Status	retired 1931
+Lior茅 et Olivier LeO 20	Status	retired 1939
+Lior茅 et Olivier LeO 25	Status	retired 1944
+Lior茅 et Olivier LeO 45	Status	retired 1957
+Loire 70	Status	retired 1940
+Lockheed Hudson	Status	retired 1948
+Lockheed P2V Neptune	Status	retired 1984
+Lockheed Ventura/Harpoon	Status	retired 1974
+Lockheed XB-30	Status	abandoned project
+LWS-6 Zubr	Status	retired 1942
+Macchi MC.99	Status	retired prototype
+Martin AM Mauler	Status	retired 1953
+Martin B-10 & related	Status	retired 1949
+Martin B-26 Marauder	Status	retired 1946
+Martin Baltimore	Status	retired 1949
+Martin Maryland	Status	retired 1945
+Martin MBT/MT	Status	retired
+Martin NBS-1	Status	retired 1929
+Martin PBM Mariner	Status	retired 1964
+Martin T3M	Status	retired 1932
+Martin T4M	Status	retired 1938
+Martin XB-27	Status	abandoned project
+Martin XB-33 Super Marauder	Status	abandoned project
+Martinsyde G.100 and 102 Elephant	Status	retired 1917
+Messerschmitt Me 262	Status	retired 1957
+Messerschmitt Me 264	Status	retired prototype
+Mitsubishi 1MT	Status	retired
+Mitsubishi 2MB1	Status	retired
+Mitsubishi 3MT5	Status	retired
+Mitsubishi B1M	Status	retired
+Mitsubishi B2M	Status	retired
+Mitsubishi B5M	Status	retired 1945
+Mitsubishi G1M	Status	retired prototype
+Mitsubishi G3M	Status	retired 1945
+Mitsubishi G4M	Status	retired 1945
+Mitsubishi Ki-1	Status	retired 1937
+Mitsubishi Ki-2	Status	retired
+Mitsubishi Ki-20	Status	retired
+Mitsubishi Ki-21	Status	retired 1945
+Mitsubishi Ki-30	Status	retired 1945
+Mitsubishi Ki-51	Status	retired 1953
+Mitsubishi Ki-67	Status	retired 1945
+Morane-Saulnier S	Status	retired prototype
+Morane-Saulnier T	Status	retired
+Morane-Saulnier TRK	Status	retired prototype
+Nakajima B5N	Status	retired 1945
+Nakajima B6N	Status	retired 1945
+Nakajima E4N	Status	retired
+Nakajima E8N	Status	retired
+Nakajima G5N	Status	retired prototype
+Nakajima G8N	Status	retired prototype
+Nakajima G10N	Status	abandoned 1943 project
+Nakajima Ki-4	Status	retired 1943
+Nakajima Ki-19	Status	retired prototype
+Nakajima Ki-49	Status	retired 1945
+Nakajima LB-2	Status	retired prototype
+Naval Aircraft Factory SBN	Status	retired 1942
+Nieuport 15	Status	retired prototype
+Nieuport 18 and 19	Status	cancelled project
+Nieuport London	Status	retired prototype
+Nieuport-Delage NiD 30B	Status	abandoned project
+Norman Thompson N.T.4	Status	retired 1918
+North American A-27	Status	retired 1941
+North American T-6 Texan	Status	retired
+North American XB-21	Status	retired prototype
+North American B-25 Mitchell	Status	retired 1979
+North American XB-28	Status	retired prototype
+Northrop A-17	Status	retired 1958
+Northrop BT	Status	retired 1941
+Northrop N-3PB	Status	retired 1943
+Parnall G.4/31	Status	retired prototype
+Parnall Pike	Status	retired prototype
+Parnall Possum	Status	retired prototype
+Paul Schmitt PS.6	Status	retired 1917
+Paul Schmitt PS.7	Status	retired 1917
+Petlyakov Pe-2	Status	retired 1954
+Petlyakov Pe-8	Status	retired 1950s
+Piaggio P.108	Status	retired 1945
+Piaggio P.133	Status	abandoned 1943 project
+Polikarpov R-5	Status	retired 1944
+Polikarpov R-Z	Status	retired
+Polikarpov TB-2	Status	retired prototype
+Potez 15	Status	retired
+Potez 25	Status	retired
+Potez 540	Status	retired 1943
+Potez 633	Status	retired
+PZL.23 Kara艣	Status	retired 1946
+PZL.37 Los	Status	retired 1944
+PZL.43 Kara艣	Status	retired 1946
+Republic P-47	Status	retired 1966
+Royal Aircraft Factory B.E.2	Status	retired 1919
+Royal Aircraft Factory F.E.2	Status	retired 1918
+Royal Aircraft Factory R.E.5	Status	retired 1915
+Royal Aircraft Factory R.E.7	Status	retired 1917
+Royal Aircraft Factory R.E.8	Status	retired 1919
+Rumpler G.I, II & III	Status	retired
+Rumpler Taube	Status	retired
+Saab 17	Status	retired 1968
+Saab 18	Status	retired 1959
+SAB AB-20	Status	retired prototype
+SAB AB-80	Status	retired prototype
+Sablatnig N.I	Status	retired prototype
+Saro A.33	Status	retired prototype
+Saro Lerwick	Status	retired 1941
+Saro London	Status	retired 1941
+Saunders Severn	Status	retired prototype
+Saunders Valkyrie	Status	retired prototype
+Savoia-Marchetti S.55	Status	retired 1939
+Savoia-Marchetti S.59	Status	retired 1942
+Savoia-Marchetti SM.78	Status	retired 1942
+Savoia-Marchetti SM.79	Status	retired 1959
+Savoia-Marchetti SM.81	Status	retired 1950
+Savoia-Marchetti SM.82	Status	retired 1960
+Savoia-Marchetti SM.84	Status	retired 1948
+Short Bomber	Status	retired 1917
+Short N.2B	Status	retired prototype
+Short Shirl	Status	retired prototype
+Short Type 81	Status	retired 1915
+Short Type 166	Status	retired
+Short Type 184	Status	retired 1933
+Short Type 320	Status	retired 1919
+Short Type 827 & 830	Status	retired
+Short Empire	Status	retired 1947
+Short Knuckleduster	Status	retired prototype
+Short Rangoon	Status	retired 1935
+Short Sarafand	Status	retired prototype
+Short Seaford	Status	retired 1948
+Short Shetland	Status	retired prototype
+Short Singapore	Status	retired 1942
+Short Stirling	Status	retired 1946
+Short Sunderland	Status	retired 1967
+SIAI S.16	Status	retired 1942
+Siddeley-Deasy Siniai	Status	retired prototype
+Siemens-Schuckert R.I	Status	retired prototype
+Siemens-Schuckert R.II	Status	retired prototype
+Siemens-Schuckert R.III	Status	retired prototype
+Siemens-Schuckert R.IV	Status	retired prototype
+Siemens-Schuckert R.V	Status	retired prototype
+Siemens-Schuckert R.VI	Status	retired prototype
+Siemens-Schuckert R.VII	Status	retired prototype
+Siemens-Schuckert R.VIII	Status	retired prototype
+Siemens-Schuckert R.IX	Status	cancelled project
+Sikorsky Ilya Muromets	Status	retired 1922
+Sopwith 1陆 Strutter	Status	retired
+Sopwith B.1	Status	retired prototype
+Sopwith Cuckoo	Status	retired 1923
+Sopwith Rhino	Status	retired prototype
+Sopwith Special torpedo seaplane Type C	Status	retired prototype
+Sopwith Type 860	Status	retired
+Sukhoi Su-2	Status	retired 1942
+Supermarine B.12/36	Status	prototype destroyed
+Supermarine Type 322	Status	retired prototype
+Supermarine Nanok	Status	retired prototype
+Supermarine Scapa	Status	retired prototype
+Supermarine Southampton	Status	retired
+Supermarine Stranraer	Status	retired 1946
+Tachikawa Ki-36	Status	retired 1950s
+Tachikawa Ki-74	Status	retired prototype
+Tarrant Tabor	Status	retired prototype
+Tupolev SB	Status	retired 1950
+Tupolev TB-1	Status	retired 1948
+Tupolev TB-3	Status	retired 1945
+Tupolev TB-4	Status	retired prototype
+Tupolev TB-6	Status	abandoned project
+Tupolev Tu-2	Status	retired 1970s
+Vickers Type 207	Status	retired prototype
+Vickers Type 253	Status	retired prototype
+Vickers Valentia	Status	retired 1944
+Vickers Valiant	Status	retired prototype
+Vickers Valparaiso	Status	retired 1942
+Vickers Vanox	Status	retired prototype
+Vickers Victory Bomber	Status	cancelled 1941 project
+Vickers Vincent and Vildebeest	Status	retired 1944
+Vickers Vimy	Status	retired 1933
+Vickers Virginia	Status	retired 1941
+Vickers Vixen	Status	retired
+Vickers Warwick	Status	retired 1946
+Vickers Wellesley	Status	retired 1944
+Vickers Wellington	Status	retired 1953
+Vickers Windsor	Status	retired prototype
+Voisin III	Status	retired 1918
+Voisin V	Status	retired
+Voisin VIII	Status	retired
+Voisin X	Status	retired 1923
+Voisin XI	Status	retired
+Voisin XII	Status	retired prototype
+Vought F4U Corsair	Status	retired 1979
+Vought SB2U Vindicator/Chesapeake	Status	retired 1945
+Vought TBU/Consolidated TBY Sea Wolf	Status	retired 1948
+Vultee V-11	Status	retired
+Vultee Vengeance	Status	retired 1945
+Weiss WM-21 S贸lyom	Status	retired 1945
+Westland Lysander	Status	retired 1948
+Westland PV-3	Status	retired prototype
+Westland Wallace	Status	retired 1943
+Westland Wapiti	Status	retired 1944
+Westland Witch	Status	retired prototype
+Wight Seaplane	Status	retired 1917
+Witteman-Lewis XNBL-1 (Barling Bomber)	Status	retired prototype
+Yermolayev Yer-2	Status	retired 1950
+Yokosuka B3Y	Status	retired
+Yokosuka B4Y	Status	retired 1943
+Yokosuka D4Y	Status	retired 1945
+Yokosuka E1Y	Status	retired
+Yokosuka P1Y	Status	retired 1945
+Zeppelin-Lindau Rs.I	Status	prototype destroyed
+Zeppelin-Lindau Rs.II	Status	retired prototype
+Zeppelin-Lindau Rs.III	Status	retired prototype
+Zeppelin-Lindau Rs.IV	Status	retired prototype
+Zeppelin-Staaken VGO.I	Status	crashed 1915
+Zeppelin-Staaken VGO.II	Status	retired prototype
+Zeppelin-Staaken VGO.III/R.III	Status	retired prototype
+Zeppelin-Staaken R.IV	Status	retired prototype
+Zeppelin-Staaken R.V	Status	retired prototype
+Zeppelin-Staaken R.VI	Status	retired 1919
+Zeppelin-Staaken R.VII	Status	retired prototype
+Zeppelin-Staaken R.XV	Status	retired prototype
+Zeppelin-Staaken R.XVI	Status	retired prototype
+Zeppelin-Staaken R.XIV	Status	retired prototype
+Aermacchi MB-326	Status	operational
+Aermacchi MB-339	Status	operational
+Aero L-159 Alca	Status	operational
+Avro Shackleton	Status	retired 1990
+Avro Vulcan	Status	retired 1984
+BAC Jet Provost	Status	retired 1993
+BAC Strikemaster	Status	operational
+BAC TSR-2	Status	retired prototype
+Beriev Be-6	Status	retired 1990s
+Beriev Be-10	Status	retired 1968
+Beriev Be-12	Status	operational
+Boeing B-47 Stratojet	Status	retired 1977
+Boeing B-50 Superfortress	Status	retired 1965
+Boeing B-52 Stratofortress	Status	operational
+Boeing XB-54	Status	abandoned 1948 project
+Boeing P-8 Poseidon	Status	operational
+Boeing XB-56	Status	abandoned 1950 project
+Boeing XB-59	Status	abandoned 1952 project
+Breguet Aliz茅	Status	retired 2000
+Breguet Atlantique	Status	operational
+Breguet Taon	Status	retired prototype
+Breguet Vultur	Status	retired prototype
+Blackburn B-48 Firecrest	Status	retired prototype
+Blackburn Buccaneer	Status	retired 1994
+British Aerospace Harrier II	Status	retired 2011
+Canadair CL-41 Tebuan	Status	retired 1986
+Canadair CP-107 Argus	Status	retired 1982
+CASA CN-235MPA	Status	operational
+Cessna A-37 Dragonfly	Status	operational
+Convair B-36	Status	retired 1959
+Convair B-58 Hustler	Status	retired 1970
+Convair XB-46	Status	retired prototype
+Convair YB-60	Status	retired prototype
+Dassault/Dornier Alpha Jet	Status	retired 1997
+Dassault-Breguet Super 脡tendard	Status	operational
+Dassault Mirage IV	Status	retired 2005
+Dassault Mirage 2000N/2000D	Status	operational
+Dassault Ouragan	Status	retired 1992
+de Havilland Venom	Status	retired 1983
+Dornier Do 28	Status	retired 1994
+Dornier Do 228	Status	operational
+Douglas A2D Skyshark	Status	retired prototype
+Douglas A-3 Skywarrior	Status	retired 1991
+Douglas A-4 Skyhawk	Status	operational
+Douglas B-66 Destroyer	Status	retired 1973
+EADS-CASA C295MP	Status	operational
+Embraer EMB 312 Tucano	Status	operational
+Embraer EMB 314 Super Tucano	Status	operational
+English Electric Canberra	Status	retired 2008
+Fairchild Republic A-10 Thunderbolt II	Status	operational
+Fairey Gannet	Status	retired 1978
+Fiat G.91	Status	retired 1995
+Fiat G.91Y	Status	retired 1998
+FMA IA 58 Pucar谩	Status	operational
+Fokker F-27 maritime	Status	operational
+Fouga CM.170 Magister	Status	operational
+General Dynamics F-111	Status	retired 2010
+Grumman A-6 Intruder	Status	retired 1997
+Grumman F9F Panther	Status	retired 1969
+Grumman OV-1 Mohawk	Status	operational
+Grumman S-2 Tracker	Status	operational
+HAL HF-24 Marut	Status	retired 1985
+HAL HJT-16 Kiran	Status	operational
+Handley Page Victor	Status	retired 1993
+Harbin H-5	Status	operational
+Harbin H-7	Status	abandoned 1965 project
+Harbin SH-5	Status	operational
+Hawker Hunter	Status	retired 2014
+Hawker Siddeley Harrier	Status	retired 2006
+Hawker-Siddeley Hawk	Status	operational
+Hawker-Siddeley Nimrod	Status	retired 2011
+Hispano HA-200	Status	retired 1984
+I.Ae. 24 Calquin	Status	retired 1960
+Ilyushin Il-28	Status	operational
+Ilyushin Il-38	Status	operational
+Ilyushin Il-54	Status	retired prototype
+Kawasaki P-1	Status	prototype
+Lockheed F-117 Nighthawk	Status	retired 2008
+Lockheed P-3 Orion/CP-140 Aurora/Arcturus	Status	operational
+Lockheed S-3 Viking	Status	operational
+Martin B-57 Canberra	Status	retired
+Martin P4M Mercator	Status	retired 1960
+Martin P5M Marlin	Status	retired 1967
+Martin P6M SeaMaster	Status	retired 1959
+Martin XB-48	Status	retired prototype
+Martin XB-51	Status	retired prototype
+McDonnell Douglas A-12 Avenger II	Status	abandoned 1983 project
+McDonnell Douglas AV-8B Harrier II	Status	operational
+McDonnell Douglas F-4 Phantom II	Status	operational
+McDonnell Douglas F/A-18 Hornet	Status	operational
+Mikoyan MiG-27	Status	operational
+Morane-Saulnier Epervier	Status	retired prototype
+Myasishchev M-4	Status	retired 1994
+Myasishchev M-50	Status	retired prototype
+Nanchang Q-5	Status	operational
+Nanchang Q-6	Status	abandoned 1979 project
+North American A-5 Vigilante	Status	retired 1980
+North American AJ/A-2 Savage	Status	retired 1964
+North American B-45 Tornado	Status	retired 1959
+North American Rockwell OV-10 Bronco	Status	operational
+North American T-28 Trojan	Status	retired 1994
+North American XA2J Super Savage	Status	retired prototype
+North American XB-70 Valkyrie	Status	retired prototype
+Northrop Grumman B-2 Spirit	Status	operational
+Northrop YA-9	Status	retired prototype
+Northrop YB-35	Status	retired prototype
+Northrop YB-49	Status	retired prototype
+PAK DA	Status	project
+Panavia Tornado	Status	operational
+Percival Provost	Status	retired 1969
+Piper PA-48 Enforcer	Status	retired prototype
+PZL I-22 Iryda	Status	retired 1996
+Republic F-84 Thunderjet	Status	retired 1973
+Republic F-84F Thunderstreak	Status	retired 1991
+Republic F-105 Thunderchief	Status	retired 1984
+Rockwell B-1 Lancer	Status	operational
+Saab 105	Status	operational
+Saab Safari	Status	operational
+SEPECAT Jaguar	Status	operational
+Shin Meiwa PS-1	Status	retired 1989
+Short Seamew	Status	retired 1957
+Short Sperrin	Status	retired prototype
+Short Sturgeon	Status	retired prototypes
+SNCASE Baroudeur	Status	retired prototype
+Soko G-4 Super Galeb	Status	operational
+Soko J-22 Orao & IAR-93	Status	operational
+Sud Aviation Vautour	Status	retired 1979
+Sukhoi Su-7	Status	operational
+Sukhoi Su-17	Status	operational
+Sukhoi Su-24	Status	operational
+Sukhoi Su-25	Status	operational
+Sukhoi Su-34	Status	operational
+Sukhoi T-4	Status	retired prototype
+Tupolev Tu-4	Status	retired 1988
+Tupolev Tu-14	Status	retired 1959
+Tupolev Tu-16	Status	retired 1993
+Tupolev Tu-22	Status	operational
+Tupolev Tu-22M	Status	operational
+Tupolev Tu-85	Status	retired prototype
+Tupolev Tu-95	Status	operational
+Tupolev Tu-142	Status	operational
+Tupolev Tu-160	Status	operational
+Vickers Valiant	Status	retired 1965
+LTV A-7 Corsair II	Status	operational
+Xian H-6	Status	operational
+Xian H-8	Status	retired prototype
+Xian JH-7	Status	operational
+Yakovlev Yak-26	Status	retired prototype
+Yakovlev Yak-28	Status	retired 1992
+AEG G.I	No.built	1
+AEG G.II	No.built	20 ca.
+AEG G.III	No.built	25
+AEG G.IV	No.built	320
+AEG G.V	No.built	151
+AEG N.I	No.built	37
+AEG R.I	No.built	1
+Aero A.11	No.built	440
+Aero A.12	No.built	93
+Aero A.24	No.built	1
+Aero A.30	No.built	20
+Aero A.42	No.built	2
+Aero A.100	No.built	44
+Aero A.101	No.built	143
+Aero A.304	No.built	19
+Aichi B7A	No.built	114
+Aichi D1A	No.built	590
+Aichi D3A	No.built	1,486
+Aichi M6A	No.built	28
+Airco DH.3	No.built	2
+Airco DH.4	No.built	6,295
+Airco DH.9	No.built	4,091
+Airco DH.9A	No.built	1,997
+Airco DH.10	No.built	258
+Airco DH.11	No.built	1
+Airspeed Oxford	No.built	8,586
+Albatros C.III	No.built	2,271[notes 1]
+Albatros C.VII/N.I	No.built	600+
+Albatros G.I	No.built	1
+Albatros G.II	No.built	1
+Albatros G.III	No.built	45
+Amiot 143M	No.built	138
+Amiot 354	No.built	86 ca.
+ANF Les Mureaux 110	No.built	285
+Arado Ar 234	No.built	210
+Archangelski Ar-2	No.built	190
+Armstrong Whitworth Albemarle	No.built	602
+Armstrong Whitworth Atlas	No.built	478
+Armstrong Whitworth A.W.19	No.built	1
+Armstrong Whitworth AW.23	No.built	1
+Armstrong Whitworth F.K.8	No.built	1,650
+Armstrong Whitworth Whitley	No.built	1,814
+Avro 504	No.built	8,970[notes 1]
+Avro 523 Pike	No.built	2
+Avro 529	No.built	2
+Avro 533 Manchester	No.built	3
+Avro 549 Aldershot	No.built	17
+Avro 604 Antelope	No.built	1
+Avro Anson	No.built	11,020[notes 1]
+Avro Lancaster	No.built	7,377
+Avro Lincoln	No.built	604
+Avro Manchester	No.built	209
+Beardmore W.B.1	No.built	1
+Beardmore W.B.VI	No.built	0
+Beechcraft XA-38 Grizzly	No.built	2
+Bellanca 77-140	No.built	4
+Beriev Be-4	No.built	47
+Beriev MBR-2	No.built	1,365[notes 2]
+Blackburn B-3	No.built	2
+Blackburn B-7	No.built	1
+Blackburn Baffin	No.built	97
+Blackburn Beagle	No.built	2
+Blackburn Blackburd	No.built	3
+Blackburn Botha	No.built	580
+Blackburn Cubaroo	No.built	2
+Blackburn Dart	No.built	126
+Blackburn Firebrand	No.built	193
+Blackburn Iris	No.built	5
+Blackburn Kangaroo	No.built	20
+Blackburn Perth	No.built	4
+Blackburn Ripon	No.built	92
+Blackburn Shark	No.built	269
+Blackburn Skua	No.built	192
+Blackburn Velos	No.built	22
+Bleriot XI	No.built	100+
+Bl茅riot 127	No.built	44
+Bloch MB.131	No.built	143
+Bloch MB.174	No.built	225+
+Bloch MB.200	No.built	332
+Boeing B-17 Flying Fortress	No.built	12,731
+Boeing B-29 Superfortress/Washington	No.built	3,970
+Boeing Model 306	No.built	0
+Boeing XB-15	No.built	1
+Boeing XB-38 Flying Fortress	No.built	1
+Boeing XB-39 Superfortress	No.built	1
+Boeing XF8B	No.built	3
+Boeing XPBB Sea Ranger	No.built	1
+Boeing YB-9	No.built	7
+Bolkhovitinov DB-A	No.built	14
+Boulton Paul Bodmin	No.built	2
+Boulton & Paul Bolton	No.built	1
+Boulton Paul Bourges	No.built	3
+Boulton & Paul Bugle	No.built	7
+Boulton Paul P.32	No.built	1
+Boulton Paul Sidestrand	No.built	20
+Boulton Paul Overstrand	No.built	28
+Breda A.8	No.built	1
+Breda A.14	No.built	1
+Breda Ba.46	No.built	1
+Breda Ba.64	No.built	42
+Breda Ba.65	No.built	218
+Breda Ba.88	No.built	149
+Breguet Bre.4	No.built	100 ca.
+Breguet Bre.5 & 6	No.built	50+
+Breguet 14	No.built	7,800
+Breguet 16	No.built	200 ca.
+Breguet 19	No.built	2,700+
+Breguet 270 Series	No.built	227+
+Breguet 521	No.built	34
+Breguet 693	No.built	230
+Brewster SB2A Buccaneer	No.built	771
+Bristol Type 148	No.built	2
+Bristol Beaufighter	No.built	5,928
+Bristol Beaufort	No.built	2,129
+Bristol Berkeley	No.built	3
+Bristol Blenheim	No.built	4,422
+Bristol Bombay	No.built	50
+Bristol Buckingham	No.built	119[notes 1]
+Bristol Braemar	No.built	2
+Bristol TB.8	No.built	54
+CAC Woomera	No.built	2
+CAMS 33	No.built	20
+CAMS 37	No.built	332[notes 2]
+CAMS 55	No.built	112
+CANSA FC.20bis	No.built	6 ca.
+CANT Z.501	No.built	200+
+CANT Z.506	No.built	325+
+CANT Z.1007	No.built	660
+CANT Z.1018	No.built	15
+Caproni Ca.1	No.built	162
+Caproni Ca.2	No.built	9
+Caproni Ca.3	No.built	509
+Caproni Ca.4	No.built	38
+Caproni Ca.5	No.built	664
+Caproni A.P.1	No.built	56 ca.
+Caproni Ca.73	No.built	 unk.
+Caproni Ca.90	No.built	1
+Caproni Ca.101	No.built	unk
+Caproni Ca.111	No.built	148
+Caproni Ca.310	No.built	312
+Caproni Ca.311	No.built	335
+Caproni Ca.313	No.built	271
+Caproni Ca.314	No.built	407
+Caproni Ca.316	No.built	14
+Caproni Ca.355	No.built	1
+Caudron G.4	No.built	1,421
+Caudron R.4	No.built	249
+Chyetverikov ARK-3	No.built	7
+Chyetverikov MDR-3	No.built	2
+Chyetverikov MDR-6	No.built	27
+Consolidated B-24 Liberator	No.built	18,482[notes 2]
+Consolidated B-32 Dominator	No.built	118
+Consolidated P2Y	No.built	78
+Consolidated PBY Catalina	No.built	4,051 ca.
+Consolidated PB2Y Coronado	No.built	217[notes 2]
+Consolidated PB4Y-2 Privateer	No.built	739
+Consolidated XP4Y Corregidor	No.built	1
+Curtiss A-3/A-4 Falcon	No.built	155
+Curtiss A-8	No.built	13
+Curtiss A-12 Shrike	No.built	46
+Curtiss XA-14	No.built	1
+Curtiss A-18 Shrike	No.built	13
+Curtiss B-2 Condor	No.built	13
+Curtiss BF2C Goshawk	No.built	166
+Curtiss CS	No.built	83
+Curtiss F5L	No.built	227
+Curtiss Model H	No.built	478
+Curtiss HS	No.built	1,178
+Curtiss SBC Helldiver	No.built	257
+Curtiss T-32 Condor II	No.built	45
+Curtiss SB2C Helldiver/A-25 Shrike	No.built	7,140
+Curtiss XBTC	No.built	2
+Curtiss XSB3C	No.built	0
+DAR 10	No.built	2
+de Havilland DH.14 Okapi	No.built	3
+de Havilland DH.27 Derby	No.built	2
+de Havilland DH.65 Hound	No.built	1
+de Havilland DH.72	No.built	1
+De Havilland DH.98 Mosquito	No.built	7,781[notes 3]
+De Havilland DH.100 Vampire	No.built	3,268[notes 3]
+DFW R.I	No.built	1
+DFW R.II	No.built	2
+DFW R.III	No.built	0
+Dornier Do N	No.built	26
+Dornier Do 11	No.built	372
+Dornier Do 17	No.built	2,139
+Dornier Do 22	No.built	30 ca.
+Dornier Do 23	No.built	282
+Dornier Do 24	No.built	279
+Dornier Do 215	No.built	105
+Dornier Do 217	No.built	1,925[notes 3]
+Douglas A-1 Skyraider	No.built	3,180
+Douglas A-20 Havoc	No.built	7,478[notes 3]
+Douglas A-26 Invader	No.built	2,452
+Douglas B-18 Bolo	No.built	350
+Douglas B-23 Dragon	No.built	38[notes 2]
+Douglas BTD Destroyer	No.built	30
+Douglas DT	No.built	90
+Douglas SBD Dauntless	No.built	5,936
+Douglas TBD Devastator	No.built	130
+Douglas XB-19	No.built	1
+Douglas XB-22	No.built	0
+Douglas XTB2D Skypirate	No.built	2
+Douglas Y1B-7	No.built	8
+Fairey III	No.built	964
+Fairey Albacore	No.built	800
+Fairey Barracuda	No.built	2,607
+Fairey Battle	No.built	2,185
+Fairey Campania	No.built	62
+Fairey Fawn	No.built	75
+Fairey Ferret	No.built	3
+Fairey Fox	No.built	
+Fairey G.4/31	No.built	1
+Fairey Gordon	No.built	186
+Fairey Hendon	No.built	15
+Fairey P.4/34	No.built	2
+Fairey Seal	No.built	91
+Fairey Swordfish	No.built	2,391
+Farman F.50	No.built	100+
+Farman F.60 Goliath	No.built	3
+Farman F.140 Super Goliath	No.built	9
+Farman F.150	No.built	1+
+Farman F.160	No.built	250
+Farman F.220	No.built	80 ca.[notes 2]
+Felixstowe F.2	No.built	175
+Felixstowe F.3	No.built	182
+Felixstowe F.5	No.built	53
+Felixstowe Fury	No.built	1
+Fiat BR	No.built	250+
+Fiat BRG	No.built	1
+Fiat Br.20	No.built	500+
+Fiat RS.14	No.built	188
+Fieseler Fi 98	No.built	1
+Fieseler Fi 167	No.built	14
+FMA AeMB.2	No.built	16
+Focke-Wulf Fw 42	No.built	0
+Focke-Wulf Fw 200 Condor	No.built	276[notes 2]
+Focke-Wulf Fw 300	No.built	0
+Focke-Wulf Ta 400	No.built	0
+Fokker C.V	No.built	955
+Fokker C.X	No.built	71
+Fokker K.I	No.built	1
+Fokker T.IV	No.built	33
+Fokker T.V	No.built	16
+Fokker T.VIII	No.built	36
+Fokker XB-8	No.built	7
+Friedrichshafen FF.41	No.built	9
+Friedrichshafen G.I	No.built	1
+Friedrichshafen G.II	No.built	35
+Friedrichshafen G.III	No.built	338
+Friedrichshafen G.IV	No.built	1
+Friedrichshafen G.V	No.built	1
+Gloster Goral	No.built	1
+Gloster TSR.38	No.built	1
+Gotha G.I	No.built	20
+Gotha G.II	No.built	11
+Gotha G.III	No.built	25
+Gotha G.IV	No.built	230
+Gotha G.V	No.built	205
+Gotha G.VI	No.built	2
+Gotha GL.VII	No.built	20 ca.
+Gotha G.VIII	No.built	1
+Gotha G.IX	No.built	90 ca.
+Gotha G.X	No.built	2
+Grahame-White Ganymede	No.built	1
+Great Lakes BG	No.built	61
+Grigorovich TB-5	No.built	1
+Grumman AF Guardian	No.built	389[notes 4]
+Grumman TBF Avenger	No.built	9,839
+Grumman XTB2F	No.built	0
+Hall XPTBH	No.built	1
+Handley Page Type O	No.built	600
+Handley Page V/1500	No.built	41
+Handley Page H.P.19 Hanley	No.built	3
+Handley Page H.P.24 Hyderabad	No.built	44
+Handley Page H.P.25 Hendon	No.built	6
+Handley Page H.P.28 Handcross	No.built	3
+Handley Page H.P.31 Harrow	No.built	2
+Handley Page H.P.33 Hinaidi	No.built	36
+Handley Page H.P.34 Hare	No.built	1
+Handley Page H.P.43	No.built	1
+Handley Page H.P.46	No.built	1
+Handley Page H.P.47	No.built	1
+Handley Page H.P.50 Heyford	No.built	125
+Handley Page H.P.51	No.built	1
+Handley Page Halifax	No.built	6,178[notes 2]
+Handley Page Hampden/Hereford	No.built	1,430
+Handley Page Harrow	No.built	100[notes 2]
+Hawker Audax	No.built	700+
+Hawker Hardy	No.built	48
+Hawker Hart	No.built	992
+Hawker Hector	No.built	179
+Hawker Henley	No.built	200
+Hawker Hind	No.built	528
+Hawker Horsley/Dantorp	No.built	124
+Hawker Typhoon	No.built	3,317
+Heinkel He 45	No.built	512
+Heinkel He 50	No.built	78
+Heinkel He 59	No.built	142
+Heinkel He 70	No.built	324[notes 2]
+Heinkel He 111	No.built	6,508[notes 2]
+Heinkel He 115	No.built	138
+Heinkel He 177	No.built	1,169
+Heinkel He 274	No.built	2
+Heinkel He 277	No.built	0
+Henschel Hs 123	No.built	250 ca.
+Henschel Hs 129	No.built	865
+Hiro G2H	No.built	8
+Hiro H1H	No.built	65
+Hiro H2H	No.built	17
+Hiro H4H	No.built	47
+Huff-Daland XB-1	No.built	1
+Ilyushin DB-3	No.built	1,528
+Ilyushin Il-2	No.built	36,183
+Ilyushin Il-4	No.built	5,256
+Ilyushin Il-10 & Avia B-33	No.built	6,166
+Junkers A 35	No.built	186
+Junkers Ju 52	No.built	4,845[notes 2]
+Junkers Ju 86	No.built	900 ca.[notes 2]
+Junkers Ju 87	No.built	6,500 ca.
+Junkers Ju 88	No.built	15,000 ca.[notes 3]
+Junkers Ju 89	No.built	2
+Junkers Ju 188	No.built	1,234
+Junkers Ju 287	No.built	2
+Junkers Ju 288	No.built	22
+Junkers Ju 290	No.built	65
+Junkers Ju 388	No.built	100 ca.
+Junkers Ju 488	No.built	2
+Junkers Ju 390	No.built	2
+Junkers K 37	No.built	2
+Junkers K 43	No.built	2,000+[notes 2]
+Junkers K 47	No.built	23
+Junkers R 42/JuG-1	No.built	52
+Kaiser-Fleetwings XBTK	No.built	5
+Kalinin K-7	No.built	1
+Kawanishi E7K	No.built	533
+Kawanishi H6K	No.built	215
+Kawanishi H8K	No.built	167
+Kawasaki Ki-3	No.built	243
+Kawasaki Ki-32	No.built	854
+Kawasaki Ki-48	No.built	1,997
+Kawasaki Ki-102	No.built	238
+Kennedy Giant	No.built	1
+Keystone B-3	No.built	36
+Keystone B-4	No.built	30
+Keystone B-5	No.built	30
+Keystone B-6	No.built	44
+Kharkov KhAI-5	No.built	500+
+Kyushu Q1W	No.built	153
+LACAB GR.8	No.built	1
+Lat茅co猫re 290	No.built	35
+Lat茅co猫re 298	No.built	121
+Lat茅co猫re 302	No.built	3
+Lat茅co猫re 381	No.built	3
+Lat茅co猫re 521 & 523	No.built	4
+Lat茅co猫re 550	No.built	1
+Lat茅co猫re 570	No.built	1
+Lat茅co猫re 582	No.built	1
+Lat茅co猫re 611	No.built	1
+Letov 艩-6	No.built	35
+Letov 艩-16	No.built	89
+Letov 艩-28, 128, 228, 328, 428 & 528	No.built	470
+Letov 艩-33	No.built	1
+Levasseur PL.2	No.built	11
+Levasseur PL.7	No.built	46
+Levasseur PL.14	No.built	30
+Levasseur PL.15	No.built	17
+Levasseur PL.107	No.built	2
+Linke-Hofmann R.I	No.built	4
+Linke-Hofmann R.II	No.built	2
+Lior茅 et Olivier LeO H-13	No.built	30
+Lior茅 et Olivier LeO 20	No.built	363 ca.
+Lior茅 et Olivier LeO 25	No.built	97
+Lior茅 et Olivier LeO 45	No.built	561
+Loire 70	No.built	8
+Lockheed Hudson	No.built	2,941
+Lockheed P2V Neptune	No.built	1,132
+Lockheed Ventura/Harpoon	No.built	3,010
+Lockheed XB-30	No.built	0
+LWS-6 Zubr	No.built	17
+Macchi MC.99	No.built	1
+Martin AM Mauler	No.built	151
+Martin B-10 & related	No.built	342
+Martin B-26 Marauder	No.built	5,288
+Martin Baltimore	No.built	1,575
+Martin Maryland	No.built	450
+Martin MBT/MT	No.built	20
+Martin NBS-1	No.built	130
+Martin PBM Mariner	No.built	1,285
+Martin T3M	No.built	124
+Martin T4M	No.built	155
+Martin XB-27	No.built	0
+Martin XB-33 Super Marauder	No.built	0
+Martinsyde G.100 and 102 Elephant	No.built	271
+Messerschmitt Me 262	No.built	1,430
+Messerschmitt Me 264	No.built	3
+Mitsubishi 1MT	No.built	20
+Mitsubishi 2MB1	No.built	48
+Mitsubishi 3MT5	No.built	11
+Mitsubishi B1M	No.built	443
+Mitsubishi B2M	No.built	206
+Mitsubishi B5M	No.built	125 ca.
+Mitsubishi G1M	No.built	1
+Mitsubishi G3M	No.built	1,048
+Mitsubishi G4M	No.built	2,435[notes 2]
+Mitsubishi Ki-1	No.built	118
+Mitsubishi Ki-2	No.built	187
+Mitsubishi Ki-20	No.built	6
+Mitsubishi Ki-21	No.built	2,064
+Mitsubishi Ki-30	No.built	704
+Mitsubishi Ki-51	No.built	2,385
+Mitsubishi Ki-67	No.built	767
+Morane-Saulnier S	No.built	1
+Morane-Saulnier T	No.built	90
+Morane-Saulnier TRK	No.built	1
+Nakajima B5N	No.built	1,150 ca.
+Nakajima B6N	No.built	1,268
+Nakajima E4N	No.built	153
+Nakajima E8N	No.built	755
+Nakajima G5N	No.built	6
+Nakajima G8N	No.built	4
+Nakajima G10N	No.built	0
+Nakajima Ki-4	No.built	516
+Nakajima Ki-19	No.built	4
+Nakajima Ki-49	No.built	819
+Nakajima LB-2	No.built	1
+Naval Aircraft Factory SBN	No.built	31
+Nieuport 15	No.built	4
+Nieuport 18 and 19	No.built	0
+Nieuport London	No.built	2
+Nieuport-Delage NiD 30B	No.built	0
+Norman Thompson N.T.4	No.built	26
+North American A-27	No.built	10
+North American T-6 Texan	No.built	15,495[notes 1]
+North American XB-21	No.built	1
+North American B-25 Mitchell	No.built	9,984
+North American XB-28	No.built	2
+Northrop A-17	No.built	446
+Northrop BT	No.built	55
+Northrop N-3PB	No.built	24
+Parnall G.4/31	No.built	1
+Parnall Pike	No.built	1
+Parnall Possum	No.built	2
+Paul Schmitt PS.6	No.built	10 ca.
+Paul Schmitt PS.7	No.built	150 ca.
+Petlyakov Pe-2	No.built	11,400
+Petlyakov Pe-8	No.built	93
+Piaggio P.108	No.built	35 ca.
+Piaggio P.133	No.built	0
+Polikarpov R-5	No.built	5,170+
+Polikarpov R-Z	No.built	1,031
+Polikarpov TB-2	No.built	1
+Potez 15	No.built	545
+Potez 25	No.built	4,000 ca.
+Potez 540	No.built	271
+Potez 633	No.built	60 ca.
+PZL.23 Kara艣	No.built	253
+PZL.37 Los	No.built	120+
+PZL.43 Kara艣	No.built	52
+Republic P-47	No.built	15,678[notes 3]
+Royal Aircraft Factory B.E.2	No.built	3,500 ca.
+Royal Aircraft Factory F.E.2	No.built	1,939
+Royal Aircraft Factory R.E.5	No.built	24
+Royal Aircraft Factory R.E.7	No.built	230
+Royal Aircraft Factory R.E.8	No.built	4,077
+Rumpler G.I, II & III	No.built	220
+Rumpler Taube	No.built	263+
+Saab 17	No.built	323
+Saab 18	No.built	245
+SAB AB-20	No.built	1
+SAB AB-80	No.built	1
+Sablatnig N.I	No.built	1
+Saro A.33	No.built	1
+Saro Lerwick	No.built	21
+Saro London	No.built	31
+Saunders Severn	No.built	1
+Saunders Valkyrie	No.built	1
+Savoia-Marchetti S.55	No.built	200+[notes 2]
+Savoia-Marchetti S.59	No.built	240+
+Savoia-Marchetti SM.78	No.built	49
+Savoia-Marchetti SM.79	No.built	1,350
+Savoia-Marchetti SM.81	No.built	535
+Savoia-Marchetti SM.82	No.built	720
+Savoia-Marchetti SM.84	No.built	300+
+Short Bomber	No.built	83
+Short N.2B	No.built	2
+Short Shirl	No.built	4
+Short Type 81	No.built	9
+Short Type 166	No.built	26
+Short Type 184	No.built	936
+Short Type 320	No.built	127
+Short Type 827 & 830	No.built	136
+Short Empire	No.built	42[notes 2]
+Short Knuckleduster	No.built	1
+Short Rangoon	No.built	6
+Short Sarafand	No.built	1
+Short Seaford	No.built	10
+Short Shetland	No.built	2
+Short Singapore	No.built	37
+Short Stirling	No.built	2,383[notes 2]
+Short Sunderland	No.built	777
+SIAI S.16	No.built	242 ca.
+Siddeley-Deasy Siniai	No.built	1
+Siemens-Schuckert R.I	No.built	1
+Siemens-Schuckert R.II	No.built	1
+Siemens-Schuckert R.III	No.built	1
+Siemens-Schuckert R.IV	No.built	1
+Siemens-Schuckert R.V	No.built	1
+Siemens-Schuckert R.VI	No.built	1
+Siemens-Schuckert R.VII	No.built	1
+Siemens-Schuckert R.VIII	No.built	2
+Siemens-Schuckert R.IX	No.built	0
+Sikorsky Ilya Muromets	No.built	85+
+Sopwith 1陆 Strutter	No.built	5,639
+Sopwith B.1	No.built	2
+Sopwith Cuckoo	No.built	232
+Sopwith Rhino	No.built	2
+Sopwith Special torpedo seaplane Type C	No.built	1
+Sopwith Type 860	No.built	22
+Sukhoi Su-2	No.built	910
+Supermarine B.12/36	No.built	0
+Supermarine Type 322	No.built	2
+Supermarine Nanok	No.built	1
+Supermarine Scapa	No.built	1
+Supermarine Southampton	No.built	84
+Supermarine Stranraer	No.built	57
+Tachikawa Ki-36	No.built	1,334
+Tachikawa Ki-74	No.built	16
+Tarrant Tabor	No.built	1
+Tupolev SB	No.built	6,945
+Tupolev TB-1	No.built	218
+Tupolev TB-3	No.built	819
+Tupolev TB-4	No.built	1
+Tupolev TB-6	No.built	0
+Tupolev Tu-2	No.built	2,257
+Vickers Type 207	No.built	1
+Vickers Type 253	No.built	1
+Vickers Valentia	No.built	82
+Vickers Valiant	No.built	1
+Vickers Valparaiso	No.built	28
+Vickers Vanox	No.built	1
+Vickers Victory Bomber	No.built	0
+Vickers Vincent and Vildebeest	No.built	406
+Vickers Vimy	No.built	239
+Vickers Virginia	No.built	124
+Vickers Vixen	No.built	20
+Vickers Warwick	No.built	842
+Vickers Wellesley	No.built	177
+Vickers Wellington	No.built	11,464
+Vickers Windsor	No.built	3
+Voisin III	No.built	800+
+Voisin V	No.built	350 ca.
+Voisin VIII	No.built	1,100 ca.
+Voisin X	No.built	900 ca.
+Voisin XI	No.built	10 ca.
+Voisin XII	No.built	1
+Vought F4U Corsair	No.built	12,571
+Vought SB2U Vindicator/Chesapeake	No.built	260
+Vought TBU/Consolidated TBY Sea Wolf	No.built	180
+Vultee V-11	No.built	224
+Vultee Vengeance	No.built	1,528
+Weiss WM-21 S贸lyom	No.built	128
+Westland Lysander	No.built	1,786
+Westland PV-3	No.built	1
+Westland Wallace	No.built	172
+Westland Wapiti	No.built	585
+Westland Witch	No.built	1
+Wight Seaplane	No.built	52
+Witteman-Lewis XNBL-1 (Barling Bomber)	No.built	1
+Yermolayev Yer-2	No.built	365 ca.
+Yokosuka B3Y	No.built	129
+Yokosuka B4Y	No.built	205
+Yokosuka D4Y	No.built	2,038
+Yokosuka E1Y	No.built	320
+Yokosuka P1Y	No.built	1,102
+Zeppelin-Lindau Rs.I	No.built	1
+Zeppelin-Lindau Rs.II	No.built	1
+Zeppelin-Lindau Rs.III	No.built	1
+Zeppelin-Lindau Rs.IV	No.built	1
+Zeppelin-Staaken VGO.I	No.built	1
+Zeppelin-Staaken VGO.II	No.built	1
+Zeppelin-Staaken VGO.III/R.III	No.built	1
+Zeppelin-Staaken R.IV	No.built	1
+Zeppelin-Staaken R.V	No.built	1
+Zeppelin-Staaken R.VI	No.built	18
+Zeppelin-Staaken R.VII	No.built	1
+Zeppelin-Staaken R.XV	No.built	3
+Zeppelin-Staaken R.XVI	No.built	3
+Zeppelin-Staaken R.XIV	No.built	3
+Aermacchi MB-326	No.built	650[notes 1]
+Aermacchi MB-339	No.built	213+[notes 1]
+Aero L-159 Alca	No.built	72
+Avro Shackleton	No.built	185[notes 4]
+Avro Vulcan	No.built	136
+BAC Jet Provost	No.built	741[notes 1]
+BAC Strikemaster	No.built	146
+BAC TSR-2	No.built	1
+Beriev Be-6	No.built	123
+Beriev Be-10	No.built	28
+Beriev Be-12	No.built	143
+Boeing B-47 Stratojet	No.built	2,032
+Boeing B-50 Superfortress	No.built	370
+Boeing B-52 Stratofortress	No.built	744
+Boeing XB-54	No.built	0
+Boeing P-8 Poseidon	No.built	15+
+Boeing XB-56	No.built	0
+Boeing XB-59	No.built	0
+Breguet Aliz茅	No.built	89
+Breguet Atlantique	No.built	115
+Breguet Taon	No.built	2
+Breguet Vultur	No.built	2
+Blackburn B-48 Firecrest	No.built	3
+Blackburn Buccaneer	No.built	206
+British Aerospace Harrier II	No.built	143
+Canadair CL-41 Tebuan	No.built	20
+Canadair CP-107 Argus	No.built	33
+CASA CN-235MPA	No.built	
+Cessna A-37 Dragonfly	No.built	577
+Convair B-36	No.built	384
+Convair B-58 Hustler	No.built	116
+Convair XB-46	No.built	1
+Convair YB-60	No.built	2
+Dassault/Dornier Alpha Jet	No.built	480[notes 1]
+Dassault-Breguet Super 脡tendard	No.built	85
+Dassault Mirage IV	No.built	66
+Dassault Mirage 2000N/2000D	No.built	161
+Dassault Ouragan	No.built	567
+de Havilland Venom	No.built	1,431[notes 3]
+Dornier Do 28	No.built	10
+Dornier Do 228	No.built	270[notes 2]
+Douglas A2D Skyshark	No.built	8
+Douglas A-3 Skywarrior	No.built	282
+Douglas A-4 Skyhawk	No.built	2,960
+Douglas B-66 Destroyer	No.built	72
+EADS-CASA C295MP	No.built	86[notes 2]
+Embraer EMB 312 Tucano	No.built	624
+Embraer EMB 314 Super Tucano	No.built	158
+English Electric Canberra	No.built	949
+Fairchild Republic A-10 Thunderbolt II	No.built	716
+Fairey Gannet	No.built	348
+Fiat G.91	No.built	770
+Fiat G.91Y	No.built	67
+FMA IA 58 Pucar谩	No.built	150+
+Fokker F-27 maritime	No.built	
+Fouga CM.170 Magister	No.built	929
+General Dynamics F-111	No.built	563
+Grumman A-6 Intruder	No.built	693
+Grumman F9F Panther	No.built	1,382
+Grumman OV-1 Mohawk	No.built	380
+Grumman S-2 Tracker	No.built	1,284
+HAL HF-24 Marut	No.built	147
+HAL HJT-16 Kiran	No.built	190
+Handley Page Victor	No.built	86
+Harbin H-5	No.built	319+
+Harbin H-7	No.built	 unk.
+Harbin SH-5	No.built	6
+Hawker Hunter	No.built	278
+Hawker Siddeley Harrier	No.built	900
+Hawker-Siddeley Hawk	No.built	900+[notes 1]
+Hawker-Siddeley Nimrod	No.built	51
+Hispano HA-200	No.built	200[notes 1]
+I.Ae. 24 Calquin	No.built	101
+Ilyushin Il-28	No.built	6,316
+Ilyushin Il-38	No.built	58
+Ilyushin Il-54	No.built	2
+Kawasaki P-1	No.built	4
+Lockheed F-117 Nighthawk	No.built	64
+Lockheed P-3 Orion/CP-140 Aurora/Arcturus	No.built	757
+Lockheed S-3 Viking	No.built	188
+Martin B-57 Canberra	No.built	403[notes 5]
+Martin P4M Mercator	No.built	21
+Martin P5M Marlin	No.built	285
+Martin P6M SeaMaster	No.built	12
+Martin XB-48	No.built	2
+Martin XB-51	No.built	2
+McDonnell Douglas A-12 Avenger II	No.built	0
+McDonnell Douglas AV-8B Harrier II	No.built	323
+McDonnell Douglas F-4 Phantom II	No.built	5,195[notes 3]
+McDonnell Douglas F/A-18 Hornet	No.built	1,480
+Mikoyan MiG-27	No.built	1,075
+Morane-Saulnier Epervier	No.built	2
+Myasishchev M-4	No.built	93
+Myasishchev M-50	No.built	2
+Nanchang Q-5	No.built	1,300
+Nanchang Q-6	No.built	 unk.
+North American A-5 Vigilante	No.built	156
+North American AJ/A-2 Savage	No.built	143
+North American B-45 Tornado	No.built	143
+North American Rockwell OV-10 Bronco	No.built	370
+North American T-28 Trojan	No.built	1,948
+North American XA2J Super Savage	No.built	1
+North American XB-70 Valkyrie	No.built	2
+Northrop Grumman B-2 Spirit	No.built	21
+Northrop YA-9	No.built	2
+Northrop YB-35	No.built	4
+Northrop YB-49	No.built	4
+PAK DA	No.built	0
+Panavia Tornado	No.built	992[notes 3]
+Percival Provost	No.built	461[notes 1]
+Piper PA-48 Enforcer	No.built	4
+PZL I-22 Iryda	No.built	17
+Republic F-84 Thunderjet	No.built	7,524
+Republic F-84F Thunderstreak	No.built	3,428
+Republic F-105 Thunderchief	No.built	833
+Rockwell B-1 Lancer	No.built	104
+Saab 105	No.built	192[notes 1]
+Saab Safari	No.built	462 ca.[notes 1]
+SEPECAT Jaguar	No.built	543
+Shin Meiwa PS-1	No.built	21
+Short Seamew	No.built	26
+Short Sperrin	No.built	2
+Short Sturgeon	No.built	28
+SNCASE Baroudeur	No.built	5
+Soko G-4 Super Galeb	No.built	91[notes 1]
+Soko J-22 Orao & IAR-93	No.built	410
+Sud Aviation Vautour	No.built	149[notes 3]
+Sukhoi Su-7	No.built	1,847
+Sukhoi Su-17	No.built	2,867
+Sukhoi Su-24	No.built	1,400 ca.
+Sukhoi Su-25	No.built	1,024
+Sukhoi Su-34	No.built	100
+Sukhoi T-4	No.built	1
+Tupolev Tu-4	No.built	847
+Tupolev Tu-14	No.built	150 ca.
+Tupolev Tu-16	No.built	1,509
+Tupolev Tu-22	No.built	311
+Tupolev Tu-22M	No.built	497
+Tupolev Tu-85	No.built	2
+Tupolev Tu-95	No.built	500+
+Tupolev Tu-142	No.built	100
+Tupolev Tu-160	No.built	35
+Vickers Valiant	No.built	107
+LTV A-7 Corsair II	No.built	1,569
+Xian H-6	No.built	162+
+Xian H-8	No.built	1
+Xian JH-7	No.built	114+
+Yakovlev Yak-26	No.built	10
+Yakovlev Yak-28	No.built	1,180

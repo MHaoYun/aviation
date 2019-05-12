@@ -1,0 +1,3100 @@
+﻿Arturo MerinoBenítez	Country	Chile
+DidierMasson	Country	France
+Frederick WilliamLanchaster	Country	United Kingdom
+ClémentAder	Country	France
+Mary Anita "Neta"Snook Southern	Country	United States
+EllyBeinhorn	Country	Germany
+PierreRobin	Country	France
+John de MiltSeverne	Country	United Kingdom
+DonCameron	Country	United Kingdom
+MaryEllis	Country	United Kingdom
+JánosFrint	Country	Hungary
+Henry K.Millicer	Country	Poland
+Edwin HarrisDunning	Country	United Kingdom
+CharlesVoisin	Country	France
+Benjamin OdellHoward	Country	United States
+Herbert G.Brackley	Country	United Kingdom
+FritzRumey	Country	Germany
+Eugene BurtonEly	Country	United States
+Andrew Frederick WeatherbyBeauchamp-Proctor	Country	South Africa
+Nigel DesmondNorman	Country	United Kingdom
+HansGrade	Country	Germany
+William PowellLear	Country	United States
+WernerJunck	Country	Germany
+MaryBarr	Country	United States
+FreydisSharland	Country	United Kingdom
+Sydney VincentSippe	Country	United Kingdom
+AlbertoSantos-Dumont	Country	Brazil
+AnnBaumgartner	Country	United States
+Frederick Robert GordonMcCall	Country	Canada
+Steven FerenczUdvar-Házy	Country	Hungary
+ElinorSmith	Country	United States
+FranciszekŻwirko	Country	Poland
+Marcel-GeorgesBrindejonc des Moulinais	Country	France
+MarvelCrosson	Country	United States
+Edwin AlbertLink	Country	United States
+Frederick HandleyPage	Country	United Kingdom
+Nguen VanCoc	Country	Viet Nam
+PeteMcLeod	Country	Canada
+HenriDufaux	Country	Switzerland
+Marmaduke Thomas St JohnPattle	Country	South Africa
+BertrandPiccard	Country	Switzerland
+ArmandDufaux	Country	Switzerland
+Bernard H.Pietenpol	Country	United States
+JacquelineAuriol	Country	France
+Oskar Gustav RudolfBerthold	Country	Germany
+GeorgeCayley	Country	United Kingdom
+KárolyKaszala	Country	Hungary
+William EarlJones	Country	United Kingdom
+HubertScott-Paine	Country	United Kingdom
+GyulaBusa	Country	Hungary
+Charles EdwardKingsford Smith	Country	Australia
+Raymond John PaulParer	Country	Australia
+Cyril FrankUwins	Country	United Kingdom
+FélixAmiot	Country	France
+MargaretAdams	Country	Australia
+Leman BozkurtAltınçekiç	Country	Turkey
+James Howard "Dutch"Kindelberger	Country	United States
+Pierre-GeorgesLatécoère	Country	France
+Violet "Vi"Milstead	Country	Canada
+Edgar WiknerPercival	Country	Australia
+RoyChadwick	Country	United Kingdom
+HansJacobs	Country	Germany
+Preston AlbertWatson	Country	United Kingdom
+MaggieGee	Country	United States
+AmeliaEarhart	Country	United States
+Frank SowterBarnwell	Country	United Kingdom
+Stanley EdwardSpencer	Country	United Kingdom
+Artur de Sacadura FreireCabral	Country	Portugal
+KatherineStinson	Country	United States
+Emily HowellWarner	Country	United States
+FrançoisDenhaut	Country	France
+ErnőRubik	Country	Hungary
+GeorgWulf	Country	Germany
+Henry Charles AlexandrePotez	Country	France
+Alan JohnCobham	Country	United Kingdom
+Anne-JeanRobert	Country	France
+Oliver EdwinSimmonds	Country	United Kingdom
+MatthiasDolderer	Country	Germany
+Florence Lowe "Pancho"Barnes	Country	United States
+JuliusArigi	Country	Germany
+Bentfield CharlesHucks	Country	United Kingdom
+Théodore Clovis EdmondLemartin	Country	France
+TraianVuia	Country	Romania
+Richard WilliamPearse	Country	New Zealand
+JeanDélémontez	Country	France
+JanAmbus	Country	Slovakia
+ZygmuntPulawski	Country	Poland
+PollyVacher	Country	United Kingdom
+AlbertPlesman	Country	Netherlands
+LudwigBölkow	Country	Germany
+ErichLöwenhardt	Country	Germany
+Charles WillisHolman	Country	United States
+François Laurentd'Arlandes	Country	France
+Patricia LyleGraham	Country	Australia
+MartinSchempp	Country	Germany
+First NameLast Name	Country	Country
+Sidney NormanWebster	Country	United Kingdom
+JerrieCobb	Country	United States
+Michael EugeneMangold	Country	United States
+Jeana LeeYeager	Country	United States
+Bertrand BlanchardAcosta	Country	United States
+First NameLast Name	Country	Country
+First NameLast Name	Country	Country
+HannaReitsch	Country	Germany
+DanielGuggenheim	Country	United States
+FrançoisColi	Country	France
+Wiley HardemanPost	Country	United States
+ItaloBalbo	Country	Italy
+RichardFairey	Country	United Kingdom
+MartheNiel	Country	France
+Blanche StuartScott	Country	United States
+Wilfrid ThomasReid	Country	United Kingdom
+James Thomas ByfordMcCudden	Country	United Kingdom
+Cecil LawrencePashley	Country	United Kingdom
+Pamela AnneMelroy	Country	United States
+Harry GeorgeHawker	Country	Australia
+Wilfred AnthonyYackey	Country	United States
+Sergey VladimirovichIlyushin	Country	Russian Federation
+John Alexander DouglasMcCurdy	Country	Canada
+Daniel JohnMaloney	Country	United States
+Anthony Herman GerardFokker	Country	Netherlands
+George BertramCockburn	Country	United Kingdom
+Manuel John "Pete"Fernandez, Jr.	Country	United States
+Heinz-WolfgangSchnaufer	Country	Germany
+Eino IlmariJuutilainen	Country	Finland
+Allan HainesLockheed	Country	United States
+CharlesFauvel	Country	France
+Henry PhillipFolland	Country	United Kingdom
+AlbertBall	Country	United Kingdom
+MaxHolste	Country	France
+Viktor FedorovichBolkhovitinov	Country	Russian Federation
+AdaRogato	Country	Brazil
+JiroHorikoshi	Country	Japan
+LaurentSeguin	Country	France
+OttoLilienthal	Country	Germany
+YoshihideMuroya	Country	Japan
+Giovanni BattistaCaproni	Country	Italy
+Julie AnnGibson	Country	United Kingdom
+Raymond P.Collishaw	Country	Canada
+SheilaScott	Country	United Kingdom
+Robert AlexanderLittle	Country	Australia
+ClaudeDornier	Country	Germany
+Reuben HollisFleet	Country	United States
+Glenn LutherMartin	Country	United States
+Joan Lily AmeliaHughes	Country	United Kingdom
+Ernest ThompsonWillows	Country	United Kingdom
+Brendan Eamonn FergusFinucane	Country	United Kingdom
+Bartolomeu Lourenço deGusmão	Country	Portugal
+GrahamGilmour	Country	United Kingdom
+JeanHubert	Country	France
+WilliamSchweizer	Country	United States
+Hershel ClayLacy	Country	United States
+Alexander FedorovichMozhayskiy	Country	Russian Federation
+Robert BilcliffeLoraine	Country	United Kingdom
+Richard FrancisGordon Jr.	Country	United States
+William SeftonBrancker	Country	United Kingdom
+BerntBalchen	Country	Norway
+PaulBonhomme	Country	United Kingdom
+Vladimir MikhailovichPetlyakov	Country	Russian Federation
+Ivan NikitovichKozhedub	Country	Russian Federation
+First NameLast Name	Country	Country
+Percy SinclairPilcher	Country	United Kingdom
+LouisSeguin	Country	France
+Charles BarbinDeBellevue	Country	United States
+LudovicArrachart	Country	France
+Antony HabersackJannus	Country	United States
+Edna GardnerWhyte	Country	United States
+WolfLemke	Country	Germany
+JoaquínLoriga Taboada	Country	Spain
+William OkeManning	Country	United Kingdom
+Richard Glenn "Dick"Rutan	Country	United States
+JimmyWedell	Country	United States
+Joseph-MichelMontgolfier	Country	France
+WalterMittelholzer	Country	Switzerland
+SydneyCamm	Country	United Kingdom
+JohnCunningham	Country	United Kingdom
+Édouardde Nieuport	Country	France
+Robert CharlesMorane	Country	France
+StanisławWigura	Country	Poland
+George JacksonMead	Country	United States
+Mary Wallace "Wally"Funk	Country	United States
+Louis PierreMouillard	Country	France
+William BushnellStout	Country	United States
+JerzyDrzewiecki	Country	Poland
+BessieColeman	Country	United States
+GiacomoD'Angelis	Country	France
+Edward HenryHeinemann	Country	United States
+EneaBossi	Country	Italy
+ClydeCessna	Country	United States
+Diego MarínAguilera	Country	Spain
+Alexander SergeyevichYakovlev	Country	Russian Federation
+Mary RawlinsonCreason	Country	United States
+Herbert John LouisHinkler	Country	Australia
+JamesMartin	Country	United Kingdom
+Alexander Adolphus DumfriesHenshaw	Country	United Kingdom
+First NameLast Name	Country	Country
+MelissaHaney	Country	Canada
+JohnStringfellow	Country	United Kingdom
+William George "Billy"Barker	Country	Canada
+First NameLast Name	Country	Country
+Gladys "Penny"Thompson	Country	United States
+SándorKasza	Country	Hungary
+Joaquín GarcíaMorato	Country	Spain
+BenedettaWillis	Country	United Kingdom
+First NameLast Name	Country	Country
+Hezârfen AhmedÇelebi	Country	Turkey
+BélaMacourek	Country	Hungary
+Donald WillsDouglas	Country	United States
+Michael WinstonMelvill	Country	Saudi Arabia
+CarolRabadi	Country	Jordan
+HenryFord	Country	United States
+First NameLast Name	Country	Country
+AntonieStrassmann	Country	Germany
+PierreLevasseur	Country	France
+EmilyHowell Warner	Country	United States
+SteveHinton	Country	United States
+MattHall	Country	Australia
+Samuel PierpontLangley	Country	United States
+GiovanniAgusta	Country	Italy
+GiulioMacchi	Country	Italy
+FerencGräser	Country	Hungary
+Lloyd CarltonStearman	Country	United States
+Frank EdwardBoland	Country	United States
+João Ribeiro deBarros	Country	Brazil
+Lyman WiswellGilmore	Country	United States
+JeanBird	Country	United Kingdom
+BettyGillies	Country	United States
+RudolfSzepessy-Sokoll	Country	Hungary
+LuisCandelaria	Country	Argentina
+RoseLok	Country	China
+IgoEtrich	Country	Austria
+Douglas Robert SteuartBader	Country	United Kingdom
+Jean-MarieLe Bris	Country	France
+Mary GoodrichJenson	Country	United States
+IvanSarić	Country	Serbia
+Neville FrederickDuke	Country	United Kingdom
+René PaulFonck	Country	France
+MikhailGurevich	Country	Russian Federation
+Richard IraBong	Country	United States
+ReimarHorten	Country	Germany
+JeanBatten	Country	New Zealand
+Walter HuntLongton	Country	United Kingdom
+Ivy MayPearce	Country	Australia
+Noel PembertonBilling	Country	United Kingdom
+Saarah HameedAhmed	Country	India
+Thomas PaulPoberezny	Country	United States
+Francis CharlesChichester	Country	United Kingdom
+Dean CullomSmith	Country	United States
+Edwin RowlandMoon	Country	United Kingdom
+StephenLatchford	Country	United States
+Abu Nasr Isma'il ibn Hammadal-Jawhari	Country	India
+Charles J.Fern	Country	United States
+HenriCoanda	Country	Romania
+Francesco dePinedo	Country	Italy
+Lagâri HasanÇelebi	Country	Turkey
+GeorgeEdwards	Country	United Kingdom
+LadislaoPazmany	Country	Hungary
+James HaroldDoolittle	Country	United States
+HowardPixton	Country	United Kingdom
+Marga vonEtzdorf	Country	Germany
+BertramDickson	Country	United Kingdom
+MikeBannister	Country	United Kingdom
+OpalKunz	Country	United States
+Andrei NikolayevichTupolev	Country	Russian Federation
+Vsevolod MikhaylovichAbramovich	Country	Russian Federation
+First NameLast Name	Country	Country
+Georgy MikhailovichBeriev	Country	Georgia
+Jens Tryggve HermanGran	Country	Norway
+Nikolai NikolaevichPolikarpov	Country	Russian Federation
+JanWnęk	Country	Poland
+RamónFranco	Country	Spain
+Ross MacphersonSmith	Country	Australia
+YvesRousseau	Country	France
+Dean IvanLamb	Country	United States
+Frederick NicholasSlingsby	Country	United States
+Inglis MooreUppercu	Country	United States
+AmyJohnson	Country	United Kingdom
+Katherine Sui FunCheung	Country	China
+WilburWright	Country	United States
+JorgeLoring Martinez	Country	Spain
+Edward CorringhamMannock	Country	United Kingdom
+RoyFedden	Country	United Kingdom
+Geraldine FredritzMock	Country	United States
+Horace LeonardShort	Country	United Kingdom
+RosinaFerrario	Country	Italy
+VannevarBush	Country	United States
+Pierre ÉmileTaddéoli	Country	Switzerland
+LéonMorane	Country	France
+AlfredRenard	Country	Belgium
+GiuseppeCei	Country	Italy
+CookCleland	Country	United States
+Edward VernonRickenbacker	Country	United States
+YuanHuangtou	Country	China
+BerylMarkham	Country	United Kingdom
+ThérèsePeltier	Country	France
+StanisławSkalski	Country	Poland
+Adolphe CélestinPégoud	Country	France
+John DavenportSiddeley	Country	United Kingdom
+Clement MelvilleKeys	Country	United States
+RoscoeTurner	Country	United States
+GerhardFieseler	Country	Germany
+Rodney RayLewis	Country	United States
+RichardBell-Davies	Country	United Kingdom
+SteveFossett	Country	United States
+Eileen MarieCollins	Country	United States
+Albert W.Mooney	Country	United States
+FlorenceKlingensmith	Country	United States
+Alviine-Johanna (Elvy)Kalep	Country	Estonia
+Ferdinand Adolf Heinrich AugustZeppelin	Country	Germany
+MaryBailey	Country	Ireland
+First NameLast Name	Country	Country
+Alexander AlexandrovichKazakov	Country	Russian Federation
+Albert EustaceShort	Country	United Kingdom
+Elizabeth Muriel Gregory "Elsie"MacGill	Country	Canada
+Ronald EricBishop	Country	United Kingdom
+Adolf KarlRohrbach	Country	Germany
+John KnudsenNorthrop	Country	United States
+RodMachado	Country	United States
+EdmundRumpler	Country	Austria
+ErichWarsitz	Country	Germany
+BernardZiegler	Country	France
+Bernard Henri Barnyde Romanet	Country	France
+Semyon AlekseyevichLavochkin	Country	Russian Federation
+Lawrence DaleBell	Country	United States
+Augustvon Parseval	Country	Germany
+Samuel FranklinCody	Country	United States
+GerhardBarkhorn	Country	Germany
+ArthurGouge	Country	United Kingdom
+JorgeNewbery	Country	Argentina
+ConstantinCantacuzino	Country	Romania
+Franklyn LeslieBarnard	Country	United Kingdom
+Russel HydeMervin	Country	United States
+Juan TerryTrippe	Country	United States
+Gaetano ArturoCrocco	Country	Italy
+DolorsVives i Rodon	Country	Spain
+AnneLöwenstein-Wertheim-Freudenberg	Country	United Kingdom
+Richard E. "Dick"VanGrunsven	Country	United States
+HélèneDutrieu	Country	Belgium
+First NameLast Name	Country	Country
+Lawrence BurstSperry	Country	United States
+HansMulthopp	Country	Germany
+Lars Gunnar RobertRådeström	Country	Sweden
+LéonDelagrange	Country	France
+Marie Ana AureliaDrăgescu	Country	Romania
+PaulCornu	Country	France
+Millicent MaudeBryant	Country	Australia
+GabrielBorel	Country	France
+Donald RoderickMacLaren	Country	Canada
+Harold FrederickPitcairn	Country	United States
+Carlos MauriceTalbott	Country	United States
+EdvardRusjan	Country	Slovenia
+Sally KristenRide	Country	United States
+First NameLast Name	Country	Country
+LotfiaElnadi	Country	Egypt
+Vladimir MikhailovichMyasishchev	Country	Russian Federation
+Jacques-ÉtienneMontgolfier	Country	France
+Alexander GrahamBell	Country	United States
+CarinaMassone	Country	Italy
+MaximilianConrad	Country	United States
+Guiseppe MarioBellanca	Country	Italy
+PatriciaYapp Syau Yin	Country	Malaysia
+BettyMiller	Country	United States
+LuigiPascale	Country	Italy
+Lyalya AndarbekovnaNasukhanova	Country	Russian Federation
+Charles TerresWeymann	Country	Haiti
+Margot Irene RufusIsaacs	Country	United Kingdom
+ErnestSchweizer	Country	United States
+Hazel YingLee	Country	China
+John WattsYoung	Country	United States
+RaymondSaulnier	Country	France
+John NelsonBoothman	Country	United Kingdom
+First NameLast Name	Country	Country
+Paul Ward SpencerBulman	Country	United Kingdom
+ThomasRose	Country	United Kingdom
+Peter M.Bowers	Country	United States
+ArmandDeperdussin	Country	France
+KirbyChambliss	Country	United States
+MauriceFarman	Country	France
+AurelVlaicu	Country	Romania
+Shawna RochelleKimbrell	Country	United States
+ErnestFailloubaz	Country	Switzerland
+LineBonde	Country	Denmark
+Ormer LeslieLocklear	Country	United States
+First NameLast Name	Country	Country
+MarieMarvingt	Country	France
+First NameLast Name	Country	Country
+JerzyBajan	Country	Poland
+StelioFrati	Country	Italy
+Ahmet AliÇelikten	Country	Turkey
+Pyotr NikolayevichNesterov	Country	Russian Federation
+First NameLast Name	Country	Country
+Abu al-Qasim Abbas ibnFirnas	Country	Spain
+RenéThomas	Country	France
+Ruth BancroftLaw	Country	United States
+Alfred VictorVerville	Country	Canada
+OskarBider	Country	Switzerland
+Chauncey Milton "Chance"Vought	Country	United States
+Gidsken NilsineJakobsen	Country	Norway
+Carlos Viegas GagoCoutinho	Country	Portugal
+LéonLevavasseur	Country	France
+André MarcelDesoutter	Country	United Kingdom
+Erich AlfredHartmann	Country	Germany
+Ola MildredRexroat	Country	United States
+Augustus MooreHerring	Country	United States
+KarlJatho	Country	Germany
+Nicolas-LouisRobert	Country	France
+OskarDinort	Country	Germany
+EduardSpelterini	Country	Switzerland
+Ana LuisaBranger	Country	Venezuela, Bolivarian Republic of
+Beverly HomerDeLay	Country	United States
+JessicaCox	Country	United States
+Arthur WhittenBrown	Country	United Kingdom
+Charles ElwoodYeager	Country	United States
+LouisBreguet	Country	France
+GastonCaudron	Country	France
+John CyrilPorte	Country	Ireland
+Keith KarlCompton	Country	United States
+Frederick Alan IrvingMuntz	Country	United Kingdom
+Eric Melrose "Winkle"Brown	Country	United Kingdom
+Frank SowterWhittle	Country	United Kingdom
+John WilliamDunne	Country	United Kingdom
+BillyMitchell	Country	United States
+First NameLast Name	Country	Country
+Thomas Octave MurdochSopwith	Country	United Kingdom
+BlancheNoyes	Country	United States
+Leonardoda Vinci	Country	Italy
+JackieMoggridge	Country	South Africa
+Robert B.C.Noorduyn	Country	Netherlands
+Maurice Albert Alfred JeanArnoux	Country	France
+Mikhail LeontyevichMil	Country	Russian Federation
+RichardBranson	Country	United States
+RobertEsnault-Pelterie	Country	France
+Anthony W.LeVier	Country	United States
+First NameLast Name	Country	Country
+OttoKittel	Country	Germany
+Willa BeatriceBrown	Country	United States
+Ernest OscarTips	Country	Belgium
+First NameLast Name	Country	Country
+JózsefKiss	Country	Hungary
+Willy Omer François JeanCoppens de Houthulst	Country	Belgium
+Ila FoxLoetscher	Country	United States
+DougDavis	Country	United States
+Sean DohertyTucker	Country	United States
+Robert CampbellReeve	Country	United States
+GiovanniPegna	Country	Italy
+Walter GeorgeTarrant	Country	United Kingdom
+Robert Anderson "Bob"Hover	Country	United States
+John DudleyNorth	Country	United Kingdom
+Alfred HessellTiltman	Country	United Kingdom
+MartinŠonka	Country	Czech Republic
+JacquelineCochran	Country	United States
+WilhelmKress	Country	Austria
+ClaudeGrahame-White	Country	United Kingdom
+Frederick GeorgeMiles	Country	United Kingdom
+JánosLasi	Country	Hungary
+Charles William AndersonScott	Country	United Kingdom
+Tammie JoShults	Country	United States
+John NicolaasBlock	Country	Netherlands
+WalterNowotny	Country	Germany
+Rosalind MathildeFranck	Country	France
+Eleanor Josephine TrehawkeDavies	Country	United Kingdom
+WernerVoss	Country	Germany
+LilianBland	Country	United Kingdom
+GuyMenzies	Country	Australia
+Amalia CeliaFigueredo de Pietra	Country	Argentina
+Francesco Lana deTerzi	Country	Italy
+ÉmileDewoitine	Country	France
+LynnRippelmeyer	Country	United States
+Kurt WaldemarTank	Country	Germany
+James Joseph "Jimmy"Ling	Country	United States
+First NameLast Name	Country	Country
+Sherman MillsFairchild	Country	United States
+Richard DavidBach	Country	United States
+TadashiHyōdō	Country	Japan
+GüntherRall	Country	Germany
+ElseHaugk	Country	Switzerland
+Clarence GilbertTaylor	Country	United States
+William SamuelHenson	Country	United Kingdom
+Gustav WilhelmHamel	Country	United Kingdom
+JánRežňák	Country	Slovakia
+Jean LouisConneau (André Beaumont)	Country	France
+Félix duTemple de la Croix	Country	France
+LouisBlériot	Country	France
+Thomas NevilleStack	Country	United Kingdom
+SabihaGökçen	Country	Turkey
+Valentine HenryBaker	Country	United Kingdom
+MarcelDassault	Country	France
+Ida VanSmith	Country	United States
+OctaveChanute	Country	France
+James AllanMollison	Country	United Kingdom
+First NameLast Name	Country	Country
+Phoebe Jane FairgraveOmlie	Country	United States
+SveinHeglund	Country	Norway
+TheaRasche	Country	Germany
+StanleyHiller Jr.	Country	United States
+EduardoAldasoro Suárez	Country	Mexico
+Melitta Schenk Gräfin vonStauffenberg	Country	Germany
+GaryHubler	Country	United States
+JalilZandi	Country	Iran, Islamic Republic of
+Edward AndersonStinson, Jr.	Country	United States
+Lucien MauricePrévost	Country	France
+Franklin DavisRobinson	Country	United States
+Ethel Marian Sumner "Maie"Casey	Country	Australia
+WilliamGreene	Country	United States
+John LankesterParker	Country	United Kingdom
+James R.Bede	Country	United States
+Charles DouglasBarnard	Country	United Kingdom
+William ThomasWhisner Jr.	Country	United States
+George FrederickBeurling	Country	Canada
+Leslie EverettBaynes	Country	United Kingdom
+AlessandroMarchetti	Country	Italy
+Roger QuincyWilliams	Country	United States
+Juan PabloAldasoro Suárez	Country	Mexico
+Pierre HenriClostermann	Country	France
+JeanMermoz	Country	France
+HenriMignet	Country	France
+Hilda BeatriceHewlett	Country	United Kingdom
+JamesRadley	Country	United Kingdom
+Pavel OsipovichSukhoi	Country	Belarus
+Muhammad MahmoodAlam	Country	Pakistan
+AlešStrojnik	Country	Slovenia
+DouglasDouglas-Hamilton	Country	United Kingdom
+Friedrich-WilhelmMorzik	Country	Germany
+ErnstHeinkel	Country	Germany
+Charles JamesMelrose	Country	Australia
+Edward JamesSwearingen	Country	United States
+DezsőSzentgyörgyi	Country	Hungary
+PerLindstrand	Country	Sweden
+HansBöhning	Country	Germany
+Charles RumneySamson	Country	United Kingdom
+Paul HowardPoberezny	Country	United States
+Milo GarrettBurcham	Country	United States
+JohnAlcock	Country	United Kingdom
+DagnyBerger	Country	Norway
+Pearl LaskaChamberlain	Country	United States
+HenriGiffard	Country	France
+Kathleen "Kathy" CarolFox	Country	Canada
+First NameLast Name	Country	Country
+EduardoBradley	Country	Argentina
+NeilArmstrong	Country	United States
+Eugène Adrien Roland GeorgesGarros	Country	France
+PattyWagstaff	Country	United States
+LilianBland	Country	United Kingdom
+Dmitry PavlovichGrigorovich	Country	Ukraine
+Arthur Charles HubertLatham	Country	France
+Valentina StepanovnaGrizodubova	Country	Russian Federation
+Clarence LeonardJohnson	Country	United States
+First NameLast Name	Country	Country
+Otto C.Koppen	Country	United States
+FrankPiasecki	Country	United States
+Frederick PhillipsRaynham	Country	United Kingdom
+Alliot VerdonRoe	Country	United Kingdom
+RichardWaghorn	Country	United Kingdom
+Wilfred GeorgeCarter	Country	United Kingdom
+Olive AnnBeech	Country	United States
+Godwin vonBrumowski	Country	Austria
+Marjorie ClaireStinson	Country	United States
+DavidThurston	Country	United States
+YuriGagarin	Country	Russian Federation
+James PaulBoland	Country	United States
+Geoffreyde Havilland	Country	United Kingdom
+LouisNoël	Country	France
+MarinaȘtirbei	Country	Romania
+Colin FalklandGray	Country	New Zealand
+KimberlyAnyadike	Country	United States
+Louis HenriCapazza	Country	Italy
+DeniseMoore	Country	United Kingdom
+ErnstUdet	Country	Germany
+Evelyn "Bobby"Trout	Country	United States
+Heinrich Karl JohannFocke	Country	Germany
+June D.Maule	Country	United States
+GabrielVoisin	Country	France
+Molly DaphneRose	Country	United Kingdom
+Sophie Catherine Theresa MaryPeirce-Evans	Country	Ireland
+Asli HassanAbade	Country	Somalia
+IvoBoscarol	Country	Slovenia
+Isidore Auguste Marie LouisPaulhan	Country	France
+Frederick Walker "Casey"Baldwin	Country	United States
+LawrenceHargrave	Country	United Kingdom
+Lydia VladimirovnaLitvyak	Country	Russian Federation
+FayGillis Wells	Country	United States
+Wolfram Kurt ErhardHirth	Country	Germany
+RenéCaudron	Country	France
+AndréBorschberg	Country	Switzerland
+DarrylGreenamyer	Country	United States
+William AveryBishop	Country	Canada
+AlfredLeblanc	Country	France
+DieudonnéCostes	Country	France
+Nicholas E.Comper	Country	United Kingdom
+JánosRisztics	Country	Hungary
+LetticeCurtis	Country	United Kingdom
+Miles RutherfordBrowning	Country	United States
+ClaytonFolkerts	Country	United States
+Emma LilianTodd	Country	United States
+ÉdouardSurcouf	Country	France
+PaulSchweizer	Country	United States
+RobertLusser	Country	Germany
+Henry AdlerBerliner	Country	United States
+SándorTahy	Country	Hungary
+John OwenIsaacs	Country	United Kingdom
+Constance RuthLeathart	Country	United Kingdom
+Elrey BorgeJeppesen	Country	United States
+Thomas EtholenSelfridge	Country	United States
+Eilmer ofMalmesbury	Country	United Kingdom
+EmilLang	Country	Germany
+Nancy-BirdWalton	Country	Australia
+AlfredSchreiber	Country	Germany
+RobertBlackburn	Country	United Kingdom
+Horatio FrederickPhillips	Country	United Kingdom
+Skip JamesHolm	Country	United States
+Albert PaulMantz	Country	United States
+HarrietQuimby	Country	United States
+Virginus E.Clark	Country	United States
+GioraEpstein	Country	Israel
+Mildred MaryBruce	Country	United Kingdom
+Suzanne "Sue"Parish	Country	United States
+Luisa Elena ContrerasMattera	Country	Venezuela, Bolivarian Republic of
+Amelie HedwigBeese	Country	Germany
+Charles FranklinKettering	Country	United States
+MaryHaizlip	Country	United States
+Juan de laCierva	Country	Spain
+Mikhail VasilyevichLomonosov	Country	Russian Federation
+Nicholas E.D'Apuzzo	Country	United States
+Hugh OswaldShort	Country	United Kingdom
+Lewis AlonzoYancey	Country	United States
+Leroy Randle "Roy"Grumman	Country	United States
+George Edward HenryMcElroy	Country	Ireland
+MarcelLobelle	Country	Belgium
+Antoine Marie Jean-Baptiste deSaint-Exupéry	Country	France
+ReinholdPoss	Country	Germany
+OlegAntonov	Country	Russian Federation
+EgonScheibe	Country	Germany
+Eric Cecil GordonEngland	Country	United Kingdom
+NadiaRusso	Country	Romania
+WangZheng	Country	China
+BurtRutan	Country	United States
+María AsunciónCalcaño	Country	Venezuela, Bolivarian Republic of
+Glenn HammondCurtiss	Country	United States
+GustavOtto	Country	Germany
+Walter HerschelBeech	Country	United States
+Jeanne Aline (Jane)Herveu	Country	France
+WalterHorten	Country	Germany
+EnricoForlanini	Country	Italy
+IstvánFejes	Country	Hungary
+William BarnardRhodes-Moorhouse	Country	United Kingdom
+First NameLast Name	Country	Country
+Gerard FreebairnVultee	Country	United States
+HugoJunkers	Country	Germany
+John Theodore CuthbertMoore-Brabazon	Country	United Kingdom
+ArtChester	Country	United States
+MarcBirkigt	Country	Switzerland
+Willard FrederickRockwell, Sr.	Country	United States
+JacquesSchneider	Country	France
+Clive RobertsonCaldwell	Country	Australia
+Tubal ClaudeRyan	Country	United States
+BettySkelton	Country	United States
+Richard TravisWhitcomb	Country	United States
+FrigyesHefty	Country	Hungary
+Charles Humphrey KingsmanEdmonds	Country	United Kingdom
+Alexander MartinLippisch	Country	Germany
+HeinrichLübbe	Country	Germany
+Denys CorbettWilson	Country	Ireland
+Dale EdwardKlapmeier	Country	United States
+Newby OdellBrantly	Country	United States
+Tom CampbellBlack	Country	United Kingdom
+Susana FerrariBillinghurst	Country	Argentina
+GeorgesGuynemer	Country	France
+Nevil ShuteNorway	Country	United Kingdom
+Ernest KelloggGann	Country	United States
+William ThomasPiper Sr.	Country	United States
+GabriellaAngelini	Country	Italy
+Grover ClevelandLoening	Country	United States
+FrancescoBaracca	Country	Italy
+Alvin MelvinJohnston	Country	United States
+Beverly LynnBurns	Country	United States
+Robert Lee "Hoot"Gibson	Country	United States
+JosephCosta	Country	Portugal
+JohnGlenn	Country	United States
+Clyde EdwardPangborn	Country	United States
+GerdAchgelis	Country	Germany
+RoaldDahl	Country	United Kingdom
+KurtWelter	Country	Germany
+Charles AugustusLindbergh	Country	United States
+AlfredComte	Country	Switzerland
+FrederikKoolhoven	Country	Netherlands
+Alexander Nikolaievich Prokofievde Seversky	Country	Georgia
+Jacob Christian HansenEllehammer	Country	Denmark
+Dandridge MacFarlanCole	Country	United States
+SharifahCzarena	Country	Brunei Darussalam
+GyörgyJendrassik	Country	Hungary
+Gustav Jules EugeneBlondeau	Country	United Kingdom
+Raymonde deLaroche	Country	France
+Gustave AlbinWhitehead	Country	Germany
+First NameLast Name	Country	Country
+Wesley "Lee"Behel	Country	United States
+RogerAdam	Country	France
+HannesArch	Country	Austria
+Maximilian John LudwickWeston	Country	South Africa
+IngridPedersen	Country	Sweden
+RaffaeleConflenti	Country	Italy
+MickyAxton	Country	United States
+Walter J.Carr	Country	United States
+John JosephMontgomery	Country	United States
+Czesław MichałZbierański	Country	Poland
+HansSeidemann	Country	Germany
+Jean-PierreBlanchard	Country	France
+Amelia RoseEarhart	Country	United States
+Bessica FaithRaiche	Country	United States
+Igor VasilevichBensen	Country	Russian Federation
+LelandSnow	Country	United States
+Frederick SidneyCotton	Country	Australia
+ÉdouardJoly	Country	France
+MatoDukovac	Country	Croatia
+TiborTobak	Country	Hungary
+Charles Eugène Jules MarieNungesser	Country	France
+RuthElder	Country	United States
+First NameLast Name	Country	Country
+Jill ElaineBrown	Country	United States
+Donald ArthurLuscombe	Country	United States
+JamesValentine	Country	United Kingdom
+NigelLamb	Country	United Kingdom
+Albin KasperLongren	Country	United States
+TheodorOsterkamp	Country	Germany
+TamarAriel	Country	Israel
+Calbraith PerryRodgers	Country	United States
+Iris Louise McPhetridgeThaden	Country	United States
+Richard EvelynByrd	Country	United Kingdom
+First NameLast Name	Country	Country
+BrunoLoerzer	Country	Germany
+Ruth LawOliver	Country	United States
+CromwellDixon	Country	United States
+Allen H.Meyers	Country	United States
+Howard RobardHughes	Country	United States
+Hans vonOhain	Country	Germany
+Albert LeeUeltschi	Country	United States
+Willard LambVelie	Country	United States
+JenniferMurray	Country	United States
+Albrecht LudwigBerblinger	Country	Germany
+AntonFlettner	Country	Germany
+Manfred Albrecht Freiherr vonRichthofen	Country	Germany
+Josef Carl PeterJacobs	Country	Germany
+Scott DouglasAnderson	Country	United States
+ElmerSperry	Country	United States
+Ernest François (Maurice)Guillaux	Country	France
+GiulioGavotti	Country	Italy
+William EdwardBoeing	Country	United States
+Teresio VittorioMartinoli	Country	Italy
+BonnieTiburzi	Country	United States
+Emil MatthewLaird	Country	United States
+EstherMbabazi	Country	Rwanda
+Michael GeorgeGoulian	Country	United States
+AlexanderKartveli	Country	Georgia
+PéterBesenyei	Country	Hungary
+Artem IvanovichMikoyan	Country	Armenia
+HenriFarman	Country	France
+MargaretRingenberg	Country	United States
+Nikolay IlyichKamov	Country	Russian Federation
+First NameLast Name	Country	Country
+First NameLast Name	Country	Country
+Moretta Fenton BeallReilly	Country	Canada
+Ruth RowlandNichols	Country	United States
+First NameLast Name	Country	Country
+Mario deBernardi	Country	Italy
+StanisławRogalski	Country	Poland
+Charles HuronKaman	Country	United States
+Francis HerbertWenham	Country	United Kingdom
+First NameLast Name	Country	Country
+James EdgarJohnson	Country	United Kingdom
+Jeffrey KindersleyQuill	Country	United States
+SusanDarcy	Country	United States
+Oscar ColinMorison	Country	United Kingdom
+Willy EmilMesserschmitt	Country	Germany
+Jens William AegidiusElling	Country	Norway
+Hubert FauntleroyJulian	Country	Trinidad and Tobago
+RheinholdPlatz	Country	Germany
+Henry TraceyCoxwell	Country	United Kingdom
+Evgeniya MikhailovnaShakhovskaya	Country	Russian Federation
+AugustEuler	Country	Germany
+AlbertFonó	Country	Hungary
+JosephSadi-Lecointe	Country	France
+MathiasRust	Country	Germany
+Winifred EvelynSpooner	Country	United Kingdom
+PatFillingham	Country	United Kingdom
+TetsuzōIwamoto	Country	Japan
+Louis FerdinandFerber	Country	France
+Vera StrodlDowling	Country	Denmark
+Agnew EmielLarsen	Country	United States
+SophieBlanchard	Country	France
+Lydia VissarionovnaZvereva	Country	Russian Federation
+Lowell RichardBayles	Country	United States
+GeorgesPhilippar	Country	France
+VanceBreese	Country	United States
+Jessie MaudeMiller	Country	Australia
+Chesley BurnettSullenberger	Country	United States
+Marlon DewittGreen	Country	United States
+BuzzAldrin	Country	United States
+VecihiHürkuş	Country	Turkey
+Hubert StandfordBroad	Country	United Kingdom
+Reginald JosephMitchell	Country	United Kingdom
+James SmithMcDonnell	Country	United States
+JerzyRudlicki	Country	Poland
+MichelColomban	Country	France
+Edwin CharlesMusick	Country	United States
+Fritz OttoBernert	Country	Germany
+AngelaMasson	Country	United States
+Shivkar BāpujTalpade	Country	India
+Aida deAcosta	Country	United States
+Vladimir KonstantinovichKokkinaki	Country	Russian Federation
+OrvilleWright	Country	United States
+KurtWintgens	Country	Germany
+John H.Livingston	Country	United States
+RenéGrandjean	Country	Switzerland
+NicolaScaife	Country	Australia
+WolfgangSpäte	Country	Germany
+DagobertoGodoy	Country	Chile
+Alan LeeKlapmeier	Country	United States
+Wilfrid ReidMay	Country	Canada
+Jules Charles ToussaintVédrines	Country	France
+Igor IvanovichSikorsky	Country	Ukraine
+Sizakele Petunia (Siza)Mzimela	Country	United States
+First NameLast Name	Country	Country
+HenriFabre	Country	France
+Harry MethuenSchofield	Country	United Kingdom
+Hiram StevensMaxim	Country	United States
+Eula "Pearl"Carter Scott	Country	United States
+Jean-François Pilâtre deRozier	Country	France
+Albert ScottCrossfield	Country	United States
+OswaldBoelcke	Country	Germany
+Richard HaroldBarnwell	Country	United Kingdom
+Keith MacphersonSmith	Country	Australia
+Arturo MerinoBenítez	Born	1888
+DidierMasson	Born	1886
+Frederick WilliamLanchaster	Born	1868
+ClémentAder	Born	1841
+Mary Anita "Neta"Snook Southern	Born	1896
+EllyBeinhorn	Born	1907
+John de MiltSeverne	Born	1925
+DonCameron	Born	1939
+MaryEllis	Born	1917
+JánosFrint	Born	1888
+Henry K.Millicer	Born	1915
+Edwin HarrisDunning	Born	1892
+CharlesVoisin	Born	1888
+Benjamin OdellHoward	Born	1904
+Herbert G.Brackley	Born	1894
+FritzRumey	Born	1891
+Eugene BurtonEly	Born	1886
+Andrew Frederick WeatherbyBeauchamp-Proctor	Born	1894
+Nigel DesmondNorman	Born	1929
+HansGrade	Born	1879
+William PowellLear	Born	1902
+WernerJunck	Born	1895
+MaryBarr	Born	1925
+FreydisSharland	Born	1920
+Sydney VincentSippe	Born	1889
+AlbertoSantos-Dumont	Born	1873
+AnnBaumgartner	Born	1918
+Frederick Robert GordonMcCall	Born	1896
+Steven FerenczUdvar-Házy	Born	1946
+ElinorSmith	Born	1911
+FranciszekŻwirko	Born	1895
+Marcel-GeorgesBrindejonc des Moulinais	Born	1892
+MarvelCrosson	Born	1900
+Edwin AlbertLink	Born	1904
+Frederick HandleyPage	Born	1885
+Nguen VanCoc	Born	1943
+PeteMcLeod	Born	1984
+HenriDufaux	Born	1879
+Marmaduke Thomas St JohnPattle	Born	1914
+BertrandPiccard	Born	1958
+ArmandDufaux	Born	1883
+Bernard H.Pietenpol	Born	1901
+JacquelineAuriol	Born	1917
+Oskar Gustav RudolfBerthold	Born	1891
+GeorgeCayley	Born	1773
+KárolyKaszala	Born	1892
+William EarlJones	Born	1893
+HubertScott-Paine	Born	1891
+GyulaBusa	Born	1891
+Charles EdwardKingsford Smith	Born	1897
+Raymond John PaulParer	Born	1894
+Cyril FrankUwins	Born	1896
+FélixAmiot	Born	1894
+Leman BozkurtAltınçekiç	Born	1932
+James Howard "Dutch"Kindelberger	Born	1895
+Pierre-GeorgesLatécoère	Born	1883
+Violet "Vi"Milstead	Born	1919
+Edgar WiknerPercival	Born	1897
+RoyChadwick	Born	1893
+HansJacobs	Born	1907
+Preston AlbertWatson	Born	1880
+MaggieGee	Born	1923
+AmeliaEarhart	Born	1898
+Frank SowterBarnwell	Born	1880
+Stanley EdwardSpencer	Born	1868
+Artur de Sacadura FreireCabral	Born	1881
+KatherineStinson	Born	1891
+Emily HowellWarner	Born	1939
+FrançoisDenhaut	Born	1877
+ErnőRubik	Born	1910
+GeorgWulf	Born	1895
+Henry Charles AlexandrePotez	Born	1891
+Alan JohnCobham	Born	1894
+Anne-JeanRobert	Born	1758
+Oliver EdwinSimmonds	Born	1897
+MatthiasDolderer	Born	1970
+Florence Lowe "Pancho"Barnes	Born	1901
+JuliusArigi	Born	1895
+Bentfield CharlesHucks	Born	1884
+Théodore Clovis EdmondLemartin	Born	1883
+TraianVuia	Born	1872
+Richard WilliamPearse	Born	1877
+JeanDélémontez	Born	1918
+JanAmbus	Born	1899
+ZygmuntPulawski	Born	1901
+PollyVacher	Born	1944
+AlbertPlesman	Born	1889
+LudwigBölkow	Born	1912
+ErichLöwenhardt	Born	1897
+Charles WillisHolman	Born	1898
+François Laurentd'Arlandes	Born	1742
+Patricia LyleGraham	Born	1928
+MartinSchempp	Born	1905
+Sidney NormanWebster	Born	1900
+JerrieCobb	Born	1931
+Michael EugeneMangold	Born	1955
+Jeana LeeYeager	Born	1952
+Bertrand BlanchardAcosta	Born	1895
+HannaReitsch	Born	1912
+DanielGuggenheim	Born	1856
+FrançoisColi	Born	1881
+Wiley HardemanPost	Born	1898
+ItaloBalbo	Born	1896
+RichardFairey	Born	1887
+MartheNiel	Born	1878
+Blanche StuartScott	Born	1884
+Wilfrid ThomasReid	Born	1887
+James Thomas ByfordMcCudden	Born	1895
+Cecil LawrencePashley	Born	1891
+Pamela AnneMelroy	Born	1961
+Harry GeorgeHawker	Born	1889
+Wilfred AnthonyYackey	Born	1890
+Sergey VladimirovichIlyushin	Born	1894
+John Alexander DouglasMcCurdy	Born	1886
+Daniel JohnMaloney	Born	1879
+Anthony Herman GerardFokker	Born	1890
+George BertramCockburn	Born	1872
+Manuel John "Pete"Fernandez, Jr.	Born	1925
+Heinz-WolfgangSchnaufer	Born	1922
+Eino IlmariJuutilainen	Born	1914
+Allan HainesLockheed	Born	1889
+CharlesFauvel	Born	1904
+Henry PhillipFolland	Born	1889
+AlbertBall	Born	1896
+MaxHolste	Born	1913
+Viktor FedorovichBolkhovitinov	Born	1899
+AdaRogato	Born	1920
+JiroHorikoshi	Born	1903
+LaurentSeguin	Born	1883
+OttoLilienthal	Born	1848
+YoshihideMuroya	Born	1973
+Giovanni BattistaCaproni	Born	1886
+Julie AnnGibson	Born	1956
+Raymond P.Collishaw	Born	1893
+SheilaScott	Born	1922
+Robert AlexanderLittle	Born	1895
+ClaudeDornier	Born	1884
+Reuben HollisFleet	Born	1887
+Glenn LutherMartin	Born	1886
+Joan Lily AmeliaHughes	Born	1918
+Ernest ThompsonWillows	Born	1886
+Brendan Eamonn FergusFinucane	Born	1920
+Bartolomeu Lourenço deGusmão	Born	1685
+GrahamGilmour	Born	1885
+JeanHubert	Born	1885
+Hershel ClayLacy	Born	1932
+Alexander FedorovichMozhayskiy	Born	1825
+Robert BilcliffeLoraine	Born	1876
+Richard FrancisGordon Jr.	Born	1929
+William SeftonBrancker	Born	1877
+BerntBalchen	Born	1899
+PaulBonhomme	Born	1964
+Vladimir MikhailovichPetlyakov	Born	1891
+Ivan NikitovichKozhedub	Born	1920
+Percy SinclairPilcher	Born	1867
+LouisSeguin	Born	1869
+Charles BarbinDeBellevue	Born	1945
+LudovicArrachart	Born	1897
+Antony HabersackJannus	Born	1889
+Edna GardnerWhyte	Born	1902
+JoaquínLoriga Taboada	Born	1895
+William OkeManning	Born	1879
+Richard Glenn "Dick"Rutan	Born	1938
+JimmyWedell	Born	1900
+Joseph-MichelMontgolfier	Born	1740
+WalterMittelholzer	Born	1894
+SydneyCamm	Born	1893
+JohnCunningham	Born	1917
+Édouardde Nieuport	Born	1875
+Robert CharlesMorane	Born	1886
+StanisławWigura	Born	1903
+George JacksonMead	Born	1891
+Mary Wallace "Wally"Funk	Born	1939
+Louis PierreMouillard	Born	1834
+William BushnellStout	Born	1880
+JerzyDrzewiecki	Born	1902
+BessieColeman	Born	1892
+Edward HenryHeinemann	Born	1908
+EneaBossi	Born	1888
+ClydeCessna	Born	1879
+Diego MarínAguilera	Born	1757
+Alexander SergeyevichYakovlev	Born	1906
+Mary RawlinsonCreason	Born	1924
+Herbert John LouisHinkler	Born	1892
+JamesMartin	Born	1893
+Alexander Adolphus DumfriesHenshaw	Born	1912
+MelissaHaney	Born	1981
+JohnStringfellow	Born	1799
+William George "Billy"Barker	Born	1894
+Gladys "Penny"Thompson	Born	1917
+SándorKasza	Born	1896
+Joaquín GarcíaMorato	Born	1904
+BenedettaWillis	Born	1914
+Hezârfen AhmedÇelebi	Born	1609
+BélaMacourek	Born	1889
+Donald WillsDouglas	Born	1892
+Michael WinstonMelvill	Born	1940
+CarolRabadi	Born	1977
+HenryFord	Born	1863
+AntonieStrassmann	Born	1901
+EmilyHowell Warner	Born	1939
+SteveHinton	Born	1952
+MattHall	Born	1971
+Samuel PierpontLangley	Born	1834
+GiovanniAgusta	Born	1879
+GiulioMacchi	Born	1866
+FerencGräser	Born	1892
+Lloyd CarltonStearman	Born	1898
+Frank EdwardBoland	Born	1873
+João Ribeiro deBarros	Born	1900
+Lyman WiswellGilmore	Born	1874
+JeanBird	Born	1912
+BettyGillies	Born	1908
+RudolfSzepessy-Sokoll	Born	1891
+LuisCandelaria	Born	1892
+RoseLok	Born	1912
+IgoEtrich	Born	1879
+Douglas Robert SteuartBader	Born	1910
+Jean-MarieLe Bris	Born	1808
+Mary GoodrichJenson	Born	1907
+IvanSarić	Born	1876
+Neville FrederickDuke	Born	1922
+René PaulFonck	Born	1894
+MikhailGurevich	Born	1893
+Richard IraBong	Born	1920
+ReimarHorten	Born	1915
+JeanBatten	Born	1909
+Walter HuntLongton	Born	1892
+Ivy MayPearce	Born	1914
+Noel PembertonBilling	Born	1881
+Saarah HameedAhmed	Born	1989
+Thomas PaulPoberezny	Born	1946
+Francis CharlesChichester	Born	1901
+Dean CullomSmith	Born	1899
+Edwin RowlandMoon	Born	1886
+StephenLatchford	Born	1883
+Charles J.Fern	Born	1892
+HenriCoanda	Born	1886
+Francesco dePinedo	Born	1890
+GeorgeEdwards	Born	1908
+LadislaoPazmany	Born	1923
+James HaroldDoolittle	Born	1896
+HowardPixton	Born	1885
+Marga vonEtzdorf	Born	1907
+BertramDickson	Born	1873
+MikeBannister	Born	1949
+OpalKunz	Born	1894
+Andrei NikolayevichTupolev	Born	1888
+Vsevolod MikhaylovichAbramovich	Born	1890
+Georgy MikhailovichBeriev	Born	1903
+Jens Tryggve HermanGran	Born	1888
+Nikolai NikolaevichPolikarpov	Born	1892
+JanWnęk	Born	1929
+RamónFranco	Born	1896
+Ross MacphersonSmith	Born	1892
+Dean IvanLamb	Born	1886
+Frederick NicholasSlingsby	Born	1894
+Inglis MooreUppercu	Born	1877
+AmyJohnson	Born	1903
+Katherine Sui FunCheung	Born	1904
+WilburWright	Born	1867
+JorgeLoring Martinez	Born	1889
+Edward CorringhamMannock	Born	1887
+RoyFedden	Born	1885
+Geraldine FredritzMock	Born	1925
+Horace LeonardShort	Born	1872
+RosinaFerrario	Born	1888
+VannevarBush	Born	1890
+Pierre ÉmileTaddéoli	Born	1879
+LéonMorane	Born	1885
+AlfredRenard	Born	1895
+GiuseppeCei	Born	1889
+CookCleland	Born	1916
+Edward VernonRickenbacker	Born	1890
+BerylMarkham	Born	1902
+ThérèsePeltier	Born	1873
+StanisławSkalski	Born	1915
+Adolphe CélestinPégoud	Born	1889
+John DavenportSiddeley	Born	1866
+Clement MelvilleKeys	Born	1876
+RoscoeTurner	Born	1895
+GerhardFieseler	Born	1896
+Rodney RayLewis	Born	1954
+RichardBell-Davies	Born	1886
+SteveFossett	Born	1944
+Eileen MarieCollins	Born	1956
+Albert W.Mooney	Born	1906
+FlorenceKlingensmith	Born	1904
+Alviine-Johanna (Elvy)Kalep	Born	1899
+Ferdinand Adolf Heinrich AugustZeppelin	Born	1838
+MaryBailey	Born	1890
+Alexander AlexandrovichKazakov	Born	1889
+Albert EustaceShort	Born	1875
+Elizabeth Muriel Gregory "Elsie"MacGill	Born	1905
+Ronald EricBishop	Born	1903
+Adolf KarlRohrbach	Born	1889
+John KnudsenNorthrop	Born	1895
+RodMachado	Born	1953
+EdmundRumpler	Born	1872
+ErichWarsitz	Born	1906
+BernardZiegler	Born	1933
+Bernard Henri Barnyde Romanet	Born	1894
+Semyon AlekseyevichLavochkin	Born	1900
+Lawrence DaleBell	Born	1894
+Augustvon Parseval	Born	1861
+Samuel FranklinCody	Born	1867
+GerhardBarkhorn	Born	1919
+ArthurGouge	Born	1890
+JorgeNewbery	Born	1875
+ConstantinCantacuzino	Born	1905
+Franklyn LeslieBarnard	Born	1896
+Russel HydeMervin	Born	1894
+Juan TerryTrippe	Born	1899
+Gaetano ArturoCrocco	Born	1877
+DolorsVives i Rodon	Born	1909
+AnneLöwenstein-Wertheim-Freudenberg	Born	1864
+Richard E. "Dick"VanGrunsven	Born	1939
+HélèneDutrieu	Born	1877
+Lawrence BurstSperry	Born	1892
+HansMulthopp	Born	1913
+Lars Gunnar RobertRådeström	Born	1944
+LéonDelagrange	Born	1873
+Marie Ana AureliaDrăgescu	Born	1912
+PaulCornu	Born	1881
+Millicent MaudeBryant	Born	1878
+GabrielBorel	Born	1880
+Donald RoderickMacLaren	Born	1893
+Harold FrederickPitcairn	Born	1897
+Carlos MauriceTalbott	Born	1920
+EdvardRusjan	Born	1886
+Sally KristenRide	Born	1951
+LotfiaElnadi	Born	1907
+Vladimir MikhailovichMyasishchev	Born	1902
+Jacques-ÉtienneMontgolfier	Born	1745
+Alexander GrahamBell	Born	1847
+CarinaMassone	Born	1911
+MaximilianConrad	Born	1903
+Guiseppe MarioBellanca	Born	1886
+BettyMiller	Born	1926
+LuigiPascale	Born	1923
+Lyalya AndarbekovnaNasukhanova	Born	1939
+Charles TerresWeymann	Born	1889
+Margot Irene RufusIsaacs	Born	1919
+Hazel YingLee	Born	1912
+John WattsYoung	Born	1930
+RaymondSaulnier	Born	1881
+John NelsonBoothman	Born	1901
+Paul Ward SpencerBulman	Born	1896
+ThomasRose	Born	1895
+Peter M.Bowers	Born	1918
+ArmandDeperdussin	Born	1869
+KirbyChambliss	Born	1959
+MauriceFarman	Born	1877
+AurelVlaicu	Born	1882
+Shawna RochelleKimbrell	Born	1976
+ErnestFailloubaz	Born	1892
+LineBonde	Born	1979
+Ormer LeslieLocklear	Born	1891
+MarieMarvingt	Born	1875
+JerzyBajan	Born	1901
+StelioFrati	Born	1919
+Ahmet AliÇelikten	Born	1883
+Pyotr NikolayevichNesterov	Born	1887
+Abu al-Qasim Abbas ibnFirnas	Born	810
+RenéThomas	Born	1886
+Ruth BancroftLaw	Born	1887
+Alfred VictorVerville	Born	1890
+OskarBider	Born	1891
+Chauncey Milton "Chance"Vought	Born	1890
+Gidsken NilsineJakobsen	Born	1908
+Carlos Viegas GagoCoutinho	Born	1869
+LéonLevavasseur	Born	1863
+André MarcelDesoutter	Born	1894
+Erich AlfredHartmann	Born	1922
+Ola MildredRexroat	Born	1917
+Augustus MooreHerring	Born	1867
+KarlJatho	Born	1873
+Nicolas-LouisRobert	Born	1760
+OskarDinort	Born	1901
+EduardSpelterini	Born	1852
+Beverly HomerDeLay	Born	1891
+JessicaCox	Born	1983
+Arthur WhittenBrown	Born	1886
+Charles ElwoodYeager	Born	1923
+LouisBreguet	Born	1880
+GastonCaudron	Born	1882
+John CyrilPorte	Born	1884
+Keith KarlCompton	Born	1915
+Frederick Alan IrvingMuntz	Born	1899
+Eric Melrose "Winkle"Brown	Born	1919
+Frank SowterWhittle	Born	1907
+John WilliamDunne	Born	1875
+BillyMitchell	Born	1879
+Thomas Octave MurdochSopwith	Born	1888
+BlancheNoyes	Born	1900
+Leonardoda Vinci	Born	1452
+JackieMoggridge	Born	1922
+Robert B.C.Noorduyn	Born	1893
+Maurice Albert Alfred JeanArnoux	Born	1895
+Mikhail LeontyevichMil	Born	1909
+RichardBranson	Born	1950
+RobertEsnault-Pelterie	Born	1881
+Anthony W.LeVier	Born	1913
+OttoKittel	Born	1917
+Willa BeatriceBrown	Born	1906
+Ernest OscarTips	Born	1893
+JózsefKiss	Born	1896
+Willy Omer François JeanCoppens de Houthulst	Born	1892
+Ila FoxLoetscher	Born	1904
+DougDavis	Born	1899
+Sean DohertyTucker	Born	1952
+Robert CampbellReeve	Born	1902
+GiovanniPegna	Born	1888
+Walter GeorgeTarrant	Born	1875
+Robert Anderson "Bob"Hover	Born	1922
+John DudleyNorth	Born	1893
+Alfred HessellTiltman	Born	1891
+MartinŠonka	Born	1978
+JacquelineCochran	Born	1906
+WilhelmKress	Born	1836
+ClaudeGrahame-White	Born	1879
+Frederick GeorgeMiles	Born	1903
+JánosLasi	Born	1890
+Charles William AndersonScott	Born	1903
+Tammie JoShults	Born	1961
+John NicolaasBlock	Born	1929
+WalterNowotny	Born	1920
+Rosalind MathildeFranck	Born	1866
+Eleanor Josephine TrehawkeDavies	Born	1880
+WernerVoss	Born	1897
+LilianBland	Born	1878
+GuyMenzies	Born	1909
+Amalia CeliaFigueredo de Pietra	Born	1895
+Francesco Lana deTerzi	Born	1631
+ÉmileDewoitine	Born	1892
+Kurt WaldemarTank	Born	1898
+James Joseph "Jimmy"Ling	Born	1922
+Sherman MillsFairchild	Born	1896
+Richard DavidBach	Born	1936
+TadashiHyōdō	Born	1899
+GüntherRall	Born	1918
+ElseHaugk	Born	1889
+Clarence GilbertTaylor	Born	1898
+William SamuelHenson	Born	1812
+Gustav WilhelmHamel	Born	1889
+JánRežňák	Born	1919
+Jean LouisConneau (André Beaumont)	Born	1880
+Félix duTemple de la Croix	Born	1823
+LouisBlériot	Born	1872
+Thomas NevilleStack	Born	1896
+SabihaGökçen	Born	1913
+Valentine HenryBaker	Born	1888
+MarcelDassault	Born	1892
+Ida VanSmith	Born	1917
+OctaveChanute	Born	1832
+James AllanMollison	Born	1905
+Phoebe Jane FairgraveOmlie	Born	1902
+SveinHeglund	Born	1918
+TheaRasche	Born	1899
+StanleyHiller Jr.	Born	1924
+EduardoAldasoro Suárez	Born	1894
+Melitta Schenk Gräfin vonStauffenberg	Born	1903
+GaryHubler	Born	1955
+JalilZandi	Born	1951
+Edward AndersonStinson, Jr.	Born	1893
+Lucien MauricePrévost	Born	1887
+Franklin DavisRobinson	Born	1930
+Ethel Marian Sumner "Maie"Casey	Born	1892
+WilliamGreene	Born	1874
+John LankesterParker	Born	1896
+James R.Bede	Born	1933
+Charles DouglasBarnard	Born	1895
+William ThomasWhisner Jr.	Born	1923
+George FrederickBeurling	Born	1921
+Leslie EverettBaynes	Born	1902
+AlessandroMarchetti	Born	1884
+Roger QuincyWilliams	Born	1894
+Juan PabloAldasoro Suárez	Born	1893
+Pierre HenriClostermann	Born	1921
+JeanMermoz	Born	1901
+HenriMignet	Born	1893
+Hilda BeatriceHewlett	Born	1864
+JamesRadley	Born	1884
+Pavel OsipovichSukhoi	Born	1898
+Muhammad MahmoodAlam	Born	1935
+AlešStrojnik	Born	1921
+DouglasDouglas-Hamilton	Born	1903
+Friedrich-WilhelmMorzik	Born	1891
+ErnstHeinkel	Born	1888
+Charles JamesMelrose	Born	1913
+Edward JamesSwearingen	Born	1925
+DezsőSzentgyörgyi	Born	1915
+PerLindstrand	Born	1948
+HansBöhning	Born	1893
+Charles RumneySamson	Born	1883
+Paul HowardPoberezny	Born	1921
+Milo GarrettBurcham	Born	1903
+JohnAlcock	Born	1892
+DagnyBerger	Born	1903
+Pearl LaskaChamberlain	Born	1909
+HenriGiffard	Born	1825
+Kathleen "Kathy" CarolFox	Born	1951
+EduardoBradley	Born	1887
+NeilArmstrong	Born	1930
+Eugène Adrien Roland GeorgesGarros	Born	1888
+PattyWagstaff	Born	1951
+LilianBland	Born	1878
+Dmitry PavlovichGrigorovich	Born	1883
+Arthur Charles HubertLatham	Born	1883
+Valentina StepanovnaGrizodubova	Born	1909
+Clarence LeonardJohnson	Born	1910
+Otto C.Koppen	Born	1901
+FrankPiasecki	Born	1919
+Frederick PhillipsRaynham	Born	1893
+Alliot VerdonRoe	Born	1877
+RichardWaghorn	Born	1904
+Wilfred GeorgeCarter	Born	1889
+Olive AnnBeech	Born	1903
+Godwin vonBrumowski	Born	1889
+Marjorie ClaireStinson	Born	1895
+DavidThurston	Born	1918
+YuriGagarin	Born	1934
+James PaulBoland	Born	1882
+Geoffreyde Havilland	Born	1882
+LouisNoël	Born	1872
+MarinaȘtirbei	Born	1912
+Colin FalklandGray	Born	1914
+KimberlyAnyadike	Born	1994
+Louis HenriCapazza	Born	1862
+DeniseMoore	Born	1876
+ErnstUdet	Born	1896
+Evelyn "Bobby"Trout	Born	1906
+Heinrich Karl JohannFocke	Born	1890
+June D.Maule	Born	1917
+GabrielVoisin	Born	1880
+Molly DaphneRose	Born	1920
+Sophie Catherine Theresa MaryPeirce-Evans	Born	1896
+IvoBoscarol	Born	1956
+Isidore Auguste Marie LouisPaulhan	Born	1883
+Frederick Walker "Casey"Baldwin	Born	1882
+LawrenceHargrave	Born	1850
+Lydia VladimirovnaLitvyak	Born	1921
+FayGillis Wells	Born	1908
+Wolfram Kurt ErhardHirth	Born	1900
+RenéCaudron	Born	1884
+AndréBorschberg	Born	1952
+DarrylGreenamyer	Born	1936
+William AveryBishop	Born	1894
+AlfredLeblanc	Born	1869
+DieudonnéCostes	Born	1896
+Nicholas E.Comper	Born	1897
+JánosRisztics	Born	1895
+LetticeCurtis	Born	1915
+Miles RutherfordBrowning	Born	1897
+ClaytonFolkerts	Born	1897
+Emma LilianTodd	Born	1865
+ÉdouardSurcouf	Born	1862
+RobertLusser	Born	1899
+Henry AdlerBerliner	Born	1895
+SándorTahy	Born	1896
+John OwenIsaacs	Born	1920
+Constance RuthLeathart	Born	1903
+Elrey BorgeJeppesen	Born	1907
+Thomas EtholenSelfridge	Born	1882
+EmilLang	Born	1909
+Nancy-BirdWalton	Born	1915
+AlfredSchreiber	Born	1923
+RobertBlackburn	Born	1885
+Horatio FrederickPhillips	Born	1845
+Skip JamesHolm	Born	1944
+Albert PaulMantz	Born	1903
+HarrietQuimby	Born	1875
+Virginus E.Clark	Born	1886
+GioraEpstein	Born	1938
+Mildred MaryBruce	Born	1895
+Suzanne "Sue"Parish	Born	1922
+Luisa Elena ContrerasMattera	Born	1922
+Amelie HedwigBeese	Born	1886
+Charles FranklinKettering	Born	1876
+MaryHaizlip	Born	1910
+Juan de laCierva	Born	1895
+Mikhail VasilyevichLomonosov	Born	1711
+Hugh OswaldShort	Born	1883
+Lewis AlonzoYancey	Born	1895
+Leroy Randle "Roy"Grumman	Born	1895
+George Edward HenryMcElroy	Born	1893
+MarcelLobelle	Born	1893
+Antoine Marie Jean-Baptiste deSaint-Exupéry	Born	1900
+ReinholdPoss	Born	1897
+OlegAntonov	Born	1906
+EgonScheibe	Born	1908
+Eric Cecil GordonEngland	Born	1891
+NadiaRusso	Born	1901
+WangZheng	Born	1972
+BurtRutan	Born	1943
+María AsunciónCalcaño	Born	1906
+Glenn HammondCurtiss	Born	1878
+GustavOtto	Born	1883
+Walter HerschelBeech	Born	1891
+Jeanne Aline (Jane)Herveu	Born	1885
+WalterHorten	Born	1913
+EnricoForlanini	Born	1848
+IstvánFejes	Born	1891
+William BarnardRhodes-Moorhouse	Born	1887
+Gerard FreebairnVultee	Born	1900
+HugoJunkers	Born	1859
+John Theodore CuthbertMoore-Brabazon	Born	1884
+ArtChester	Born	1899
+MarcBirkigt	Born	1878
+Willard FrederickRockwell, Sr.	Born	1888
+JacquesSchneider	Born	1879
+Clive RobertsonCaldwell	Born	1911
+Tubal ClaudeRyan	Born	1898
+BettySkelton	Born	1926
+Richard TravisWhitcomb	Born	1921
+FrigyesHefty	Born	1894
+Charles Humphrey KingsmanEdmonds	Born	1891
+Alexander MartinLippisch	Born	1894
+HeinrichLübbe	Born	1884
+Denys CorbettWilson	Born	1882
+Dale EdwardKlapmeier	Born	1961
+Newby OdellBrantly	Born	1905
+Tom CampbellBlack	Born	1899
+Susana FerrariBillinghurst	Born	1914
+GeorgesGuynemer	Born	1894
+Nevil ShuteNorway	Born	1899
+Ernest KelloggGann	Born	1910
+William ThomasPiper Sr.	Born	1881
+GabriellaAngelini	Born	1911
+Grover ClevelandLoening	Born	1888
+FrancescoBaracca	Born	1888
+Alvin MelvinJohnston	Born	1914
+Beverly LynnBurns	Born	1949
+Robert Lee "Hoot"Gibson	Born	1946
+JosephCosta	Born	1909
+JohnGlenn	Born	1921
+Clyde EdwardPangborn	Born	1895
+GerdAchgelis	Born	1908
+RoaldDahl	Born	1916
+KurtWelter	Born	1916
+Charles AugustusLindbergh	Born	1902
+AlfredComte	Born	1895
+FrederikKoolhoven	Born	1886
+Alexander Nikolaievich Prokofievde Seversky	Born	1894
+Jacob Christian HansenEllehammer	Born	1871
+Dandridge MacFarlanCole	Born	1921
+GyörgyJendrassik	Born	1898
+Gustav Jules EugeneBlondeau	Born	1871
+Raymonde deLaroche	Born	1882
+Gustave AlbinWhitehead	Born	1874
+HannesArch	Born	1967
+Maximilian John LudwickWeston	Born	1872
+IngridPedersen	Born	1933
+RaffaeleConflenti	Born	1889
+MickyAxton	Born	1919
+Walter J.Carr	Born	1896
+John JosephMontgomery	Born	1858
+Czesław MichałZbierański	Born	1885
+HansSeidemann	Born	1901
+Jean-PierreBlanchard	Born	1753
+Amelia RoseEarhart	Born	1983
+Bessica FaithRaiche	Born	1875
+Igor VasilevichBensen	Born	1917
+Frederick SidneyCotton	Born	1894
+ÉdouardJoly	Born	1898
+MatoDukovac	Born	1918
+TiborTobak	Born	1922
+Charles Eugène Jules MarieNungesser	Born	1892
+RuthElder	Born	1902
+Jill ElaineBrown	Born	1950
+Donald ArthurLuscombe	Born	1895
+JamesValentine	Born	1887
+NigelLamb	Born	1956
+Albin KasperLongren	Born	1882
+TheodorOsterkamp	Born	1892
+TamarAriel	Born	1989
+Calbraith PerryRodgers	Born	1879
+Iris Louise McPhetridgeThaden	Born	1905
+Richard EvelynByrd	Born	1888
+BrunoLoerzer	Born	1891
+Ruth LawOliver	Born	1887
+CromwellDixon	Born	1892
+Allen H.Meyers	Born	1908
+Howard RobardHughes	Born	1905
+Hans vonOhain	Born	1911
+Albert LeeUeltschi	Born	1917
+Willard LambVelie	Born	1866
+JenniferMurray	Born	1940
+Albrecht LudwigBerblinger	Born	1770
+AntonFlettner	Born	1885
+Manfred Albrecht Freiherr vonRichthofen	Born	1892
+Josef Carl PeterJacobs	Born	1894
+Scott DouglasAnderson	Born	1965
+ElmerSperry	Born	1860
+Ernest François (Maurice)Guillaux	Born	1883
+GiulioGavotti	Born	1882
+William EdwardBoeing	Born	1881
+Teresio VittorioMartinoli	Born	1917
+BonnieTiburzi	Born	1948
+Emil MatthewLaird	Born	1896
+EstherMbabazi	Born	1988
+Michael GeorgeGoulian	Born	1968
+AlexanderKartveli	Born	1896
+PéterBesenyei	Born	1956
+Artem IvanovichMikoyan	Born	1905
+HenriFarman	Born	1874
+MargaretRingenberg	Born	1921
+Nikolay IlyichKamov	Born	1902
+Moretta Fenton BeallReilly	Born	1922
+Ruth RowlandNichols	Born	1901
+Mario deBernardi	Born	1893
+StanisławRogalski	Born	1904
+Charles HuronKaman	Born	1919
+Francis HerbertWenham	Born	1824
+James EdgarJohnson	Born	1915
+Jeffrey KindersleyQuill	Born	1913
+SusanDarcy	Born	1956
+Oscar ColinMorison	Born	1884
+Willy EmilMesserschmitt	Born	1898
+Jens William AegidiusElling	Born	1861
+Hubert FauntleroyJulian	Born	1897
+RheinholdPlatz	Born	1886
+Henry TraceyCoxwell	Born	1819
+Evgeniya MikhailovnaShakhovskaya	Born	1889
+AugustEuler	Born	1868
+AlbertFonó	Born	1881
+JosephSadi-Lecointe	Born	1891
+MathiasRust	Born	1968
+Winifred EvelynSpooner	Born	1900
+PatFillingham	Born	1914
+TetsuzōIwamoto	Born	1916
+Louis FerdinandFerber	Born	1862
+Vera StrodlDowling	Born	1918
+Agnew EmielLarsen	Born	1897
+SophieBlanchard	Born	1778
+Lydia VissarionovnaZvereva	Born	1890
+Lowell RichardBayles	Born	1900
+GeorgesPhilippar	Born	1883
+VanceBreese	Born	1904
+Jessie MaudeMiller	Born	1902
+Chesley BurnettSullenberger	Born	1951
+Marlon DewittGreen	Born	1929
+BuzzAldrin	Born	1930
+VecihiHürkuş	Born	1896
+Hubert StandfordBroad	Born	1897
+Reginald JosephMitchell	Born	1895
+James SmithMcDonnell	Born	1899
+JerzyRudlicki	Born	1893
+MichelColomban	Born	1932
+Edwin CharlesMusick	Born	1894
+Fritz OttoBernert	Born	1893
+Shivkar BāpujTalpade	Born	1864
+Aida deAcosta	Born	1881
+Vladimir KonstantinovichKokkinaki	Born	1904
+OrvilleWright	Born	1871
+KurtWintgens	Born	1894
+John H.Livingston	Born	1897
+RenéGrandjean	Born	1884
+NicolaScaife	Born	1984
+WolfgangSpäte	Born	1911
+DagobertoGodoy	Born	1893
+Alan LeeKlapmeier	Born	1958
+Wilfrid ReidMay	Born	1896
+Jules Charles ToussaintVédrines	Born	1881
+Igor IvanovichSikorsky	Born	1889
+HenriFabre	Born	1882
+Harry MethuenSchofield	Born	1899
+Hiram StevensMaxim	Born	1840
+Eula "Pearl"Carter Scott	Born	1915
+Jean-François Pilâtre deRozier	Born	1754
+Albert ScottCrossfield	Born	1921
+OswaldBoelcke	Born	1891
+Richard HaroldBarnwell	Born	1878
+Keith MacphersonSmith	Born	1890
+Arturo MerinoBenítez	Died	1970
+DidierMasson	Died	1950
+Frederick WilliamLanchaster	Died	1946
+ClémentAder	Died	1925
+Mary Anita "Neta"Snook Southern	Died	1991
+EllyBeinhorn	Died	2007
+John de MiltSeverne	Died	2015
+MaryEllis	Died	2018
+JánosFrint	Died	1918
+Henry K.Millicer	Died	1996
+Edwin HarrisDunning	Died	1917
+CharlesVoisin	Died	1912
+Benjamin OdellHoward	Died	1970
+Herbert G.Brackley	Died	1948
+FritzRumey	Died	1918
+Eugene BurtonEly	Died	1911
+Andrew Frederick WeatherbyBeauchamp-Proctor	Died	1921
+Nigel DesmondNorman	Died	2002
+HansGrade	Died	1946
+William PowellLear	Died	1978
+WernerJunck	Died	1976
+MaryBarr	Died	2010
+FreydisSharland	Died	2014
+Sydney VincentSippe	Died	1968
+AlbertoSantos-Dumont	Died	1932
+AnnBaumgartner	Died	2008
+Frederick Robert GordonMcCall	Died	1949
+ElinorSmith	Died	2010
+FranciszekŻwirko	Died	1932
+Marcel-GeorgesBrindejonc des Moulinais	Died	1916
+MarvelCrosson	Died	1929
+Edwin AlbertLink	Died	1981
+Frederick HandleyPage	Died	1962
+HenriDufaux	Died	1980
+Marmaduke Thomas St JohnPattle	Died	1941
+ArmandDufaux	Died	1941
+Bernard H.Pietenpol	Died	1984
+JacquelineAuriol	Died	2000
+Oskar Gustav RudolfBerthold	Died	1920
+GeorgeCayley	Died	1857
+KárolyKaszala	Died	1932
+William EarlJones	Died	1968
+HubertScott-Paine	Died	1954
+GyulaBusa	Died	1917
+Charles EdwardKingsford Smith	Died	1935
+Raymond John PaulParer	Died	1967
+Cyril FrankUwins	Died	1972
+FélixAmiot	Died	1974
+Leman BozkurtAltınçekiç	Died	2001
+James Howard "Dutch"Kindelberger	Died	1962
+Pierre-GeorgesLatécoère	Died	1943
+Violet "Vi"Milstead	Died	2014
+Edgar WiknerPercival	Died	1984
+RoyChadwick	Died	1947
+HansJacobs	Died	1994
+Preston AlbertWatson	Died	1915
+MaggieGee	Died	2013
+AmeliaEarhart	Died	1937
+Frank SowterBarnwell	Died	1938
+Stanley EdwardSpencer	Died	1906
+Artur de Sacadura FreireCabral	Died	1924
+KatherineStinson	Died	1977
+FrançoisDenhaut	Died	1952
+ErnőRubik	Died	1997
+GeorgWulf	Died	1927
+Henry Charles AlexandrePotez	Died	1981
+Alan JohnCobham	Died	1973
+Anne-JeanRobert	Died	1820
+Oliver EdwinSimmonds	Died	1985
+Florence Lowe "Pancho"Barnes	Died	1975
+JuliusArigi	Died	1981
+Bentfield CharlesHucks	Died	1918
+Théodore Clovis EdmondLemartin	Died	1911
+TraianVuia	Died	1950
+Richard WilliamPearse	Died	1953
+JeanDélémontez	Died	2015
+JanAmbus	Died	1994
+ZygmuntPulawski	Died	1931
+AlbertPlesman	Died	1953
+LudwigBölkow	Died	2003
+ErichLöwenhardt	Died	1918
+Charles WillisHolman	Died	1931
+François Laurentd'Arlandes	Died	1809
+Patricia LyleGraham	Died	2016
+MartinSchempp	Died	1984
+Sidney NormanWebster	Died	1984
+Michael EugeneMangold	Died	2015
+Bertrand BlanchardAcosta	Died	1954
+HannaReitsch	Died	1979
+DanielGuggenheim	Died	1930
+FrançoisColi	Died	1927
+Wiley HardemanPost	Died	1935
+ItaloBalbo	Died	1940
+RichardFairey	Died	1957
+MartheNiel	Died	1928
+Blanche StuartScott	Died	1970
+Wilfrid ThomasReid	Died	1968
+James Thomas ByfordMcCudden	Died	1918
+Cecil LawrencePashley	Died	1969
+Harry GeorgeHawker	Died	1921
+Wilfred AnthonyYackey	Died	1927
+Sergey VladimirovichIlyushin	Died	1977
+John Alexander DouglasMcCurdy	Died	1961
+Daniel JohnMaloney	Died	1905
+Anthony Herman GerardFokker	Died	1939
+George BertramCockburn	Died	1931
+Manuel John "Pete"Fernandez, Jr.	Died	1980
+Heinz-WolfgangSchnaufer	Died	1950
+Eino IlmariJuutilainen	Died	1999
+Allan HainesLockheed	Died	1969
+CharlesFauvel	Died	1979
+Henry PhillipFolland	Died	1954
+AlbertBall	Died	1917
+MaxHolste	Died	1998
+Viktor FedorovichBolkhovitinov	Died	1970
+AdaRogato	Died	1986
+JiroHorikoshi	Died	1982
+LaurentSeguin	Died	1944
+OttoLilienthal	Died	1896
+Giovanni BattistaCaproni	Died	1957
+Raymond P.Collishaw	Died	1976
+SheilaScott	Died	1988
+Robert AlexanderLittle	Died	1918
+ClaudeDornier	Died	1989
+Reuben HollisFleet	Died	1975
+Glenn LutherMartin	Died	1955
+Joan Lily AmeliaHughes	Died	1993
+Ernest ThompsonWillows	Died	1926
+Brendan Eamonn FergusFinucane	Died	1942
+Bartolomeu Lourenço deGusmão	Died	1724
+GrahamGilmour	Died	1912
+JeanHubert	Died	1927
+Alexander FedorovichMozhayskiy	Died	1890
+Robert BilcliffeLoraine	Died	1935
+Richard FrancisGordon Jr.	Died	2017
+William SeftonBrancker	Died	1930
+BerntBalchen	Died	1973
+Vladimir MikhailovichPetlyakov	Died	1942
+Ivan NikitovichKozhedub	Died	1991
+Percy SinclairPilcher	Died	1899
+LouisSeguin	Died	1918
+LudovicArrachart	Died	1933
+Antony HabersackJannus	Died	1916
+Edna GardnerWhyte	Died	1992
+JoaquínLoriga Taboada	Died	1927
+William OkeManning	Died	1958
+JimmyWedell	Died	1934
+Joseph-MichelMontgolfier	Died	1810
+WalterMittelholzer	Died	1937
+SydneyCamm	Died	1966
+JohnCunningham	Died	2002
+Édouardde Nieuport	Died	1911
+Robert CharlesMorane	Died	1968
+StanisławWigura	Died	1932
+George JacksonMead	Died	1949
+Louis PierreMouillard	Died	1897
+William BushnellStout	Died	1956
+JerzyDrzewiecki	Died	1990
+BessieColeman	Died	1926
+Edward HenryHeinemann	Died	1991
+EneaBossi	Died	1963
+ClydeCessna	Died	1954
+Diego MarínAguilera	Died	1799
+Alexander SergeyevichYakovlev	Died	1989
+Herbert John LouisHinkler	Died	1933
+JamesMartin	Died	1981
+Alexander Adolphus DumfriesHenshaw	Died	2007
+JohnStringfellow	Died	1883
+William George "Billy"Barker	Died	1930
+Gladys "Penny"Thompson	Died	1975
+SándorKasza	Died	1945
+Joaquín GarcíaMorato	Died	1939
+BenedettaWillis	Died	2008
+Hezârfen AhmedÇelebi	Died	1640
+Donald WillsDouglas	Died	1981
+HenryFord	Died	1947
+AntonieStrassmann	Died	1952
+Samuel PierpontLangley	Died	1906
+GiovanniAgusta	Died	1927
+GiulioMacchi	Died	1935
+FerencGräser	Died	1918
+Lloyd CarltonStearman	Died	1975
+Frank EdwardBoland	Died	1913
+João Ribeiro deBarros	Died	1947
+Lyman WiswellGilmore	Died	1951
+JeanBird	Died	1957
+BettyGillies	Died	1998
+RudolfSzepessy-Sokoll	Died	1917
+LuisCandelaria	Died	1963
+RoseLok	Died	1978
+IgoEtrich	Died	1967
+Douglas Robert SteuartBader	Died	1982
+Jean-MarieLe Bris	Died	1872
+Mary GoodrichJenson	Died	2004
+IvanSarić	Died	1966
+Neville FrederickDuke	Died	2007
+René PaulFonck	Died	1953
+MikhailGurevich	Died	1976
+Richard IraBong	Died	1945
+ReimarHorten	Died	1994
+JeanBatten	Died	1982
+Walter HuntLongton	Died	1927
+Ivy MayPearce	Died	1998
+Noel PembertonBilling	Died	1948
+Francis CharlesChichester	Died	1972
+Dean CullomSmith	Died	1987
+Edwin RowlandMoon	Died	1920
+StephenLatchford	Died	1974
+Abu Nasr Isma'il ibn Hammadal-Jawhari	Died	1002
+Charles J.Fern	Died	1995
+HenriCoanda	Died	1972
+Francesco dePinedo	Died	1933
+GeorgeEdwards	Died	2003
+LadislaoPazmany	Died	2006
+James HaroldDoolittle	Died	1993
+HowardPixton	Died	1972
+Marga vonEtzdorf	Died	1933
+BertramDickson	Died	1913
+OpalKunz	Died	1967
+Andrei NikolayevichTupolev	Died	1972
+Vsevolod MikhaylovichAbramovich	Died	1913
+Georgy MikhailovichBeriev	Died	1979
+Jens Tryggve HermanGran	Died	1980
+Nikolai NikolaevichPolikarpov	Died	1944
+JanWnęk	Died	1869
+RamónFranco	Died	1938
+Ross MacphersonSmith	Died	1922
+Dean IvanLamb	Died	1955
+Frederick NicholasSlingsby	Died	1973
+Inglis MooreUppercu	Died	1944
+AmyJohnson	Died	1941
+Katherine Sui FunCheung	Died	2003
+WilburWright	Died	1912
+JorgeLoring Martinez	Died	1936
+Edward CorringhamMannock	Died	1918
+RoyFedden	Died	1973
+Geraldine FredritzMock	Died	2014
+Horace LeonardShort	Died	1917
+RosinaFerrario	Died	1959
+VannevarBush	Died	1974
+Pierre ÉmileTaddéoli	Died	1920
+LéonMorane	Died	1918
+AlfredRenard	Died	1988
+GiuseppeCei	Died	1911
+CookCleland	Died	2007
+Edward VernonRickenbacker	Died	1973
+BerylMarkham	Died	1986
+ThérèsePeltier	Died	1926
+StanisławSkalski	Died	2004
+Adolphe CélestinPégoud	Died	1915
+John DavenportSiddeley	Died	1953
+Clement MelvilleKeys	Died	1952
+RoscoeTurner	Died	1970
+GerhardFieseler	Died	1987
+RichardBell-Davies	Died	1966
+SteveFossett	Died	2007
+Albert W.Mooney	Died	1986
+FlorenceKlingensmith	Died	1933
+Alviine-Johanna (Elvy)Kalep	Died	1989
+Ferdinand Adolf Heinrich AugustZeppelin	Died	1917
+MaryBailey	Died	1960
+Alexander AlexandrovichKazakov	Died	1919
+Albert EustaceShort	Died	1932
+Elizabeth Muriel Gregory "Elsie"MacGill	Died	1980
+Ronald EricBishop	Died	1989
+Adolf KarlRohrbach	Died	1939
+John KnudsenNorthrop	Died	1981
+EdmundRumpler	Died	1940
+ErichWarsitz	Died	1983
+Bernard Henri Barnyde Romanet	Died	1921
+Semyon AlekseyevichLavochkin	Died	1960
+Lawrence DaleBell	Died	1956
+Augustvon Parseval	Died	1942
+Samuel FranklinCody	Died	1913
+GerhardBarkhorn	Died	1983
+ArthurGouge	Died	1969
+JorgeNewbery	Died	1914
+ConstantinCantacuzino	Died	1958
+Franklyn LeslieBarnard	Died	1927
+Russel HydeMervin	Died	1929
+Juan TerryTrippe	Died	1981
+Gaetano ArturoCrocco	Died	1968
+DolorsVives i Rodon	Died	2007
+AnneLöwenstein-Wertheim-Freudenberg	Died	1927
+HélèneDutrieu	Died	1961
+Lawrence BurstSperry	Died	1923
+HansMulthopp	Died	1972
+LéonDelagrange	Died	1910
+Marie Ana AureliaDrăgescu	Died	2013
+PaulCornu	Died	1944
+Millicent MaudeBryant	Died	1927
+Donald RoderickMacLaren	Died	1988
+Harold FrederickPitcairn	Died	1960
+Carlos MauriceTalbott	Died	2015
+EdvardRusjan	Died	1911
+Sally KristenRide	Died	2012
+LotfiaElnadi	Died	2002
+Vladimir MikhailovichMyasishchev	Died	1978
+Jacques-ÉtienneMontgolfier	Died	1799
+Alexander GrahamBell	Died	1922
+CarinaMassone	Died	1991
+MaximilianConrad	Died	1979
+Guiseppe MarioBellanca	Died	1960
+BettyMiller	Died	2018
+LuigiPascale	Died	2017
+Lyalya AndarbekovnaNasukhanova	Died	2000
+Charles TerresWeymann	Died	1976
+Margot Irene RufusIsaacs	Died	2015
+Hazel YingLee	Died	1944
+RaymondSaulnier	Died	1964
+John NelsonBoothman	Died	1957
+Paul Ward SpencerBulman	Died	1963
+ThomasRose	Died	1968
+Peter M.Bowers	Died	2003
+ArmandDeperdussin	Died	1924
+MauriceFarman	Died	1964
+AurelVlaicu	Died	1913
+ErnestFailloubaz	Died	1919
+Ormer LeslieLocklear	Died	1920
+MarieMarvingt	Died	1963
+JerzyBajan	Died	1967
+StelioFrati	Died	2010
+Ahmet AliÇelikten	Died	1969
+Pyotr NikolayevichNesterov	Died	1914
+Abu al-Qasim Abbas ibnFirnas	Died	887
+RenéThomas	Died	1975
+Ruth BancroftLaw	Died	1970
+Alfred VictorVerville	Died	1970
+OskarBider	Died	1919
+Chauncey Milton "Chance"Vought	Died	1930
+Gidsken NilsineJakobsen	Died	1990
+Carlos Viegas GagoCoutinho	Died	1959
+LéonLevavasseur	Died	1921
+André MarcelDesoutter	Died	1952
+Erich AlfredHartmann	Died	1993
+Ola MildredRexroat	Died	2017
+Augustus MooreHerring	Died	1926
+KarlJatho	Died	1933
+Nicolas-LouisRobert	Died	1820
+OskarDinort	Died	1965
+EduardSpelterini	Died	1931
+Beverly HomerDeLay	Died	1923
+Arthur WhittenBrown	Died	1948
+LouisBreguet	Died	1955
+GastonCaudron	Died	1915
+John CyrilPorte	Died	1919
+Keith KarlCompton	Died	2004
+Frederick Alan IrvingMuntz	Died	1985
+Eric Melrose "Winkle"Brown	Died	2016
+Frank SowterWhittle	Died	1996
+John WilliamDunne	Died	1949
+BillyMitchell	Died	1936
+Thomas Octave MurdochSopwith	Died	1989
+BlancheNoyes	Died	1981
+Leonardoda Vinci	Died	1519
+JackieMoggridge	Died	2004
+Robert B.C.Noorduyn	Died	1959
+Maurice Albert Alfred JeanArnoux	Died	1940
+Mikhail LeontyevichMil	Died	1970
+RobertEsnault-Pelterie	Died	1957
+Anthony W.LeVier	Died	1998
+OttoKittel	Died	1945
+Willa BeatriceBrown	Died	1992
+Ernest OscarTips	Died	1968
+JózsefKiss	Died	1918
+Willy Omer François JeanCoppens de Houthulst	Died	1986
+Ila FoxLoetscher	Died	2000
+DougDavis	Died	1934
+Robert CampbellReeve	Died	1980
+GiovanniPegna	Died	1961
+Walter GeorgeTarrant	Died	1942
+Robert Anderson "Bob"Hover	Died	2016
+John DudleyNorth	Died	1968
+Alfred HessellTiltman	Died	1975
+JacquelineCochran	Died	1980
+WilhelmKress	Died	1913
+ClaudeGrahame-White	Died	1959
+Frederick GeorgeMiles	Died	1976
+Charles William AndersonScott	Died	1946
+John NicolaasBlock	Died	1994
+WalterNowotny	Died	1944
+Rosalind MathildeFranck	Died	1956
+Eleanor Josephine TrehawkeDavies	Died	1915
+WernerVoss	Died	1917
+LilianBland	Died	1971
+GuyMenzies	Died	1940
+Amalia CeliaFigueredo de Pietra	Died	1985
+Francesco Lana deTerzi	Died	1687
+ÉmileDewoitine	Died	1979
+Kurt WaldemarTank	Died	1983
+James Joseph "Jimmy"Ling	Died	2004
+Sherman MillsFairchild	Died	1971
+TadashiHyōdō	Died	1980
+GüntherRall	Died	2009
+ElseHaugk	Died	1973
+Clarence GilbertTaylor	Died	1988
+William SamuelHenson	Died	1888
+Gustav WilhelmHamel	Died	1914
+JánRežňák	Died	2007
+Jean LouisConneau (André Beaumont)	Died	1937
+Félix duTemple de la Croix	Died	1890
+LouisBlériot	Died	1936
+Thomas NevilleStack	Died	1949
+SabihaGökçen	Died	2001
+Valentine HenryBaker	Died	1942
+MarcelDassault	Died	1986
+Ida VanSmith	Died	2003
+OctaveChanute	Died	1910
+James AllanMollison	Died	1959
+Phoebe Jane FairgraveOmlie	Died	1975
+SveinHeglund	Died	1998
+TheaRasche	Died	1971
+StanleyHiller Jr.	Died	2006
+EduardoAldasoro Suárez	Died	1968
+Melitta Schenk Gräfin vonStauffenberg	Died	1945
+GaryHubler	Died	2007
+JalilZandi	Died	2001
+Edward AndersonStinson, Jr.	Died	1932
+Lucien MauricePrévost	Died	1952
+Ethel Marian Sumner "Maie"Casey	Died	1983
+WilliamGreene	Died	1952
+John LankesterParker	Died	1965
+James R.Bede	Died	2015
+Charles DouglasBarnard	Died	1971
+William ThomasWhisner Jr.	Died	1989
+George FrederickBeurling	Died	1948
+Leslie EverettBaynes	Died	1989
+AlessandroMarchetti	Died	1966
+Roger QuincyWilliams	Died	1976
+Juan PabloAldasoro Suárez	Died	1962
+Pierre HenriClostermann	Died	2006
+JeanMermoz	Died	1936
+HenriMignet	Died	1965
+Hilda BeatriceHewlett	Died	1943
+JamesRadley	Died	1959
+Pavel OsipovichSukhoi	Died	1975
+AlešStrojnik	Died	1995
+DouglasDouglas-Hamilton	Died	1973
+Friedrich-WilhelmMorzik	Died	1985
+ErnstHeinkel	Died	1958
+Charles JamesMelrose	Died	1936
+Edward JamesSwearingen	Died	2014
+DezsőSzentgyörgyi	Died	1971
+HansBöhning	Died	1934
+Charles RumneySamson	Died	1931
+Paul HowardPoberezny	Died	2013
+Milo GarrettBurcham	Died	1944
+JohnAlcock	Died	1919
+DagnyBerger	Died	1950
+Pearl LaskaChamberlain	Died	2012
+HenriGiffard	Died	1882
+EduardoBradley	Died	1951
+NeilArmstrong	Died	2012
+Eugène Adrien Roland GeorgesGarros	Died	1918
+LilianBland	Died	1971
+Dmitry PavlovichGrigorovich	Died	1938
+Arthur Charles HubertLatham	Died	1912
+Valentina StepanovnaGrizodubova	Died	1993
+Clarence LeonardJohnson	Died	1990
+Otto C.Koppen	Died	1991
+FrankPiasecki	Died	2008
+Frederick PhillipsRaynham	Died	1954
+Alliot VerdonRoe	Died	1958
+RichardWaghorn	Died	1931
+Wilfred GeorgeCarter	Died	1969
+Olive AnnBeech	Died	1993
+Godwin vonBrumowski	Died	1936
+Marjorie ClaireStinson	Died	1975
+DavidThurston	Died	2013
+YuriGagarin	Died	1968
+James PaulBoland	Died	1967
+Geoffreyde Havilland	Died	1965
+MarinaȘtirbei	Died	2001
+Colin FalklandGray	Died	1995
+Louis HenriCapazza	Died	1928
+DeniseMoore	Died	1911
+ErnstUdet	Died	1941
+Evelyn "Bobby"Trout	Died	2003
+Heinrich Karl JohannFocke	Died	1979
+June D.Maule	Died	2009
+GabrielVoisin	Died	1973
+Molly DaphneRose	Died	2016
+Sophie Catherine Theresa MaryPeirce-Evans	Died	1939
+Isidore Auguste Marie LouisPaulhan	Died	1963
+Frederick Walker "Casey"Baldwin	Died	1948
+LawrenceHargrave	Died	1915
+Lydia VladimirovnaLitvyak	Died	1943
+FayGillis Wells	Died	2002
+Wolfram Kurt ErhardHirth	Died	1959
+RenéCaudron	Died	1959
+DarrylGreenamyer	Died	2018
+William AveryBishop	Died	1956
+AlfredLeblanc	Died	1921
+DieudonnéCostes	Died	1973
+Nicholas E.Comper	Died	1939
+JánosRisztics	Died	1973
+LetticeCurtis	Died	2014
+Miles RutherfordBrowning	Died	1954
+ClaytonFolkerts	Died	1964
+Emma LilianTodd	Died	1937
+ÉdouardSurcouf	Died	1938
+RobertLusser	Died	1969
+Henry AdlerBerliner	Died	1970
+SándorTahy	Died	1918
+John OwenIsaacs	Died	2001
+Constance RuthLeathart	Died	1993
+Elrey BorgeJeppesen	Died	1996
+Thomas EtholenSelfridge	Died	1908
+EmilLang	Died	1944
+Nancy-BirdWalton	Died	2009
+AlfredSchreiber	Died	1944
+RobertBlackburn	Died	1955
+Horatio FrederickPhillips	Died	1924
+Albert PaulMantz	Died	1965
+HarrietQuimby	Died	1912
+Virginus E.Clark	Died	1948
+Mildred MaryBruce	Died	1990
+Suzanne "Sue"Parish	Died	2010
+Luisa Elena ContrerasMattera	Died	2006
+Amelie HedwigBeese	Died	1925
+Charles FranklinKettering	Died	1958
+MaryHaizlip	Died	1997
+Juan de laCierva	Died	1936
+Mikhail VasilyevichLomonosov	Died	1765
+Hugh OswaldShort	Died	1969
+Lewis AlonzoYancey	Died	1940
+Leroy Randle "Roy"Grumman	Died	1982
+George Edward HenryMcElroy	Died	1918
+MarcelLobelle	Died	1967
+Antoine Marie Jean-Baptiste deSaint-Exupéry	Died	1944
+ReinholdPoss	Died	1933
+OlegAntonov	Died	1984
+EgonScheibe	Died	1997
+Eric Cecil GordonEngland	Died	1976
+NadiaRusso	Died	1988
+María AsunciónCalcaño	Died	1992
+Glenn HammondCurtiss	Died	1930
+GustavOtto	Died	1926
+Walter HerschelBeech	Died	1950
+Jeanne Aline (Jane)Herveu	Died	1955
+WalterHorten	Died	1998
+EnricoForlanini	Died	1930
+IstvánFejes	Died	1949
+William BarnardRhodes-Moorhouse	Died	1915
+Gerard FreebairnVultee	Died	1938
+HugoJunkers	Died	1935
+John Theodore CuthbertMoore-Brabazon	Died	1964
+ArtChester	Died	1949
+MarcBirkigt	Died	1953
+Willard FrederickRockwell, Sr.	Died	1978
+JacquesSchneider	Died	1928
+Clive RobertsonCaldwell	Died	1994
+Tubal ClaudeRyan	Died	1982
+BettySkelton	Died	2001
+Richard TravisWhitcomb	Died	2009
+FrigyesHefty	Died	1965
+Charles Humphrey KingsmanEdmonds	Died	1954
+Alexander MartinLippisch	Died	1976
+HeinrichLübbe	Died	1940
+Denys CorbettWilson	Died	1915
+Newby OdellBrantly	Died	1993
+Tom CampbellBlack	Died	1936
+Susana FerrariBillinghurst	Died	1999
+GeorgesGuynemer	Died	1917
+Nevil ShuteNorway	Died	1960
+Ernest KelloggGann	Died	1991
+William ThomasPiper Sr.	Died	1970
+GabriellaAngelini	Died	1932
+Grover ClevelandLoening	Died	1976
+FrancescoBaracca	Died	1918
+Alvin MelvinJohnston	Died	1998
+JosephCosta	Died	1998
+JohnGlenn	Died	1916
+Clyde EdwardPangborn	Died	1958
+GerdAchgelis	Died	1991
+RoaldDahl	Died	1990
+KurtWelter	Died	1949
+Charles AugustusLindbergh	Died	1974
+AlfredComte	Died	1965
+FrederikKoolhoven	Died	1946
+Alexander Nikolaievich Prokofievde Seversky	Died	1974
+Jacob Christian HansenEllehammer	Died	1946
+Dandridge MacFarlanCole	Died	1965
+GyörgyJendrassik	Died	1954
+Gustav Jules EugeneBlondeau	Died	1965
+Raymonde deLaroche	Died	1919
+Gustave AlbinWhitehead	Died	1927
+Wesley "Lee"Behel	Died	2014
+HannesArch	Died	2016
+Maximilian John LudwickWeston	Died	1950
+IngridPedersen	Died	2012
+RaffaeleConflenti	Died	1946
+MickyAxton	Died	2010
+Walter J.Carr	Died	1970
+John JosephMontgomery	Died	1911
+Czesław MichałZbierański	Died	1982
+HansSeidemann	Died	1967
+Jean-PierreBlanchard	Died	1809
+Bessica FaithRaiche	Died	1932
+Igor VasilevichBensen	Died	2000
+LelandSnow	Died	2011
+Frederick SidneyCotton	Died	1969
+ÉdouardJoly	Died	1982
+MatoDukovac	Died	1990
+TiborTobak	Died	2001
+Charles Eugène Jules MarieNungesser	Died	1927
+RuthElder	Died	1977
+Donald ArthurLuscombe	Died	1965
+JamesValentine	Died	1917
+Albin KasperLongren	Died	1950
+TheodorOsterkamp	Died	1975
+TamarAriel	Died	2014
+Calbraith PerryRodgers	Died	1912
+Iris Louise McPhetridgeThaden	Died	1979
+Richard EvelynByrd	Died	1957
+BrunoLoerzer	Died	1960
+Ruth LawOliver	Died	1970
+CromwellDixon	Died	1911
+Allen H.Meyers	Died	1976
+Howard RobardHughes	Died	1976
+Hans vonOhain	Died	1998
+Albert LeeUeltschi	Died	2012
+Willard LambVelie	Died	1928
+Albrecht LudwigBerblinger	Died	1829
+AntonFlettner	Died	1961
+Manfred Albrecht Freiherr vonRichthofen	Died	1918
+Josef Carl PeterJacobs	Died	1978
+Scott DouglasAnderson	Died	1999
+ElmerSperry	Died	1930
+Ernest François (Maurice)Guillaux	Died	1917
+GiulioGavotti	Died	1939
+William EdwardBoeing	Died	1956
+Teresio VittorioMartinoli	Died	1944
+Emil MatthewLaird	Died	1982
+AlexanderKartveli	Died	1974
+Artem IvanovichMikoyan	Died	1970
+HenriFarman	Died	1958
+MargaretRingenberg	Died	2008
+Nikolay IlyichKamov	Died	1973
+Moretta Fenton BeallReilly	Died	1980
+Ruth RowlandNichols	Died	1960
+Mario deBernardi	Died	1959
+StanisławRogalski	Died	1976
+Charles HuronKaman	Died	2011
+Francis HerbertWenham	Died	1908
+James EdgarJohnson	Died	2001
+Jeffrey KindersleyQuill	Died	1996
+Oscar ColinMorison	Died	1966
+Willy EmilMesserschmitt	Died	1978
+Jens William AegidiusElling	Died	1949
+Hubert FauntleroyJulian	Died	1983
+RheinholdPlatz	Died	1966
+Henry TraceyCoxwell	Died	1900
+Evgeniya MikhailovnaShakhovskaya	Died	1920
+AugustEuler	Died	1957
+AlbertFonó	Died	1972
+JosephSadi-Lecointe	Died	1944
+Winifred EvelynSpooner	Died	1933
+PatFillingham	Died	2003
+TetsuzōIwamoto	Died	1955
+Louis FerdinandFerber	Died	1909
+Vera StrodlDowling	Died	2015
+Agnew EmielLarsen	Died	1969
+SophieBlanchard	Died	1819
+Lydia VissarionovnaZvereva	Died	1916
+Lowell RichardBayles	Died	1931
+GeorgesPhilippar	Died	1959
+VanceBreese	Died	1973
+Jessie MaudeMiller	Died	1972
+Marlon DewittGreen	Died	2009
+VecihiHürkuş	Died	1969
+Hubert StandfordBroad	Died	1975
+Reginald JosephMitchell	Died	1937
+James SmithMcDonnell	Died	1980
+JerzyRudlicki	Died	1977
+Edwin CharlesMusick	Died	1938
+Fritz OttoBernert	Died	1918
+Shivkar BāpujTalpade	Died	1916
+Aida deAcosta	Died	1962
+Vladimir KonstantinovichKokkinaki	Died	1985
+OrvilleWright	Died	1948
+KurtWintgens	Died	1916
+John H.Livingston	Died	1974
+RenéGrandjean	Died	1963
+WolfgangSpäte	Died	1997
+DagobertoGodoy	Died	1960
+Wilfrid ReidMay	Died	1952
+Jules Charles ToussaintVédrines	Died	1919
+Igor IvanovichSikorsky	Died	1972
+HenriFabre	Died	1984
+Harry MethuenSchofield	Died	1955
+Hiram StevensMaxim	Died	1916
+Eula "Pearl"Carter Scott	Died	2005
+Jean-François Pilâtre deRozier	Died	1785
+Albert ScottCrossfield	Died	2006
+OswaldBoelcke	Died	1916
+Richard HaroldBarnwell	Died	1917
+Keith MacphersonSmith	Died	1955
+Arturo MerinoBenítez	Sex	male
+DidierMasson	Sex	male
+Frederick WilliamLanchaster	Sex	male
+ClémentAder	Sex	male
+Mary Anita "Neta"Snook Southern	Sex	female
+EllyBeinhorn	Sex	female
+PierreRobin	Sex	male
+John de MiltSeverne	Sex	male
+DonCameron	Sex	male
+MaryEllis	Sex	female
+JánosFrint	Sex	male
+Henry K.Millicer	Sex	male
+Edwin HarrisDunning	Sex	male
+CharlesVoisin	Sex	male
+Benjamin OdellHoward	Sex	male
+Herbert G.Brackley	Sex	male
+FritzRumey	Sex	male
+Eugene BurtonEly	Sex	male
+Andrew Frederick WeatherbyBeauchamp-Proctor	Sex	male
+Nigel DesmondNorman	Sex	male
+HansGrade	Sex	male
+William PowellLear	Sex	male
+WernerJunck	Sex	male
+MaryBarr	Sex	female
+FreydisSharland	Sex	female
+Sydney VincentSippe	Sex	male
+AlbertoSantos-Dumont	Sex	male
+AnnBaumgartner	Sex	female
+Frederick Robert GordonMcCall	Sex	male
+Steven FerenczUdvar-Házy	Sex	male
+ElinorSmith	Sex	female
+FranciszekŻwirko	Sex	male
+Marcel-GeorgesBrindejonc des Moulinais	Sex	male
+MarvelCrosson	Sex	female
+Edwin AlbertLink	Sex	male
+Frederick HandleyPage	Sex	male
+Nguen VanCoc	Sex	male
+PeteMcLeod	Sex	male
+HenriDufaux	Sex	male
+Marmaduke Thomas St JohnPattle	Sex	male
+BertrandPiccard	Sex	male
+ArmandDufaux	Sex	male
+Bernard H.Pietenpol	Sex	male
+JacquelineAuriol	Sex	female
+Oskar Gustav RudolfBerthold	Sex	male
+GeorgeCayley	Sex	male
+KárolyKaszala	Sex	male
+William EarlJones	Sex	male
+HubertScott-Paine	Sex	male
+GyulaBusa	Sex	male
+Charles EdwardKingsford Smith	Sex	male
+Raymond John PaulParer	Sex	male
+Cyril FrankUwins	Sex	male
+FélixAmiot	Sex	male
+MargaretAdams	Sex	female
+Leman BozkurtAltınçekiç	Sex	female
+James Howard "Dutch"Kindelberger	Sex	male
+Pierre-GeorgesLatécoère	Sex	male
+Violet "Vi"Milstead	Sex	female
+Edgar WiknerPercival	Sex	male
+RoyChadwick	Sex	male
+HansJacobs	Sex	male
+Preston AlbertWatson	Sex	male
+MaggieGee	Sex	female
+AmeliaEarhart	Sex	female
+Frank SowterBarnwell	Sex	male
+Stanley EdwardSpencer	Sex	male
+Artur de Sacadura FreireCabral	Sex	male
+KatherineStinson	Sex	female
+Emily HowellWarner	Sex	female
+FrançoisDenhaut	Sex	male
+ErnőRubik	Sex	male
+GeorgWulf	Sex	male
+Henry Charles AlexandrePotez	Sex	male
+Alan JohnCobham	Sex	male
+Anne-JeanRobert	Sex	male
+Oliver EdwinSimmonds	Sex	male
+MatthiasDolderer	Sex	male
+Florence Lowe "Pancho"Barnes	Sex	female
+JuliusArigi	Sex	male
+Bentfield CharlesHucks	Sex	male
+Théodore Clovis EdmondLemartin	Sex	male
+TraianVuia	Sex	male
+Richard WilliamPearse	Sex	male
+JeanDélémontez	Sex	male
+JanAmbus	Sex	male
+ZygmuntPulawski	Sex	male
+PollyVacher	Sex	female
+AlbertPlesman	Sex	male
+LudwigBölkow	Sex	male
+ErichLöwenhardt	Sex	male
+Charles WillisHolman	Sex	male
+François Laurentd'Arlandes	Sex	male
+Patricia LyleGraham	Sex	female
+MartinSchempp	Sex	male
+Sidney NormanWebster	Sex	male
+JerrieCobb	Sex	female
+Michael EugeneMangold	Sex	male
+Jeana LeeYeager	Sex	female
+Bertrand BlanchardAcosta	Sex	male
+HannaReitsch	Sex	female
+DanielGuggenheim	Sex	male
+FrançoisColi	Sex	male
+Wiley HardemanPost	Sex	male
+ItaloBalbo	Sex	male
+RichardFairey	Sex	male
+MartheNiel	Sex	female
+Blanche StuartScott	Sex	female
+Wilfrid ThomasReid	Sex	male
+James Thomas ByfordMcCudden	Sex	male
+Cecil LawrencePashley	Sex	male
+Pamela AnneMelroy	Sex	female
+Harry GeorgeHawker	Sex	male
+Wilfred AnthonyYackey	Sex	male
+Sergey VladimirovichIlyushin	Sex	male
+John Alexander DouglasMcCurdy	Sex	male
+Daniel JohnMaloney	Sex	male
+Anthony Herman GerardFokker	Sex	male
+George BertramCockburn	Sex	male
+Manuel John "Pete"Fernandez, Jr.	Sex	male
+Heinz-WolfgangSchnaufer	Sex	male
+Eino IlmariJuutilainen	Sex	male
+Allan HainesLockheed	Sex	male
+CharlesFauvel	Sex	male
+Henry PhillipFolland	Sex	male
+AlbertBall	Sex	male
+MaxHolste	Sex	male
+Viktor FedorovichBolkhovitinov	Sex	male
+AdaRogato	Sex	female
+JiroHorikoshi	Sex	male
+LaurentSeguin	Sex	male
+OttoLilienthal	Sex	male
+YoshihideMuroya	Sex	male
+Giovanni BattistaCaproni	Sex	male
+Julie AnnGibson	Sex	female
+Raymond P.Collishaw	Sex	male
+SheilaScott	Sex	female
+Robert AlexanderLittle	Sex	male
+ClaudeDornier	Sex	male
+Reuben HollisFleet	Sex	male
+Glenn LutherMartin	Sex	male
+Joan Lily AmeliaHughes	Sex	female
+Ernest ThompsonWillows	Sex	male
+Brendan Eamonn FergusFinucane	Sex	male
+Bartolomeu Lourenço deGusmão	Sex	male
+GrahamGilmour	Sex	male
+JeanHubert	Sex	male
+WilliamSchweizer	Sex	male
+Hershel ClayLacy	Sex	male
+Alexander FedorovichMozhayskiy	Sex	male
+Robert BilcliffeLoraine	Sex	male
+Richard FrancisGordon Jr.	Sex	male
+William SeftonBrancker	Sex	male
+BerntBalchen	Sex	male
+PaulBonhomme	Sex	male
+Vladimir MikhailovichPetlyakov	Sex	male
+Ivan NikitovichKozhedub	Sex	male
+Percy SinclairPilcher	Sex	male
+LouisSeguin	Sex	male
+Charles BarbinDeBellevue	Sex	male
+LudovicArrachart	Sex	male
+Antony HabersackJannus	Sex	male
+Edna GardnerWhyte	Sex	female
+WolfLemke	Sex	male
+JoaquínLoriga Taboada	Sex	male
+William OkeManning	Sex	male
+Richard Glenn "Dick"Rutan	Sex	male
+JimmyWedell	Sex	male
+Joseph-MichelMontgolfier	Sex	male
+WalterMittelholzer	Sex	male
+SydneyCamm	Sex	male
+JohnCunningham	Sex	male
+Édouardde Nieuport	Sex	male
+Robert CharlesMorane	Sex	male
+StanisławWigura	Sex	male
+George JacksonMead	Sex	male
+Mary Wallace "Wally"Funk	Sex	female
+Louis PierreMouillard	Sex	male
+William BushnellStout	Sex	male
+JerzyDrzewiecki	Sex	male
+BessieColeman	Sex	female
+GiacomoD'Angelis	Sex	male
+Edward HenryHeinemann	Sex	male
+EneaBossi	Sex	male
+ClydeCessna	Sex	male
+Diego MarínAguilera	Sex	male
+Alexander SergeyevichYakovlev	Sex	male
+Mary RawlinsonCreason	Sex	female
+Herbert John LouisHinkler	Sex	male
+JamesMartin	Sex	male
+Alexander Adolphus DumfriesHenshaw	Sex	male
+MelissaHaney	Sex	female
+JohnStringfellow	Sex	male
+William George "Billy"Barker	Sex	male
+Gladys "Penny"Thompson	Sex	female
+SándorKasza	Sex	male
+Joaquín GarcíaMorato	Sex	male
+BenedettaWillis	Sex	female
+Hezârfen AhmedÇelebi	Sex	male
+BélaMacourek	Sex	male
+Donald WillsDouglas	Sex	male
+Michael WinstonMelvill	Sex	male
+CarolRabadi	Sex	female
+HenryFord	Sex	male
+AntonieStrassmann	Sex	female
+PierreLevasseur	Sex	male
+EmilyHowell Warner	Sex	female
+SteveHinton	Sex	male
+MattHall	Sex	male
+Samuel PierpontLangley	Sex	male
+GiovanniAgusta	Sex	male
+GiulioMacchi	Sex	male
+FerencGräser	Sex	male
+Lloyd CarltonStearman	Sex	male
+Frank EdwardBoland	Sex	male
+João Ribeiro deBarros	Sex	male
+Lyman WiswellGilmore	Sex	male
+JeanBird	Sex	female
+BettyGillies	Sex	female
+RudolfSzepessy-Sokoll	Sex	male
+LuisCandelaria	Sex	male
+RoseLok	Sex	female
+IgoEtrich	Sex	male
+Douglas Robert SteuartBader	Sex	male
+Jean-MarieLe Bris	Sex	male
+Mary GoodrichJenson	Sex	female
+IvanSarić	Sex	male
+Neville FrederickDuke	Sex	male
+René PaulFonck	Sex	male
+MikhailGurevich	Sex	male
+Richard IraBong	Sex	male
+ReimarHorten	Sex	male
+JeanBatten	Sex	female
+Walter HuntLongton	Sex	male
+Ivy MayPearce	Sex	female
+Noel PembertonBilling	Sex	male
+Saarah HameedAhmed	Sex	female
+Thomas PaulPoberezny	Sex	male
+Francis CharlesChichester	Sex	male
+Dean CullomSmith	Sex	male
+Edwin RowlandMoon	Sex	male
+StephenLatchford	Sex	male
+Abu Nasr Isma'il ibn Hammadal-Jawhari	Sex	male
+Charles J.Fern	Sex	male
+HenriCoanda	Sex	male
+Francesco dePinedo	Sex	male
+Lagâri HasanÇelebi	Sex	male
+GeorgeEdwards	Sex	male
+LadislaoPazmany	Sex	male
+James HaroldDoolittle	Sex	male
+HowardPixton	Sex	male
+Marga vonEtzdorf	Sex	female
+BertramDickson	Sex	male
+MikeBannister	Sex	male
+OpalKunz	Sex	female
+Andrei NikolayevichTupolev	Sex	male
+Vsevolod MikhaylovichAbramovich	Sex	male
+Georgy MikhailovichBeriev	Sex	male
+Jens Tryggve HermanGran	Sex	male
+Nikolai NikolaevichPolikarpov	Sex	male
+JanWnęk	Sex	male
+RamónFranco	Sex	male
+Ross MacphersonSmith	Sex	male
+YvesRousseau	Sex	male
+Dean IvanLamb	Sex	male
+Frederick NicholasSlingsby	Sex	male
+Inglis MooreUppercu	Sex	male
+AmyJohnson	Sex	female
+Katherine Sui FunCheung	Sex	female
+WilburWright	Sex	male
+JorgeLoring Martinez	Sex	male
+Edward CorringhamMannock	Sex	male
+RoyFedden	Sex	male
+Geraldine FredritzMock	Sex	female
+Horace LeonardShort	Sex	male
+RosinaFerrario	Sex	female
+VannevarBush	Sex	male
+Pierre ÉmileTaddéoli	Sex	male
+LéonMorane	Sex	male
+AlfredRenard	Sex	male
+GiuseppeCei	Sex	male
+CookCleland	Sex	male
+Edward VernonRickenbacker	Sex	male
+YuanHuangtou	Sex	male
+BerylMarkham	Sex	female
+ThérèsePeltier	Sex	female
+StanisławSkalski	Sex	male
+Adolphe CélestinPégoud	Sex	male
+John DavenportSiddeley	Sex	male
+Clement MelvilleKeys	Sex	male
+RoscoeTurner	Sex	male
+GerhardFieseler	Sex	male
+Rodney RayLewis	Sex	male
+RichardBell-Davies	Sex	male
+SteveFossett	Sex	male
+Eileen MarieCollins	Sex	female
+Albert W.Mooney	Sex	male
+FlorenceKlingensmith	Sex	female
+Alviine-Johanna (Elvy)Kalep	Sex	female
+Ferdinand Adolf Heinrich AugustZeppelin	Sex	male
+MaryBailey	Sex	female
+Alexander AlexandrovichKazakov	Sex	male
+Albert EustaceShort	Sex	male
+Elizabeth Muriel Gregory "Elsie"MacGill	Sex	female
+Ronald EricBishop	Sex	male
+Adolf KarlRohrbach	Sex	male
+John KnudsenNorthrop	Sex	male
+RodMachado	Sex	male
+EdmundRumpler	Sex	male
+ErichWarsitz	Sex	male
+BernardZiegler	Sex	male
+Bernard Henri Barnyde Romanet	Sex	male
+Semyon AlekseyevichLavochkin	Sex	male
+Lawrence DaleBell	Sex	male
+Augustvon Parseval	Sex	male
+Samuel FranklinCody	Sex	male
+GerhardBarkhorn	Sex	male
+ArthurGouge	Sex	male
+JorgeNewbery	Sex	male
+ConstantinCantacuzino	Sex	male
+Franklyn LeslieBarnard	Sex	male
+Russel HydeMervin	Sex	male
+Juan TerryTrippe	Sex	male
+Gaetano ArturoCrocco	Sex	male
+DolorsVives i Rodon	Sex	female
+AnneLöwenstein-Wertheim-Freudenberg	Sex	female
+Richard E. "Dick"VanGrunsven	Sex	male
+HélèneDutrieu	Sex	female
+Lawrence BurstSperry	Sex	male
+HansMulthopp	Sex	male
+Lars Gunnar RobertRådeström	Sex	male
+LéonDelagrange	Sex	male
+Marie Ana AureliaDrăgescu	Sex	female
+PaulCornu	Sex	male
+Millicent MaudeBryant	Sex	female
+GabrielBorel	Sex	male
+Donald RoderickMacLaren	Sex	male
+Harold FrederickPitcairn	Sex	male
+Carlos MauriceTalbott	Sex	male
+EdvardRusjan	Sex	male
+Sally KristenRide	Sex	female
+LotfiaElnadi	Sex	female
+Vladimir MikhailovichMyasishchev	Sex	male
+Jacques-ÉtienneMontgolfier	Sex	male
+Alexander GrahamBell	Sex	male
+CarinaMassone	Sex	female
+MaximilianConrad	Sex	male
+Guiseppe MarioBellanca	Sex	male
+PatriciaYapp Syau Yin	Sex	female
+BettyMiller	Sex	female
+LuigiPascale	Sex	male
+Lyalya AndarbekovnaNasukhanova	Sex	female
+Charles TerresWeymann	Sex	male
+Margot Irene RufusIsaacs	Sex	female
+ErnestSchweizer	Sex	male
+Hazel YingLee	Sex	female
+John WattsYoung	Sex	male
+RaymondSaulnier	Sex	male
+John NelsonBoothman	Sex	male
+Paul Ward SpencerBulman	Sex	male
+ThomasRose	Sex	male
+Peter M.Bowers	Sex	male
+ArmandDeperdussin	Sex	male
+KirbyChambliss	Sex	male
+MauriceFarman	Sex	male
+AurelVlaicu	Sex	male
+Shawna RochelleKimbrell	Sex	female
+ErnestFailloubaz	Sex	male
+LineBonde	Sex	female
+Ormer LeslieLocklear	Sex	male
+MarieMarvingt	Sex	female
+JerzyBajan	Sex	male
+StelioFrati	Sex	male
+Ahmet AliÇelikten	Sex	male
+Pyotr NikolayevichNesterov	Sex	male
+Abu al-Qasim Abbas ibnFirnas	Sex	male
+RenéThomas	Sex	male
+Ruth BancroftLaw	Sex	female
+Alfred VictorVerville	Sex	male
+OskarBider	Sex	male
+Chauncey Milton "Chance"Vought	Sex	male
+Gidsken NilsineJakobsen	Sex	female
+Carlos Viegas GagoCoutinho	Sex	male
+LéonLevavasseur	Sex	male
+André MarcelDesoutter	Sex	male
+Erich AlfredHartmann	Sex	male
+Ola MildredRexroat	Sex	female
+Augustus MooreHerring	Sex	male
+KarlJatho	Sex	male
+Nicolas-LouisRobert	Sex	male
+OskarDinort	Sex	male
+EduardSpelterini	Sex	male
+Ana LuisaBranger	Sex	female
+Beverly HomerDeLay	Sex	male
+JessicaCox	Sex	female
+Arthur WhittenBrown	Sex	male
+Charles ElwoodYeager	Sex	male
+LouisBreguet	Sex	male
+GastonCaudron	Sex	male
+John CyrilPorte	Sex	male
+Keith KarlCompton	Sex	male
+Frederick Alan IrvingMuntz	Sex	male
+Eric Melrose "Winkle"Brown	Sex	male
+Frank SowterWhittle	Sex	male
+John WilliamDunne	Sex	male
+BillyMitchell	Sex	male
+Thomas Octave MurdochSopwith	Sex	male
+BlancheNoyes	Sex	female
+Leonardoda Vinci	Sex	male
+JackieMoggridge	Sex	female
+Robert B.C.Noorduyn	Sex	male
+Maurice Albert Alfred JeanArnoux	Sex	male
+Mikhail LeontyevichMil	Sex	male
+RichardBranson	Sex	male
+RobertEsnault-Pelterie	Sex	male
+Anthony W.LeVier	Sex	male
+OttoKittel	Sex	male
+Willa BeatriceBrown	Sex	female
+Ernest OscarTips	Sex	male
+JózsefKiss	Sex	male
+Willy Omer François JeanCoppens de Houthulst	Sex	male
+Ila FoxLoetscher	Sex	female
+DougDavis	Sex	male
+Sean DohertyTucker	Sex	male
+Robert CampbellReeve	Sex	male
+GiovanniPegna	Sex	male
+Walter GeorgeTarrant	Sex	male
+Robert Anderson "Bob"Hover	Sex	male
+John DudleyNorth	Sex	male
+Alfred HessellTiltman	Sex	male
+MartinŠonka	Sex	male
+JacquelineCochran	Sex	female
+WilhelmKress	Sex	male
+ClaudeGrahame-White	Sex	male
+Frederick GeorgeMiles	Sex	male
+JánosLasi	Sex	male
+Charles William AndersonScott	Sex	male
+Tammie JoShults	Sex	female
+John NicolaasBlock	Sex	male
+WalterNowotny	Sex	male
+Rosalind MathildeFranck	Sex	female
+Eleanor Josephine TrehawkeDavies	Sex	female
+WernerVoss	Sex	male
+LilianBland	Sex	female
+GuyMenzies	Sex	male
+Amalia CeliaFigueredo de Pietra	Sex	female
+Francesco Lana deTerzi	Sex	male
+ÉmileDewoitine	Sex	male
+LynnRippelmeyer	Sex	female
+Kurt WaldemarTank	Sex	male
+James Joseph "Jimmy"Ling	Sex	male
+Sherman MillsFairchild	Sex	male
+Richard DavidBach	Sex	male
+TadashiHyōdō	Sex	female
+GüntherRall	Sex	male
+ElseHaugk	Sex	female
+Clarence GilbertTaylor	Sex	male
+William SamuelHenson	Sex	male
+Gustav WilhelmHamel	Sex	male
+JánRežňák	Sex	male
+Jean LouisConneau (André Beaumont)	Sex	male
+Félix duTemple de la Croix	Sex	male
+LouisBlériot	Sex	male
+Thomas NevilleStack	Sex	male
+SabihaGökçen	Sex	female
+Valentine HenryBaker	Sex	male
+MarcelDassault	Sex	male
+Ida VanSmith	Sex	female
+OctaveChanute	Sex	male
+James AllanMollison	Sex	male
+Phoebe Jane FairgraveOmlie	Sex	female
+SveinHeglund	Sex	male
+TheaRasche	Sex	female
+StanleyHiller Jr.	Sex	male
+EduardoAldasoro Suárez	Sex	male
+Melitta Schenk Gräfin vonStauffenberg	Sex	female
+GaryHubler	Sex	male
+JalilZandi	Sex	male
+Edward AndersonStinson, Jr.	Sex	male
+Lucien MauricePrévost	Sex	male
+Franklin DavisRobinson	Sex	male
+Ethel Marian Sumner "Maie"Casey	Sex	female
+WilliamGreene	Sex	male
+John LankesterParker	Sex	male
+James R.Bede	Sex	male
+Charles DouglasBarnard	Sex	male
+William ThomasWhisner Jr.	Sex	male
+George FrederickBeurling	Sex	male
+Leslie EverettBaynes	Sex	male
+AlessandroMarchetti	Sex	male
+Roger QuincyWilliams	Sex	male
+Juan PabloAldasoro Suárez	Sex	male
+Pierre HenriClostermann	Sex	male
+JeanMermoz	Sex	male
+HenriMignet	Sex	male
+Hilda BeatriceHewlett	Sex	female
+JamesRadley	Sex	male
+Pavel OsipovichSukhoi	Sex	male
+Muhammad MahmoodAlam	Sex	male
+AlešStrojnik	Sex	male
+DouglasDouglas-Hamilton	Sex	male
+Friedrich-WilhelmMorzik	Sex	male
+ErnstHeinkel	Sex	male
+Charles JamesMelrose	Sex	male
+Edward JamesSwearingen	Sex	male
+DezsőSzentgyörgyi	Sex	male
+PerLindstrand	Sex	male
+HansBöhning	Sex	male
+Charles RumneySamson	Sex	male
+Paul HowardPoberezny	Sex	male
+Milo GarrettBurcham	Sex	male
+JohnAlcock	Sex	male
+DagnyBerger	Sex	female
+Pearl LaskaChamberlain	Sex	female
+HenriGiffard	Sex	male
+Kathleen "Kathy" CarolFox	Sex	female
+EduardoBradley	Sex	male
+NeilArmstrong	Sex	male
+Eugène Adrien Roland GeorgesGarros	Sex	male
+PattyWagstaff	Sex	female
+LilianBland	Sex	male
+Dmitry PavlovichGrigorovich	Sex	male
+Arthur Charles HubertLatham	Sex	male
+Valentina StepanovnaGrizodubova	Sex	female
+Clarence LeonardJohnson	Sex	male
+Otto C.Koppen	Sex	male
+FrankPiasecki	Sex	male
+Frederick PhillipsRaynham	Sex	male
+Alliot VerdonRoe	Sex	male
+RichardWaghorn	Sex	male
+Wilfred GeorgeCarter	Sex	male
+Olive AnnBeech	Sex	female
+Godwin vonBrumowski	Sex	male
+Marjorie ClaireStinson	Sex	female
+DavidThurston	Sex	male
+YuriGagarin	Sex	male
+James PaulBoland	Sex	male
+Geoffreyde Havilland	Sex	male
+LouisNoël	Sex	male
+MarinaȘtirbei	Sex	female
+Colin FalklandGray	Sex	male
+KimberlyAnyadike	Sex	female
+Louis HenriCapazza	Sex	male
+DeniseMoore	Sex	female
+ErnstUdet	Sex	male
+Evelyn "Bobby"Trout	Sex	female
+Heinrich Karl JohannFocke	Sex	male
+June D.Maule	Sex	female
+GabrielVoisin	Sex	male
+Molly DaphneRose	Sex	female
+Sophie Catherine Theresa MaryPeirce-Evans	Sex	female
+Asli HassanAbade	Sex	female
+IvoBoscarol	Sex	male
+Isidore Auguste Marie LouisPaulhan	Sex	female
+Frederick Walker "Casey"Baldwin	Sex	male
+LawrenceHargrave	Sex	male
+Lydia VladimirovnaLitvyak	Sex	female
+FayGillis Wells	Sex	female
+Wolfram Kurt ErhardHirth	Sex	male
+RenéCaudron	Sex	male
+AndréBorschberg	Sex	male
+DarrylGreenamyer	Sex	male
+William AveryBishop	Sex	male
+AlfredLeblanc	Sex	male
+DieudonnéCostes	Sex	male
+Nicholas E.Comper	Sex	male
+JánosRisztics	Sex	male
+LetticeCurtis	Sex	female
+Miles RutherfordBrowning	Sex	male
+ClaytonFolkerts	Sex	male
+Emma LilianTodd	Sex	female
+ÉdouardSurcouf	Sex	male
+PaulSchweizer	Sex	male
+RobertLusser	Sex	male
+Henry AdlerBerliner	Sex	male
+SándorTahy	Sex	male
+John OwenIsaacs	Sex	male
+Constance RuthLeathart	Sex	female
+Elrey BorgeJeppesen	Sex	male
+Thomas EtholenSelfridge	Sex	male
+Eilmer ofMalmesbury	Sex	male
+EmilLang	Sex	male
+Nancy-BirdWalton	Sex	female
+AlfredSchreiber	Sex	male
+RobertBlackburn	Sex	male
+Horatio FrederickPhillips	Sex	male
+Skip JamesHolm	Sex	male
+Albert PaulMantz	Sex	male
+HarrietQuimby	Sex	female
+Virginus E.Clark	Sex	male
+GioraEpstein	Sex	male
+Mildred MaryBruce	Sex	female
+Suzanne "Sue"Parish	Sex	female
+Luisa Elena ContrerasMattera	Sex	female
+Amelie HedwigBeese	Sex	female
+Charles FranklinKettering	Sex	male
+MaryHaizlip	Sex	female
+Juan de laCierva	Sex	male
+Mikhail VasilyevichLomonosov	Sex	male
+Nicholas E.D'Apuzzo	Sex	male
+Hugh OswaldShort	Sex	male
+Lewis AlonzoYancey	Sex	male
+Leroy Randle "Roy"Grumman	Sex	male
+George Edward HenryMcElroy	Sex	male
+MarcelLobelle	Sex	male
+Antoine Marie Jean-Baptiste deSaint-Exupéry	Sex	male
+ReinholdPoss	Sex	male
+OlegAntonov	Sex	male
+EgonScheibe	Sex	male
+Eric Cecil GordonEngland	Sex	male
+NadiaRusso	Sex	female
+WangZheng	Sex	female
+BurtRutan	Sex	male
+María AsunciónCalcaño	Sex	female
+Glenn HammondCurtiss	Sex	male
+GustavOtto	Sex	male
+Walter HerschelBeech	Sex	male
+Jeanne Aline (Jane)Herveu	Sex	female
+WalterHorten	Sex	male
+EnricoForlanini	Sex	male
+IstvánFejes	Sex	male
+William BarnardRhodes-Moorhouse	Sex	male
+Gerard FreebairnVultee	Sex	male
+HugoJunkers	Sex	male
+John Theodore CuthbertMoore-Brabazon	Sex	male
+ArtChester	Sex	male
+MarcBirkigt	Sex	male
+Willard FrederickRockwell, Sr.	Sex	male
+JacquesSchneider	Sex	male
+Clive RobertsonCaldwell	Sex	male
+Tubal ClaudeRyan	Sex	male
+BettySkelton	Sex	female
+Richard TravisWhitcomb	Sex	male
+FrigyesHefty	Sex	male
+Charles Humphrey KingsmanEdmonds	Sex	male
+Alexander MartinLippisch	Sex	male
+HeinrichLübbe	Sex	male
+Denys CorbettWilson	Sex	male
+Dale EdwardKlapmeier	Sex	male
+Newby OdellBrantly	Sex	male
+Tom CampbellBlack	Sex	male
+Susana FerrariBillinghurst	Sex	female
+GeorgesGuynemer	Sex	male
+Nevil ShuteNorway	Sex	male
+Ernest KelloggGann	Sex	male
+William ThomasPiper Sr.	Sex	male
+GabriellaAngelini	Sex	female
+Grover ClevelandLoening	Sex	male
+FrancescoBaracca	Sex	male
+Alvin MelvinJohnston	Sex	male
+Beverly LynnBurns	Sex	female
+Robert Lee "Hoot"Gibson	Sex	male
+JosephCosta	Sex	male
+JohnGlenn	Sex	male
+Clyde EdwardPangborn	Sex	male
+GerdAchgelis	Sex	male
+RoaldDahl	Sex	male
+KurtWelter	Sex	male
+Charles AugustusLindbergh	Sex	male
+AlfredComte	Sex	male
+FrederikKoolhoven	Sex	male
+Alexander Nikolaievich Prokofievde Seversky	Sex	male
+Jacob Christian HansenEllehammer	Sex	male
+Dandridge MacFarlanCole	Sex	male
+SharifahCzarena	Sex	female
+GyörgyJendrassik	Sex	male
+Gustav Jules EugeneBlondeau	Sex	male
+Raymonde deLaroche	Sex	female
+Gustave AlbinWhitehead	Sex	male
+Wesley "Lee"Behel	Sex	male
+RogerAdam	Sex	male
+HannesArch	Sex	male
+Maximilian John LudwickWeston	Sex	male
+IngridPedersen	Sex	female
+RaffaeleConflenti	Sex	male
+MickyAxton	Sex	female
+Walter J.Carr	Sex	male
+John JosephMontgomery	Sex	male
+Czesław MichałZbierański	Sex	male
+HansSeidemann	Sex	male
+Jean-PierreBlanchard	Sex	male
+Amelia RoseEarhart	Sex	female
+Bessica FaithRaiche	Sex	female
+Igor VasilevichBensen	Sex	male
+LelandSnow	Sex	male
+Frederick SidneyCotton	Sex	male
+ÉdouardJoly	Sex	male
+MatoDukovac	Sex	male
+TiborTobak	Sex	male
+Charles Eugène Jules MarieNungesser	Sex	male
+RuthElder	Sex	female
+Jill ElaineBrown	Sex	female
+Donald ArthurLuscombe	Sex	male
+JamesValentine	Sex	male
+NigelLamb	Sex	male
+Albin KasperLongren	Sex	male
+TheodorOsterkamp	Sex	male
+TamarAriel	Sex	female
+Calbraith PerryRodgers	Sex	male
+Iris Louise McPhetridgeThaden	Sex	female
+Richard EvelynByrd	Sex	male
+BrunoLoerzer	Sex	male
+Ruth LawOliver	Sex	female
+CromwellDixon	Sex	male
+Allen H.Meyers	Sex	male
+Howard RobardHughes	Sex	male
+Hans vonOhain	Sex	male
+Albert LeeUeltschi	Sex	male
+Willard LambVelie	Sex	male
+JenniferMurray	Sex	female
+Albrecht LudwigBerblinger	Sex	male
+AntonFlettner	Sex	male
+Manfred Albrecht Freiherr vonRichthofen	Sex	male
+Josef Carl PeterJacobs	Sex	male
+Scott DouglasAnderson	Sex	male
+ElmerSperry	Sex	male
+Ernest François (Maurice)Guillaux	Sex	male
+GiulioGavotti	Sex	male
+William EdwardBoeing	Sex	male
+Teresio VittorioMartinoli	Sex	male
+BonnieTiburzi	Sex	female
+Emil MatthewLaird	Sex	male
+EstherMbabazi	Sex	female
+Michael GeorgeGoulian	Sex	male
+AlexanderKartveli	Sex	male
+PéterBesenyei	Sex	male
+Artem IvanovichMikoyan	Sex	male
+HenriFarman	Sex	male
+MargaretRingenberg	Sex	female
+Nikolay IlyichKamov	Sex	male
+Moretta Fenton BeallReilly	Sex	female
+Ruth RowlandNichols	Sex	female
+Mario deBernardi	Sex	male
+StanisławRogalski	Sex	male
+Charles HuronKaman	Sex	male
+Francis HerbertWenham	Sex	male
+James EdgarJohnson	Sex	male
+Jeffrey KindersleyQuill	Sex	male
+SusanDarcy	Sex	female
+Oscar ColinMorison	Sex	male
+Willy EmilMesserschmitt	Sex	male
+Jens William AegidiusElling	Sex	male
+Hubert FauntleroyJulian	Sex	male
+RheinholdPlatz	Sex	male
+Henry TraceyCoxwell	Sex	male
+Evgeniya MikhailovnaShakhovskaya	Sex	female
+AugustEuler	Sex	male
+AlbertFonó	Sex	male
+JosephSadi-Lecointe	Sex	male
+MathiasRust	Sex	male
+Winifred EvelynSpooner	Sex	female
+PatFillingham	Sex	male
+TetsuzōIwamoto	Sex	male
+Louis FerdinandFerber	Sex	male
+Vera StrodlDowling	Sex	female
+Agnew EmielLarsen	Sex	male
+SophieBlanchard	Sex	female
+Lydia VissarionovnaZvereva	Sex	female
+Lowell RichardBayles	Sex	male
+GeorgesPhilippar	Sex	male
+VanceBreese	Sex	male
+Jessie MaudeMiller	Sex	female
+Chesley BurnettSullenberger	Sex	male
+Marlon DewittGreen	Sex	male
+BuzzAldrin	Sex	male
+VecihiHürkuş	Sex	male
+Hubert StandfordBroad	Sex	male
+Reginald JosephMitchell	Sex	male
+James SmithMcDonnell	Sex	male
+JerzyRudlicki	Sex	male
+MichelColomban	Sex	male
+Edwin CharlesMusick	Sex	male
+Fritz OttoBernert	Sex	male
+AngelaMasson	Sex	female
+Shivkar BāpujTalpade	Sex	male
+Aida deAcosta	Sex	female
+Vladimir KonstantinovichKokkinaki	Sex	male
+OrvilleWright	Sex	male
+KurtWintgens	Sex	male
+John H.Livingston	Sex	male
+RenéGrandjean	Sex	male
+NicolaScaife	Sex	female
+WolfgangSpäte	Sex	male
+DagobertoGodoy	Sex	male
+Alan LeeKlapmeier	Sex	male
+Wilfrid ReidMay	Sex	male
+Jules Charles ToussaintVédrines	Sex	male
+Igor IvanovichSikorsky	Sex	male
+Sizakele Petunia (Siza)Mzimela	Sex	female
+HenriFabre	Sex	male
+Harry MethuenSchofield	Sex	male
+Hiram StevensMaxim	Sex	male
+Eula "Pearl"Carter Scott	Sex	female
+Jean-François Pilâtre deRozier	Sex	male
+Albert ScottCrossfield	Sex	male
+OswaldBoelcke	Sex	male
+Richard HaroldBarnwell	Sex	male
+Keith MacphersonSmith	Sex	male
